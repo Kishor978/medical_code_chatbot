@@ -1,0 +1,10 @@
+97152 – BEHAVIOR IDENTIFICATION SUPPORTING 
+ASSESSMENTS
+• Q: Does the descriptor for 97152 indicate that technicians can perform assessments 
+independently? 
+• A: No. This code is for reporting supplemental assessments conducted by the technician that the 
+QHP determines are needed to develop the treatment plan or progress report (see code 
+97151).  Additionally, as indicated in the clinical example, the QHP reviews the assessment 
+procedures with the technician and has the technician practice recording data.  That may occur 
+on the day of an assessment session with a patient or several days leading up to the session(s).  
+That work by the QHP is bundled into the value of code 97152 and is not reported separately.

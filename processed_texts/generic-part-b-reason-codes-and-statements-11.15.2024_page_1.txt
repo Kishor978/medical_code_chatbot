@@ -1,0 +1,45 @@
+Generic Part B Reason Codes and Statements 
+November 15, 2024 
+ 
+*Updated and/or new codes can be found in bold italic  1 
+ 
+ 
+ 
+Reason 
+Code INSUFFICIENT DOCUMENTATION 
+GBB01 The requested records were not received.  Refer to 42 CFR 424.5(a)(6), Social Security 
+Act 1862(a)(1)(A), Social Security Act 1833(e).  
+GBB02 The documentation submitted was incomplete and/or insufficient.  Refer to 42 CFR 
+424.5(a)(6), Social Security Act 1862(a)(1)(A), Social Security Act 1833(e). 
+GBB03 
+The documentation submitted does not support services were rendered as billed. Refer 
+to IOM-Pub 100-08, Medicare Program Integrity Manual, Chapter 3, Section 3.6.2.5, 
+A 
+GBB04 The documentation submitted did not include a physician order.  Refer to IOM, Pub 
+100-08, Chapter 3, Section 3.6.2.2 
+GBB05 
+The documentation submitted was missing patient identifiers.  Refer to Standards for 
+Adequacy of Medical Records; Section 1833 (e), Title XVIII, of the Social Security 
+Act. 
+GBB06 The documentation submitted was for the incorrect date of service.  Refer to Medicare 
+Program Integrity Manual Chapter 3, Section 3.6.2.2 
+GBB07 
+The documentation submitted does not support the modifiers billed.  Refer to Medicare 
+Program Integrity Manual Chapter 3, IOM Pub 100-04, Medicare Claims Processing 
+Manual Chapter 1 
+GBB08 
+The Advanced Beneficiary Notice (ABN) of Noncoverage is invalid, incomplete or 
+missing.  Refer to Internet Only Manual, Pub 100-04, Medicare Claims Processing 
+Manual, Chapter 30, Section 50 
+GBB09 
+The documentation submitted was for the incorrect beneficiary.  Refer to Social 
+Security Act 1833€, 1862(a)(1)(A) Internet Only Manual, Pub 100-08, Medicare 
+Program Integrity Manual, Chapter 3, Section 3.2.3.8, 3.6.2.2. 
+GBB10 The documentation submitted is not legible.  Refer to Medicare Program Integrity 
+Manual, Chapter 3 Section 3.3.2.1 
+Reason 
+Code DUPLICATES 
+GBA01 This is a duplicate service previously submitted by the same provider.  Refer to 
+IOM, Pub 100-04, Medicare Claims Processing Manual Chapter 1 section 120-120.3 
+GBA02 This is a duplicate service previously submitted by a different provider.  Refer to 
+IOM, Pub 100-04, Medicare Claims Processing Manual Chapter 1 section 120-120.3

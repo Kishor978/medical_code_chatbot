@@ -1,0 +1,38 @@
+Rev # Issue Date Subject Impl Date CR# 
+R1910CP 02/05/2010 Type of Service (TOS) Corrections 04/05/2010 6835 
+R1873CP 12/11/2009 Place of Service (POS) and Date of Service 
+(DOS) Instructions for the Interpretation 
+(Professional Component) and Technical 
+Component of Diagnostic Tests - Rescinded 
+01/04/2010 6375 
+R1869CP 12/11/2009 New Place of Service (POS) Code for 
+Walk-in Retail Health Clinic 
+03/11/2010 6752 
+R1836CP 10/27/2009 New Physician Specialty Code for Geriatric 
+Psychiatry – Rescinded and replaced by 
+Transmittal 2003 
+04/05/2010 6533 
+R1830CP 10/16/2009 Annual Type of Service (TOS) Update 01/04/2010 6693 
+R1823CP 10/02/2009 Place of Service (POS) and Date of Service 
+(DOS) Instructions for the Interpretation 
+(Professional Component) and Technical 
+Component of Diagnostic Tests – 
+Rescinded and replaced by Transmittal 
+1873 
+01/04/2010 6375 
+R1806CP 08/28/2009 October 2009 Update to the Ambulatory 
+Surgical Center (ASC) Payment System; 
+Summary of Payment Policy Changes 
+10/05/2009 6629 
+R1725CP 05/01/2009 Requirements for Specialty Codes 07/06/2009 6303 
+R1715CP 04/24/2009 New Physician Specialty Code for Hospice 
+and Palliative Care 
+10/05/2009 6311 
+R1686CP 02/20/2009 New Non-Physician Practitioner Specialty 
+Code for Speech Language Pathologists 
+07/06/2009 6292 
+R1638CP 11/20/2008 Annual Type of Service (TOS) Update 01/05/2009 6272 
+R1637CP 11/14/2008 Annual Type of Service (TOS) Update - 
+Rescinded and replaced by Transmittal 
+1638 
+01/05/2009 6272

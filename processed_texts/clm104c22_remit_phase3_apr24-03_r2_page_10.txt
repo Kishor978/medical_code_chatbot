@@ -1,0 +1,35 @@
+guide for the current HIPAA compliant version of the 835 is available electronically at 
+http://www.wpc-edi.com/hipaa. 
+Although that implementation guide contains requirements for use of specific segments 
+and data elements within the segments, the guide was written for use by all health benefit 
+payers, and not specifically for Medicare.  However, a Companion Document was 
+prepared by CMS to clarify when conditional data elements and segments must be used 
+for Medicare reporting, and identify those codes and data elements that never apply to 
+Medicare and which may not be used in Medicare remittance advice transactions. 
+Section 40.5.1 is a copy of the "Medicare X12N 835 Version 4010.A.1 HIPAA 
+Companion Document." This document itemizes the Medicare requirements for use of 
+specific segments, data elements, and codes in the 835, and maps the flat file to the 
+corresponding 835 version 4010/4010.A.1  segments and data elements.  For information 
+about the structure of the X12N format (i.e., definitions of segments, loops, and elements) 
+or definitions for specific codes see the Implementation Guide. 
+When reviewing the Companion Document, keep in mind the following information 
+about loop usage (e.g., required, not used, and situational definitions).  For additional 
+information on this subject see the Implementation Guide: 
+• Loop usage within ASC X12 transactions and their implementation guides can be 
+confusing.  Care must be used to read the loop requirements in terms of the 
+context or location within the transaction.  The usage designator of a loop's 
+beginning segment indicates the usage of the loop.  Segments within a loop 
+cannot be sent without the beginning segment of that loop. 
+• If the first segment is Required, the loop must occur at least once unless it is 
+nested in a loop that is not being used.  A note on the Required first segment of a 
+nested loop will indicate dependency on the higher-level loop. 
+• If the first segment is Situational, there will be a Segment Note addressing use of 
+the loop.  Any required segments in loops beginning with a Situational segment 
+only occur when the loop is used.  Similarly, nested loops only occur when the 
+higher-level loop is used. 
+40.5.1 - Medicare 835 HIPAA Companion Document - Intermediaries 
+(Rev.) 
+AB-02-067, A-02-070, AB-01-149, AB-01-159, AB-01-79, A-03-005 
+This companion document supplements, but does not contradict any requirements in the 
+835 version 4010.A.1 implementation guide. 
+ 10

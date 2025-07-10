@@ -1,0 +1,18 @@
+Generic Part B Reason Codes and Statements 
+November 15, 2024 
+ 
+*Updated and/or new codes can be found in bold italic  8 
+ 
+GEX11 The NPI on the cover sheet received is missing or invalid. 
+GEX12 The state where services were provided is missing or invalid on the cover sheet 
+received.  
+GEX13 The Medicare ID on the cover sheet received is missing or invalid.  
+GEX14 The billed amount on the cover sheet received is missing or invalid.  
+GEX15 The contact phone number on the cover sheet received is missing or invalid. 
+GEX16 The Beneficiary name on the cover sheet received is missing or invalid 
+GEX17 The Claim number on the cover sheet received is missing or invalid 
+GEX18 The ACN on the coversheet received is missing or invalid 
+GEX19 
+(Effective 
+10/01/2021) 
+Provider is exempted from submitting this PA request

@@ -1,0 +1,39 @@
+associated business under the same corporate umbrella for supplemental services 
+or software; 
+• Contractors send the 835 to providers over a wire connection.  They do not use 
+tapes or diskettes; 
+• Intermediaries allow providers to receive a hard copy remittance in addition to the 
+835 during the first 30 days of receiving ERAs and during other testing.  After 
+that time, intermediaries do not send a hard copy version of the 835, in addition to 
+the electronic transmission, in production mode.  They should contact CMS if this 
+requirement causes undue hardship on a particular intermediary provider; 
+• Contractors may release an ERA prior to the payment date, but never later than 
+the payment date; 
+• Ensure that their provider file accommodates the data necessary to affect EFT, 
+either through use of the ACH or the 835 format.  The abbreviated 835 contains 
+no beneficiary-specific information; therefore, it may be used to initiate EFT and 
+may be carried through the banking networks. 
+• Pay the costs of transmitting EFT through their bank to the ACH.  Payees are 
+responsible for the telecommunications costs of EFT from the ACH to their bank, 
+as well as the costs of receiving 835 data once in production mode; and 
+• Provide for sufficient back-up to allow for retransmission of garbled or 
+misdirected transmissions. 
+Every X12 835 transaction issued by an intermediary or carrier/DMERC must comply 
+with the implementation guide (IG) requirements (see §40.4), i.e., each required segment 
+must be reported, each required or applicable situational data element in a required or 
+situational segment must be reported, and the data in a data element must meet the 
+minimum length and data attribute (AN, ID, R, etc.) specifications in the implementation 
+guide. 
+Back end validation must be performed to ensure that these conditions are met.  Carriers, 
+DMERCs, and intermediaries are not required to validate codes maintained by their 
+standard systems, such as Healthcare Common Procedure Coding System (HCPCS), that 
+are issued in their standard system's flat file for use in the body of an 835, but they are 
+required to validate data in the 835 envelope as well as the codes that they maintain, such 
+as claim adjustment reason codes, that are reported in the 835.  Medicare contractors do 
+not need to re-edit codes or other data validated during the claim adjudication process 
+during this back end validation.  Valid codes are to be used in the flat file, unless: 
+• A service is being denied or rejected using an 835 for submission of an invalid 
+code, in which case the invalid code must be reported on the 835; 
+• A code was valid when received, but was discontinued by the time the 835 is 
+issued, in which case, the received code must be reported on the 835; or 
+ 6

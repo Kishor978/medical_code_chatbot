@@ -1,0 +1,45 @@
+Indicator Code Set 
+9 ICD-9-CM diagnosis 
+0 ICD-10-CM diagnosis 
+ 
+Enter the indicator as a single digit between the vertical, dotted lines. 
+ 
+• Do not report both ICD-9-CM and ICD-10-CM codes on the same claim form.  If 
+there are services you wish to report that occurred on dates when ICD-9-CM 
+codes were in effect, and others that occurred on dates when ICD-10-CM codes 
+were in effect, then send separate claims such that you report only ICD-9-CM or 
+only ICD-10-CM codes on the claim.  (See special considerations for spans of 
+dates below.) 
+ 
+• If you are submitting a claim with a span of dates for a service, use the “from” 
+date to determine which ICD code set to use. 
+ 
+• Enter up to 12 diagnosis codes.  Note that this information appears opposite lines 
+with letters A-L.  Relate lines A- L to the lines of service in 24E by the letter of 
+the line.  Use the highest level of specificity.  Do not provide narrative description 
+in this field. 
+ 
+• Do not insert a period in the ICD-9-CM or ICD-10-CM code. 
+ 
+Item 22 - Leave blank.  Not required by Medicare. 
+ 
+Item 23 - Enter the Quality Improvement Organization (QIO) prior authorization number 
+for those procedures requiring QIO prior approval. 
+ 
+Enter the Investigational Device Exemption (IDE) number when an investigational 
+device is used in an FDA-approved clinical trial.  Post Market Approval number should 
+also be placed here when applicable. 
+ 
+For physicians performing care plan oversight services, enter the NPI of the home health 
+agency (HHA) or hospice when CPT code G0181 (HH) or G0182 (Hospice) is billed. 
+ 
+Enter the 10-digit Clinical Laboratory Improvement Act (CLIA) certification number for 
+laboratory services billed by an entity performing CLIA covered procedures. 
+ 
+For ambulance claims, enter the ZIP code of the loaded ambulance trip’s point-of-pickup. 
+ 
+NOTE:  Item 23 can contain only one condition.  Any additional conditions should be 
+reported on a separate CMS-1500 claim form. 
+ 
+Item 24 - The six service lines in section 24 have been divided horizontally to 
+accommodate submission of supplemental information to support the billed service.  The

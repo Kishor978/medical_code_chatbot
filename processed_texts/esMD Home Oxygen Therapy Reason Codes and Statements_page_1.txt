@@ -1,0 +1,47 @@
+Home Oxygen Therapy Reason Codes and Statements  
+August 18, 2023 
+ 
+1 
+ 
+ 
+ 
+Reason 
+Code GROUP II 
+OX100 
+The medical record documentation does not demonstrate a qualifying Group II arterial 
+PO2 of 56-59 mm Hg or an arterial blood oxygen saturation at or below 89 percent. 
+Refer to National Coverage Determination 240.2 & Local Coverage Determination 
+L33797. 
+OX101 
+The medical record documentation contains a qualifying saturation for Group II, 
+however the medical records do not support the presence of any qualifying conditions. 
+Refer to National Coverage Determination 240.2 & Local Coverage Determination 
+L33797. 
+OX102 
+The medical record documentation does not include evaluation and documentation of a 
+repeat qualifying blood gas test by the treating practitioner between the 61st and 90th 
+days after initiation of Group II therapy. Refer to Code of Federal Regulations 
+1834(a)(5) & Policy Article A52514. 
+ 
+Reason 
+Code GROUP III 
+OX200 
+For Group III, the medical record documentation does not support there is an absence 
+of hypoxemia defined in Group I and Group II. Refer to Local Coverage Determination 
+L33797. 
+OX201 
+For Group III, the medical record documentation does not support the beneficiary has a 
+medical condition with distinct physiologic, cognitive, and/or functional symptoms 
+documented in high-quality, peer-reviewed literature to be improved by oxygen 
+therapy, such as cluster headaches (not all inclusive). Refer to Local Coverage 
+Determination L33797. 
+OX202 
+The medical record documentation does not include evaluation and documentation of a 
+repeat, normoxemic, qualifying blood gas test by the treating practitioner between the 
+61st and 90th days after initiation of Group III therapy. Refer to National Coverage 
+Determination 240.2 & Policy Article A52514. 
+ 
+Reason 
+Code GROUP I 
+OX000 The medical record documentation does not support any of the Group I criteria. Refer 
+to National Coverage Determination 240.2 & Local Coverage Determination L33797.

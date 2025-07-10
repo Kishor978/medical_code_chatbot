@@ -1,0 +1,50 @@
+Code Physician Specialty 
+82 Hematology 
+83 Hematology/Oncology 
+84 Preventive Medicine 
+85 Maxillofacial Surgery 
+86 Neuropsychiatry 
+90 Medical Oncology 
+91 Surgical Oncology 
+92 Radiation Oncology 
+93 Emergency Medicine 
+94 Interventional Radiology 
+98 Gynecological/Oncology 
+99 Unknown Physician Specialty 
+C0 Sleep Medicine 
+C3 Interventional Cardiology 
+C5 
+C6 
+C7 
+C8 
+C9 
+Dentist 
+Hospitalist 
+Advanced Heart Failure and Transplant Cardiology 
+Medical Toxicology 
+Hematopoietic Cell Transplantation and Cellular 
+Therapy 
+D3 Medical Genetics and Genomics 
+D4 Undersea and Hyperbaric Medicine 
+         D7          Micrographic Dermatologic Surgery  
+         D8          Adult Congenital Heart Disease 
+                    E1           Marriage and Family Therapist 
+                    E2           Mental Health Counselors 
+                    E3           Dental Anesthesiology  
+                    E4           Dental Public Health  
+                    E5           Endodontics  
+                    E6           Oral and Maxillofacial Pathology  
+                    E7           Oral and Maxillofacial Radiology  
+                    E9           Oral Medicine  
+                    F1           Orofacial Pain  
+                    F2           Orthodontics and Dentofacial Orthopedics  
+                    F3           Pediatric Dentistry  
+                    F4           Periodontics  
+                    F5           Prosthodontics   
+                   F6            Epileptologists 
+ 
+10.8.3 - Nonphysician Practitioner, Supplier, and Provider Specialty 
+Codes 
+(Rev. 10124, Issued: 05-08-2020, Effective: 10-01-2020, Implementation:10-05-2020) 
+The following list of 2-digit codes and narrative describe the kind of medicine non-
+physician practitioners or other healthcare providers/suppliers practice.

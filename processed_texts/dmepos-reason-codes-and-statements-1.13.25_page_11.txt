@@ -1,0 +1,48 @@
+Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) Reason Codes and 
+Statements  
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         11 
+ 
+LLP06 
+Codes L5629, L5638, L5639, L5646, L5647, L5704, L5785, L5962, and L5980 will be 
+denied as not reasonable and necessary when billed with an initial below the knee 
+prosthesis (L5500) or a preparatory below the knee prosthesis (L5510-5530, L5540).  
+Refer to Local Coverage Determination L33787. 
+LLP07 
+Codes L5610, L5631, L5640, L5642, L5644, L5648, L5705, L5706, L5964, L5980, 
+and L5710-L5780, L5790-L5795 will be denied as not reasonable and necessary when 
+billed with an initial above the knee prosthesis (L5505) or an above the knee 
+preparatory prosthesis (L5560-5580, L5590-L5600).  Refer to Local Coverage 
+Determination L33787. 
+LLP08 The medical record documentation does not demonstrate the functional classification 
+for the prosthetic foot/feet.  Refer to Local Coverage Determination L33787. 
+LLP09 The medical record documentation does not demonstrate the functional classification 
+for the prosthetic knee(s).  Refer to Local Coverage Determination L33787. 
+LLP10 
+With the exception of items described by specific HCPCS codes, there should be no 
+separate billing and there is no separate payment for a component or feature of a 
+microprocessor controlled knee, including but not limited to real time gait analysis, 
+continuous gait assessment, or electronically controlled static stance regulator. Refer to 
+the Benefit Policy Manual Pub 100-02 Chapter 15. 
+LLP11 
+The medical record documentation does not indicate replacement of a prosthesis or 
+prosthetic component due to 1. A change in the physiological condition of the 
+beneficiary; or 2. Irreparable wear of the device or a part of the device; or 3. The 
+condition of the device, or part of the device, requires repairs and the cost of such 
+repairs would be more than 60% of the cost of a replacement device, or of the part 
+being replaced. Refer to the Social Security Act 1834(h)(1)(G). 
+LLP12 
+The physician’s order does not indicate replacement of a prosthesis or prosthetic 
+component due to 1. A change in the physiological condition of the beneficiary; or 2. 
+Irreparable wear of the device or a part of the device; or 3. The condition of the device, 
+or part of the device, requires repairs and the cost of such repairs would be more than 
+60% of the cost of a replacement device, or of the part being replaced.   Refer to the 
+Benefit Policy Manual Pub 100-02 Chapter 15. 
+LLP13 
+Payment for a prosthesis described by codes L5000-L5020, L5400-L5460, L5987, and 
+L8400 - L8480 is included in the payment to a Skilled Nursing Facility (SNF).  Refer 
+to Social Security Act 1861(n) and Local Coverage Article A52496. 
+ 
+Reason 
+Code LOWER LIMB PROSTHETICS (FUTURE USE)

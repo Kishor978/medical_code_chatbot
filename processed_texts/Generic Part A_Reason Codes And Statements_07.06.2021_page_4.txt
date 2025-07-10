@@ -1,0 +1,54 @@
+Generic Part A Reason Codes and Statements 
+Updated July 6, 2021  
+ 
+4 
+ 
+Reason 
+Code Incomplete/Incorrect Claim Information 
+GAL01 Claim did not contain a valid NPI.  Refer to Internet-Only Manual, Pub 100-
+04, Medicare Claims Processing Manual, Chapter 1, Section 70.8.8.6, 80.3.1 
+GAL02 
+Documentation supports the provider was ineligible for payment at the time 
+the service was rendered.  Refer to Internet-Only Manual, Pub 100-08, 
+Medicare Program Integrity Manual, Chapter 3, Section 3.6.2.5 B; 42 CFR Â§ 
+424.5(a)(2) 
+GAL03 
+Services should have been billed to another contractor.  Refer to Internet-Only 
+Manual, Pub 100-04, Medicare Claims Processing Manual, Chapter 1, Section 
+10 
+  
+Reason 
+Code Certification Requirements 
+GAM01 The submitted documentation did not include the required certifications. Refer 
+to Medicare Benefit Policy Manual IOM 100-02, Chapter 15, Section 220.1.3 
+GAM02    
+The documentation submitted did not include the required certifications or 
+recertifications for the SNF stay. Refer to Internet-Only Manual, Pub 100-02, 
+Medicare Benefit Policy Manual, Chapter 8, Section 40, Pub 100-01, Medicare 
+General Information, Eligibility and Entitlement Manual, Chapter 4, Section 
+40 
+GAM03 
+The documentation submitted did not include the required certifications or 
+recertifications for the inpatient psychiatric stay. Refer to Internet-Only 
+Manual, Pub 100-02, Medicare Benefit Policy Manual, Chapter 2, Section 
+30.2.1, Pub 100-01, Medicare General Information, Eligibility and Entitlement 
+Manual, Chapter 4, Section 10.9 
+  
+Reason 
+Code Miscellaneous Statements 
+GAN01 
+No medical record documentation was received. Refer to Internet-only Manual 
+Pub 100-08, Chapter 3, Section 3.2.3.8, 42 CFR 424.5(a)(6) and Social 
+Security Act Title XVIII, Section 1815(a), 1833(e), and 1862(a)(1)(A). 
+  
+Reason 
+Code 
+Administrative 
+(for transmission via eSMD) 
+GEX01 The file is corrupt and/or cannot be read 
+GEX02 The submission was sent to the incorrect review contractor 
+GEX03 A virus was found 
+GEX04 Other 
+GEX05 The system used to retrieve the Subscriber/Insured details using the given MBI 
+is temporarily unavailable. 
+GEX06 The documentation submitted is incomplete

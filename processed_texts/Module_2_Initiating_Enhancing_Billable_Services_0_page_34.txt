@@ -1,0 +1,2 @@
+-A Payment Posting Clerk must be able to spot trends and issues hidden in the payment amounts and EOB comments. 
+34

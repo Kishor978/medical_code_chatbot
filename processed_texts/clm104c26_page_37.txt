@@ -1,0 +1,46 @@
+POS code 21, for inpatient hospital, is correct.  In this example, the POS code reflects a 
+different setting than the address and ZIP code of the practice location (the physician’s 
+office).  
+ 
+For MPFS payment purposes the determinant of payment is the locality where the 
+physician or supplier furnished the service.  Medicare has both facility and non-facility 
+designations for services paid under the physician fee schedule.  In accordance with 
+Chapter 1, Section 10.1.1 (Payment Jurisdiction Among Local Medicare Administrative 
+Contractors (MACs) for Services Paid Under the Physician Fee Schedule and Anesthesia 
+Services) of this manual, the jurisdiction for processing a request for payment for services 
+paid under the MPFS is governed by the payment locality where the physician or supplier 
+furnished the service and will be based on the ZIP code.  CMS requires that the address 
+and ZIP code of the physician’s practice location be placed on the claim form in order to 
+determine the appropriate locality -- item 32 on the paper claim Form CMS 1500 or in the 
+corresponding loop on its electronic equivalent. 
+ 
+For specific POS instructions and determination of the applicable payment locality for the 
+PC (professional interpretation) and the TC of diagnostic tests see chapter 13, section 150 
+of this manual.  For general policy on POS code assignment, see chapter 12, section 
+20.4.2 of this manual regarding the site of service payment differential under MPFS.  
+ 
+If the physician bills for lab services performed in his/her office, the POS code for 
+"Office" is shown.  If the physician bills for a lab test furnished by another physician, 
+who maintains a lab in his/her office, the code for "Other" is shown.  If the physician bills 
+for a lab service furnished by an independent lab, the code for "Independent Laboratory" 
+is used.  Items 21 and 22 on the Form CMS-1500 must be completed for all laboratory 
+work performed outside a physician's office.  If an independent lab bills, the place where 
+the sample was taken is shown.  An independent laboratory taking a sample in its 
+laboratory shows "81" as place of service.  If an independent laboratory bills for a test on 
+a sample drawn on an inpatient or outpatient of a hospital, it uses the code for the 
+inpatient (POS code 21), off campus-outpatient hospital (POS code 19), or on campus-
+outpatient hospital (POS code 22), respectively. 
+ 
+For hospital visits by physicians, presume, in the absence of evidence to the contrary, that 
+visits billed for were made.  However, review a sample of physician's records when there 
+are questionable patterns of utilization.  Confirm these visits where the medical facts do 
+not support the frequency of the physician's visits or in cases of beneficiary complaints.  
+ 
+If questioning whether the visit had been made, ascertain whether the physician's own 
+entry is in the patient's record at the provider.  Accept an entry where the nurses' notes 
+indicate that the physician saw the patient on a given day.  A statement by the beneficiary 
+is also acceptable documentation if it was made close to the alleged date of the visit.  
+Entries in the physician's records represent possible secondary evidence. However, these 
+are of less value since they are self-serving statements.  Exercise judgment regarding 
+their authenticity.  The policy requiring daily physician visits is not conclusive if, in the 
+individual case, the facts did not support a finding that daily visits were made.

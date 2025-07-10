@@ -1,0 +1,52 @@
+Home Blood Glucose Monitoring Reason Codes and Statements 
+January 4, 2024 
+ 
+3 
+ 
+GL031 
+The medical record documentation does not support the beneficiary has a history of 
+one level 3 hypoglycemic event (glucose <54mg/dL (3.0mmol/L)) characterized by 
+altered mental and/or physical state requiring third-party assistance for treatment of 
+hypoglycemia. Refer to Local Coverage Determination L33822 & Policy Article 
+A52464. 
+GL032 
+The medical record documentation does not support the glucose values for the 
+qualifying hypoglycemic event, Classification of the hypoglycemic episode as level 3 
+event, or a copy of the beneficiary’s blood glucose monitor (BGM) testing log into the 
+medical record reflecting the specific qualifying event. Refer to Local Coverage 
+Determination L33822 & Policy Article A52464. 
+GL033 
+The medical record documentation does not support an indication the beneficiary 
+required third party assistance for treatment of level 3 hypoglycemic event. Refer to 
+Local Coverage Determination L33822 & Policy Article A52464. 
+ 
+Reason 
+Code MISCELLANEOUS 
+GL000 More than one spring powered device (A4258) per six months is not reasonable and 
+necessary. Refer to Local Coverage Determination L33822 & Policy Article A52464. 
+GL015 
+Alcohol or peroxide (codes A4244, A4245), betadine or hexachlorophene (pHisohex) 
+(codes A4246, A4247) are noncovered since these items are not required for the proper 
+functioning of the device. Refer to Local Coverage Determination L33822 & Policy 
+Article A52464. 
+GL016 
+Urine test reagent strips or tablets (A4250) are non-covered as they are not used with a 
+glucose monitor. Refer to Local Coverage Determination L33822 & Policy Article 
+A52464. 
+GL017 
+Reflectance colorimeter devices used for measuring blood glucose levels in clinical 
+settings are not covered as durable medical equipment for use in the home because 
+their need for frequent professional re-calibration makes them unsuitable for home use. 
+Refer to Local Coverage Determination L33822 & Policy Article A52464. 
+GL018 
+Glucose monitors that are not designed for use in the home must be coded A9270 and 
+will be denied as statutorily non-covered (no benefit category). Refer to Local 
+Coverage Determination L33822 & Policy Article A52464. 
+GL019 
+Home blood glucose disposable monitor, including test strips (code A9275) is 
+noncovered because these monitors do not meet the definition of DME. Refer to Local 
+Coverage Determination L33822 & Policy Article A52464. 
+GL023 
+Lancets, reagent strips, and other supplies necessary for the proper functioning of the 
+device are also covered for patients for whom the device is indicated. There is no 
+glucose monitor in the Medicare claims history and the narrative is missing, the claim

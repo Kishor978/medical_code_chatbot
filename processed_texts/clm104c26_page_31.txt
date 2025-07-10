@@ -1,0 +1,52 @@
+POS Code and Name (effective date) 
+Description 
+Payment Rate 
+Facility=F 
+Nonfacility=NF 
+66 Programs of All-Inclusive Care for the Elderly (PACE) Center 
+ 
+A facility or location providing comprehensive medical and social services as 
+part of the Programs of All-Inclusive Care for the Elderly (PACE).  This 
+includes, but is not limited to, primary care; social work services; restorative 
+therapies, including physical and occupational therapy; personal care and 
+supportive services; nutritional counseling; recreational therapy; and meals 
+when the individual is enrolled in PACE. 
+Not applicable for 
+adjudication of 
+Medicare claims; 
+systems must 
+recognize for HIPAA 
+67-70 Unassigned -- 
+71 State or Local Public Health Clinic 
+ 
+A facility maintained by either State or local health departments that 
+provides ambulatory primary medical care under the general direction of a 
+physician. 
+NF 
+72 Rural Health Clinic 
+ 
+A certified facility which is located in a rural medically underserved area 
+that provides ambulatory primary medical care under the general direction 
+of a physician. 
+NF 
+73-80 Unassigned -- 
+81 Independent Laboratory 
+ 
+A laboratory certified to perform diagnostic and/or clinical tests independent 
+of an institution or a physician's office. 
+NF 
+82-98 Unassigned -- 
+99 Other Place of Service 
+ 
+Other place of service not identified above. 
+NF 
+ 
+The Medicare contractor can provide guidance regarding which code 
+applies in cases where the appropriate POS code may be unclear. 
+ 
+• Special Considerations for Telehealth Claims (Codes 02, 10) 
+ 
+Beginning in CY 2024, practitioners may receive either the facility or the 
+non-facility payment rate for an otherwise eligible Medicare telehealth 
+service, depending on whether the billing practitioner selects POS code 02 or 
+POS code 10. The only two valid POS codes for Medicare telehealth billing

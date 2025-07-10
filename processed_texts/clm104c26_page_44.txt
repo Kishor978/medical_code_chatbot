@@ -1,0 +1,45 @@
+Code Non-physician Practitioner/Supplier/Provider Specialty 
+15 Speech Language Pathologists 
+31 Intensive Cardiac Rehabilitation 
+32 Anesthesiologist Assistant 
+42 Certified Nurse Midwife (effective July 1, 1988) 
+43 Certified Registered Nurse Anesthetist (CRNA) 
+45 Mammography Screening Center 
+47 Independent Diagnostic Testing Facility (IDTF) 
+49 Ambulatory Surgical Center 
+50 Nurse Practitioner 
+51 Medical supply company with orthotic personnel certified by an 
+accrediting organization 
+52 Medical supply company with prosthetic personnel certified by an 
+accrediting organization 
+53 Medical supply company with prosthetic/orthotic personnel certified by an 
+accrediting organization 
+54 Medical supply company not included in 51, 52, or 53 
+55 Individual orthotic personnel certified by an accrediting organization 
+56 Individual prosthetic personnel certified by an accrediting organization 
+57 Individual prosthetic/orthotic personnel certified by an accrediting 
+organization 
+58 Medical Supply Company with registered pharmacist 
+59 Ambulance Service Supplier, e.g., private ambulance companies, funeral 
+homes 
+60 Public Health or Welfare Agencies (Federal, State, and local) 
+61 Voluntary Health or Charitable Agencies (e.g., National Cancer Society, 
+National Heart Association, Catholic Charities) 
+62 Psychologist (Billing Independently) 
+63 Portable X-Ray Supplier (Billing Independently) 
+64 Audiologist (Billing Independently) 
+65 Physical Therapist in Private Practice 
+67 Occupational Therapist in Private Practice 
+68 Clinical Psychologist 
+69 Clinical Laboratory (Billing Independently) 
+71 Registered Dietician/Nutrition Professional 
+73 Mass Immunization Roster Billers (Mass Immunizers have to roster bill 
+assigned claims and can only bill for immunizations) 
+74 Radiation Therapy Centers 
+75 Slide Preparation Facilities 
+80 Licensed Clinical Social Worker 
+87 All other suppliers, e.g., Drug Stores 
+88 Unknown Provider 
+89 Certified Clinical Nurse Specialist 
+95 Unknown Supplier 
+96 Optician

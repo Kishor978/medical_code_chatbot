@@ -1,0 +1,34 @@
+REF (120.B) Situational, but will be required for Medicare to report the Taxpayer 
+Identification Number (TIN) when the National Payer Identifier (NPI) is effective.  The 
+TIN will be reported in N104 until that date. 
+REF01  Required.  Always enter “TJ” in this loop when the NPI is effective.  Prior 
+to that date, use PQ (Payee Identification) for Medicare.  0B, 1A, 1B, 1C, 
+1D, 1E, 1F, 1G, 1H, D3, G2, and N5 do not apply to Medicare 
+intermediaries.  TJ mapped to ff record 15, field 23.  PQ mapped to ff 
+record 15, field 25. 
+REF02  Required.  TJ (TIN) mapped to ff record 15, field 24.  PQ mapped to ff 
+record 15, field 26. 
+REF03-04  Not used. 
+Table 2, Detail Data 
+LX  Situational, but required for Medicare. 
+LX01  Required.  Mapped to ff record 20, field 13. 
+TS3  Situational, but required for intermediaries when applicable. 
+TS301  Required.  Mapped to ff record 20, field 3. 
+TS302  Required.  Mapped to ff record 20, field 5. 
+TS303  Required.  Mapped to ff record 20, field 4. 
+TS304  Required.  Mapped to ff record 20, field 14. 
+TS305  Required.  Mapped to ff record 20, field 15. 
+TS306  Situational, but required for Medicare if there have been any covered 
+charges for this provider for this fiscal period.  The covered charge 
+allowable by Medicare is the submitted charge minus the noncovered 
+charges.  Mapped to ff record 20, field 16. 
+TS307  Situational, but required for Medicare if there have been any noncovered 
+charges for this provider for this fiscal period.  Mapped to ff record 20, 
+field 17. 
+TS308  Situational, but required for Medicare if there have been any denied 
+charges for this provider for this fiscal period.  Mapped to ff record 20, 
+field 18. 
+TS309  Situational, but required for Medicare if there have been any payments to 
+this provider for this fiscal period.  Includes total interest.  The amount can 
+be less than zero.  Mapped to ff record 20, field 19. 
+ 16

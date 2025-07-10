@@ -1,0 +1,45 @@
+Full Description 
+(In Order Of 
+Appearance) 
+SPR ID SPR Field Size 
+Characteristics 
+835 Location 
+Per Diem rate PER DIEM RTE N S9(7).99 2-062-AMT02 when 'DY' in prior 
+data element 
+ 
+Procedure code 
+amount 
+PROC CD AMT N S9(7).99 2-035-MOA02 
+ 
+Net reimbursement NET REIMB N S9(7).99 2-010-CLP04 
+ 
+SPR Page 3 
+ 
+SPR Claim Data    
+Cost report days DAYS COST N S9(3) Total of claim level SPR Cost 
+ 
+Covered days/visits DAYS COVDY N S9(4) Total of claim level SPR COVDY 
+ 
+Noncovered days DAYS NCOVDY N S9(4) Total of claim level SPR 
+NCOVDY 
+ 
+Covered charges CHARGES COVD N S9(7).99 Total of claim level SPR COVD 
+CHGS 
+ 
+Noncovered charges CHARGES 
+NCOVD 
+N S9(7).99 Total of claim level SPR NCOVD 
+CHGS 
+ 
+Denied charges CHARGES 
+DENIED 
+N S9(7).99 Total of claim level SPR DENIED 
+CHGS 
+ 
+Professional 
+component 
+PROF COMP N S9(7).99 Total of claim level SPR PROF 
+COMP 
+ 
+ 
+63

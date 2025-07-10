@@ -1,0 +1,38 @@
+f. If DME, oxygen or prosthetics/orthotics is paid, Intermediaries report in a 
+separate loop(s), and enter the allowed amount for the service in 2-110.A-
+AMT. 
+4. If PRICER determines that a cost outlier is payable for the claim, Intermediaries 
+report the amount PRICER determines payable in a claim adjustment reason code 
+segment (2-020-CAS) with reason code '70' (cost outlier) and a negative amount 
+to reflect additional payment supplementing the usual allowed rate. 
+5. If insufficient funds are due the provider to satisfy the withholding created in step 
+2 above, Intermediaries carry the outstanding balance forward to the next 
+remittance advice by entering 'BF' (Balance Forward) in the next available 
+provider adjustment reason code data element in 3-010-PLB.  They report the 
+amount carried forward as a negative amount. 
+70.6 - 835 Version 3051.4A.01 Line Level Reporting Requirements for 
+the Claim Payment in an Episode (Four or Fewer Visits) 
+(Rev.) 
+A3-3753 
+1. Interm ediaries follow §70.5 steps 1-2. 
+2. Now that the first payment has been reversed, Intermediaries pay and report the 
+claim on a per visit basis rather than on a prospective basis.  They enter HC in 2-
+070-SVC01-01, the HCPCS for the visit(s) in 2-070-SVC01-02, submitted charge 
+in SVC02, the paid amount in SVC03, appropriate revenue code (other than 0023) 
+in SVC04, the number of visits paid in SVC05, the billed HCPCS if different than 
+the paid HCPCS in SVC06, and the billed number of visits if different from the 
+paid number of visits in SVC07. 
+3. Intermediaries report the applicable service dates and any adjustments in the 
+DTM and CAS segments. 
+4. The 2-100-REF segments do not apply to per visit payments. 
+5. Intermediaries enter 'B6' in 2-110.C-AMT01 and the allowed amount for the 
+visit(s) in AMT02. 
+6. Intermediaries report the number of covered and noncovered (if applicable) visits 
+in separate loops in segment 2-120-QTY. 
+7. Intermediaries enter the appropriate appeal or other line level remark codes in 2-
+130-LQ. 
+8. If insufficient funds are due the provider to satisfy the withholding created in 
+§70.5 step 2, Intermediaries carry the outstanding balance forward to the next 
+remittance advice by entering 'BF' (Balance Forward) in the next available 
+ 
+81

@@ -1,0 +1,50 @@
+Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) Reason Codes and 
+Statements  
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         16 
+ 
+ 
+Reason 
+Code SPINAL ORTHOSES 
+OR100 
+The medical record documentation does not demonstrate the spinal orthosis is 
+indicated to reduce pain by restricting mobility of the trunk; or to facilitate healing 
+following an injury to the spine or related soft tissues; or to facilitate healing following 
+a surgical procedure on the spine or related soft tissue; or to otherwise support weak 
+spinal muscles and/or a deformed spine. Refer to Local Coverage Determination 
+L33790 and Policy Article A52500. 
+OR101 
+The medical record documentation does not demonstrate a physical characteristic 
+which requires the use of a custom fabricated orthosis instead of a prefabricated 
+orthosis.  Refer to Local Coverage Determination L33790 and Policy Article A52500. 
+OR102 
+The supplier’s record does not contain detailed documentation to support the medical 
+necessity of a custom fabricated orthoses rather than a prefabricated orthosis. Refer to 
+Local Coverage Determination L33790 and Policy Article A52500. 
+OR103 Claims history indicates same or similar durable medical equipment within the last five 
+years. Refer to Medicare Benefit Policy Manual Chapter 15, Section 110.2 (C). 
+OR104 
+Documentation does not include a detailed description of the modifications necessary 
+for the item requiring more than minimal self-adjustment by a qualified practitioner at 
+the time of fitting the orthosis orthoses. Refer to applicable Local Coverage 
+Determination/Policy Article. 
+OR105 
+The medical record documentation demonstrates the beneficiary is in a wheelchair. 
+Spinal Orthoses are not specifically designed for beneficiaries in wheelchairs.  Refer to 
+Local Coverage Determination L33790 and Policy Article A52500. 
+ 
+Reason 
+Code PMD ACCESSORIES 
+AC000 
+The documentation does not support the medical necessity for the following item(s). 
+Refer to Local Coverage Determinations policies L33789, L33792, L33312 and Local 
+Coverage Articles A52498, A52504, A52505. 
+AC001 
+This HCPCS code is included in the allowance for another submitted item. Refer to 
+Local Coverage Determinations policies L33789, L33792, L33312 and Local 
+Coverage Articles A52498, A52504, A52505. 
+AC002 
+This item is non-affirmed as the item is presumptively not medical in nature. Refer to 
+Local Coverage Determinations policies L33789, L33792, L33312 and Local 
+Coverage Articles A52498, A52504, A52505.

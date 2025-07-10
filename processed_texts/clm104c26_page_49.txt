@@ -1,0 +1,45 @@
+This form is used only by beneficiaries (or their representatives) who complete and file 
+their own claims.  It contains the patient’s comparable items of data that are on the Form 
+CMS-1500.  When the Form CMS-1490S is used, an itemized bill must be submitted 
+with the claim.  Some enrollees may want to keep the original itemized physician and 
+supplier bills for income tax or complementary insurance purposes.  Photocopies of 
+itemized bills are acceptable for Medicare deductible and payment purposes if there is no 
+evidence of alteration.  Social Security offices use the Form CMS-1490S when assisting 
+beneficiaries in filing Part B Medicare claims. 
+ 
+Although §1848(g)(4) of the Act requires physicians and suppliers to submit Part B 
+Medicare claims for services furnished on or after September 1, 1990, contractors 
+continue to accept, process, and pay for covered services submitted by beneficiaries on a 
+Form CMS-1490S if there is no clear indication that the service provider intends to file a 
+claim.  An itemized bill for services on or after September 1, 1990, which clearly 
+indicates the physician or supplier intends to file a Part B claim for the patient, may be 
+returned to the beneficiary. 
+ 
+For Medicare covered services received on or after September 1, 1990, the Form CMS-
+1490S is used by beneficiaries to submit Part B claims only if the service provider refuses 
+to do so or if one of the following situations applies: 
+ 
+• DME purchases from private sources; 
+ 
+• Cases in which a physician/supplier does not possess information essential for 
+filing an MSP claim.  Assume this is the case if the beneficiary files an MSP 
+claim and encloses the primary insurer's payment determination notice and there 
+is no indication that the service provider was asked to file but refused to do so; 
+ 
+• Services paid under the indirect payment procedure; 
+ 
+• Foreign claims; 
+ 
+• Services furnished by sanctioned physicians and suppliers which are approved for 
+payment to the beneficiary per the Program Integrity Manual (PIM); and 
+ 
+• Other unusual or unique situations that are evaluated on a case-by-case basis. 
+ 
+If the contractor approves 11 or more Form CMS-1490S claims in a calendar month for 
+services performed on or after September 1, 1990, by the same physician or supplier, 
+monitor the provider's claims submissions and take appropriate action. 
+ 
+The contractor continues to stock Form CMS-1490S and, upon request, furnish 
+beneficiaries with these forms. (Beneficiaries need these forms to file claims for services 
+that physicians/suppliers are not required to submit (e.g., services prior to September 1, 
+1990), or refuse to submit to Part B on their behalf.)

@@ -1,0 +1,46 @@
+1 
+ 
+Remittance Advice Remark Codes Related to the No Surprises Act 
+ 
+Remittance Advice Remark Codes (RARCs) may be used by plans and issuers to 
+communicate information about claims to providers and facilities, subject to state law.  
+ 
+The following RARCs related to the No Surprises Act have been approved by the RARC 
+Committee and are effective as of March 1, 2022.  
+ 
+For a complete and regularly updated list of RARCs, please see 
+https://x12.org/codes/remittance-advice-remark-codes
+.    
+ 
+The No Surprises Act Provisions that Apply to the Claim 
+RARC # RARC Text 
+N864 Alert: This claim is subject to the No Surprises Act provisions that apply to 
+emergency services.  
+N865 Alert: This claim is subject to the No Surprises Act provisions that apply to 
+nonemergency services furnished by nonparticipating providers during a 
+patient visit to a participating facility. 
+N866 Alert: This claim is subject to the No Surprises Act provisions that apply to 
+services furnished by nonparticipating providers of air ambulance 
+services. 
+ 
+How Cost Sharing Was Calculated under the No Surprises Act 
+RARC # RARC Text 
+N862 Alert:  Member cost share is in compliance with the No Surprises Act, and 
+is calculated using the lesser of the QPA or billed charge.  
+N867 Alert: Cost sharing was calculated based on a specified state law, in 
+accordance with the No Surprises Act. 
+N868 Alert: Cost sharing was calculated based on an All-Payer Model 
+Agreement, in accordance with the No Surprises Act. 
+N869 Alert: Cost sharing was calculated based on the qualifying payment 
+amount, in accordance with the No Surprises Act. 
+N870 Alert: In accordance with the No Surprises Act, cost sharing was based on 
+the billed amount because the billed amount was lower than the qualifying 
+payment amount. 
+ 
+Initial Payment Amount 
+RARC # RARC Text 
+N871 Alert: This initial payment was calculated based on a specified state law, 
+in accordance with the No Surprises Act.  
+N877 Alert: This initial payment is provided in accordance with the No Surprises 
+Act. The provider or facility may initiate open negotiation if they desire to 
+negotiate a higher out-of-network rate.

@@ -1,0 +1,52 @@
+Continuous Positive Airway Pressure (CPAP) Reason Codes and Statements 
+June 9, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         3 
+ 
+Reason 
+Code 
+4B BENE ENTERING MEDICARE 
+CP500 
+The medical record documentation does not include documentation the beneficiary had 
+a sleep test, prior to fee for service (FFS) Medicare enrollment.  Refer to Local 
+Coverage Determination L33718 & Policy Article A52467. 
+CP501 
+The medical record documentation does not include documentation the beneficiary had 
+a sleep test, prior to fee for service (FFS) Medicare enrollment that meets Medicare 
+coverage criteria in effect at the time that the beneficiary seeks Medicare coverage of 
+replacement PAP device. Refer to Local Coverage Determination L33718 & Policy 
+Article A52467. 
+CP502 
+The medical record documentation lacks support of a sleep test, prior to the 
+beneficiary’s fee for service (FFS) Medicare enrollment date. Refer to Local Coverage 
+Determination L33718. 
+CP503 
+The medical record documentation does not support the beneficiary had an in-person 
+evaluation by their treating practitioner following enrollment in fee for service (FFS) 
+Medicare and prior to replacement. Refer to Local Coverage Determination L33718 & 
+Policy Article A52467. 
+CP504 
+The medical record documentation does not support that following enrollment in fee 
+for service (FFS) Medicare, the beneficiary had an in-person evaluation 
+by their treating practitioner that documents the beneficiary has a diagnosis of 
+obstructive sleep apnea. Refer to Local Coverage Determination L33718 & Policy 
+Article A52467. 
+CP505 
+The medical record documentation does not support that following enrollment in fee 
+for service (FFS) Medicare, the beneficiary had an in-person evaluation 
+by their treating practitioner that documents that the beneficiary continues to use PAP 
+device. Refer to Local Coverage Determination L33718 & Policy Article A52467. 
+ 
+Reason 
+Code 
+5B 12 WEEK TRIAL 
+CP600 
+The medical record documentation does not address the etiology of the failure to 
+respond to PAP therapy. Refer to Local Coverage Determination L33718 & Policy 
+Article A52467. 
+CP601 The medical record documentation does not include a repeat sleep test. Refer to Local 
+Coverage Determination L33718 & Policy Article A52467. 
+CP602 
+The medical record documentation does not support the repeat sleep test occurred in a 
+facility-based setting. Refer to National Coverage Determination 240.4 & Local 
+Coverage Determination L33718.

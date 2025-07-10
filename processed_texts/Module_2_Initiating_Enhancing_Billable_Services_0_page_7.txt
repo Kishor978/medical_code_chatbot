@@ -1,0 +1,2 @@
+-Having specific policies and procedures for patient registration, insurance and benefit verification, charge capture, and claims processing is an essential step to maintaining practice viability.-Investigate and incorporate automated and software-aided insurance eligibility verification into current practice/clinic work flows.-The tracking of patient visits is essential for charge reconciliation (e.g., no shows)
+7

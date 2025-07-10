@@ -1,0 +1,51 @@
+Home Blood Glucose Monitoring Reason Codes and Statements 
+January 4, 2024 
+ 
+2 
+ 
+ 
+Reason 
+Code CONTINUOUS GLUCOSE MONITOR 
+GL013 The supply allowance is billed as one unit of service (UOS) per 30 days. Refer to 
+Local Coverage Determination L33822 & Policy Article A52464. 
+GL014 
+The medical record documentation indicates the beneficiary is only using a non-DME 
+device (i.e. smart phone, tablet). Refer to Local Coverage Determination L33822 & 
+Policy Article A52464. 
+GL020 
+The medical record documentation does not support the beneficiary had an in-person 
+or Medicare-approved telehealth visit with their treating practitioner to evaluate their 
+diabetes control and determined that criteria are met within six months prior to 
+ordering the continuous glucose monitor (CGM). Refer to Local Coverage 
+Determination L33822 & Policy Article A52464. 
+GL021 
+The medical record documentation does not support the beneficiary had an in-person 
+or Medicare-approved telehealth visit with their treating practitioner to assess 
+adherence to their continuous glucose monitor (CGM) regimen and diabetes treatment 
+plan every six months following the initial prescription of the CGM. Refer to Local 
+Coverage Determination L33822 & Policy Article A52464. 
+GL027 
+The medical record documentation does not support the beneficiary is insulin-treated 
+or has a history of problematic hypoglycemia. Refer to Local Coverage Determination 
+L33822 & Policy Article A52464. 
+GL028 
+The medical record documentation does not support the beneficiary had recurrent 
+(more than one) level 2 hypoglycemic events (glucose <54mg/dL (3.0mmol/L)) that 
+persist despite multiple (more than one) attempts to adjust medication(s) and/or modify 
+the diabetes treatment plan. Refer to Local Coverage Determination L33822 & Policy 
+Article A52464. 
+GL029 
+The medical record documentation does not support the glucose values for the 
+qualifying hypoglycemic event, classification of the hypoglycemic episode(s) as level 
+2 event(s), or a copy of the beneficiary’s blood glucose monitor (BGM) testing log into 
+the medical record reflecting the specific qualifying events. Refer to Local Coverage 
+Determination L33822 & Policy Article A52464. 
+GL030 
+The medical record does not contain documentation of more than one previous 
+medication adjustment and/or modification to the treatment plan (such as raising A1c 
+targets) prior to the most recent level two event. Refer to Local Coverage 
+Determination L33822 & Policy Article A52464. 
+GL022 
+The medical record documentation does not support the treating practitioner has 
+verified adherence to the high utilization testing regimen every six months. Refer to 
+Local Coverage Determination L33822 & Policy Article A52464.

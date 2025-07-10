@@ -1,0 +1,62 @@
+5
+MA03 If you do not agree with the approved amounts and $100 or more 
+is in dispute (less deductible and coinsurance), you may ask for a 
+hearing.  You must request a hearing within 6 months of the date 
+of this notice.  To meet the $100, you may combine amounts on 
+other claims that have been denied. This includes reopened 
+reviews if you received a revised decision.  You must appeal each 
+claim on time. At the hearing, you may present any new evidence 
+which could affect our decision. 
+ 
+An institutional provider, e.g., hospital, skilled nursing facility 
+(SNF), home health agency (HHA) or a hospice may appeal only 
+if the claim involves a reasonable and necessary denial, a SNF 
+noncertified bed denial, or a home health denial because the 
+patient was not homebound or was not in need of intermittent 
+skilled nursing services, or a hospice care denial because the 
+patient was not terminally ill, and either the patient or the 
+provider is liable under Section1879 of the Social Security Act, 
+and the patient chooses not to appeal. 
+ 
+(Modified 6/30/03) 
+MA20 Skilled nursing facility (SNF) stay not covered when care is 
+primarily related to the use of an urethral catheter for 
+convenience or the control of incontinence. 
+ 
+(Modified 6/30/03) 
+MA24 Christian science sanitarium/skill ed nursing facility (SNF) bill in 
+the same benefit period.  
+ 
+(Modified 6/30/03) 
+MA93 Non-PIP (Periodic Interim Paym ent) Claim. (Modified 6/30/03) 
+MA101 A skilled nursing facility (SNF ) is responsible for payment of 
+outside providers who furnish these services/supplies to residents. 
+ 
+(Modified 6/30/03) 
+MA106 PIP (Periodic Interim Payment) claim. 
+ 
+(Modified 6/30/03) 
+MA121 Missing/incomplete/inva lid date the x-ray was performed. (Modified 6/30/03) 
+ 
+N30 Patient ineligible for this service. (Modified 6/30/03) 
+ 
+N32 Claim must be submitted by the provider who rendered the 
+service. 
+ 
+(Modified 6/30/03) 
+N40 Missing/incomplete/invalid  x-ray. (Modified 6/30/03) 
+ 
+N69 PPS (Prospective Payment System) code changed by claims 
+processing system.  Insufficient visits or therapies. 
+ 
+(Modified 6/30/03) 
+ 
+N71 Your unassigned claim for a drug or biological, clinical 
+diagnostic laboratory services or ambulance service was 
+processed as an assigned claim. You are required by law to accept 
+assignment for these types of claims. 
+ 
+(Modified 6/30/03) 
+N72 PPS (Prospective Payment System) code changed by medical 
+reviewers.  Not supported by clinical records.  
+(Modified 6/30/03)

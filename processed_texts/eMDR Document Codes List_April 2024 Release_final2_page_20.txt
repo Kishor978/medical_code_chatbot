@@ -1,0 +1,61 @@
+eMDR Document Codes List (April 2024 Release) 
+Page 20 of 27 
+ 
+Document 
+Code 
+Document Description Action Release 
+100396 Documentation to support virtual service(s) provided: 
+Telehealth, E-Visit(s), Virtual Check-In 
+    
+100397 Standard Written Order (SWO)     
+100398 Written Order Prior to Delivery (WOPD)     
+100399 Documentation to support caregiver availability to 
+assist the beneficiary with ADLs, per LCD for the 
+DMEPOS item billed 
+    
+100400 Any other documentation supporting the hospice 
+terminal illness and related conditions, and the six-
+month terminal illness prognosis 
+    
+100401 Documentation that supports lymphedema being 
+unresponsive to other clinical treatment over the course 
+of a required four-week trial 
+    
+100402 Medical record documentation that describes in detail 
+the underlying medical condition, treatment 
+interventions, and effectiveness of the treatment 
+    
+100403 Medical record documentation that justifies the use of a 
+pump 
+    
+100404 Medical record documentation that adequately 
+describes the medical condition requiring the special 
+nutrient formula 
+    
+100405 Documentation that provides sufficient information to 
+verify the item provided was a product that has received 
+coding verification review from the PDAC and is listed 
+in the Product Classification List on the PDAC web site  
+    
+100406 Medical record documentation of knee exam with 
+objective description of joint laxity (e.g., Varus/valgus 
+instability, Lachman test, anterior/posterior Drawer test)  
+    
+100407 Documentation that supports a certified orthotist or 
+specialized trained individual performed custom fitting 
+of the item and describes the custom fitting that was 
+performed to fit the item to the individual beneficiary 
+    
+100408 Medical record documentation that describes and 
+supports other treatment(s)/medication(s) was tried and 
+failed or was considered and ruled out 
+    
+100409 Copy of the beneficiary's testing log or treating 
+practitioner's record, which adequately documents the 
+frequency at which the beneficiary is actually testing 
+blood sugar.  
+Modified Apr 
+2024 
+100410 Documentation from the treating practitioner that 
+certifies that the beneficiary has a severe impairment 
+requiring the use of the special monitoring system.

@@ -1,0 +1,58 @@
+eMDR Document Codes List (April 2024 Release) 
+Page 7 of 27 
+ 
+Document 
+Code 
+Document Description Action Release 
+100124 Documentation of presurgical conservative 
+measures/treatments  
+    
+100125 Ambulance records for the billed date of service 
+including run sheets, Physician Certification Statements 
+(PCS), Physician Medical Necessity Certification 
+(PMNC) Statements, procedures and supplies used, 
+base rate and cost per mile and any other documentation 
+to warrant transport 
+    
+100126 Medical justification for transport and/or transfer.                         
+100127 P9603 One Way Mileage      
+100128 All medical record documentation must have at least 
+two identifiers to include, at a minimum, the beneficiary 
+name and date of service. 
+Modified Apr 
+2024 
+100129 Coding query form     
+100130 Advance Beneficiary Notice of Non-Coverage 
+(ABN)/Notice of Medicare Non-Coverage (NOMNC) 
+    
+100131 Advance Beneficiary Notice     
+100132 Assignment of Benefits     
+100133 Demand bill- notice of non-coverage indicating request 
+for Medicare to review 
+    
+100134 Facility Denial Letter      
+100135 FISS Page 7 screen print/copy of ADR letter     
+100136 Hospital-issued notice of non-coverage (HINN) on file     
+100137 If an electronic health record is utilized, include your 
+facility’s process of how the electronic signature is 
+created. Include an example of how the electronic 
+signature displays once signed by the physician 
+Modified Apr 
+2024 
+100138 Local 911 Ambulance Dispatch Protocols     
+100139 Notice of non-coverage     
+100140 On the front page of each ADR please include the name 
+of a contact at your facility who is available to answer 
+questions if they arise 
+    
+100141 Beneficiary identification, date of service, and provider 
+of the service should be clearly identified on each page 
+of the submitted documentation 
+    
+100142 Pictures where necessary                                
+100143 Quality Improvement Organization (QIO) letter     
+100144 Questions related to ADR     
+100145 Revocation Statements     
+100146 Signature log or signature attestation for any missing or 
+illegible signatures within the medical record (all 
+personnel providing services)

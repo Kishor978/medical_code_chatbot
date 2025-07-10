@@ -1,0 +1,40 @@
+Generic Durable Medical Equipment (DME) Reason Codes and Statements 
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         7 
+ 
+GDW26 The documentation does not specify the procedure code of the requested item, 
+therefore eligibility for Prior Authorization cannot be determined. 
+GDW27 The requested item is not eligible for Prior Authorization. 
+GDW28 The date of the treating physician/practitioner order is prior to the implementation of 
+Prior Authorization. 
+GDW29 The documentation does not include a valid Medicare Beneficiary Identifier (MBI) 
+number. 
+GDW30 The documentation does not include a Medicare Beneficiary Identifier (MBI) number. 
+GDW31 The documentation demonstrates the requested item has been delivered and is 
+therefore not eligible for Prior Authorization. 
+GDW32 The beneficiary is excluded for Prior Authorization as there is a Representative Payee 
+on file; therefore, claims billed are not subject to the Prior Authorization program. 
+GDW33 The Prior Authorization request has been cancelled per the supplier's request 
+GDW34 The Prior Authorization resubmission does not include all required documentation. 
+GDW35 The Prior Authorization submission does not include a beneficiary name. 
+GDW36 The Prior Authorization request documentation indicates the beneficiary is deceased. 
+GDW37 A previously affirmative determination has been made on the Prior Authorized item 
+requested for this beneficiary. 
+GDW38 The Prior Authorization request coversheet does not include the ordering physician's 
+contact information.  
+GDW39 The Prior Authorization request {Explanation-of-Problem}. 
+GDW40 
+No documentation was received in response to the additional documentation request 
+(ADR) letter. Refer to Social Security Act (SSA) Title XVIII, Section 1815(a), 
+1833(e), & 1862(a)(1)(A). 
+GDW1Z The documentation contains an error not otherwise specified. 
+ 
+Reason 
+Code ABN STATEMENTS 
+GDY01 
+The GA modifier was removed as no Advance Beneficiary Notice was provided. Refer 
+to ABN Instructions & Medicare Claims Processing Manual 100-04, Chapter 30, 
+Section 50. 
+GDY02 Section A of the Advance Beneficiary Notice is not properly completed. 
+GDY03 Section B of the Advance Beneficiary Notice is not properly completed.

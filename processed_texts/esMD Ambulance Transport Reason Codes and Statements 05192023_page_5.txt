@@ -1,0 +1,47 @@
+Ambulance Transport Reason Codes and Statements  
+Updated on May 19, 2023 
+ 
+5 
+ 
+   
+Reason 
+Code LOCAL COVERAGE DETERMINATION (LCD)  
+AMB9A 
+This decision was based on a Local Coverage Determination (LCD). An LCD 
+provides a guide to assist in determining whether a particular item or service is 
+covered. A copy of this policy is available at www.cms.gov/mcd, or if you do not 
+have web access, you may contact the contractor to request a copy of the LCD.  
+AMB9B 
+Local Coverage Determinations (LCDs) help Medicare decide what is covered. An 
+LCD was used for your claim. You can compare your case to the LCD, and send 
+information from your doctor if you think it could change our decision.  
+AMB9Z Local Coverage Determination (explain identified problem)  
+   
+Reason 
+Code LOCALITY 
+AM500 
+The documentation does not support the facility was within the locality to which the 
+ambulance service would normally travel or is expected to travel to receive services. 
+Refer to Internet Only Manual (IOM), Publication 100-02, Medicare Benefit Policy 
+Manual, Chapter 10, Section 10.3.5.  
+  
+Reason 
+Code MEDICAL NECESSITY - PROVIDER LIABLE 
+AMB3A 
+Transport Not Medically Necessary and without an Advance Beneficiary Notice 
+(ABN).  Refer to Internet Only Manual, Pub 100-4, Medicare Claims Processing 
+Manual, Chapter 30, Section 50. 
+AMB3Z Medical necessity (explain identified problem)  
+AMB3F 
+The documentation does not support the ALS level of service furnished was medically 
+necessary.  The services will be allowed at a BLS level of service.  Refer to SSA 1861 
+(s)(7), 42 CFR §410.40, Internet Only Manual (IOM), Publication 100-02, Medicare 
+Benefit Policy Manual, Chapter 10, Section 10.2.2, 20, 30.1.1.  
+   
+Reason 
+Code MILES 
+AMB1I 
+The documentation does not support the mileage billed. Refer to 42 CRF §  410.41 (c), 
+Internet Only Manual (IOM), Publication 100-02, Medicare Benefit Policy Manual, 
+Chapter 10, Section 10.3, 10.4, 10.4.1, Internet Only Manual (IOM), Publication 100-
+04, Medicare Claims Processing Manual, Chapter 15, Section 20.2.

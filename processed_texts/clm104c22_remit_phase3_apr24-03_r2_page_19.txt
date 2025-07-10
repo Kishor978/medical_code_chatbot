@@ -1,0 +1,33 @@
+TS212  Situational, but required for Medicare if there have been cost report days.  
+append to ff record 21, field 24. 
+TS213  Situational, but required for Medicare if there have been covered days.  
+Mapped to ff record 21, field 25. 
+TS214  Situational, but required for Medicare if there have been any noncovered 
+days.  Mapped to ff record 21, field 26. 
+TS215  Situational, but required for Medicare if MSP pass-through amounts 
+applied.  Mapped to ff record 21, field 27. 
+TS216  Situational, but required for Medicare if DRG payments made.  Mapped to 
+ff record 21, field 28. 
+TS217  Situational, but required for Medicare if any PPS Capital FSP DRG 
+payment made.  Mapped to ff record 21, field 29. 
+TS218  Situational, but required for Medicare if any PPS capital HSP DRG 
+payment made.  Mapped to ff record 21, field 30. 
+TS219  Situational, but required for Medicare if any PPS DSH DRG payment 
+made.  Mapped to ff record 21, field 31. 
+CLP  Required. 
+CLP01  Required.  Mapped to ff record 30, field 13. 
+CLP02  Required.  Mapped to ff record 30, field 14.  (Codes 5-17, 25 and 27 do 
+not apply to Medicare.) 
+CLP03  Required.  Mapped to ff record 30, field 15. 
+CLP04  Required.  Mapped to ff record 30, field 16. 
+CLP05  Situational, but does not apply to intermediaries. 
+CLP06  Required.  Intermediaries must always enter “MA.” None of the other 835 
+codes apply to Medicare intermediaries.  Mapped to ff record 30, field 17. 
+CLP07 Situational, but required for Medicare.  Mapped to ff record 30, field 7. 
+CLP08  Situational, but required for Medicare.  Mapped to ff record 30, field 18. 
+CLP09  Situational, but required for Medicare intermediaries.  Mapped to ff record 
+30, field 19. 
+CLP10  Not used. 
+CLP11  Situational, but required for intermediaries if DRG payments made.  
+Mapped to ff record 30, field 20. 
+ 19

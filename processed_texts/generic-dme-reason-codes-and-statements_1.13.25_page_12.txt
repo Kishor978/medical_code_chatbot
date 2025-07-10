@@ -1,0 +1,9 @@
+Generic Durable Medical Equipment (DME) Reason Codes and Statements 
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         12 
+ 
+GEX19 
+(Effective 
+10/01/2021) 
+Provider is exempted from submitting this PA request

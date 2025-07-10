@@ -1,0 +1,25 @@
+33333  44444  
+55555 
+ 
+1234567890 MMDD MMDDYY   12 123   PPPPP  aabbccdd   1234567.12  1234567.12  1234567.12  1234567.12   GPRRR 1234567.12  
+1234567.12 
+                                 (PPPPP)     REM:     RRRRR       RRRRR       RRRRR       RRRRR         RRRRR         
+1234567890 MMDD MMDDYY   12 123   PPPPP  aabbccdd   1234567.12  1234567.12  1234567.12  1234567.12   GPRRR 1234567.12  
+1234567.12 
+   (PPPPP)     REM:     RRRRR       RRRRR       RRRRR       RRRRR         RRRRR        
+1234567890 MMDD MMDDYY   12 123   PPPPP  aabbccdd   1234567.12  1234567.12  1234567.12  1234567.12   GPRRR 1234567.12  
+1234567.12 
+   (PPPPP)     REM:     RRRRR       RRRRR       RRRRR       RRRRR         RRRRR 
+   
+PT RESP 1234567.12          CLAIM TOTAL     1234567.12  1234567.12  1234567.12  
+1234567.12         1234567.12  1234567.12 
+   
+ADJ TO TOTALS:  PREV PD 1234567.12     INTEREST   1234567.12     LATE FILING CHARGE  1234567.12               
+NET  1234567.12      
+          
+   
+CLAIM INFORATION FORWARDED TO:   XXXXXXXXXXXXXXXXXXXXXXX 
+_______________________________________________________________________________________________________________________
+__________                               
+ 
+56

@@ -1,0 +1,31 @@
+requirement that standard transactions be limited to reporting of valid 
+medical codes. 
+SVC01-1  Required.  Only codes HC and N4 apply to Medicare carriers.  A separate 
+loop need for each service reported. 
+SVC01-2  Required. 
+SVC01-3  Situational, but required for Medicare if HC applies and at least one 
+modifier was reported on the claim for the service. 
+SVC01-4  Situational, but required for Medicare if HC applies and a second modifier 
+was reported on the claim for the service. 
+SVC01-5  Situational, but required for Medicare if HC applies and a third modifier 
+was reported on the claim for the service. 
+SVC01-6  Situational, but required for Medicare if HC applies and a fourth modifier 
+was reported on the claim for the service. 
+SVC01-7  Situational, but text language may not be reported for Medicare on a 
+remittance advice. 
+SVC02  Required. 
+SVC03  Required. 
+SVC04  Situational, but does not apply to carriers. 
+SVC05  Situational, but required for carriers. 
+SVC06-1  Situational, but required if the procedure or drug code has been changed 
+during adjudication.  Only HC and N4 apply to Medicare carriers. 
+SVC06-2  Situational, but required if the procedure or drug code has been changed 
+during adjudication. 
+SVC06-3--7  Situational, but required for Medicare if modifiers are changed. 
+SVC07  Situational, but required for Medicare if the paid units of service is 
+different than the billed units of service. 
+DTM (080)  Situational, but required for Medicare. 
+DTM01  Required. 
+DTM02  Required. 
+DTM03-06  Not used. 
+ 43

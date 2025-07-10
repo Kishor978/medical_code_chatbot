@@ -1,0 +1,48 @@
+Deactivated Remark Codes 
+ 
+ 
+Code      Current Narrative                  Deactivation Date 
+ 
+M35 Missing/incomplete/invalid pre-operative photos or visual field 
+results. 
+(Modified 2/28/03) 
+Deactivated eff. 2/5/05 
+Refer to N178 and N244 
+M58 Missing/incomplete/invalid claim information.  Resubmit claim 
+after corrections. 
+(Modified 2/28/03)  
+Deactivated eff. 2/5/05 
+MA51 Missing/incomplete/invalid CLIA certification number for 
+laboratory services billed by physician office laboratory. 
+(Modified 2/28/03) 
+Deactivate eff. 2/5/05 
+N38 Missing/incomplete/invalid place of service. (Modified 2/28/03) 
+Deactivated eff. 2/5/05 
+Refer to M77  
+N66 Missing/incomplete/invalid documentation. (Modified 2/28/03) 
+Deactivate eff. 2/5/05 
+Refer to N29 and N225 
+ 
+X12 N 835 Health Care Claim Adjustment Reason Codes 
+The Claim Adjustment Reason Code and Status Code Maintenance Committee maintains the 
+health care claim adjustment reason codes.  The Committee meets at the beginning of each X12 
+trimester meeting (February, June and October) and makes decisions about additions, 
+modifications, and retirement of existing reason codes.  The updated list is posted three times a 
+year after each X12 trimester meeting at http://www.wpc-edi.com/codes/Codes.asp.  Select Claim 
+Adjustment Reason Codes from the pull down menu.  All reason code changes approved in June 
+2004 are listed here.  By January 3, 2005, you must have the most current reason code set installed 
+for production to make sure that all Medicare contractors are using the latest approved reason 
+codes in 835, standard paper remittance advice, and coordination of benefits transactions. 
+The request for a reason code change may come from non-Medicare entities.  If Medicare requests 
+a change, it may be included in a Medicare instruction in addition to this regular code update 
+notification.  The regular code update notification is issued three times a year to provide a 
+summary of changes in the reason and remark codes introduced since the last update notification, 
+and will establish the deadline for Medicare contractors to implement the reason and remark code 
+changes that may not already have been implemented as part of a previous Medicare policy change 
+instruction. 
+A reason code may be retired if it is no longer applicable or a similar code exists.  Retirements are 
+effective for a specified future and succeeding versions, but contractors can also discontinue use of 
+retired codes in prior versions.  The regular code update notification will establish the deadline for 
+Medicare contractors to retire a reason code that could be earlier than the version specified in the 
+Washington Publishing Company (WPC) posting.  The committee approved the following reason 
+code changes in June 2004.

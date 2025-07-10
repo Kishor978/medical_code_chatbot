@@ -1,0 +1,10 @@
+Home Health Services Pre-Claim Review Reason Codes and Statements 
+Updated July 6, 2021 
+ 
+6 
+ 
+GEX18 The ACN on the coversheet received is missing or invalid. 
+GEX19 
+(Effective 
+10/01/2021) 
+Provider is exempted from submitting this PA request

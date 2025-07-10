@@ -1,0 +1,47 @@
+January 1, 2003, codes 03 School, 04 Homeless Shelter, and 
+20 Urgent Care became part of the National POS code set and 
+were to be crosswalked to 11 Office, this mandate to 
+crosswalk has since been lifted, as indicated above). 
+ 
+o National policy in the form of “Special Considerations” for 
+Off Campus- Outpatient Hospital (POS 19), Inpatient 
+Hospital (POS code 21), On Campus-Outpatient Hospital 
+(POS code 22), Ambulatory Surgical Center (POS code 24) 
+and Hospice (POS code 34) are included below. 
+ 
+• The National POS Code Set and Instructions for Using It 
+ 
+The following is the current national POS code set, with facility and 
+nonfacility designations noted for Medicare payment for services on 
+the Physician Fee Schedule. As a new POS code is established, the 
+health care industry is permitted to use this code from the date that it 
+is posted on the Medicare Place of Service Code Set Web page at 
+http://www.cms.gov/Medicare/Coding/place-of-service- 
+codes/Place_of_Service_Code_Set.html which is typically expected to 
+be some months ahead of the final effective date for Medicare use. 
+ 
+The code set is annotated with the effective dates for this and all 
+other codes added on and after January 1, 2003. Codes without 
+effective dates annotated are long-standing and in effect on and 
+before January 1, 2003. 
+ 
+POS Code and Name (effective date) 
+Description 
+Payment Rate 
+Facility=F 
+Nonfacility=NF 
+01 Pharmacy (October 1, 2005)  
+ 
+A facility or location where drugs and other medically related items and 
+services are sold, dispensed, or otherwise provided directly to patients. 
+NF 
+02 Telehealth Provided Other than in Patient’s Home (January 1, 2017) 
+ 
+The location where health services and health related services are provided 
+or received, through telecommunication technology.
+ Patient is not located in 
+their home when receiving health services or health related services through 
+telecommunication technology.  
+ 
+(See “Special Considerations” below.) 
+F

@@ -1,0 +1,64 @@
+Shared System 
+Maintainers FISS 
+MCS 
+VMS 
+CWF 
+  
+FI 
+RHHI 
+Carrier 
+DMERC 
+F 
+I 
+S
+S 
+M
+C
+S 
+V
+M
+S 
+C
+W
+F 
+Other 
+3466.2 Intermediaries/RHHIs/Carriers/DMERCs and 
+VMS shall stop using any code that has been 
+deactivated by January 3, 2005. 
+X X X X   X   
+3466.3 Intermediaries/RHHIs/Carriers/DMERCs and 
+VMS shall add new reason and remark codes 
+that are applicable to Medicare by January 3, 
+2005. 
+X X X X   X   
+3466.4 Intermediaries/RHHIs/Carriers/DMERCs shall 
+furnish provider education about changes in 
+claim adjustment reason and remittance advice 
+remark codes.  Contractors shall post the above 
+mentioned medlearn article, or a direct link to 
+the article, on their Web site and include 
+information about it in a listserv message within 
+one week of the availability of the provider 
+education article.  In addition, the provider 
+education article must be included in your next 
+regularly scheduled bulletin. 
+X X X  X       
+III. SUPPORTING INFORMATION AND POSSIBLE DESIGN CONSIDERATIONS  
+ 
+A. Other Instructions:  N/A  
+ 
+X-Ref Requirement # Instructions 
+  
+ 
+B. Design Considerations:  N/A  
+ 
+X-Ref Requirement # Recommendation for Medicare System Requirements 
+  
+ 
+C. Interfaces:  N/A 
+ 
+D. Contractor Financial Repo rting /Workload Impact:  N/A 
+ 
+E. Dependencies:  N/A 
+ 
+F. Testing Considerations:   N/A

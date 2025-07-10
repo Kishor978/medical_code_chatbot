@@ -1,0 +1,22 @@
+eMDR Document Codes List (April 2024 Release) 
+Page 27 of 27 
+ 
+Document 
+Code 
+Document Description Action Release 
+800010 For both surgeons     
+800011 Home Health Aid     
+800012 PACU     
+800013 Consultant     
+800014 Including preoperative ophthalmologic     
+800015 General Inpatient (GIP), Respite and/or CHC 
+documentation 
+    
+800016 Units of service billed     
+800017 Including but not limited to serial hemoglobin and 
+hematocrit levels, serum iron, transferrin saturation, 
+ferritin, or bone marrow storage 
+    
+900001 Special OTHER parameter request - Refer to letter     
+900002 Special TIME-BASED parameter request - Refer to 
+letter

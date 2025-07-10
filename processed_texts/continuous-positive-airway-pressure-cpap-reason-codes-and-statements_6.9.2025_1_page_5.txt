@@ -1,0 +1,53 @@
+Continuous Positive Airway Pressure (CPAP) Reason Codes and Statements 
+June 9, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         5 
+ 
+CP712 
+More than one unit per six months of A7036 exceeds the usual maximum amount of 
+accessories and is therefore not reasonable and necessary. Refer to Local Coverage 
+Determination L33718. 
+CP713 
+More than one unit per three months of A7037 exceeds the usual maximum amount of 
+accessories and is therefore not reasonable and necessary. Refer to Local Coverage 
+Determination L33718. 
+CP714 
+More than two units per one month of A7038 exceeds the usual maximum amount of 
+accessories and is therefore not reasonable and necessary. Refer to Local Coverage 
+Determination L33718. 
+CP715 
+More than one unit per six months of A7039 exceeds the usual maximum amount of 
+accessories and is therefore not reasonable and necessary. Refer to Local Coverage 
+Determination L33718. 
+CP716 
+Claims for A9279 (Monitoring feature/device, stand-alone or integrated, any type, 
+includes all accessories, components and electronics, not otherwise classified) are 
+denied as statutorily non-covered. Refer to Local Coverage Determination L33718 & 
+Policy Article A52467. 
+ 
+Reason 
+Code 
+7B E0470 
+CP800 
+The medical record documentation does not support that an E0601 has been tried and 
+proven ineffective based on a therapeutic trial conducted in either a facility or in a 
+home setting. Refer to Local Coverage Determination L33718. 
+CP801 
+The medical record documentation does not support lower pressure settings of the 
+E0601 were tried but failed to adequately control symptoms of obstructive sleep apnea 
+(OSA) or improve sleep quality or reduce the apnea-hypopnea index (AHI)/respiratory 
+disturbance index (RDI) to acceptable levels. Refer to Policy Article A52467. 
+CP802 
+The medical record documentation does not support that a new in-person clinical 
+evaluation occurred after an E0601 was used for 3 or more months and the beneficiary 
+was switched to an E0470. Refer to Local Coverage Determination L33718. 
+ 
+Reason 
+Code 
+8B ADMINISTRATIVE/OTHER  
+(For Transmission via esMD) 
+GEX04 Other 
+GEX05 The system used to retrieve the Subscriber/Insured details using the given MBI is 
+temporarily unavailable. 
+GEX06 The documentation is incomplete 
+GEX07 This submission is an unsolicited response

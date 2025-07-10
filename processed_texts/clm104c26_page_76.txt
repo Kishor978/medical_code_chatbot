@@ -1,0 +1,38 @@
+Rev # Issue Date Subject Impl Date CR# 
+R1393CP 12/14/2007 Revised Guidance for Completing Form 
+CMS-1500 
+01/07/2008 5749 
+R1369CP 11/02/2007 Crossover of Assignment of Benefits 
+Indicator (CLM08) From Paper Claim Input 
+04/07/2008 5780 
+R1366CP 11/02/2007 Update to Place of Service (POS) Code Set: 
+New Code for Temporary Lodging 
+04/07/2008 5777 
+R1325CP 08/29/2007 Testing and Implementation of 2008 
+Ambulatory Surgical Center (ASC) 
+Payment System Changes 
+01/07/2008 5680 
+R1308CP 07/20/2007 Testing and Implementation of 2008 
+Ambulatory Surgical Center (ASC) 
+Payment System Changes – Replaced by 
+Transmittal 1325 – Replaced by Transmittal 
+1325 
+01/07/2008 5680 
+R1215CP 03/30/2007 Revisions to Form CMS-1500 Submission 
+Requirements 
+04/30/2007 5489 
+R1191CP 03/02/2007 Type of Service (TOS) Corrections 04/02/2007 5510 
+R1086CP 10/27/2006 Annual Type of Service (TOS) Update 01/02/2007 5361 
+R1058CP 09/15/2006 Additional Requirements Necessary to 
+Implement the Revised Health Insurance 
+Claim Form CMS-1500 (08/05) 
+01/02/2007 5060 
+R1049CP 09/01/2006 Update to the Place of Service (POS) Code 
+Set to Add a Code for Prison/Correctional 
+Facility 
+01/02/2007 4316 
+R1010CP 07/28/2006 Additional Requirements Necessary to 
+Implement the Revised Health Insurance 
+Claim Form CMS-1500 (08/05) Rescinded 
+and replaced by Transmittal 1058 
+01/02/2007 5060

@@ -1,0 +1,46 @@
+Number of services: 10 
+MTUS (miles): 10 
+MTUS indicator: 1 
+ 
+C. Anesthesia Time Units - (CWFB_MTUS_IND_CD = 2) 
+ 
+For claims reporting anesthesia time units in 15-minute periods or fractions of 15-
+minute periods, the following example should be used to code the line item: 
+ 
+A total of 1 allowed service is reported for HCPCS code 00142:  Anesthesia for 
+procedures on eye; lens surgery.  The anesthesiologist attended the patient for 35 
+minutes. 
+ 
+Number of services: 1 
+MTUS (time units): 23 (one decimal point implied) * 
+MTUS indicator: 2 
+*Two 15-minute periods + 1/3 of a 15-minute period equals 2.3 
+ 
+D. Services/Pricing Units - (CWFB_MTUS_IND_CD = 3) 
+ 
+For claims reporting a service or pricing unit, the following examples should be 
+used to code the line item: 
+ 
+Example 1:  A total of 2 visits was reported for HCPCS code 99211:  Office or other 
+outpatient visit for the management of an established patient. 
+ 
+Number of services: 2 
+MTUS (services): 2 
+MTUS indicator: 3 
+ 
+Example 2:  A total of 500 milligrams was administered for HCPCS code J0120:  
+Injection, Tetracycline, up to 250 mg. 
+ 
+NOTE:  The number of milligrams should not be reported in the service or MTUS fields.  
+Instead, report the number of pricing units.  In this case, up to 250 mg equals 1 
+unit/service.  Thus, 500 mg equals 2 units/services. 
+ 
+Number of services: 2 
+MTUS (services): 2 
+MTUS indicator: 3 
+ 
+Example 3:  A total of 24 cans was purchased, each containing 300 calories for HCPCS 
+code B4150:  Enteral Formulae, 100 calories. 
+ 
+NOTE:  Neither number of cans nor the number of calories should be reported in 
+the services or MTUS fields.  Instead, report the number of pricing units.  In this

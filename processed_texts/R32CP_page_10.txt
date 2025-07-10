@@ -1,0 +1,68 @@
+9
+A reason code may be retired if it is no longer applicable or a similar code exists. 
+Retirements are effective for a specified future and succeeding versions, but contractors also 
+can discontinue use of retired codes in prior versions. The regular code update notification 
+will establish the deadline for Medicare contractors to retire a reason code that could be 
+earlier than the version specified in the WPC posting. The committee approved the following 
+reason code changes in June 2003.  
+Reason Code Changes (as of 6/30/03) 
+Code      Current Narrative            N o t e s  
+ 
+155 This claim is denied because the patient refused the 
+service/procedure. 
+ 
+New as of 6/03 
+38 Services not provided or  authorized by designated 
+(network/primary care) providers. 
+ 
+Modified as of 6/03 
+107 Claim/service denied because the related or qualifying 
+claim/service was not previously paid or identified on this 
+claim. 
+Modified as of 6/03 
+The following is a comprehensive list of retired reason codes. Codes that have been retired 
+effective version 4010 must be deactivated by the implementation date of this instruction. 
+Codes retired effective version 4010 or any previous version is bolded. Contractors must 
+make sure that they are not inserting these codes in an 835 even though they may be 
+generating remittance advice in a legacy format as a result of the contingency plan invoked 
+by CMS. System limitation prohibits using codes that are retired effective version 4010 for 
+any pre-4010 formats/versions being generated during the contingency period.  
+ Code 
+     Current Narrative            N o t e s  
+ 
+28 Coverage not in effect at  the time the service was 
+provided. 
+ 
+Inactive for 004010, 
+since 6/98. Redundant 
+to codes 26&27. 
+36 Balance does not exceed co-payment amount. 
+ 
+Inactive for 003040 
+37 Balance does not exceed deductible. 
+ 
+Inactive for 003040 
+41 Discount agreed to in Preferred Provider contract. 
+ 
+Inactive for 003040 
+46  This (these) service(s) is (are) not covered. 
+ 
+Inactive for 004010, 
+since 6/00. Use code 96. 
+48 This (these) procedure(s) is (are) not covered. 
+ 
+Inactive for 004010, 
+since 6/00. Use code 96. 
+ 
+57 Payment denied/reduced because the payer deems the 
+information submitted does not support this level of service, 
+this many services, this length of service, this dosage, or this 
+day's supply. 
+ 
+Inactive for 004050. Split 
+into codes 150, 151, 152, 
+153 and 154. 
+ 
+63 Correction to a prior claim. 
+ 
+Inactive for 003040

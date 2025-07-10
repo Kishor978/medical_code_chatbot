@@ -1,0 +1,46 @@
+physician/practitioner is aware of the exact setting the beneficiary is a 
+registered inpatient, the appropriate inpatient POS code may be reported 
+consistent with the code list annotated in this section (instead of POS 21). For 
+example, a physician/practitioner may use POS 31, for a patient in a SNF 
+receiving inpatient skilled nursing care, POS 51, for a patient registered in a 
+Psychiatric Inpatient Facility, and POS 61 for patients registered in a 
+Comprehensive Inpatient Rehabilitation Facility. 
+ 
+• Special Considerations for Outpatient Hospital Departments 
+ 
+The place of service (POS) code for “Outpatient Hospital” has been expanded. 
+The description of POS 22 has been revised from “Outpatient Hospital” to “On 
+Campus-Outpatient Hospital” and POS 19 has been created for the “Off 
+Campus- Outpatient Hospital” setting. Throughout this Internet Only Manual 
+(IOM) you may find references to “Outpatient Hospital” that do not 
+differentiate between the “On Campus” or “Off Campus” setting; however, any 
+reference to POS 22 (formerly “Outpatient Hospital”) found anywhere within 
+the IOM is now defined as “On Campus-Outpatient Hospital.” In addition, POS 
+19 will also apply in the majority of situations describing an outpatient hospital 
+setting.  When a physician/practitioner furnishes services to an outpatient of a 
+hospital, payment is made under the PFS at the facility rate. 
+Physicians/practitioners who furnish services to a hospital outpatient, including 
+in a hospital outpatient department (including in a provider-based department 
+of that hospital) or under arrangement to a hospital shall, at a minimum, report 
+the off campus-outpatient hospital POS code 19 or on campus-outpatient 
+hospital POS code 22 irrespective of the setting where the patient actually 
+receives the face-to-face encounter. In other words, reporting the outpatient 
+hospital POS code 19 or 22 is a minimum requirement for purposes of 
+triggering the facility payment amount under the PFS when services are 
+provided to a registered outpatient. If the physician/practitioner is aware of the 
+exact setting where the beneficiary is a registered hospital outpatient, the 
+appropriate outpatient facility POS code may be reported consistent with the 
+code list annotated in this section (instead of POS 19 or 22). 
+For example, physicians/practitioners may use POS code 23 for services 
+furnished to a patient registered in the emergency room, POS 24 for patients 
+registered in an ambulatory surgical center, and POS 56 for patients registered 
+in a psychiatric residential treatment center. 
+ 
+NOTE: Physicians/practitioners who perform services in a hospital 
+outpatient department shall use, at a minimum, POS code 19 (Off 
+Campus- Outpatient Hospital) or POS code 22 (On Campus-Outpatient 
+Hospital). 
+Code 19 or 22 (or other appropriate outpatient department POS code as 
+described above) shall be used unless the physician maintains separate office 
+space in the hospital or on the hospital campus and that physician office space 
+is not considered a provider-based department of the hospital as defined in 42.

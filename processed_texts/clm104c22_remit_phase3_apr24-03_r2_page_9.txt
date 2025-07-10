@@ -1,0 +1,38 @@
+The PC-Print software enables providers to: 
+• Receive, over a wire connection, an 835 electronic remittance advice transmission 
+on a personal computer (PC) and write the 835 file in American National 
+Standard Code for Information Interchange (ASCII) to the provider's 'A:' drive; 
+• Print 835 claims and provider payment summary information; 
+• View and print remittance information for a single claim; and 
+• View and print a sub-total by bill type. 
+The receiving PC always writes an 835 file in ASCII.  The providers may choose one or 
+more print options, e.g., the entire transmission, a single claim, a summary by bill type, or 
+a provider payment summary.  Since the software performs limited functions, 
+malfunctions should rarely occur.  If software malfunctions are detected, they are to be 
+corrected through the FISS maintainer.  Individual intermediaries or data centers may not 
+modify the PC-Print software. 
+Effective with use of HIPAA compliant versions of the 835, carriers and DMERCs are 
+not required to issue PC-Print software to providers.  A survey of carriers indicated 
+limited use of the NSF versions of PC-Print previously developed.  Providers realize the 
+most significant benefits of the 835, such as automatic posting of patient records and 
+maintenance of accounts receivables, when they process the data electronically.  When 
+providers use the 835 as intended by the designers, they should rarely need hard copies of 
+835 data.  Since providers still receive, or can request, SPRs, most carriers and DMERCs 
+did not consider it cost effective, to continue to support PC-Print. 
+Carriers and DMERCs who consider there to be a local need for PC-Print software as an 
+835 marketing tool, to retain current 835 customers, or to respond to other demonstrated 
+provider needs have the option to continue to generate PC-Print software.  However, 
+carriers and DMERCs who elect to continue to support PC-Print software, must be able 
+to demonstrate that the benefits generated from the software exceed their cost to support 
+the software.  If they elect to continue to support PC-Print software, the software must 
+operate on Windows 95, 98, 2000, and Windows NT platforms and be made available to 
+providers free or at cost. 
+40.5 - 835 Implementation Guide 
+PM A-01-57, Date: April 30, 2001 
+(Rev.) 
+The Health Insurance Portability and Accountability Act (HIPAA) of 1996 requires that 
+Medicare, and all other health insurance payers in the United States, comply with the 
+electronic data interchange standards for health care as established by the Secretary of 
+Health and Human Services.  The X12N 835 implementation guide has been established 
+as the standard for compliance for remittance advice transactions.  The implementation 
+ 9

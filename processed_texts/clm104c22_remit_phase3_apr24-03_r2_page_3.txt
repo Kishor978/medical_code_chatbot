@@ -1,0 +1,38 @@
+downloaded without charge from http://www.wpc-edi.com/HIPAA.  Anyone wanting to 
+download this file is required to set up a user name and password for this site.  Follow the 
+instructions on the site to setup a new account and download this file. 
+Addenda to the implementation guides have also been published, these addenda can be 
+found at http://hipaa.wpc-edi.com/HIPAAAddenda_40.asp. 
+By January 2, 2002, intermediaries, carriers, and DMERCs had to be able to issue 
+HIPAA compliant 835 version 4010 transactions in production mode to any provider or 
+clearinghouse that requested production data in that version.  Here after, all contractors 
+must upgrade to most current versions as directed by program memoranda.  HIPAA 
+requires CMS policy to change such that only one version of electronic formats will be 
+maintained, not the version and previous version as before HIPAA. 
+Effective October 2002, unless a provider has requested that Medicare revert to issuance 
+of Standard Paper Remittance (SPR) only, non-HIPAA compliant 835, National Standard 
+Format (NSF), and Uniform Billing 92 (UB-92) remittance recipients are automatically 
+sent production HIPAA compliant 835 transactions. 
+20 - General Remittance Completion Requirements 
+(Rev.) 
+A3-3750 
+The following general field completion and calculation rules apply to both paper and 
+electronic versions of the remittance advice, except as otherwise noted.  See the current 
+implementation guide for specific requirements: 
+• Any adjustment applied to the submitted charge and/or units must be reported in 
+the claim and/or service adjustment segments with the appropriate group, reason, 
+and remark codes explaining the adjustments.  Every provider level adjustment 
+must likewise be reported in the provider level adjustment section of the 
+remittance advice.  Intermediary RAs do not report service line adjustment data,  
+only summary claim level adjustment information. 
+• The computed field "Net" must include "ProvPd" (Calculated Pmt to Provider, 
+CLP04 in the 835) and interest, late filing charges and previously paid amounts. 
+• The Medicare contractor reports only the name of the immediately subsequent 
+payer on the remittance advice, even if coordination of benefits (COB) 
+information is sent to more than one payer.  (The current HIPAA compliant 
+version does not have the capacity to report more than one crossover carrier.)  
+• The check amount is the sum of all claim-level payments, including claims and 
+service-level adjustments, less any provider level adjustments. 
+• Positive adjustment amounts reduce the amount of the payment and negative 
+adjustment amounts increase it. 
+ 3

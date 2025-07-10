@@ -1,0 +1,53 @@
+Ambulance Transport Reason Codes and Statements  
+Updated on May 19, 2023 
+ 
+1 
+ 
+Reason 
+Code AIR AMBULANCE 
+AM12A 
+The documentation does not support the beneficiary’s condition was such that 
+transportation by air ambulance was medically reasonable and necessary; basic and/or 
+advanced life support ground ambulance would have been appropriate.  Refer to 42 
+CFR § 410.40, Internet Only Manual (IOM), Publication 100-02, Medicare Benefit 
+Policy Manual, Chapter 10, Section 10.4.  
+   
+Reason 
+Code APPROPRIATE FACILITY 
+AM200 
+The documentation does not support that the more distant facility was the appropriate 
+facility to provide the necessary care. Therefore, the miles beyond the closest facility 
+are denied. Refer to Internet Only Manual (IOM), Publication 100-02, Medicare 
+Benefit Policy Manual, Chapter 10, Section 10.3.6, 10.3.7.  
+   
+Reason 
+Code BASIC LIFE SUPPORT (BLS) 
+AM300 
+The documentation does not support Basic Life Support services were rendered in 
+event of an emergency response. Refer to 42 CFR § 410.40 (c), 42 CFR § 414.605, 
+Internet Only Manual (IOM), Publication 100-02, Medicare Benefit Policy Manual, 
+Chapter 10, Section 20 and Section 30.1.1.  
+    
+Reason 
+Code BENEFICIARY LIABLE 
+AM600 
+The documentation does not indicate that transportation by another means is 
+contraindicated. Alternative transport services should have been utilized whether or 
+not they were available. Refer to SSA 1861 (s)(7), Internet Only Manual (IOM), 
+Publication 100-02, Medicare Benefit Policy Manual, Chapter 10, Section 10.2.1, 20, 
+and Internet Only Manual (IOM), Publication 100-04, Medicare Claims Processing 
+Manual, Chapter 15, Section 10.2.  
+AM601 
+The documentation does not support the ambulance service was medically necessary 
+and reasonable. Refer to SSA 1861 (s)(7), Internet Only Manual (IOM), Publication 
+100-02, Medicare Benefit Policy Manual, Chapter 10, Section 10.2, 20, Internet Only 
+Manual (IOM), Publication 100-04, Medicare Claims Processing Manual, Chapter 15, 
+Section 10.2. 
+  
+Reason 
+Code BUNDLING/UNBUNDLING  
+AMB7A 
+The benefit for this service is included in the payment/allowance for another 
+service/procedure that has already been adjudicated (can only bill for transport & 
+mileage). 
+AMB7Z Bundling/unbundling (explain identified problem)

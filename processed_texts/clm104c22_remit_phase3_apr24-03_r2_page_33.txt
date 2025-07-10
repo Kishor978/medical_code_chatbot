@@ -1,0 +1,31 @@
+PLB11-1  Situational, but required for Medicare if there is a fifth provider level  
+ adjustment.  Mapped to ff record 60, field 25. 
+PLB11-2  Situational, but required for Medicare if there is a fifth provider level  
+ adjustment.  Mapped to ff record 60, field 26. 
+PLB12  Situational, but required for Medicare if there is a fifth provider level  
+ adjustment.  Mapped to ff record 60, field 27. 
+PLB13-1  Situational, but required for Medicare if there is a sixth provider level 
+adjustment.  Mapped to ff record 60, field 28. 
+PLB13-2  Situational, but required for Medicare if there is a sixth provider level  
+ adjustment.  Mapped to ff record 60, field 29. 
+PLB14  Situational, but required for Medicare if there is a sixth provider level  
+ adjustment.  Mapped to ff record 60, field 30. 
+GE  Required. 
+GE01  Required.  TG 
+GE02  Required.  Must equal GS06.  TG 
+SE  Required. 
+SE01  Required.  The transaction segment count is computed by the carrier  
+ system.  TG 
+SE02  Required.  Must equal ST02.  TG 
+40.5.2 - Medicare 835 HIPAA Companion Document - Carriers 
+(Rev.) 
+AB-02-067, AB-01-149, AB-01-159, AB-01-79, B-01-10, AB-01-132 
+This companion document supplements, but does not contradict any requirements in the 
+835 version 4010 implementation guide. 
+Table 1 - Header Data 
+Segment/   835 and Medicare Requirements/Notes 
+Data Elements 
+ST  Required. 
+ST01  Required.  Always enter “835.” 
+ST02  Required. 
+ 33

@@ -1,0 +1,65 @@
+Remittance Field 835 Version 
+4010/4010.
+A.1 Field 
+LOOP ID NSF 
+Version 
+2.01 Field # 
+COMMENT 
+PROVIDER ADJ AMT   COMPUTE
+D 
+ 
+CHECK AMT BPR02  800-22  
+PROVIDER LEVEL 
+ADJUSTMENT REASON CODE 
+50 OR AP OR B2 OR CS 
+OR FB OR IR OR J1 OR 
+L6 OR LE OR SL OR WO 
+IN PLB03-1, PLB05-1, 
+PLB07-1, PLB09-1, 
+PLB11-1, PLB13-1 
+700-06 This and the next 
+three lines explain 
+the provider level 
+adjustments.   
+FCN OR ADJ REASON 
+(FINANCIAL CONROL #/PROV 
+ADJ REASON) 
+PLB03-2, PLB05-2, 
+PLB07-2, PLB09-2, 
+PLB11-2, PLB13-2.  
+POSITION 3-19 
+700-08  
+HIC  PLB03-2, PLB05-2, 
+PLB07-2, PLB09-2, 
+PLB11-2, PLB13-2 
+POSITION 20-30 
+700-04  
+PROVIDER LEVEL 
+ADJUSTMENT AMOUNT 
+PLB04, PLB06, PLB 08, 
+PLB10, PLB12, PLB14 
+WHEN 50 OR AP OR B2 
+OR CS OR FB OR IR OR 
+J1 OR L6 OR LE OR SL 
+OR WO IN PLB03-1, 
+PLB05-1, PLB07-1, 
+PLB09-1, PLB11-1, 
+PLB13-1 
+700-07 Includes Interest, 
+Late Filing Charge, 
+Previously Paid 
+and other 
+adjustments as 
+applicable 
+60 - Remittance Advice Codes 
+(Rev.) 
+60.1 - Standard Adjustment Reason Codes 
+(Rev.) 
+AB-02-142, AB-02-067, A-02-070, AB-01-132, AB-03-012 
+Standard adjustment reason codes are used on the Medicare electronic and paper 
+remittance advice.  The indicated wording may not be modified without approval of the 
+Health Care Code Maintenance Committee.  These codes were developed for use by all 
+U.S. health payers.  As a result, they are generic, and there are a number of codes that do 
+not apply to Medicare. 
+ 
+71

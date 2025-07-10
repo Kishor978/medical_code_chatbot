@@ -1,0 +1,45 @@
+type (i.e., single sheet, snap-out, continuous feed, etc.) of the CMS-1500 claim form for 
+processing.  To purchase forms from the U.S. Government Printing Office, call (202) 
+512-1800. 
+ 
+The following instructions are required for a Medicare claim.  They apply to both the 
+08/05 and 02/12 versions of the form except where noted.  A/B MACs (B) and DME 
+MACs should provide information on completing the CMS-1500 claim form to all 
+physicians and suppliers in their area at least once a year. 
+ 
+These instructions represent the minimum requirements for using this form to submit a 
+Medicare claim.  However, depending on a given Medicare policy, there may be other 
+data that should also be included on the CMS-1500 claim form; if so, these additional 
+requirements are addressed in the instructions you received for such policies (e.g., other 
+chapters of this manual). 
+ 
+Providers may use these instructions to complete this form.  The CMS-1500 claim form 
+has space for physicians and suppliers to provide information on other health insurance.  
+This information can be used by A/B MACs (B) to determine whether the Medicare 
+patient has other coverage that must be billed prior to Medicare payment, or whether 
+there is another insurer to which Medicare can forward billing and payment data 
+following adjudication if the provider is a physician or supplier that participates in 
+Medicare.  (See Pub. 100-05, Medicare Secondary Payer Manual, chapter 3, and chapter 
+28 of this manual). 
+ 
+Providers and suppliers must report 8-digit dates in all date of birth fields (items 3, 9b, 
+and 11a), and either 6-digit or 8-digit dates in all other date fields (items 11b, 12, 14, 16, 
+18, 19, 24a, and 31). 
+ 
+Providers and suppliers have the option of entering either a 6 or 8-digit date in items 11b, 
+14, 16, 18, 19, or 24a.  However, if a provider of service or supplier chooses to enter 8-
+digit dates for items 11b, 14, 16, 18, 19, or 24a, he or she must enter 8-digit dates for all 
+these fields.  For instance, a provider of service or supplier will not be permitted to enter 
+8-digit dates for items 11b, 14, 16, 18, 19 and a 6-digit date for item 24a.  The same 
+applies to providers of service and suppliers who choose to submit 6-digit dates too.  
+Items 12 and 31 are exempt from this requirement. 
+ 
+Legend Description 
+MM Month (e.g., December = 12) 
+DD Day (e.g., Dec15 = 15) 
+YY 2 position Year (e.g., 1998 = 98) 
+CCYY 4 position Year (e.g., 1998 = 1998) 
+(MM | DD | YY) or (MM | DD | CCYY) A space must be reported between month, 
+day, and year (e.g., 12 | 15 | 98 or 12 | 15 | 
+1998).  This space is delineated by a dotted 
+vertical line on the Form CMS-1500)

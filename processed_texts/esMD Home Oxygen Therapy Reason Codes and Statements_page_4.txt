@@ -1,0 +1,50 @@
+Home Oxygen Therapy Reason Codes and Statements  
+August 18, 2023 
+ 
+4 
+ 
+OX503 
+The medical record documentation does not support during the polysomnography 
+study titration the apnea-hypopnea index (AHI)/respiratory disturbance index (RDI) 
+was reduced to less than or equal to an average of ten events per hour. Refer to Local 
+Coverage Determination L33797. 
+OX504 
+The medical record documentation does not support further reduction in apnea-
+hypopnea index (AHI)/respiratory disturbance index (RDI) during the 
+polysomnography titration as the initial AHI/RDI was less than an average of ten 
+events per hour.  Refer to Local Coverage Determination L33797. 
+OX505 
+The medical record documentation does not support the titration polysomnography 
+study was obtained after optimal positive airway pressure (PAP) settings were 
+determined and the beneficiary is using the PAP device at those settings.  Refer to 
+Local Coverage Determination L33797. 
+OX506 
+The medical record documentation does not support the titration polysomnography 
+study demonstrated an oxygen saturation less than or equal to 88 percent. Refer to 
+Local Coverage Determination L33797. 
+ 
+Reason 
+Code MISCELLANEOUS POLICY CRITERIA 
+OX600 
+The medical record documentation does not support that the qualifying blood gas study 
+was performed at the time of need. Refer to National Coverage Determination 240.2, 
+Local Coverage Determination L33797, & Policy Article A52514. 
+OX601 
+The medical record documentation does not support the treating practitioner has 
+ordered and evaluated the results of a qualifying blood gas study performed. Refer to 
+National Coverage Determination 240.2, Local Coverage Determination L33797, & 
+Policy Article A52514. 
+OX602 Emergency or stand by oxygen systems are not reasonable and necessary. Refer to 
+Local Coverage Determination L33797. 
+OX603 
+During the initial 36 month rental period there is no separate payment for maintenance 
+and servicing.  Refer to Medicare Benefit Policy Manual Chapter 15 Section 110.2, 
+Medicare Claims Processing Manual Chapter 20 Section 40.2 & Policy Article 
+A52514. 
+OX604 
+Maintenance and servicing visits are not covered more often than every 6 months, 
+beginning no sooner than 6 months following the end of the rental period. Refer to 
+Medicare Benefit Policy Manual Chapter 15 Section 110.2, Medicare Claims 
+Processing Manual Chapter 20 Section 40.2 & Policy Article A52514. 
+OX605 Maintenance and servicing visits for beneficiary owned oxygen equipment is 
+statutorily noncovered.  Refer to Code of Federal Regulations 1834(a)(5)(F), Medicare

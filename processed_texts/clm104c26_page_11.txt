@@ -1,0 +1,46 @@
+Policy Manual, chapter 15 for non-physician practitioner rules.  Examples of services that 
+might be ordered include diagnostic laboratory tests, clinical laboratory tests, 
+pharmaceutical services, durable medical equipment, and services incident to that 
+physician’s or non-physician practitioner’s service. 
+ 
+The ordering/referring requirement became effective January 1, 1992, and is required by 
+§1833(q) of the Act.  All claims for Medicare covered services and items that are the 
+result of a physician's order or referral shall include the ordering/referring physician's 
+name.  The following services/situations require the submission of the referring/ordering 
+provider information: 
+ 
+• Medicare covered services and items that are the result of a physician's order 
+or referral; 
+ 
+• Parenteral and enteral nutrition; 
+ 
+• Immunosuppressive drug claims; 
+ 
+• Hepatitis B claims; 
+ 
+• Diagnostic laboratory services; 
+ 
+• Diagnostic radiology services; 
+ 
+• Portable x-ray services; 
+ 
+• Consultative services; 
+ 
+• Durable medical equipment; 
+ 
+• When the ordering physician is also the performing physician (as often is the 
+case with in-office clinical laboratory tests); 
+ 
+• When a service is incident to the service of a physician or non-physician 
+practitioner, the name of the physician or non-physician practitioner who 
+performs the initial service and orders the non-physician service must appear in 
+item 17; 
+ 
+• When a physician extender or other limited licensed practitioner refers a patient 
+for consultative service, submit the name of the physician who is supervising the 
+limited licensed practitioner; 
+ 
+• Effective for claims with dates of service on or after October 1, 2012, all claims 
+for physical therapy, occupational therapy, or speech-language pathology 
+services, including those furnished incident to a physician or nonphysician 
+practitioner, require that the name and NPI of the certifying physician or

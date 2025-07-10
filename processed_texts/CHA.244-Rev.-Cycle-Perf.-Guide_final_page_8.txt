@@ -1,0 +1,30 @@
+Revenue Cycle Indicator Legend 
+This section is based on performance benchmark rates monitored by WHA and HCM for their members.
+2021 Revenue Cycle Score Cards
+ INDICATOR  GREEN  YELLOW  RED
+ Bad debt  <3% 3.1%-4% >4%
+ Charity 3%-4% 2%-3% <2%
+ DNFB <4 5-8 8+
+ % of accounts over 60 days in  <5%
+ waiting for coding  5%-7% >7%
+ A/R >90 Days <19% 19%-25% >25%
+ A/R Days (gross) <45 45-55 >55
+Revenue Cycle Indicator Dashboard 
+This section should be monitored and tracked by the revenue cycle performance improvement team to identify areas of 
+opportunity and areas of success. 
+ INDICATOR  GREEN  YELLOW  RED
+ Bad debt 
+ Charity
+ DNFB
+ % of accounts over 60 days 
+ in waiting for coding
+ A/R >90 Days
+ A/R Days (gross)
+Health Information Management Indicator Legend
+This section is based on performance benchmark rates monitored by WHA and HCM for their members.
+ INDICATOR  GREEN  YELLOW  RED
+ DNFB <4 5-8 >8+
+ DNFC <3 3.1-5 >5
+ % of accounts over 60 days  <5% 5%-7% >7%
+ in waiting for coding 
+PAGE EIGHT

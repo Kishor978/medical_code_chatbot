@@ -1,0 +1,63 @@
+eMDR Document Codes List (April 2024 Release) 
+Page 1 of 27 
+ 
+Document 
+Code 
+Document Description Action Release 
+100001 Interim verbal orders     
+100002 Physician/Non Physician (NPP) Admission Orders     
+100003 Proof of Delivery      
+100004 Referral for Diabetes Self-Management Training 
+(DSMT) services and plan of care 
+    
+100005 Acute/post-acute care document to support home health 
+eligibility 
+    
+100006 Acute/post-acute care document to support hospice 
+eligibility 
+    
+100007 Addendum to record     
+100008 Initial admission assessment or reassessment Modified Apr 
+2024 
+100010 CMS 2728 (End stage renal disease medical evidence 
+report; Medicare entitlement and/or beneficiary 
+registration)  
+    
+100011 Documentation to support continued medical need     
+100012  
+Expected length of stay 
+    
+100013 Home health aide care plan     
+100014 Home Health Plan of Care     
+100015 Home Health start of care assessment     
+100016 Home Health skilled nursing, home health aide, and 
+rehabilitation therapy notes including initial 
+evaluations, re-evaluations, progress notes, and actual 
+therapy minute grids 
+Modified Apr 
+2024 
+100017 Documentation that supports the beneficiary’s need for 
+the level and frequency of home health or hospice 
+services provided, including any changes during the 
+period under review. 
+Modified Apr 
+2024 
+100018 Physician Certification/Recertification or Physician 
+Certification/Recertification Statement (PCS) and any 
+justification for any delayed certifications 
+Modified Apr 
+2024 
+100019 Physician certification/recertification that the inpatient 
+psychiatric facility admission was medically necessary 
+for either: (1) treatment which could reasonably be 
+expected to improve the beneficiary's condition, or (2) 
+diagnostic study 
+Modified Apr 
+2024 
+100020 Signed and dated overall plan of care/amendment 
+including, short and long term goals with any updates to 
+the plan of care 
+Modified Apr 
+2024 
+100021 Signed election statement     
+100022 Physician consultations

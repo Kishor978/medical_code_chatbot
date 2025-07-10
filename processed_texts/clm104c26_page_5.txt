@@ -1,0 +1,44 @@
+Item 7 - Enter the insured's address and telephone number.  When the address is the same 
+as the patient's, enter the word SAME.  Complete this item only when items 4, 6, and 11 
+are completed. 
+ 
+Item 8 - Form version 08/05: Check the appropriate box for the patient's marital status 
+and whether employed or a student. 
+ 
+Form version 02/12:  Leave blank. 
+ 
+Item 9 - Enter the last name, first name, and middle initial of the enrollee in a Medigap 
+policy if it is different from that shown in item 2.  Otherwise, enter the word SAME.  If 
+no Medigap benefits are assigned, leave blank.  This field may be used in the future for 
+supplemental insurance plans. 
+ 
+NOTE:  Only participating physicians and suppliers are to complete item 9 and its 
+subdivisions and only when the beneficiary wishes to assign his/her benefits under a 
+MEDIGAP policy to the participating physician or supplier. 
+ 
+Participating physicians and suppliers must enter information required in item 9 and its 
+subdivisions if requested by the beneficiary.  Participating physicians/suppliers sign an 
+agreement with Medicare to accept assignment of Medicare benefits for all Medicare 
+patients.  A claim for which a beneficiary elects to assign his/her benefits under a 
+Medigap policy to a participating physician/supplier is called a mandated Medigap 
+transfer.  (See chapter 28.) 
+ 
+Medigap - Medigap policy meets the statutory definition of a "Medicare supplemental 
+policy" contained in §1882(g)(1) of title XVIII of the Social Security Act (the Act) and 
+the definition contained in the NAIC Model Regulation that is incorporated by reference 
+to the statute.  It is a health insurance policy or other health benefit plan offered by a 
+private entity to those persons entitled to Medicare benefits and is specifically designed 
+to supplement Medicare benefits.  It fills in some of the "gaps" in Medicare coverage by 
+providing payment for some of the charges for which Medicare does not have 
+responsibility due to the applicability of deductibles, coinsurance amounts, or other 
+limitations imposed by Medicare.  It does not include limited benefit coverage available 
+to Medicare beneficiaries such as "specified disease" or "hospital indemnity" coverage.  
+Also, it explicitly excludes a policy or plan offered by an employer to employees or 
+former employees, as well as that offered by a labor organization to members or former 
+members. 
+ 
+Do not list other supplemental coverage in item 9 and its subdivisions at the time a 
+Medicare claim is filed.  Other supplemental claims are forwarded automatically to the 
+private insurer if the private insurer contracts with the A/B MAC (B) or DME MAC to 
+send Medicare claim information electronically.  If there is no such contract, the 
+beneficiary must file his/her own supplemental claim.

@@ -1,0 +1,48 @@
+Ambulance Transport Reason Codes and Statements  
+Updated on May 19, 2023 
+ 
+6 
+ 
+AMB5A 
+The documentation does not support the beneficiary was onboard the ambulance to 
+support the total miles billed. Refer to SSA 1861 (s)(7), 42 CFR §410.40 (e), Internet 
+Only Manual (IOM), Publication 100-02, Medicare Benefit Policy Manual, Chapter 
+10, Section 10.2.5, Internet Only Manual (IOM), Publication 100-04, Medicare 
+Claims Processing Manual, Chapter 15, Section 10.2.  
+  
+Reason 
+Code ORIGIN/DESTINATION RELATED  
+AMB6A 
+Non-payable origin/destination modifiers billed (scheduled service such as physician 
+office to beneficiary's residence; potential public health emergency exceptions). Refer 
+to 42 CFR §410.40, Internet Only Manual (IOM), Publication 100-04, Medicare 
+Claims Processing Manual, Chapter 15, Section 30 
+AMB6Z Origin/destination related (explain identified problem)  
+   
+Reason 
+Code OTHER 
+AM11A Claim/service not covered by this payer/contractor.  You must send the claim/service 
+to the correct payer/contractor.  
+AM11B 
+This claim was adjusted after records were reviewed and it was determined that the 
+documentation did not support the level of service billed on the claim (i.e., recoding 
+the ambulance service to the level of care that reflects the services rendered, or down 
+coding services when the title of the emergency personnel cannot be validated).  
+AM11C This claim is a duplicate to another claim.  
+AM11D Service with no paid base rate in history or no base rate submitted. Refer to 42 CFR 
+§414.605 and §414.610.  
+AM11Z The documentation (explain identified problem)  
+AMB2A Facility to facility transport denied as the documentation supports that the discharging 
+institution was not an appropriate facility.  
+AMB2B This hospital to hospital transport is denied as the patient was already at a facility able 
+to provide the necessary services.  
+AMB7Y Ambo billed during an inpatient stay are included in the f acility’s PPS payment and 
+are not separately payable under Part B  
+AMB00 No improper payment was identified for claim/line  
+   
+Reason 
+Code PRIOR AUTHORIZATION 
+AMB1Y Patient record submitted does not match the patient on the ambulance Prior 
+Authorization request. 
+AMB4Y Date of service(s) documented does not match date of service(s) (DOS) on ambulance 
+Prior Authorization request.

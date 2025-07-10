@@ -1,0 +1,33 @@
+NM103  Required.  Mapped to ff record 40, field 15. 
+NM104  Required.  Mapped to ff record 40, field 16. 
+NM105  Situational, but required for Medicare when a middle name or initial is 
+available for the patient.  Mapped to ff record 40, field 17. 
+NM106  Not used. 
+NM107  Situational, but will not be used by Medicare. 
+NM108  Situational, but required for Medicare.  Always enter “HN” for Medicare 
+until notified that the HIPAA Individual Identifier is effective, at which 
+point enter “II” in this data element.  None of the other qualifiers apply to 
+Medicare.  Mapped to ff record 40, field 18. 
+NM109  Situational, but required for Medicare if reported on the incoming claim.  
+Mapped to ff record 40, field 19. 
+NM110-111  Not used. 
+NM1 (030.B)  Situational, but the loop is intended for information on an insured when 
+different than the patient.  This situation does not apply in Medicare. 
+NM1 (030.C)  Situational, but required for Medicare when the HIC number has been 
+corrected. 
+NM101  Required.  For Medicare purposes, the insured is the patient.  Mapped to ff 
+record 40, field 20. 
+NM102  Required.  Code 2 does not apply to Medicare.  Mapped to ff record 40, 
+field 21. 
+NM103  Situational, but not used by Medicare. 
+NM104  Situational, but not used by Medicare. 
+NM105  Situational, but not used by Medicare. 
+NM106  Not used. 
+NM107  Situational, but not used for Medicare. 
+NM108  Situational, but required for Medicare if the patient’s ID # has been 
+corrected.  Mapped to ff record 40, field 22. 
+NM109  Situational, but required for Medicare if the patient’s ID # as been 
+corrected.  Mapped to ff record 40, field 23. 
+NM110-111  Not used. 
+NM1 (030.D)  Situational, but does not apply to Medicare intermediaries. 
+ 22

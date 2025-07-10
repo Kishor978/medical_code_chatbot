@@ -1,0 +1,49 @@
+Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) Reason Codes and 
+Statements  
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         10 
+ 
+physician, or other licensed healthcare practitioner within the past month. Refer to 
+National Coverage Determination 280.1, Local Coverage Determination L33642 and 
+Policy Article A52490. 
+SS016 
+The medical record documentation does not demonstrate the beneficiary has been on a 
+comprehensive ulcer treatment program which included regular assessment by a nurse, 
+physician, or other licensed healthcare practitioner within the past month. Refer to 
+National Coverage Determination 280.1, Local Coverage Determination L33642 and 
+Policy Article A52490. 
+SS017 
+The medical record documentation does not demonstrate the beneficiary has been on a 
+comprehensive ulcer treatment program which included appropriate wound care within 
+the past month. Refer to National Coverage Determination 280.1, Local Coverage 
+Determination L33642 and Policy Article A52490. 
+SS018 
+The medical record documentation does not demonstrate the beneficiary has been on a 
+comprehensive ulcer treatment program which included appropriate management of 
+moisture/incontinence within the past month. Refer to National Coverage 
+Determination 280.1, Local Coverage Determination L33642 and Policy Article 
+A52490. 
+SS019 
+The medical record documentation does not demonstrate the beneficiary has been on a 
+comprehensive ulcer treatment program which included nutritional assessment and 
+intervention consistent with the overall plan of care within the past month. Refer to 
+National Coverage Determination 280.1, Local Coverage Determination L33642 and 
+Policy Article A52490. 
+ 
+Reason 
+Code LOWER LIMB PROSTHETICS (L5856, L5857, L5858, L5973, L5980, L5987) 
+LLP01 
+The medical record documentation does not demonstrate the beneficiary will reach or 
+maintain a defined functional state within a reasonable period of time. Refer to Local 
+Coverage Determination L33787. 
+LLP02 The medical record documentation does not demonstrate the beneficiary is motivated 
+to ambulate.  Refer to Local Coverage Determination L33787. 
+LLP03 The medical record documentation does not demonstrate the beneficiary’s current 
+functional capabilities.  Refer to Local Coverage Determination L33787. 
+LLP04 The medical record documentation does not demonstrate the beneficiary’s expected 
+functional potential. Refer to Local Coverage Determination L33787. 
+LLP05 
+Coverage criteria for the prosthesis is not met, therefore the related additions will be 
+denied as not reasonable and necessary.  Refer to Local Coverage Determination 
+L33787.

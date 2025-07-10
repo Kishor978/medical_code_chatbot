@@ -1,0 +1,43 @@
+30 - Printing Standards and Print File Specifications Form CMS-1500 
+(Rev. 899, Issued:  03-31-06; Effective:  10-01-06; Implementation:  10-02-06) 
+ 
+The National Uniform Claims Committee (NUCC) has approved the printing standards 
+for Form CMS-1500 (08-05) paper claim.  These standards are as follows: 
+ 
+The Form CMS-1500 (08-05) is designed to accommodate 10-pitch Pica type, 6 lines per 
+inch vertical and 10 characters per inch (cpi) horizontal.  Once adjusted to the left and 
+right, PICA Alignment blocks in the first print line and characters appear within form 
+lines as shown in the print file matrix. 
+ 
+Also provided on the Form CMS-1500 (08-05) is a position bar.  This is a thick 
+horizontal line that is at the base of the PICA alignment Boxes. 
+ 
+The Form CMS-1500 (08-05) is used in four different styles.  Any one of these four 
+styles may be printed from two negatives in concurrence with the layout that was 
+approved by the NUCC.  The face/back negative furnished must be used for all parts. 
+ 
+Compliance with these standards is required to facilitate the use of image processing 
+technology such as Optical Character Recognition (OCR), facsimile transmission, and 
+image storing. 
+ 
+Cut Sheet: 
+ 
+Size - 8.5 by 11 inches (plus or minus .0625 inch) or 217mm by 279mm (plus or minus 
+2mm). 
+ 
+Print - Face and back, head to head. 
+ 
+Margins -  
+ 
+Face - The top margin from the top edge of the form to the first print position is 1.33 
+inches or 34mm.  The left margin is 0.3 inches to the left end of the first print position. 
+ 
+Back - 0.25 inch head and foot, 0.25 inch left and right or 6.35 mm head and foot, 6.35 
+mm left and right. 
+ 
+Offset - The X and Y offset for margins must not vary by more than +/-0.1 inch or 2.54 
+mm from sheet to sheet. 
+ 
+The X offset refers to the horizontal distance from the left edge of the paper to the 
+beginning of the printing.  The Y offset refers to the vertical distance between the top of 
+the paper and the beginning of the printing.

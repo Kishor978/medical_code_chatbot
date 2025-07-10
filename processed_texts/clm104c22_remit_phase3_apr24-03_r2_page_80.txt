@@ -1,0 +1,38 @@
+2-120-QTY does not apply to a first bill/payment in an episode.  This data element is 
+used for home health payment only when payment is based on the number of visits (when 
+four or fewer visits) rather than on the HIPPS. 
+70.5 - 835 Version 3051.4A.01 Line Level Reporting Requirements for 
+the Claim Payment in an Episode (More Than Four Visits)  
+A3-3753 
+(Rev.) 
+1. Intermediaries reverse the initial payment for the episode.  They repeat the data 
+from the first bill in steps 1-7 in §70.4, but change the group code to ‘CR’ and 
+reverse the amount signs, i.e., change positive amounts to negatives and negatives 
+to positives. 
+2. Intermediaries enter 'CW' (claim withholding) and repeat the reversal amount 
+from 2-070-SVC03 in 3-010-PLB for this remittance advice.  This will enable the 
+first 60-day payment to be offset against other payments due for this remittance 
+advice. 
+3. The full payment for the episode can now be reported for the end of episode bill. 
+a. Intermediaries repeat steps 1-11 from §70.4 for the service as a reprocessed 
+bill.  They report this data in a separate claim loop in the same remittance 
+advice.  Up to six HIPPS may be reported on the second bill for an episode. 
+b. In addition to the HIPPS code service loop, Intermediaries also enter the 
+actual individual HCPCS for the services furnished.  They include a separate 
+loop for each service.  Revenue code '27x', '623', '27x', and '62x' services may 
+not be billed with a HCPCS, and must be reported in a separate SVC loop in 
+the remittance advice. 
+c. Intermediaries report payment for the service line with the HIPPS in the 
+HCPCS data element at the 100 percent rate (or the zero rate if denying the 
+service) in step 9. 
+d. Intermediaries report group code 'CO', reason code '97' (Payment included in 
+the allowance for another service/procedure), and zero payment for each of 
+the individual HCPCS in the 2-070-SVC segments.  Payment for these 
+individual services is included in that HIPPS payment.  Intermediaries do not 
+report any allowed amount in 2-110.A-AMT for these lines.  They do not 
+report a payment percentage in the loops for HCPCS included in HIPPS 
+payment(s). 
+e. Intermediaries enter the appropriate appeal or other line level remark codes in 
+2-130-LQ.  There are no messages specific to home health HIPPS payments. 
+ 
+80

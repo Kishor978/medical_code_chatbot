@@ -1,0 +1,58 @@
+2 
+ 
+Code     Current Narrative  
+ 
+N115 This decision is based on a local medical review policy (LMRP). An LMRP provides 
+a guide to assist in determining whether a particular item or service is reasonable and 
+necessary. A copy of this policy is available at www.LMRP.net 
+ 
+N116 This payment is being made conditionall y because the service was provided in the 
+home, and it is possible that the patient is under a home health episode of care.  
+When a patient is treated under a home health episode of care, consolidated billing 
+requires that certain therapy services and supplies, such as this, be included in the 
+home health agency’s (HHA’s) payment.  This payment will need to be recouped 
+from you if we establish that the patient is concurrently receiving treatment under an 
+HHA episode of care. 
+ 
+ 
+Modified Remark Codes 
+ 
+M25 Payment has been (denied for the/made onl y for a less extensive) service because the 
+information furnished does not substantiate the need for the (more extensive) service. 
+If you believe the service should have been fully covered as billed, or if you did not 
+know and could not reasonably have been expected to know that we would not pay 
+for this (more extensive) service, or if you notified the patient in writing in advance 
+that we would not pay for this (more extensive) service and he/she agreed in writing 
+to pay, ask us to review your claim either within 6 months of the date of this notice, 
+if this notice is dated September 30, 2002, or earlier, or within 120 days of the date of 
+this notice, if this notice is dated Oct ober 1, 2002, or later. If you do not request a 
+review, we will, upon application from the patient, reimburse him/her for the amount 
+you have collected from him/her (for the/in excess of any deductible and coinsurance 
+amounts applicable to the less extensive) service. We will recover the reimbursement 
+from you as an overpayment.  
+ 
+ M26 Payment has been (denied for the/made only for a less extensive) service because the 
+information furnished does not substantiate the need for the (more extensive) service. 
+If you have collected (any amount from the patient/any amount that exceeds the 
+limiting charge for the less extensive serv ice), the law requires you to refund that 
+amount to the patient within 30 days of receiving this notice. 
+  
+The law permits exceptions to the refund requirement in two cases: 
+ 
+• If you did not know, and could not have reasonably been expected to know, that 
+we would not pay for this service; or  
+ 
+• If you notified the patient in writing before providing the service that you believed 
+that we were likely to deny the service, and the patient signed a statement agreeing 
+to pay for the service. 
+   
+  If you come within either exception, or if you believe the carrier was wrong in its 
+determination that we do not pay for this service, you should request review of this 
+determination within 30 days. Your request for review should include any additional 
+information necessary to support your position. 
+ 
+If you request review  within 30 days of receiving this notice, you may delay 
+refunding the amount to the patient until you receive the results of the review.  If the 
+review decision is favorable to you, you do not need to make any refund.  If, 
+however, the review is unfavorable, the law specifies that you must make the refund 
+within 15 days of receiving the unfavorable review decision.

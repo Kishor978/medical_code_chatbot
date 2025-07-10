@@ -1,0 +1,37 @@
+70.4 - 835 Version 3051.4A.01 Line Level Reporting Requirements for 
+the Request for Anticipated Payment (RAP) Payment for an Episode 
+A3-3753 
+(Rev.) 
+Intermediaries: 
+1. Enter 'HC' (HCPCS revenue code qualifier) in 2-070-SVC01-01, and the Health 
+Insurance PPS (HIPPS) code under which payment is being issued in 2-070-
+SVC01-02.  The HIPPS code is treated as a type of level 3 HCPCS in version 
+3051.4A.1. 
+2. Enter '0' (zero) in 2-070-SVC02 for the HIPPS billed amount and the amount they 
+are paying in SVC03. 
+3. Enter '0023' (home health revenue code) in SVC04. 
+4. Enter the number of covered days, as calculated by the standard system for the 
+HIPPS, in SVC05, the covered units of service - this number should be 1, 
+representing the same date used as the from and through date on the RAP. 
+5. Enter the billed HIPPS in 2-070-SVC06-02 with qualifier 'HC' in 2-070-SVC06-
+01 if the HIPPS has been down coded or otherwise changed during adjudication. 
+6. Enter the start of service date (claim from date) in 2-080-DTM for the 60-day 
+episode.  If a revenue code other than '0023' is billed, they report the line item 
+date associated with that revenue code instead of the claim from date.  The only 
+line item receiving Medicare payment on RAP should be the single '0023' revenue 
+code line. 
+7. Enter group code 'OA' (other adjustment), reason code '94' (processed in excess of 
+charges), and the difference between the billed and paid amounts for the service in 
+2-090-CAS.  They report the difference as a negative amount. 
+8. Enter '1S' (ambulatory patient group qualifier) in 2-100.A-REF01 and the HIPPS 
+code in 2-100.A-REF02. 
+9. Enter 'RB' (rate code number qualifier) in 2-100.B-REF01 and the percentage 
+code (0, 50, 60) in 2-100.B-REF02. 
+10. Enter the appropriate line level remark codes in 2-130-LQ.  There are no 
+messages specific to home health HIPPS payments.  There are no appeal rights for 
+initial percentage episode payments. 
+2-110-AMT (ASC, APC or HIPPS priced amount or per diem amount, conditional) does 
+not apply, and should not be reported for either the first or the final remittance advice for 
+a HIPPS episode. 
+ 
+79

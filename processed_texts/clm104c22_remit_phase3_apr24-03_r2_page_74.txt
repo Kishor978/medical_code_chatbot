@@ -1,0 +1,39 @@
+differentiate remark codes from claim adjustment reason codes.  Remark codes that apply 
+at the service level must be reported in the X12 835 LQ segment.  Remark codes that 
+apply to an entire claim must be reported in either an X12 835 MIA (inpatient) or MOA 
+(noninpatient) segment, as applicable.   
+The list of Remittance Advice Remark Codes can be found at  
+http://www.wpc-edi.com/Remittance_40.asp and  
+http://www.cms.hhs.gov/providers/edi/hipaadoc.asp.  The remark code list is updated 
+every four months, and the updated list is posted each March, July, and November.  
+Medicare contractors must download the updated list every four months to make sure 
+they are using the latest approved remark codes as included in any CMS instructions in 
+their 835 and the corresponding standard paper remittance advice transactions.  
+Contractor and shared system changes must be made, as necessary, as part of a routine 
+release to reflect changes such as retirement of previously used codes or newly created 
+codes that may impact Medicare. 
+60.3 - Group Codes 
+(Rev.) 
+MCM 7030.2 
+A group code is a code identifying the general category of payment adjustment.  A group 
+code must always be used in conjunction with a claim adjustment reason code to show 
+liability for amounts not covered by Medicare or to identify a correction or reversal of a 
+prior decision.  Contractors have discretion as to which group and reason codes, value, 
+and remark codes and messages are appropriate for use, according to the decision you 
+make on a service or a claim, within the Medicare coverage, payment, development and 
+appeal parameters.  Contractors do not have discretion to omit appropriate codes and 
+messages.  Contractors must use claim adjustment reason codes, group codes, value 
+codes and remark codes and messages when they apply.  Contractors must print an appeal 
+code and message on the remittance notice for every  claim.  Contractors must use a 
+limitation of liability code and message and a coordination of benefits code and message 
+where applicable. 
+Valid Group Codes for use on Medicare claims: 
+PR (Patient Responsibility Adjustment) - Any adjustment where the patient will 
+be assuming or has assumed financial responsibility. 
+CR (Correction) - Change to a previously processed claim. 
+OA (Other adjustment) - Any other adjustment.  Do not include any adjustment 
+for which the patient or provider has financial liability. 
+CO (Contractual Obligations) – Payment adjustment where the provider did not 
+meet a program requirement and is financial liability. 
+ 
+74

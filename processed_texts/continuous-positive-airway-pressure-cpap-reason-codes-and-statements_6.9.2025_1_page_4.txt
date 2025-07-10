@@ -1,0 +1,54 @@
+Continuous Positive Airway Pressure (CPAP) Reason Codes and Statements 
+June 9, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         4 
+ 
+Reason 
+Code 
+6B ACCESSORIES 
+CP700 
+More than 1 unit per 6 months of A7046 exceeds the usual maximum amount of 
+accessories as it is included in the initial setup and is therefore not reasonable and 
+necessary. Refer to Local Coverage Determination L33718. 
+CP701 A7045 is a replacement item only and therefore not reasonable and necessary with 
+initial setup. Refer to Local Coverage Determination L33718. 
+CP702 
+More than one unit per three months of A4604 exceeds the usual maximum amount of 
+accessories and is therefore not reasonable and necessary. Refer to Local Coverage 
+Determination L33718 & Policy Article A52467. 
+CP703 
+More than one unit per three months of A7027 exceeds the usual maximum amount of 
+accessories and is therefore not reasonable and necessary. Refer to Local Coverage 
+Determination L33718 & Policy Article A52467. 
+CP704 
+More than two units per one month of A7028 exceeds the usual maximum amount of 
+accessories and is therefore not reasonable and necessary. Refer to Local Coverage 
+Determination L33718. 
+CP705 
+More than two units per one month of A7029 exceeds the usual maximum amount of 
+accessories and is therefore not reasonable and necessary. Refer to Local Coverage 
+Determination L33718. 
+CP706 
+More than one unit per three months of A7030 exceeds the usual maximum amount of 
+accessories and is therefore not reasonable and necessary. Refer to Local Coverage 
+Determination L33718. 
+CP707 
+More than one unit per one month of A7031 exceeds the usual maximum amount of 
+accessories and is therefore not reasonable and necessary. Refer to Local Coverage 
+Determination L33718 & Policy Article A52467. 
+CP708 
+More than two units per one month of A7032 exceeds the usual maximum amount of 
+accessories and is therefore not reasonable and necessary.  Refer to Local Coverage 
+Determination L33718 & Policy Article A52467. 
+CP709 
+More than two units per one month of A7033 exceeds the usual maximum amount of 
+accessories and is therefore not reasonable and necessary. Refer to Local Coverage 
+Determination L33718 & Policy Article A52467. 
+CP710 
+More than one unit per three months of A7034 exceeds the usual maximum amount of 
+accessories and is therefore not reasonable and necessary. Refer to Local Coverage 
+Determination L33718. 
+CP711 
+More than one unit per six months of A7035 exceeds the usual maximum amount of 
+accessories and is therefore not reasonable and necessary. Refer to Local Coverage 
+Determination L33718.

@@ -1,0 +1,39 @@
+TS310  Situational, but required for Medicare if there have been any interest 
+payments to this provider for this fiscal period.  Mapped to ff record 20, 
+field 20. 
+TS311  Situational but required for Medicare if there have been any A2 
+contractual adjustments for this provider for this fiscal period.  Mapped to 
+ff record 20, field 21. 
+TS312  Situational, but required for Medicare if there have been any Gramm-
+Rudman reductions for this provider for this fiscal period.  Mapped to ff 
+record 20, field 22. 
+TS313  Situational, but required for Medicare if there have been any payments 
+made by payer(s) primary to Medicare for claims processed by Medicare 
+for this type of bill for this fiscal period.  This includes any coinsurance 
+and deductible amounts another payer paid for a beneficiary.  Mapped to 
+ff record 20, field 23. 
+TS314  Situational but required for Medicare if any blood deductible amounts 
+have applied to this provider for this type of bill for this fiscal period.  
+Mapped to ff record 20, field 24. 
+TS315  Situational, but required for Medicare if there have been payments made 
+using the clinical lab or orthotics and prosthetics fee schedules.  Equals the 
+total covered charges minus sum of charges for line items paid on either 
+the clinical lab or orthotics and prosthetics fee schedules.  Mapped to ff 
+record 20, field 25. 
+TS316  Situational, but required for Medicare if any coinsurance was due to this 
+provider for this type of bill summary for this fiscal period.  Mapped to ff 
+record 20, field 26. 
+TS317  Situational, but required for Medicare if provider billed for HCPCS line 
+items payable on either clinical lab or orthotics and prosthetics fee 
+schedules for this type of bill for this fiscal period.  Mapped to ff record 
+20, field 27. 
+TS318  Situational, but required for Medicare if benefits allowed for HCPCS line 
+items covered by the clinical lab or orthotics and prosthetics fee schedules 
+for this provider for this fiscal period.  Mapped to ff record 20, field 28. 
+TS319  Situational, but required for Medicare if any cash deductible applied for 
+this provider for this type of bill for this fiscal period.  Mapped to ff record 
+20, field 29. 
+TS320  Situational, but required for Medicare if any professional component 
+amounts were paid to this provider for this type of bill for this fiscal 
+period.  Mapped to ff record 20, field 30. 
+ 17

@@ -1,0 +1,45 @@
+For foreign claims, only the enrollee can file for Part B benefits rendered outside of the 
+United States.  These claims will not include a valid ZIP code.  When a claim is received 
+for these services on a beneficiary submitted Form CMS-1490S, before the claim is 
+entered in the system, it should be determined if it is a foreign claim.  If it is a foreign 
+claim, follow instructions in chapter 1 for disposition of the claim.  The A/B MAC (B) 
+processing the foreign claim will have to make necessary accommodations to verify that 
+the claim is not returned as unprocessable due to the lack of a ZIP code. 
+ 
+For durable medical, orthotic, and prosthetic claims, the name and address of the location 
+where the order was accepted must be entered (DME MAC only).  This field is required.  
+When more than one supplier is used, a separate CMS-1500 claim form shall be used to 
+bill for each supplier.  This item is completed whether the supplier's personnel performs 
+the work at the physician's office or at another location. 
+ 
+If the supplier is a certified mammography screening center, enter the 6-digit FDA 
+approved certification number. 
+ 
+Complete this item for all laboratory work performed outside a physician's office.  If an 
+independent laboratory is billing, enter the place where the test was performed. 
+ 
+Item 32a - If required by Medicare claims processing policy, enter the NPI of the service 
+facility. 
+ 
+Effective for claims submitted with a receipt date on and after October 1, 2015, the 
+billing physician or supplier must report the name, address, and NPI of the performing 
+physician or supplier on the claim on reference laboratory claims, even if the performing 
+physician or supplier is enrolled in a different A/B MAC (B) jurisdiction.  See Pub. 100-
+04, Chapter 1, §10.1.1 for more information regarding claims filing jurisdiction. 
+ 
+Item 32b - Effective May 23, 2008, Item 32b is not to be reported. 
+ 
+Item 33 - Enter the provider of service/supplier's billing name, address, ZIP code, and 
+telephone number.  This is a required field. 
+ 
+Item 33a - Enter the NPI of the billing provider or group.  This is a required field. 
+ 
+Item 33b - Item 33b is not generally reported.  However, for some Medicare policies you 
+may be instructed to use this item; direction as to how to use this item will be in the 
+instructions you received regarding the specific policy, if applicable. 
+ 
+ 
+10.5 - Place of Service Codes (POS) and Definitions 
+(Rev. 12779; Issued: 08-09-24; Effective: 08-01-24; Implementation Date: 01-06-25)  
+ 
+o HIPAA

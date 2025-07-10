@@ -1,0 +1,42 @@
+13
+subscribers that information about the Remittance Advice 
+Remark and Reason Code Update is available on your Web 
+site. 
+ 
+III.  SUPPORTING INFORMATION & POSSIBLE DESIGN CONSIDERATIONS  
+A.   Other Instructions: N/A 
+ 
+X-Ref Requirement # Instructions 
+  
+ 
+B.  Design Considerations: N/A 
+ 
+X-Ref Requirement # Recommendation fo r Medicare System Requirements 
+  
+ 
+C.  Interfaces: N/A 
+ 
+D.  Contractor Financial Reporting /Workload Impact:  N/A 
+ 
+E.  Dependencies: N/A 
+ 
+F.  Testing Considerations: N/A 
+ 
+IV.  SCHEDULE, CONTACTS, AND FUNDING 
+ 
+ 
+Effective Date: January 1, 2004 
+ 
+Implementation Date: January 5, 2004 
+ 
+Pre-Implementation Contact(s):  
+Sumita Sen, ssen@cms.hhs.gov  
+410-786-5755 
+ 
+Post-Implementation Contact(s): 
+Sumita Sen, ssen@cms.hhs.gov  
+410-786-5755 
+ 
+ 
+These instructions should be implemented 
+within your current operating budget

@@ -1,0 +1,45 @@
+If the insured reports a terminating event with regard to insurance which had been 
+primary to Medicare (e.g., insured retired), enter the word "NONE" and proceed to item 
+11b. 
+ 
+If a lab has collected previously and retained Medicare Secondary Payer (MSP) 
+information for a beneficiary, the lab may use that information for billing purposes of the 
+non-face-to-face lab service.  If the lab has no MSP information for the beneficiary, the 
+lab will enter the word “None” in Block 11, when submitting a claim for payment of a 
+reference lab service.  Where there has been no face-to-face encounter with the 
+beneficiary, the claim will then follow the normal claims process.  When a lab has a face-
+to-face encounter with a beneficiary, the lab is expected to collect the MSP information 
+and bill accordingly. 
+ 
+Insurance Primary to Medicare - Circumstances under which Medicare payment may 
+be secondary to other insurance include: 
+ 
+• Group Health Plan Coverage 
+ 
+o Working Aged; 
+o Disability (Large Group Health Plan); and 
+o End Stage Renal Disease; 
+ 
+• No Fault and/or Other Liability; and 
+ 
+• Work-Related Illness/Injury: 
+ 
+o Workers' Compensation; 
+o Black Lung; and 
+o Veterans Benefits. 
+ 
+NOTE:  For a paper claim to be considered for MSP benefits, a copy of the primary 
+payer's explanation of benefits (EOB) notice must be forwarded along with the claim 
+form.  (See Pub. 100-05, Medicare Secondary Payer Manual, chapter 3.) 
+ 
+10.3 - Items 11a - 13 - Patient and Insured Information 
+(Rev. 3083, Issued: 10-02-14, Effective: CMS-1500: 01-06-14, ICD-10 – Upon 
+Implementation of ICD-10, Implementation: CMS-1500: 01-06-14, ICD-10 - Upon 
+Implementation of ICD-10) 
+ 
+Item 11a - Enter the insured's 8-digit birth date (MM | DD | CCYY) and sex if different 
+from item 3. 
+ 
+Item 11b - Form version 08/05: Enter employer's name, if applicable.  If there is a 
+change in the insured's insurance status, e.g., retired, enter either a 6-digit (MM | DD | 
+YY) or 8-digit (MM | DD | CCYY) retirement date preceded by the word, "RETIRED."

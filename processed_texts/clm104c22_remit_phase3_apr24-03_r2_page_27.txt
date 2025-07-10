@@ -1,0 +1,40 @@
+AMT02  Required.  Inpatient or partial hospitalization per diem amount (DY) 
+mapped to ff record 44, field 22.  NL mapped to ff record 44, field 24.  
+Hemophilia add on (ZK) mapped to ff record 44, field 26.  F5 mapped to 
+ff record 44, field 28.  I mapped to ff record 44, field 30.  Any inpatient 
+outlier payment (ZZ) mapped to ff record 44, field 32.  AU mapped to ff 
+record 44, field 34.  The other qualifiers do not apply to Medicare at this 
+time. 
+AMT03  Not used. 
+QTY (064)  Situational, but required for Medicare if any of the QTY01 qualifiers  
+ apply.  Use multiple loops if more than 1 qualifier applies. 
+QTY01  Required.  CA mapped to ff record 44, field 35; NA mapped to ff record 
+ 44, field 37; LA to ff record 44, field 39; CD to ff record 44, field 41; ZK 
+ mapped to ff record 44, field 43; and OU mapped to ff record 44, field 45. 
+QTY02  Required.  CA mapped to ff record 44, field 36.  NA mapped to ff record 
+ 44, field 38.  LA mapped to ff record 44, field 40.  CD mapped to ff record 
+ 44, field 42.  ZK is mapped to ff record 44, field 44.  OU is mapped to ff 
+ record 44, field 46.  The other qualifiers in the implementation guide do 
+ not apply to Medicare at this time. 
+NOTE 1: VS, visits, had been reported at the service level for covered and 
+noncovered HHA visits prior to version 4010.  With HH PPS, it will only 
+be necessary to report HHA visits if there are 4 or fewer visits during an 
+episode.  In version 4010, the number of visits, when 4 or less, will be 
+reported as the line adjustment quantity (SVC level CAS04, 07, 10, 13, 16, 
+or 19) for the final HHA bill for the episode.  The HHA will still be paid 
+on a per visit basis in that situation. 
+NOTE 2: Pre-4010, FL was used to report the approved units for 
+hemophilia add on.  FL is not available for use in the 4010 implementation 
+guide.  Use ZK to report the hemophilia covered units in version 4010.  
+SVC Situational, but required for Medicare when service level detail 
+included on the incoming claim.  A separate loop is required for each 
+procedure. 
+SVC 
+SVC01-1  Required.  Only HC, NU, N4 and ZZ apply to Medicare intermediaries.  
+HC mapped to ff record 50, field 13; NU mapped to ff record 50, field 13; 
+ZZ mapped to ff record 50, field 13; N4 mapped to ff record 50, field 15.  
+HC and ZZ would not apply to the same line, but NU and HC or NU and 
+ZZ could apply to the same line.  When more than one applies to the same 
+line, enter the HC or ZZ in SVC01-1 and the NU in SVC04.  ZZ will be 
+used to report HIPPS codes if used in SNF or HHA billing.  (Contrary to 
+ 27

@@ -1,0 +1,48 @@
+LINE FIELD LITERAL 
+FIELD 
+TYPE* BYTES 
+COL-
+UMNS 
+47 24.5a Date(s) of Service - (From Year) N 2 07-08 
+47 24.5a Date(s) of Service - (To Month) N 2 10-11 
+47 24.5a Date(s) of Service - (To Day) N 2 13-14 
+47 24.5a Date(s) of Service - (To Year) N 2 16-17 
+47 24.5b Place of Service A/N 2 19-20 
+47 24.5c EMG A 2 22-23 
+47 24.5d Procedures, Svcs or Supplies 
+(CPT/HCPCS) 
+A/N 6 25-30 
+47 24.5d Procedures, Svcs or Supplies (Modifier 
+1) 
+A/N 2 33-34 
+47 24.5d Procedures, Svcs or Supplies (Modifier 
+2) 
+A/N 2 36-37 
+47 24.5d Procedures, Svcs or Supplies (Modifier 
+3) 
+A/N 2 39-40 
+47 24.5d Procedures, Svcs or Supplies (Modifier 
+4) 
+A/N 2 42-43 
+47 24.5e Diagnosis Pointer N 4 45-48 
+47 24.5f $ Charges N 8 50-57 
+47 24.5g Days or Units N 3 59-61 
+47 24.5h EPSDT Family Plan A 1 63 
+47 24.5i Legacy Qualifier Rendering Provider 
+(Leave Blank) 
+A/N 0  
+47 24.5j Legacy Provider Number Rendering 
+Provider 
+A/N 11 68-78 
+48 24 Line Detail Narrative A/N 63 01-63 
+48 24.6i Legacy Qualifier Rendering Provider A/N 2 65-66 
+48 24.6j Legacy Provider Number Rendering 
+Provider 
+A/N 11 68-78 
+49 24.6a Date(s) of Service - (From Month) N 2 01-02 
+49 24.6a Date(s) of Service - (From Day) N 2 04-05 
+49 24.6a Date(s) of Service - (From Year) N 2 07-08 
+49 24.6a Date(s) of Service - (To Month) N 2 10-11 
+49 24.6a Date(s) of Service - (To Day) N 2 13-14 
+* M = mark (X), A = alpha, N = numeric 
+49 24.6a Date(s) of Service - (To Year) N 2 16-17

@@ -1,0 +1,32 @@
+CLP06  Required.  Carriers always enter “MB.” None of the other 835 codes apply 
+to Medicare. 
+CLP07  Situational, but required for Medicare. 
+CLP08  Situational, but required for Medicare. 
+CLP09  Situational, but does not apply to Medicare carriers. 
+CLP10  Not used. 
+CLP11  Situational, but does not apply to carriers. 
+CLP12  Situational, but does not apply to carriers. 
+CLP13  Situational, but does not apply to carriers. 
+CAS (claim)  Situational, but does not apply to carriers.  Adjustments for Medicare 
+carriers should always be reported at the line level Unlike prior 835 
+versions, version 4010 does not require entry of an OA 93 message in a 
+claim level CAS when there are no claim level adjustments. 
+NM1 (030.A)  Required to report patient-related information. 
+NM101  Required. 
+NM102  Required. 
+NM103  Required. 
+NM104  Required. 
+NM105  Situational, but required for Medicare when a middle name or initial is 
+available for the patient. 
+NM106  Not used. 
+NM107  Situational, but will not be used for Medicare. 
+NM108  Situational, but required for Medicare.  Always enter “HN” for Medicare, 
+until notified that the HIPAA Individual Identifier is effective, at which 
+point enter “II” in this data element.  None of the other qualifiers apply to 
+Medicare. 
+NM109  Situational, but required for Medicare if reported on the incoming claim. 
+NM110-111  Not used. 
+NM1 (030.B) Situational, but the loop is intended for information on an insured when 
+different than the patient.  This situation does not apply in Medicare.  Not 
+used. 
+ 38

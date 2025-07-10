@@ -1,0 +1,46 @@
+entity which could be described by an existing POS code, the providers are to 
+use the Mobile Unit POS code 15. Apply the nonfacility rate to payments for 
+services designated as being furnished in POS code 15; apply the appropriate 
+facility or nonfacility rate for the POS code designated when a code other than 
+the mobile unit code is indicated. 
+ 
+A physician or practitioner's office, even if mobile, qualifies to serve as a 
+telehealth originating site. Assuming such an office also fulfills the requirement 
+that it be located in either a rural health professional shortage area as defined 
+under section 332(a)(1)(A) of the Public Health Service Act (42 U.S.C. 
+254e(a)(1)(A)) or in a county that is not included in a Metropolitan Statistical 
+Area as defined in section 1886(d)(2)(D) of the Act, the originating physician's 
+office should use POS code 11 (Office) in order to ensure appropriate payment 
+for services on the list of Medicare Telehealth Services. 
+ 
+• Special Considerations for Prison/Correctional Facility Settings (Code 09) 
+ 
+The addition of code 09 to the POS code set and Medicare claims processing 
+reflects Medicare’s compliance with HIPAA laws and regulations. Local 
+contractors must continue to comply with CMS current policy that does not 
+allow payment for Medicare services in a penal institution in most cases. The 
+addition of a POS code for a prison/correctional facility setting does not 
+supersede this policy.  (See Pub. 100-04, Medicare Claims Processing, section 
+10.4, chapter 1.) 
+ 
+• Special Considerations for Walk-In Retail Health Clinic (Code 17) 
+(Effective no later than May 1, 2010) 
+ 
+It should be noted that, while some entities in the industry may elect to use POS 
+code 17 to track the setting of immunizations, Medicare continues to require its 
+billing rules for immunizations claims, which are found in chapter 18, section 
+10 of this manual. Contractors are to instruct providers and suppliers of 
+immunizations to continue to follow these Medicare billing rules. However, 
+Medicare contractors are to accept and adjudicate claims containing POS code 
+17, even if its presence on a claim is contrary to these billing instructions. 
+ 
+• Special Considerations for Services Furnished to Registered Inpatients 
+ 
+When a physician/practitioner furnishes services to a registered inpatient, 
+payment is made under the PFS at the facility rate. To that end, a 
+physician/practitioner/supplier furnishing services to a patient who is a 
+registered inpatient, shall, at a minimum, report the inpatient hospital POS code 
+21 irrespective of the setting where the patient actually receives the face-to-face 
+encounter. In other words, reporting the inpatient hospital POS code 21 is a 
+minimum requirement for purposes of triggering the facility payment under the 
+PFS when services are provided to a registered inpatient. If the

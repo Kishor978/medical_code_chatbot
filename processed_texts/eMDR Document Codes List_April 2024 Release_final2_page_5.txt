@@ -1,0 +1,62 @@
+eMDR Document Codes List (April 2024 Release) 
+Page 5 of 27 
+ 
+Document 
+Code 
+Document Description Action Release 
+100079 Psychiatric diagnostic evaluation or psychotherapy 
+face-to-face encounter, including the time spent in the 
+psychotherapy encounter      
+    
+100080 Psychiatric evaluation and all 
+behavioral/psychological/psychiatric tests that have 
+been performed 
+    
+100081 Psychosocial Assessment     
+100082 Record of mental status     
+100083 Records of conservative measures trialed for treatment 
+of service provided 
+    
+100084 Respiratory treatments and oxygen therapy records     
+100085 Review of beneficiary prior and current medical and 
+functional conditions and comorbidities 
+    
+100086 Social service records - including interviews with 
+beneficiary, family members, and others, must provide 
+an assessment of home plans and family attitudes, and 
+community resource contacts as well as a social history 
+    
+100087 Subsequent hospital inpatient care     
+100088 Therapy logs that show services, dates and times for 
+code billed    
+    
+100089 Treatment plan     
+100090 Types and duration of precautions (e.g., constant 
+observation x 24 hours due to suicidal plans, restraints). 
+    
+100091 Visual field measurement/documentation                     
+100092 Date/time of administration of associated chemotherapy     
+100093 Debridement of nails with E&M      
+100094 Dialysis treatment sheets      
+100095 Documentation to support reason not transporting to 
+nearest facility  
+    
+100096 Documentation to support type and amount of contrast 
+given  
+    
+100097 Documented pharmacologic management to include 
+prescription and dosage adjustment/changes 
+    
+100098 If the dosage for the drug under review is outside the 
+allowed amount per the drug compendium, submit 
+documentation to support the medical necessity of this 
+dose variance (i.e. clinical trial, article, studies, etc.) 
+    
+100099 Information for any clinical trial name, enrollment 
+documentation, sponsor of the clinical trial, and 
+sponsor-assigned protocol number 
+    
+100100 Documentation to support nasal endoscopy on the same 
+day with more than one provider 
+Modified Apr 
+2024

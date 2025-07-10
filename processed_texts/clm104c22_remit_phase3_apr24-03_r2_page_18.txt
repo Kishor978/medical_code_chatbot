@@ -1,0 +1,35 @@
+TS321  Situational, but required for Medicare if other payers satisfied the patient 
+liability amounts (reason codes in the PR group) for this provider for this 
+type of bill for this fiscal period.  Mapped to ff record 20, field 31. 
+TS322  Situational, but required if any refund made to patients by Medicare on 
+behalf of this provider for this type of bill for this fiscal period.  Mapped 
+to ff record 20, field 32. 
+TS323  Situational, but required for Medicare if this provider was on PIP for any 
+portion of this fiscal period.  Mapped to ff record 20, field 33. 
+TS324  Situational, but required for Medicare if this provider was on PIP for any 
+portion of this fiscal period.  Mapped to ff record 20, field 34. 
+TS2  Situational, but required for Medicare if there have been inpatient PPS 
+payments to this provider for this type of bill for this fiscal period. 
+TS201  Required.  Mapped to ff record 21, field 13. 
+TS202  Situational, but required for Medicare if any federal-specific operating 
+DRG amounts have been paid.  Mapped to ff record 21, field 14. 
+TS203  Situational, but required for Medicare if any hospital-specific operating 
+DRG amounts have been paid.  Mapped to ff record 21, field 15. 
+TS204  Situational, but required for Medicare if any disproportionate share 
+payments have been paid.  Mapped to ff record 21, field 16. 
+TS205  Situational, but required for Medicare if capital payments, other than 
+capital outliers, have been paid.  Mapped to ff record 21, field 17. 
+TS206  Situational, but required for Medicare if any indirect medical education 
+payments made.  Mapped to ff record 21, field 18. 
+TS207  Situational, but required for Medicare if any day outlier payments made.  
+Mapped to ff record 21, field 19. 
+TS208  Situational, but required for Medicare if any day outlier payments made.  
+Mapped to ff record 21, field 20. 
+TS209  Situational, but required for Medicare if any cost outlier payments made.  
+Mapped to ff record 21, field 21. 
+TS210  Situational, but required for Medicare if DRG payments made.  This is the 
+arithmetic average length of stay for DRGs for this interchange 
+transmission.  Mapped to ff record 21 field 22. 
+TS211  Situational, but required for Medicare when there have been discharges.  
+Mapped to ff record 21, field 23. 
+ 18

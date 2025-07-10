@@ -1,0 +1,36 @@
+Health Information Management Indicator Dashboard 
+This section should be filled out and monitored by health information management leadership and reported to the 
+revenue cycle performance improvement team. 
+2021 Revenue Cycle Score Cards cont.
+ INDICATOR  GREEN  YELLOW  RED
+ DNFB
+ DNFC
+ % of accounts over 60 days in 
+ waiting for coding
+Patient Financial Services Indicator Legend 
+This section is based on performance benchmark rates monitored by WHA and HCM for their members.
+ INDICATOR  GREEN  YELLOW  RED
+ A/R Days (gross) <45 45-55 >55
+ A/R >90 Days <19% 20%-25% >25%
+ Clean claim rate >98% 97%-90% <90%
+ Credit balances  <2 days 3-4 days >4 days
+ (of aging; gross revenue ) 
+Patient Financial Services Indicator Dashboard 
+This section should be filled out and monitored by patient financial services leadership and reported to revenue cycle 
+performance improvement team. 
+ INDICATOR  GREEN  YELLOW  RED
+ A/R Days (gross)
+ A/R >90 Days
+ Clean claim rate
+ Credit balances 
+ (of aging; gross revenue )
+Example: Revenue Cycle Indicator Dashboard 
+ INDICATOR  GREEN  YELLOW  RED
+ Bad debt   3.5% 
+ Charity 3% 
+ DNFB 3 
+ % of accounts over 60 days   5%
+ in waiting for coding  
+ A/R >90 Days  22%
+ A/R Days (gross) 40 
+PAGE NINE

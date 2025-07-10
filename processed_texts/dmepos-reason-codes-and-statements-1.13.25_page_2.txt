@@ -1,0 +1,50 @@
+Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) Reason Codes and 
+Statements  
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         2 
+ 
+ 
+Reason 
+Code LCD CRITERIA SPECIFIC 
+PMD3A 
+The face-to-face examination does not demonstrate how mobility limitations 
+significantly impair the beneficiary's ability to participate in one or more mobility- 
+related activities of daily living (MRADLs) in the home. Refer to Local Coverage 
+Determination 33789 Policy Article A52498. 
+PMD3B 
+The face-to-face examination does not demonstrate the beneficiary's mobility 
+limitation cannot be sufficiently and safely resolved by the use of an appropriately 
+fitted cane or walker. Refer to Local Coverage Determination 33789 Policy Article 
+A52498. 
+PMD3C 
+The face-to-face examination does not demonstrate the beneficiary's upper 
+extremity function is insufficient to self-propel an optimally-configured manual 
+wheelchair in the home. Refer to Local Coverage Determination 33789 Policy Article 
+A52498. 
+PMD3D 
+The face-to-face examination does not demonstrate the beneficiary is able to safely 
+transfer to and from the power operated vehicle. Refer to Local Coverage 
+Determination 33789 Policy Article A52498. 
+PMD2W 
+The face-to-face examination does not include the encounter date. Refer to 42 Code of 
+Federal Regulations 410.38 (c), Local Coverage Determination 33789 & Local 
+Coverage Article A55426. 
+PMD2X 
+The face-to-face examination is incomplete as it is missing pages. Refer to 42 Code of 
+Federal Regulations 410.38 (c), Local Coverage Determination 33789 & Local 
+Coverage Article A55426. 
+PMD2Y 
+The documentation does not demonstrate the beneficiary's power mobility device was 
+lost, stolen or irreparably damaged in a specific incident. Refer to Medicare Benefit 
+Policy Manual 100-02 Chapter 15, Section 110.2.C & Local Coverage Article A55426. 
+PM2AA 
+Supplier-produced records, even if signed by the ordering physician/practitioner and 
+attestation letters are deemed not to be part of a medical record for Medicare payment 
+purposes. Refer to Medicare Program Integrity Manual 5.7 & Local Coverage Article 
+A55426. 
+PM2AB The addendum to the face-to-face examination was not completed by the treating 
+physician/practitioner. Refer to Medicare Program Integrity Manual 3.3.2.5. 
+PM2AC The medical documentation contains conflicting information. Refer to Local Coverage 
+Determination 33789. 
+PMD2Z The face-to-face examination (explain identified problem with the face to face)

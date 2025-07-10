@@ -1,0 +1,33 @@
+NM1 (030.C)  Situational, but is required for Medicare when the patient’s name, as 
+received on the claim, has been corrected. 
+NM101  Required.  For Medicare purposes, the insured is the patient. 
+NM102  Required.  Code 2 does not apply to Medicare. 
+NM103  Situational, but required for Medicare if the last name has been corrected. 
+NM104  Situational, but required for Medicare if the first name has been corrected. 
+NM105  Situational, and optional for Medicare carrier to report a corrected middle 
+name or initial. 
+NM106  Not used. 
+NM107  Situational, but not used for Medicare. 
+NM108  Situational, but required for Medicare if the ID # has been corrected. 
+NM109  Situational, but required for Medicare if the ID # has been corrected. 
+NM110-111  Not used. 
+NM1 (030.D)  Situational, but required by the IG if the rendering provider is other than 
+the payee.  Rendering provider could vary by service.  If the rendering 
+provider for a service is different than reported at the claim level, the other 
+rendering provider(s) must be identified at the service level.  It is not 
+necessary to repeat information for a rendering provider at the service 
+level when the same as reported at the claim level.  If there is more than 
+one rendering provider other than the payee, enter either the identity of the 
+provider who performed more of the services at the claim level, or if that 
+would create programming difficulties, the identity of the first of the listed 
+rendering providers. 
+NM101  Required. 
+NM102  Required.  Code 2 does not apply to Medicare. 
+NM103  Situational, but do not report for Medicare.  (Medicare reports only the 
+number, not the name of the rendering provider.) 
+NM104  Situational, but do not report for Medicare.  (Medicare reports only the 
+number, not the name of the rendering provider.) 
+NM105  Situational, but do not report for Medicare.  (Medicare reports only the 
+number, not the name of the rendering provider.) 
+NM106  Not used. 
+ 39

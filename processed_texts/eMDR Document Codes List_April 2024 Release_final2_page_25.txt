@@ -1,0 +1,73 @@
+eMDR Document Codes List (April 2024 Release) 
+Page 25 of 27 
+ 
+Document 
+Code 
+Document Description Action Release 
+next 24 hours, including, but not limited to, visit notes, 
+progress notes, if applicable 
+100470 Names, licenses and NPI's  for the medical directors, 
+physicians, and advanced practice providers active 
+during the review period 
+New code 
+added 
+Apr 
+2024 
+100471 All Physician Orders, including medications, level of 
+care changes such as General Inpatient (GIP), 
+Continuous Homecare (CHC), Routine Homecare 
+(RHC), Respite care, and any DME 
+New code 
+added 
+Apr 
+2024 
+100472 All documentation to support the medical necessity of 
+the services billed, such as but not limited to: Hospital 
+discharge summaries, any recent History & Physical 
+Exams, Consultations, and all skilled nursing, home 
+health, or other facility notes, Pathology reports and 
+other diagnostic imaging or tests, Records from the 
+referring physician, Medication administration record 
+(MAR), weights and measurements, and treatment 
+administration record (TAR) for the period under 
+review, if available 
+New code 
+added 
+Apr 
+2024 
+100473 If the beneficiary qualified for a waiver of the 
+qualifying hospital stay (QHS) due to Accountable Care 
+Organization (ACO), documentation of the ACO 
+physician evaluation and approval for admission to the 
+SNF within three days of admission 
+New code 
+added 
+Apr 
+2024 
+100474 Physician's order with signature and date,  evaluation 
+and approval for admission to the SNF within three 
+days of admission 
+New code 
+added 
+Apr 
+2024 
+100475 Documentation to support the necessity of medications 
+administered 
+New code 
+added 
+Apr 
+2024 
+100476 Minimum Data Set (MDS) submission validation report 
+and UB04/CMS-1450 form 
+New code 
+added 
+Apr 
+2024 
+150001 More documents requested, please refer to the PDF 
+copy of the ADR Letter 
+    
+150002 Please refer to the PDF copy of the ADR Letter for 
+requested documents 
+    
+150003 Documents requested are yet to be assigned a code, 
+please refer to the PDF copy of the letter

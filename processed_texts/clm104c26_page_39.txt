@@ -1,0 +1,46 @@
+Medicare Claims Processing Manual, Chapter 12, "Physician/Nonphysician 
+Practitioner," for instructions on when assistant-at-surgery is allowable.) 
+ 
+• TOS H appears in the list of descriptors.  However, it does not appear in the table.  
+In CWF, "H" is used only as an indicator for hospice.  The contractor should not 
+submit TOS H to CWF at this time. 
+ 
+• For outpatient services, when a transfusion medicine code appears on a claim that 
+also contains a blood product, the service is paid under reasonable charge at 80%, 
+coinsurance and deductible apply.  When transfusion medicine codes are paid 
+under the clinical laboratory fee schedule pay at 100%, coinsurance and 
+deductible do not apply. 
+ 
+NOTE:  For injection codes with more than one possible TOS designation, use the 
+following guidelines when assigning the TOS: 
+ 
+When the choice is L or 1, 
+ 
+• Use TOS L when the drug is used related to ESRD; or 
+ 
+• Use TOS 1 when the drug is not related to ESRD and is administered in the 
+office. 
+ 
+When the choice is G or 1: 
+ 
+• Use TOS G when the drug is an immunosuppressive drug; or 
+ 
+• Use TOS 1 when the drug is used for other than immunosuppression. 
+ 
+When the choice is P or 1, 
+ 
+• Use TOS P if the drug is administered through durable medical equipment 
+(DME); or 
+ 
+• Use TOS 1 if the drug is administered in the office. 
+ 
+The place of service or diagnosis may be considered when determining the appropriate 
+TOS.  The descriptors for each of the TOS codes listed in the annual HCPCS update are: 
+ 
+Type of Service Indicators 
+ 
+Code Description 
+0 Whole Blood 
+1 Medical Care 
+2 Surgery 
+3 Consultation

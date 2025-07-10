@@ -1,0 +1,37 @@
+REF02  Required.  1S mapped to ff record 50, field 37.  RB mapped to ff record 
+50, field 38 when a rate code factored in the payment.  The APC number 
+will only be reported with the first HCPCS, and not for subsequent 
+HCPCS, in that APC. 
+REF03-04  Not used. 
+REF (100.B)  Situational, but does not apply to Medicare intermediaries. 
+AMT (110)  Situational, but required for Medicare intermediaries if any of the 
+ qualifiers apply.  Multiple loops must be used if more than 1 qualifier 
+ applies. 
+AMT01  Required.  Only DY and B6 currently apply to Medicare intermediaries.  
+ DY mapped to ff record 50, field 39.  B6 mapped to ff record 50, field 41. 
+AMT02  Required.  DY mapped to ff record 50, field 40.  B6 mapped to ff record 
+50, field 42. 
+AMT03  Not used. 
+QTY  Situational, but does not apply to Medicare intermediaries in version 4010.  
+Used to report covered and noncovered HHA visits in prior versions.  
+Most HHA care will now be paid under HH PPS.  In those cases where 
+individual HHA visit payments are made, the number of covered visits 
+will be reported in SVC05, the quantity data element for the HHA visits 
+HCPCS ad with the VS qualifier in a claim level QTY segment.  The 
+number of noncovered visits will be shown as a quantity adjustment in the 
+CAS segment for the HHA visits HCPCS. 
+LQ  Situational, but required for Medicare whenever any service level remark 
+codes apply.  Multiple loops must be used if more than 1 service level 
+remark code applies.  The flat file can record up to 19 remark codes per 
+service. 
+LQ01  Required.  Only “HE” applies to Medicare intermediaries.  1st HE mapped 
+to ff record 50, field 43; 2nd to field 45; 3rd to field 47; 4th to field 49; 5th 
+to field 51; 6th to field 53; 7th to field 55; 8th to field 57; and 9th to field 
+59. 
+LQ02  Required.  1st mapped to ff record 50, fields 44, and succeeding to fields 
+46, 48, 50, 52, 54, 56, 58, and 60 respectively. 
+Table 3, Summary Data 
+PLB  Situational, but required for Medicare whenever there have been any 
+provider-level adjustments. 
+PLB01  Required.  Mapped to ff record 60, field 3. 
+ 31

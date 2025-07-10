@@ -1,0 +1,37 @@
+MOA08  Situational, but required for Medicare if ESRD payment made.  Mapped to 
+ ff record 43, field 20. 
+MOA09  Situational, but required for Medicare if professional component amount 
+ billed but not payable to this provider.  Mapped to ff record 43, field 21. 
+REF (040.A)  Situational, but required for Medicare if provider submitted a proprietary
+ identification number on the claim. 
+REF01  Required.  Only “EA” applies to Medicare.  Mapped to ff record 44, field 
+ 13. 
+REF02  Required.  Mapped to ff record 44, field 14. 
+REF03-04  Not used. 
+REF (040.B)  Situational, but does not apply to Medicare intermediaries. 
+DTM (050)  Situational, but multiple loops required for Medicare. 
+DTM01  Required.  “050" mapped to ff record 44, field 15.  “232” mapped to ff 
+ record 44, field 17.  “233” mapped to ff record 44, field 19. 
+DTM02  Required.  Mapped to ff record 44, field 16 for 050.  Mapped to ff record 
+ 44, field 18 for 232.  Mapped to ff record 44, field 20 for 233. 
+DTM03-06  Not used. 
+PER (060)  Situational, but not used by Medicare. 
+AMT (062)  Situational, but required for Medicare if any of the qualifiers in AMT01 
+ apply to the claim. 
+AMT01  Required.  Use multiple loops if more than 1 qualifier applies.  DY 
+mapped to ff record 44, field 21; NL mapped to ff record 44, field 23; ZK 
+for hemophilia add on to ff record 44, field 25; F5 to ff record 44, field 27; 
+I to ff record 44, field 29; ZZ for inpatient outlier payment to ff record 44, 
+field 31; AU to ff record 44, field 33.  The other qualifiers do not apply to 
+Medicare at this time. 
+NOTE: Pre-4010, NJ was reported in the AMT segment to report the 
+gross amount of payment made by the primary payer on the claim.  NJ is 
+not approved for use in 4010.  In 4010, primary payment reporting will be 
+limited to the use of claim adjustment reason code 23 to convey the 
+amount of the primary payment that impacted the Medicare payment 
+calculation.  This may be less than the gross payment made by the primary 
+payer.  Since Medicare would be primary in this instance, the provider 
+would already have been notified of the gross amount of the primary’s 
+payment by that payer.  This is not considered an essential data element 
+for a secondary payer’s remittance advice. 
+ 26

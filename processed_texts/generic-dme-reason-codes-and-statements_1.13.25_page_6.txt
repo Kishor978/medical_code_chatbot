@@ -1,0 +1,43 @@
+Generic Durable Medical Equipment (DME) Reason Codes and Statements 
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         6 
+ 
+GDW07 The supplier indicates the item(s) were billed in error.   
+GDW08 
+The beneficiary was in an acute care hospital or skilled nursing facility on this date of 
+service.  Refer to Medicare Claims Processing Manual 100-04, Chapter 20, Sections 
+210-212. 
+GDW09 
+The medical record documentation does not demonstrate a change in the patient's 
+medical condition necessitating a different item.  Refer to Medicare Claims Processing 
+Manual 100-04, Chapter 20, Section 50 & applicable Local Coverage 
+Determination/Policy Article. 
+GDW10 The claim submitted is a duplicate to another claim billed. 
+GDW11 The beneficiary does not reside in this jurisdiction. 
+GDW12 The claim submitted is a duplicate to another claim processed through medical record 
+review. 
+GDW13 The date of service on the claim is after the beneficiary's date of death.   Refer to 
+Medicare Claims Processing Manual 100-04, Chapter 20. 
+GDW14 The time limit for filing claims has expired.   Refer to 42 CFR 424.44 & Medicare 
+Claims Processing Manual 100-04, Chapter 1, Section 70. 
+GDW15 The claim was billed with an incorrect Medicare Beneficiary Identifier.  Refer to 
+Medicare Claims Processing Manual 100-04, Chapter 1, Section 70.2.3.1. 
+GDW16 The item was provided prior to an inpatient hospital admission or Part A covered 
+skilled nursing facility stay and its use began during the stay. 
+GDW17 The item was provided during an inpatient hospital or Part A covered skilled nursing 
+facility stay prior to the day of discharge and the use began during the stay. 
+GDW18 The payment for this item(s) is included in the payment of another as it bundles. 
+GDW19 
+The item billed is not specified in the Product Classification List on the Pricing, Data 
+Analysis and coding (PDAC) contractor web site. Refer to applicable Local Coverage 
+Determination/Policy Article. 
+GDW20 The claim is billed for items which are not billable to the DME MAC. 
+GDW21 The supply or accessory is denied as the base equipment is denied. Refer to applicable 
+Local Coverage Determination/Policy Article.  
+GDW22 The documentation submitted is for a Prior Authorization (PA) program that excludes 
+a Railroad Board (RRB) beneficiary. 
+GDW23 The beneficiary resides in a state that is not eligible for Prior Authorization. 
+GDW24 This is a duplicate Prior Authorization Request. 
+GDW25 An error occurred during the fax transmission of the Prior Authorization request and it 
+is unable to be processed.

@@ -1,0 +1,33 @@
+PLB13-2  Situational, but required if there is a sixth provider level adjustment. 
+PLB14  Situational, but required if there is a sixth provider level adjustment. 
+SE  Required. 
+SE01  Required.  The transaction segment count is computed by the carrier 
+system. 
+SE02  Required. 
+50 - Standard Paper Remittance Advice Notices  
+A3-3754, Exhibit 1 and 2, MCM 3024.5, PM B-01-76, A-01-057, A-01-93 
+(Rev.) 
+The Standard Paper Remittance (SPR) is the hard copy version of an ERA.  All carriers, 
+intermediaries, and DMERCs must be capable of producing SPRs for providers who are 
+unable or choose not to receive an ERA. 
+This instruction contains completion requirements, layout formats/templates, and 
+information on the SPR as well as a crosswalk of the SPR data fields to the 835 version 
+4010 data fields. 
+50.1 - The Do Not Forward (DNF) Initiative 
+B-02-023, A-02-012, R1763B3 
+(Rev.) 
+As part of the Medicare DNF Initiative, Carriers, DMERCs and users of the Arkansas 
+Part A Standard System (APASS) must use "return service requested" envelopes for 
+mailing all hardcopy remittance advices.  When the post office returns a remittance 
+advice due to an incorrect address, follow the same procedures you follow for returned 
+checks; that is: 
+• Flag the provider "DNF"; 
+• Carrier staff must notify the provider enrollment area, and DMERCs must notify 
+the National Supplier Clearing House (NSC); 
+• Cease generating any further payments or remittance advice to that provider or 
+supplier until they furnish a new address that is verified; and 
+• When the provider returns a new address, remove the DNF flag after the address 
+has been verified, and pay the provider any funds you are still holding due to a 
+DNF flag.  You must also reissue any remittance advice you have been holding as 
+well. 
+ 47

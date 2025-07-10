@@ -1,0 +1,52 @@
+Home Health Services Pre-Claim Review Reason Codes and Statements 
+Updated July 6, 2021 
+ 
+5 
+ 
+HH07F 
+Documentation submitted does not support home health aides are reasonable and 
+necessary. Refer to CMS IOM Publication 100-02, Chapter 7, Section 50.2 and 42CFR 
+409.45(b). 
+HH07G 
+An order for the social worker services is invalid because it does not contain either the 
+type of services to be provided, the professional who will provide the services or the 
+frequency of the services. Refer to CMS IOM Publication 100-02, Chapter 7, Section 
+30.2.2 and 42 CFR 409.43(b). 
+HH07H 
+An order for Home Health Aide Services is invalid because it does not contain either the 
+type of services to be provided, the professional who will provide the services or the 
+frequency of the services. Refer to CMS IOM Publication 100-02, Chapter 7, Section 
+30.2.2 and 42 CFR 409.43(b). 
+  
+Reason 
+Code Response with Multiple Services Decisions 
+HHZ01 The HHPCR request has been partially affirmed. More details can be found in the decision 
+letter.  
+ 
+ 
+ 
+ 
+ 
+ 
+Reason 
+Code 
+Administrative/Other  
+(For Transmission via esMD) 
+GEX01 The file is corrupt and/or cannot be read 
+GEX02 The submission was sent to the incorrect review contractor 
+GEX03 A virus was found 
+GEX04 Other 
+GEX05 The system used to retrieve the Subscriber/Insured details using the given MBI is 
+temporarily unavailable. 
+GEX06 The documentation submitted is incomplete. 
+GEX07 This submission is an unsolicited response. 
+GEX08 The documentation submitted cannot be matched to a case/claim. 
+GEX09 This is a duplicate of a previously submitted transaction. 
+GEX10 The date(s) of service on the cover sheet received is missing or invalid. 
+GEX11 The NPI on the cover sheet received is missing or invalid. 
+GEX12 The state where services were provided is missing or invalid on the cover sheet received.  
+GEX13 The Medicare ID on the cover sheet received is missing or invalid.  
+GEX14 The billed amount on the cover sheet received is missing or invalid.  
+GEX15 The contact phone number on the cover sheet received is missing or invalid. 
+GEX16 The Beneficiary name on the cover sheet received is missing or invalid. 
+GEX17 The Claim number on the cover sheet received is missing or invalid.

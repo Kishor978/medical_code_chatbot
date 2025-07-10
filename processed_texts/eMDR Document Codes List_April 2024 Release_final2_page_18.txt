@@ -1,0 +1,62 @@
+eMDR Document Codes List (April 2024 Release) 
+Page 18 of 27 
+ 
+Document 
+Code 
+Document Description Action Release 
+100352 Identify all caregivers and state whether they are your 
+employees. If not, please provide the name of the 
+company or person you are contracted with and supply 
+a contact name, address and phone number. 
+    
+100353 Ra prepayment review demonstration project MS-DRG 
+312 - syncope and collapse - 2-day LOS or less. New 
+York state providers only 
+    
+100354 Explanation of the beneficiary's medical 
+conditions/circumstances that make usage of a custom 
+piece of durable medical equipment necessary.   
+Modified Apr 
+2024 
+100355 Explanation of how this item was uniquely constructed 
+or modified for the beneficiary according to the 
+description and orders of the physician. Include what 
+makes this item different from all other pieces of 
+durable medical equipment used for the same purpose. 
+    
+100356 Itemization of the costs involved in the construction of 
+this piece of customized durable medical equipment. 
+The itemization must include a breakdown of the 
+materials and labor. 
+    
+100357 Warranty(s)     
+100358 Explanation of why the parts and labor billed should be 
+considered as included in the warranty 
+    
+100359 5601/overlap letter     
+100360 List of all personnel billing services under your NPI. 
+List credentialing, training, licensure, etc., of all 
+personnel.  
+    
+100361 Wound care notes     
+100362 Travel Log     
+100363 Signature and credentials of all personnel providing 
+services. Include a signature log or signature attestation 
+for any missing or illegible signatures within the 
+medical record.  
+    
+100364 List of all non-standard abbreviations or acronyms used, 
+including definitions 
+    
+100365 Signed pick up slips     
+100366 Documentation from treating practitioner and/or 
+supplier for servicing, repair, or replacement of 
+DMEPOS  
+    
+100367 Clinical information supplied to the lab by the ordering 
+physician, including diagnosis codes and narratives 
+    
+100368 Itemized statement of all billed charges (including 
+charge code descriptions) 
+    
+100369 Documentation of therapeutic activities

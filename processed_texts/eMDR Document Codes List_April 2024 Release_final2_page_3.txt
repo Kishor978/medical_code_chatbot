@@ -1,0 +1,61 @@
+eMDR Document Codes List (April 2024 Release) 
+Page 3 of 27 
+ 
+Document 
+Code 
+Document Description Action Release 
+100041 Documentation to support National Coverage 
+Determination (NCD), Local Coverage Determination 
+(LCD), Policy Article, and/or Standard Documentation 
+Requirement Article (A55426) requirements 
+    
+100042 Documentation to support a systemic condition, 
+neuropathy, vascular impairment, onychogryphosis 
+and/or onychauxis.   
+    
+100043 Documentation to support a) compliance with and a 
+failed trial of symptom- appropriate behavioral therapy 
+of sufficient length to evaluate potential efficacy and b) 
+compliance with and has failed or been unable to 
+tolerate a trial of at least two appropriate medications 
+administered for four to eight weeks 
+    
+100044 Documentation to support care is being provided under 
+the care of a physician 
+    
+100045 Documentation to support each of the Health Insurance 
+Prospective Payment System (HIPPS) code(s) billed, 
+including but not limited to any of the following related 
+to each of the assessment reference date(s) (ARD);  
+admission assessments/evaluations, orders, nurse notes, 
+progress notes, history and physical(s), medication 
+records, treatment records, acute hospital records. 
+Modified Apr 
+2024 
+100046 Documentation to support information entered on the 
+IRF PAI 
+    
+100047 Documentation to support overactive bladder syndrome 
+(OBS) and beneficiary is a candidate for PTNS      
+    
+100048 Documentation to support severe peripheral 
+involvement.    
+    
+100049 Documentation to support that the entire body was 
+exposed to the oxygen increased atmospheric pressure 
+and administered in a chamber 
+    
+100050 Documentation to support time in/out or actual time 
+spent.                 
+    
+100051 Emergency Room records     
+100053 Evaluation of foot structure, vascular and skin integrity       
+100054 Functional Independent Measure (FIM) records     
+100055 History and Physical reports (include medical history 
+and current list of medications) 
+    
+100056 Documentation to support homebound status Modified Apr 
+2024 
+100057 Hospital records that validate a qualifying stay     
+100058 Hyperbaric Oxygen (HBO) Therapy logs/treatment 
+record

@@ -1,0 +1,24 @@
+LINE FIELD LITERAL 
+FIELD 
+TYPE* BYTES 
+COL-
+UMNS 
+53 33 Physician/Supplier Billing Name A/N 29 50-78 
+54 32 Address of Facility Where Svcs 
+Rd d  
+A/N 26 23-48 
+54 33 Physician/Supplier Address A/N 29 50-78 
+55 31 Left Blank for Signature 
+Physician/Supplier 
+   
+55 32 City, State and ZIP Code of Facility A/N 26 23-48 
+55 33 City, State and ZIP Code of Billing 
+P id  
+A/N 29 50-78 
+56 32a Facility NPI Number N 10 24-33 
+56 32b Facility Qualifier and Legacy Number A/N 14 35-48 
+56 33a Billing Provider NPI Number N 10 51-60 
+56 33b Billing Provider Qualifier and Legacy 
+Nb  
+A/N 17 62-78 
+* M = mark (X), A = alpha, N = numeric

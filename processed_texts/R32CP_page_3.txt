@@ -1,0 +1,52 @@
+2
+paper remittance advice transactions, and any other ANSI X12 transaction where these 
+codes may be used (e.g., 837 COB).  The following list summarizes changes made from 
+March 1, 2003 to June 30, 2003. 
+Code
+      Current Narrative            Medicare Initiated  
+ 
+N202 
+ 
+Additional information/explanation will be sent separately.  
+ 
+N203 Missing/incomplete/invalid  anesthesia time/units.  
+N204 Services under review for possible pre-existing condition. 
+Send medical records for prior 12 months. 
+ 
+N205 Information provided was illegible.  
+N206 The supporting documentation does not match the claim.  
+N207 Missing/incomplete/inv alid birth weight.  
+N208 Missing/incomplete/invalid DRG code.  
+N209 Missing/invalid/incomplete ta xpayer identification number 
+(TIN). 
+ 
+N210 You may appeal this decision.  
+N211 You may not appeal this decision.  
+ 
+ 
+Modified Remark Codes
+ 
+ 
+Code      Current Modified Narrative            Modification Date  
+ 
+ 
+M13 Only one initial visit is covered per specialty per medical group. (Modified 6/30/03) 
+M18 Certain services may be a pproved for home use.  Neither a 
+hospital nor a skilled nursing facility (SNF) is considered to be a 
+patient's home. 
+ 
+(Modified 6/30/03) 
+M25 Payment has been adjusted because the information furnished 
+does not substantiate the need for this level of service.  If you 
+believe the service should have been fully covered as billed, or if 
+you did not know and could not reasonably have been expected to 
+know that we would not pay for this level of service, or if you 
+notified the patient in writing in advance that we would not pay 
+for this level of service and he/she agreed in writing to pay, ask 
+us to review your claim within 120 days of the date of this notice.  
+If you do not request a review, we will, upon application from the 
+patient, reimburse him/her for the amount you have collected 
+from him/her in excess of any deductible and coinsurance 
+amounts.  We will recover the reimbursement from you as an 
+overpayment. 
+(Modified 6/30/03)

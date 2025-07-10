@@ -1,0 +1,51 @@
+Ambulance Transport Reason Codes and Statements  
+Updated on May 19, 2023 
+ 
+2 
+ 
+   
+Reason 
+Code CERTIFICATION 
+AMB1F No physician certification statement submitted for non -emergency, scheduled, 
+repetitive ambulance service. Refer to 42 CFR §410.40 (e)(2).  
+AMB4D Missing provider signature on the physician certification statement (non-emergent, 
+scheduled transport). Refer to 42 CFR §410.40 (e)(2).  
+AMB4E Incomplete/Invalid provider signature on the physician certification statement (non - 
+emergent, scheduled transport). Refer to 42 CFR §410.40 (e)(2).  
+AMB4F Date of service(s) documented on physician certification statement is outside allowed 
+timeframe. Refer to 42 CFR §410.40 (e)(2).  
+AMB4H Incomplete/Invalid/Illegible physician certification statement (non -emergent, 
+scheduled transport). Refer to 42 CFR §410.40 (e)(2).  
+AM700 
+No Physician or Non-Physician certification statement submitted for nonemergency 
+ambulance services that are either unscheduled or that are scheduled on a 
+nonrepetitive basis. Refer to 42 CFR 410.40(e)(3).  
+AM701 
+Incomplete/Invalid/Illegible physician or non -physician certification statement 
+submitted for nonemergency ambulance services that are either unscheduled or that 
+are scheduled on a nonrepetitive basis. Refer to 42 CFR 410.40(e)(3).  
+AM702 
+Missing signature of an individual as listed in Title 42 CFR 410.40(a) on the non -
+physician statement (nonemergency ambulance services that are either unscheduled or 
+that are scheduled on a nonrepetitive basis). Refer to 42 CFR §410.40 (e)(3).  
+AM703 
+Incomplete/Invalid signature of an individual as listed in Title 42 CFR 410.40(a) on 
+the non-physician statement (nonemergency ambulance services that are either 
+unscheduled or that are scheduled on a nonrepetitive basis). Refer to 42 CFR §410.40 
+(e)(3). 
+   
+Reason 
+Code DESTINATION 
+AMB2C Facility to facility transport denied as the documentation does not support that the 
+receiving institution was the closest facility.  
+AMB2D 
+The documentation does not support the ambulance transport was to the nearest 
+appropriate facility that can provide the necessary care. Refer to SSA 1861 (s)(7), 42 
+CFR §410.40 (f), Internet Only Manual (IOM), Publication 100-02, Medicare Benefit 
+Policy Manual, Chapter 10, Section 10.3, and Internet Only Manual (IOM), 
+Publication 100-04, Medicare Claims Processing Manual, Chapter 15, Section 10.2.  
+AMB2E Facility to facility transport denied as documentation indicates transport due to 
+physician and/or beneficiary preference. 
+AMB2F Facility to facility transport denied as documentation indicates transport due to 
+beneficiary wants to be closer to home or family.  
+AMB2H Ambulance service to a funeral home is not covered.

@@ -1,0 +1,51 @@
+Ambulance Transport Reason Codes and Statements  
+Updated on May 19, 2023 
+ 
+7 
+ 
+AMB6Y Non-payable origin/destination modifiers in Prior Authorization request (scheduled 
+service such as physician office to beneficiary's residence).  
+AMB8X Ambulance Prior Authorization request submitted without valid modifier(s).  
+AMB8Y Ambulance Prior Authorization request submitted with invalid modifier(s) 
+combination. 
+AMB9Y 
+Local Coverage Determinations (LCDs) help Medicare decide what is covered. An 
+LCD was used for your PA request. You can compare your case to the LCD, and send 
+information from your doctor if you think it could change our decision. Refer to 
+Social Security Act (SSA) 1862,  IOM, Medicare Program Integrity Manual, Pub 100-
+08, Chapter 3, Section 3.6.2.2. Local Coverage Determinations and Local Coverage 
+Articles found at https://www.cms.gov/medicare -coverage-database/new-
+search/search.aspx. 
+AM11W Prior Authorization request for service is not covered by this payer/contractor. You 
+must send the request to the correct payer/contractor.  
+AM11X 
+This Prior Authorization request was adjusted after records were reviewed and it was 
+determined that the documentation did not support the level of service requested (i.e., 
+recoding the ambulance service to the level of care that reflects the services rendered, 
+or down coding services when the title of the emergency personnel cannot be 
+validated). 
+AM11Y This Prior Authorization request is a duplicate to another request.  
+AM00B The codes of the ambulance trip(s) requested are not specific to the repetitive 
+scheduled non-emergent ambulance transports prior authorization demonstration.  
+AM00Z The ambulance prior authorization request (explain identified problem).  
+AM99A Prior Authorization request was affirmed for fewer trips than requested.  
+AM99B Prior Authorization request was affirmed for fewer days than requested.  
+   
+Reason 
+Code PROVIDER ELIGIBILITY 
+AMB0A The Ambulance provider is not approved by Medicare.  
+AMB0B The Ambulance provider is not eligible for Medicare benefits.  
+AMB0C The Ambulance provider is not authorized or eligible to bill for BLS services.  
+AMB0Z Provider Eligibility (explain identified problem)  
+  
+Reason 
+Code SIGNATURES 
+AMB1G 
+Incomplete/invalid or missing signature of the beneficiary, or that of his or her 
+representative (for both the purpose of accepting assignment and submitting a claim to 
+Medicare). Refer to 42 CFR 424.36 (b) (1-4) (C) Internet Only Manual (IOM), 
+Publication 100-02, Medicare Benefit Policy Manual, Chapter 10, Section 20.1.2.  
+AMB4B 
+Missing/Incomplete/Invalid ambulance supplier signature on ambulance record or 
+invalid or no response to signature attestation. Refer to Internet Only Manual (IOM) 
+Publication 100-08, Medicare Program Integrity Manual, Chapter 3, Section 3.3.2.4.

@@ -1,0 +1,52 @@
+Home Oxygen Therapy Reason Codes and Statements  
+August 18, 2023 
+ 
+3 
+ 
+OX406 
+The blood gas study obtained during exercise does not include testing during exercise 
+without oxygen. Refer National Coverage Determination 240.2 & Local Coverage 
+Determination L33797. 
+OX407 
+The blood gas study obtained during exercise does not include testing during exercise 
+with oxygen applied to demonstrate the improvement of the hypoxemia.  Refer 
+National Coverage Determination 240.2 & Local Coverage Determination L33797. 
+OX408 
+The medical record documentation does not indicate all three oximetry studies for 
+exercise testing were performed within the same testing session. Refer to Local 
+Coverage Determination L33797. 
+OX409 
+The medical record documentation does not support a valid blood gas study obtained 
+during sleep. Refer to National Coverage Determination 240.2 & Local Coverage 
+Determination L33797. 
+OX410 
+The medical record documentation does not include an overnight oximetry testing of a 
+minimum of two hours for criterion 3, Group I coverage. Refer to National Coverage 
+Determination 240.2 & Local Coverage Determination L33797. 
+OX411 
+The medical record documentation does not include an overnight oximetry showing a 
+decrease of PO2 more than 10 mm Hg or oxygen saturation more than 5 percent from 
+baseline saturation for Group 1. Refer to National Coverage Determination 240.2 & 
+Local Coverage Determination L33797. 
+OX412 
+The medical record documentation includes an overnight oximetry showing a decrease 
+of more than 5 percent from baseline saturation taken during sleep, however does not 
+support symptoms or signs reasonably attributable to hypoxemia. Refer to National 
+Coverage Determination 240.2 & Local Coverage Determination L33797. 
+ 
+Reason 
+Code POLYSOMNOGRAPHY / OSA 
+OX500 
+The medical record documentation does not support the obstructive sleep apnea was 
+appropriately and sufficiently treated such that the underlying condition resulting in 
+hypoxemia is unmasked before oxygen saturation results obtained during sleep testing 
+are considered qualifying for oxygen therapy. Refer to Local Coverage Determination 
+L33797. 
+OX501 
+The medical record documentation does not support a qualifying oxygen saturation test 
+during a titration polysomnographic study, for a beneficiary with obstructive sleep 
+apnea. Refer to Local Coverage Determination L33797. 
+OX502 
+The medical record documentation does not support the titration polysomnography 
+study was conducted over a minimum of two hours. Refer to Local Coverage 
+Determination L33797.

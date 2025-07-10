@@ -1,0 +1,32 @@
+Table 3 - Summary 
+PLB  Situational, but required for Medicare whenever there have been any 
+provider-level adjustments. 
+PLB01  Required. 
+PLB02  Required.  Carriers must furnish this from their provider file, or use a 
+default value of 12/31 of the current year. 
+PLB03-1  Required.  Only codes CS, AP, FB, LE, L6, 50, SL, WO, B2, J1, and IR 
+apply to Medicare carriers. 
+PLB03-2  Situational, but required for Medicare.  Positions 1-2=RI, RB, OB, or if 
+none of these apply, 00.  Positions 3-19=the Financial Control Number or 
+ICN, if applicable to the type of adjustment.  Positions 20-30=the HIC 
+number may be entered at the carrier’s option.  NOTE: The note in the 
+implementation guide is misphrased.  Medicare carriers and DMERCs 
+report this information in these positions when the PLB segment is 
+included in the 835. 
+PLB04  Required. 
+PLB05-1  Situational data element, but required if there is a second provider level 
+adjustment. 
+PLB05-2  Situational, but required if there is a second provider level adjustment. 
+PLB06  Situational, but required if there is a second provider level adjustment. 
+PLB07-1  Situational, but required if there is a third provider level adjustment. 
+PLB07-2  Situational, but required if there is a third provider level adjustment. 
+PLB08  Situational, but required if there is a third provider level adjustment. 
+PLB09-1  Situational, but required if there is a fourth provider level adjustment. 
+PLB09-2  Situational, but required if there is a fourth provider level adjustment. 
+PLB10  Situational, but required if there is a fourth provider level adjustment. 
+PLB11-1  Situational, but required if there is a fifth provider level adjustment. 
+PLB11-2  Situational, but required if there is a fifth provider level adjustment. 
+PLB12  Situational, but required if there is a fifth provider level adjustment. 
+PLB13-1  Situational, but required if there is a sixth provider level adjustment.  Two 
+loops must be used for Medicare if both apply. 
+ 46

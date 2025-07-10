@@ -1,0 +1,64 @@
+8
+N18 Payment based on the Medicare allowed amount. Deactiv. eff. 1/31/04 
+Refer to N14 
+N60 A valid NDC is required for pa yment of drug claims effective 
+October 02. 
+ 
+Deactiv. eff. 1/31/04 
+Refer to M119 
+N73 A skilled nursing facility is responsible for payment of 
+outside providers who furnish these services/supplies under 
+arrangement to its residents. 
+ 
+Deactiv. eff. 1/31/04 
+Refer to MA101 or 
+N200 
+N101 Additional information is needed in order to process this  
+claim. Resubmit the claim with the identification 
+number of the provider where this service took place. The  
+Medicare number of the site of service provider should be 
+preceded with the letters "HSP" and entered into item #32 
+on the claim form. You may bill only one site of service 
+provider number per claim. 
+ 
+Deactiv. eff. 1/31/04 
+Refer to MA105 
+N164 Transportation to/from this destinat ion is not covered. Deactiv. eff. 1/31/04 
+Refer to N157 
+N165 Transportation in a vehicle other than an ambulance is not 
+covered. 
+ 
+Deactiv. eff. 1/31/04 
+Refer to N158 
+N166 Payment denied/reduced because mileage is not covered when 
+the patient is not in the ambulance. 
+ 
+Deactiv. eff. 1/31/04 
+Refer to N159 
+N168 The patient must choose an option before a payment can be 
+made for this procedure/equipment/supply/service. 
+ 
+Deactiv. eff. 1/31/04 
+Refer to N160 
+N169 This drug/service/supply is covered only when the associated 
+service is covered. 
+Deactiv. eff. 1/31/04 
+Refer to N161 
+X12 N 835 Health Care Claim Adjustment Reason Codes  
+The Health Care Code Maintenance Committee maintains the health care claim adjustment 
+reason codes. The Committee meets at the beginning of each X12 trimester meeting 
+(February, June, and October) and makes decisions about additions, modifications, and 
+retirement of existing reason codes. The updated list is posted 3 times a year after each X12 
+trimester meeting at http://www.wpc-edi.com/codes/Codes.asp, and select Claim 
+Adjustment Reason Codes from the pull down menu. All reason code changes approved in 
+June 2003 are listed here. By January 1, 2004, you must have the most current reason code 
+set installed for production to make sure that all carriers, intermediaries, and DMERCs are 
+using the latest approved reason codes in 835 and standard paper remittance advice 
+transactions. 
+The request for a reason code change may come from non-Medicare entities. If Medicare 
+requests a change, it may be included in a Medicare instruction in addition to the regular 
+code update notification. The regular code update notification will be issued on a periodic 
+basis to provide a summary of changes in the reason and remark codes introduced since the 
+last update notification, and will establish the deadline for Medicare contractors to implement 
+the reason and remark code changes that may not already have been implemented as part of a 
+previous Medicare policy change instruction.

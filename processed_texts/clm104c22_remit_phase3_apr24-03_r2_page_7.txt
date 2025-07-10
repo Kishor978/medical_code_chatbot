@@ -1,0 +1,35 @@
+• A code is received on a paper claim or a pre HIPAA compliant or any other 
+electronic claim, and does not meet the required data attribute(s) for the HIPAA 
+compliant 835, in which case, "gap filling" would be needed if it were to be 
+inserted in a compliant 835. 
+40.2 - Generating an ERA if Required Data is Missing or Invalid 
+(Rev.) 
+AB-02-067, A-02-070 
+A.  Carriers/DMERCs 
+The X12 835 IG contains specific data requirements, which must be met to build a 
+HIPAA compliant ERA.  A claim could be received on paper, or in a pre HIPAA 
+compliant X12 835 or other electronic format that lacks data or has data that does not 
+meet the data attributes or length requirements for preparation of a HIPAA-compliant 
+ERA.  If not rejected as a result of standard or IG level editing, a carrier/DMERC must 
+either send an SPR advice or a "gap filled" ERA to avoid noncompliance with HIPAA. 
+For example, if a procedure code is sent with only four characters and the code set 
+specified in the IG includes five character codes in the data element, and the code is not 
+rejected by the front end and/or pre-pass edits, the claim would be denied due to the 
+invalid procedure code.  Preparation of an ERA with too few characters though would not 
+comply with the IG requirements.  The noncompliant ERA could be rejected by the 
+receiver. 
+The shared system maintainers, working in conjunction with their contractors, must 
+decide whether to generate an SPR, which is not covered by HIPAA, or to "gap fill" in 
+this situation, depending on system capability and cost.  Except in some very rare 
+situations, "gap filling" would be expected to be the preferred solution.  To "gap fill”, the 
+shared systems must enter meaningless characters to meet the data element minimum 
+length requirements in any outgoing X12 transaction if insufficient data is available for 
+entry in a required data element.  Shared system maintainers must work with their 
+respective users to determine which characters will be used to gap fill required data 
+elements.  The selected meaningless character(s) must also meet the data requirements of 
+the data elements where used, e.g., be alphanumeric (AN), decimal (R), identifier (ID), 
+date (DT), or another data type as appropriate.  The values may not include any special 
+characters, low values, high values, or all spaces since this could result in translation 
+problems.  The contractors must notify the trading partners, if and when their files are 
+affected, as to when and why these characters will appear in an 835. 
+ 7

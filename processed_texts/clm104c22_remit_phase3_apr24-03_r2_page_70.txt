@@ -1,0 +1,58 @@
+Remittance Field 835 Version 
+4010/4010.
+A.1 Field 
+LOOP ID NSF 
+Version 
+2.01 Field # 
+COMMENT 
+Deductible,  
+Coinsurance and 
+Prev.  Pd. 
+PROV PD (CALCULATED PMT 
+TO PROVIDER - CLAIM 
+LEVEL) 
+CLP04 2100 500-15  
+NET (ACTUAL PMT TO 
+PROVIDER FOR CLAIM) 
+ 2100 500-19 This is a computed 
+field including 
+Interest, Late 
+Filing Charge and 
+Prev.  Pd. 
+PREVIOUSLY PAID   500-17 
+THRU 500-
+18 
+ 
+INT (INTEREST PAID) AMT02 
+when I in 
+AMT01 
+2100 500-11  
+LATE FILING CHARGE AMT02 
+WHEN KH 
+IN AMT01 
+2110 451-07  
+INSURER TO WHOM CLAIM IS 
+FORWARDED 
+NM103 
+when TT in 
+NM101& 2 
+in NM102 
+2100 500-25 CRSSOVER 
+CARRIER NAME 
+# OF CLAIMS   800-06  
+TOAL BILLED  AMT(BT 
+SUBMITTED CHARGES) 
+  800-08  
+TOTAL ALLOWED AMT   800-11  
+TOTAL DEDUCT AMT   800-12  
+TOTAL COINS AMT   800-13  
+TOTAL RC AMOUNT    Sum of all RC 
+adjustments.  
+Excludes interest, 
+late filing charge, 
+deductible, 
+coinsurance, and 
+prev.  pd. 
+PROV PD AMT   800-18  
+ 
+70

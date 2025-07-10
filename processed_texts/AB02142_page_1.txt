@@ -1,0 +1,62 @@
+Program Memorandum 
+Department of Health & 
+Human Services (DHHS)
+Intermediaries/Carriers 
+Centers for Medicare & 
+Medicaid Services (CMS)
+ 
+Transmittal   AB-02-142 
+ 
+ 
+ 
+Date:  OCTOBER 18, 2002 
+ 
+  CHANGE REQUEST 2395 
+ 
+SUBJECT:   Remittance Advice Coding Update 
+ 
+This Program Memorandum (PM) updates remark and reason codes for intermediaries, carriers and 
+Durable Medical Equipment Regional Contractors (DMERCs).  
+ 
+X12N 835 Health Care Remittance Advice Remark Codes   
+ 
+CMS is the national maintainer of remittance advice remark codes used by both Medicare and non-
+Medicare entities. Under the H ealth Insurance Portab ility and Accountability Act (HIPAA), all 
+payers have to use reason and remark codes approved by X-12 r ecognized maintainers of those 
+code sets instead of proprietary codes to explai n any adjustment in the payment. As a result, a 
+significant number of remark code changes in the future will be requested by non-Medicare entities, 
+and may not impact Medicare. Traditionally, rema rk code changes that impact Medicare are 
+requested by Medicare staff in conjunction with a policy change. Contractors are notified of those 
+new/modified codes in the corresponding implemen tation instructions in the form of a PM or 
+manual instruction implementing the policy change, in addition to the regular code update PM. 
+ 
+The list of remark codes is available at http://www.cms.hhs.gov/medicare/edi/hipaadoc.asp 
+and http://www.wpc-edi.com/hipaa/, and the list is updated each March, July, and November.  By 
+January 1, 2003,  you must have completed entry of all applicable code changes and new codes for 
+use in production, and continue downloading from one of the above mentioned web sites every 4 
+months to make sure that all Me dicare carriers, intermediaries, and DMERCs are using the latest 
+approved remark codes as included in any CM S instructions in their 835 version 4010 and 
+subsequent versions, and the corresponding sta ndard paper remittance advice transactions.  
+Contractor and shared system changes must be made, as necessary, as  part of a routine release to 
+reflect changes such as retirement of previously used codes or newly created codes that may impact 
+Medicare.  
+ 
+The following list summarizes changes made through June 30, 2002. 
+ 
+New Remark Codes 
+ 
+Code     Current Narrative    
+     
+N113 You or someone in your group practice ha s already submitted a claim for an initial 
+visit for this beneficiary.  Medicare pays only once pe r beneficiary per physician, 
+group practice, or provider for an initial visit. 
+ 
+N114 During the transition to the Ambulance F ee Schedule, payment is based on the lesser 
+of a blended amount calculated using a percentage of the reasonable charge/cost and 
+fee schedule amounts, or the submitted charge for the service.  You will be notified 
+yearly what the percentages for the blended payment calculation will be. 
+ 
+ 
+ 
+ 
+CMS-Pub. 60AB

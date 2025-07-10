@@ -1,0 +1,48 @@
+Generic Part B Reason Codes and Statements 
+November 15, 2024 
+ 
+*Updated and/or new codes can be found in bold italic  4 
+ 
+Reason 
+Code DOWNCODED/RECODED BASED ON LEVEL OF SERVICE PROVIDED 
+GBE01 
+The documentation submitted does not support the medical necessity of the level of 
+service billed.  Refer to IOM, 100-08, Medicare Program Integrity Manual Chapter 3, 
+Section 3.6.2.4 and Section 3.6.2.5, Medicare Claims Processing Manual Chapter 23 
+GBE02 The documentation submitted does not support the level of service billed.  Refer to 
+IOM, Medicare Program Integrity Manual, Pub 100-08, Chapter 3, Section 3.6.2.4 
+ 
+Reason 
+Code SIGNATURE DENIALS 
+GBF01 
+The documentation submitted did not include a valid signature and/or credentials. 
+Refer to IOM, Medicare Program Integrity Manual, Pub 100-08, Chapter 3, Section 
+3.3.2.4 and CFR Part 482.24 
+GBF02 
+The documentation submitted did not include a valid signature and a response to 
+attestation or signature log request was not received.  Refer to IOM, Medicare Program 
+Integrity Manual, Pub 100-08, Chapter 3, Section 3.3.2.4 and CFR Part 
+482.24 
+GBF03 
+Stamped signatures without proof of disability inhibiting them to sign and requiring 
+the need for a rubber-stamped signature are not accepted.  Refer to IOM Pub 100-
+08, Medicare Program Integrity Manual, Chapter 3, Section 3.3.2.4. 
+ 
+Reason 
+Code CERTIFICATION REQUIREMENTS 
+GBG01 
+The documentation submitted did not include the required certifications or 
+recertifications for outpatient therapy services.  Refer to Internet Only Manual, Pub 
+100-02, Medicare Benefit Policy Manual, Chapter 15, 220.1.3 
+GBG02 
+The documentation submitted did not include the required certifications or 
+recertifications for the skilled nursing facility. Refer to Internet Only Manual (IOM) 
+Pub100-2, Medicare Benefit Policy Manual, Chapter 8, Section 40 and IOM, Pub 100-
+01 Medicare General Information, Eligibility and Entitlement Manual, Chapter 4, 
+Section 40. 
+GBG03 
+The documentation submitted did not include the required certifications or 
+recertifications for inpatient psychiatric facility services. Refer to Internet Only 
+Manual (IOM), Pub 100-2, Medicare Benefit Policy Manual, Chapter 2, Section 30.2.1 
+and IOM, Pub 100-01, Medicare General Information, Eligibility and Entitlement 
+Manual, Chapter 4, Section 10.9

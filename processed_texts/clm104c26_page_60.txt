@@ -1,0 +1,49 @@
+LINE FIELD LITERAL 
+FIELD 
+TYPE* BYTES 
+COL-
+UMNS 
+39 24.1g Days or Units N 3 59-61 
+39 24.1h EPSDT Family Plan A 1 63 
+39 24.li Legacy Qualifier Rendering Provider 
+(Leave Blank) 
+A/N 0  
+39 24.1j Legacy Provider Number Rendering 
+Provider 
+A/N 11 68-78 
+40 24 Line Detail Narrative A/N 63 01-63 
+40 24.2i Legacy Qualifier Rendering Provider A/N 2 65-66 
+40 24.2j Legacy Provider Number Rendering 
+Provider 
+A/N 11 68-78 
+41 24.2a Date(s) of Service - (From Month) N 2 01-02 
+41 24.2a Date(s) of Service - (From Day) N 2 04-05 
+41 24.2a Date(s) of Service - (From Year) N 2 07-08 
+41 24.2a Date(s) of Service - (To Month) N 2 10-11 
+41 24.2a Date(s) of Service - (To Day) N 2 13-14 
+41 24.2a Date(s) of Service - (To Year) N 2 16-17 
+41 24.2b Place of Service A/N 2 19-20 
+41 24.2c EMG A 2 22-23 
+41 24.2d Procedures, Svcs or Supplies 
+(CPT/HCPCS) 
+A/N 6 25-30 
+41 24.2d Procedures, Svcs or Supplies (Modifier 
+1) 
+A/N 2 33-34 
+41 24.2d Procedures, Svcs or Supplies (Modifier 
+2) 
+A/N 2 36-37 
+41 24.2d Procedures, Svcs or Supplies (Modifier 
+3) 
+A/N 2 39-40 
+41 24.2d Procedures, Svcs or Supplies (Modifier 
+4) 
+A/N 2 42-43 
+41 24.2e Diagnosis Pointer N 4 45-48 
+41 24.2f $ Charges N 8 50-57 
+41 24.2g Days or Units N 3 59-61 
+41 24.2h EPSDT Family Plan A 1 63 
+* M = mark (X), A = alpha, N = numeric 
+41 24.2i Legacy Qualifier Rendering Provider 
+(Leave Blank) 
+A/N 0

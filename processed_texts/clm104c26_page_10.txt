@@ -1,0 +1,46 @@
+Qualifier Provider Role 
+DK  Ordering Provider  
+DQ  Supervising Provider 
+ 
+Enter the qualifier to the left of the dotted vertical line on item 17. 
+ 
+NOTE:  Under certain circumstances, Medicare permits a non-physician practitioner to 
+perform these roles.  Refer to Pub 100-02, Medicare Benefit Policy Manual, chapter 15 
+for non-physician practitioner rules.  Enter non-physician practitioner information 
+according to the rules above for physicians. 
+ 
+The term "physician" when used within the meaning of §1861(r) of the Act and used in 
+connection with performing any function or action refers to: 
+ 
+1. A doctor of medicine or osteopathy legally authorized to practice medicine and 
+surgery by the State in which he/she performs such function or action; 
+ 
+2. A doctor of dental surgery or dental medicine who is legally authorized to practice 
+dentistry by the State in which he/she performs such functions and who is acting 
+within the scope of his/her license when performing such functions; 
+ 
+3. A doctor of podiatric medicine for purposes of §§(k), (m), (p)(1), and (s) and 
+§§1814(a), 1832(a)(2)(F)(ii), and 1835 of the Act, but only with respect to functions 
+which he/she is legally authorized to perform as such by the State in which he/she 
+performs them; 
+ 
+4. A doctor of optometry, but only with respect to the provision of items or services 
+described in §1861(s) of the Act which he/she is legally authorized to perform as a 
+doctor of optometry by the State in which he/she performs them; or 
+ 
+5. A chiropractor who is licensed as such by a State (or in a State which does not 
+license chiropractors as such), and is legally authorized to perform the services of a 
+chiropractor in the jurisdiction in which he/she performs such services, and who 
+meets uniform minimum standards specified by the Secretary, but only for purposes 
+of §§1861(s)(1) and 1861(s)(2)(A) of the Act, and only with respect to treatment by 
+means of manual manipulation of the spine (to correct a subluxation).  For the 
+purposes of §1862(a)(4) of the Act and subject to the limitations and conditions 
+provided above, chiropractor includes a doctor of one of the arts specified in the 
+statute and legally authorized to practice such art in the country in which the inpatient 
+hospital services (referred to in §1862(a)(4) of the Act) are furnished. 
+ 
+Referring physician - is a physician who requests an item or service for the beneficiary 
+for which payment may be made under the Medicare program. 
+ 
+Ordering physician - is a physician or, when appropriate, a non-physician practitioner 
+who orders non-physician services for the patient.  See Pub. 100-02, Medicare Benefit

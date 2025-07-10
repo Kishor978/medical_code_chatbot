@@ -1,0 +1,52 @@
+N243 Incomplete/invalid/not approved screening document. Y 
+N244 Incomplete/invalid pre-operative photos/visual field results. Y 
+N245 Incomplete/invalid plan information for other insurance. Y 
+ 
+New codes from N225 to N245 have been created by splitting 21 existing codes to help automate 
+provider action.  The rationale for splitting these codes is that if a document is missing, the 
+provider action would involve sending the document to Medicare.  On the other hand if the 
+document sent is incomplete/invalid, providers need to research and rectify before sending the 
+corrected document to Medicare.  This is a different action than just sending the missing 
+document. Medicare contractors must use the new codes as appropriate in lieu of the existing 
+codes.  For example if the consent form is incomplete/invalid, use code N228, and N3 only if it is 
+missing.  Following is a list showing the new codes and the source code that has been split to 
+create the new code: 
+ 
+New Code           Split from existing Code 
+ 
+N225      N29 
+N226      M142 
+N227      M60 
+N228      N3 
+N229      N190 
+N230      M124 
+N231      M130 
+N232      N26 
+N233      M29 
+N234      M19 
+N235      M132 
+N236      M30 
+N237      M127 
+N238      M141 
+N239      M131 
+N240      M31 
+N241      N175 
+N242      N40 
+N243      N146 
+N244      N178 
+N245      MA92 
+ 
+ 
+Modified Remark Codes 
+ 
+Code      Current Modified Narrative          Modification Date   
+ 
+ 
+M19 Missing oxygen certification/re-certification. (Modified 8/1/04, 
+2/28/03) Also see 
+N234 Modified 
+eff. 4/1/04 
+M29 Missing operative report. (Modified 8/1/04, 
+2/28/03) Also see 
+N233Modified 
+eff. 4/1/04

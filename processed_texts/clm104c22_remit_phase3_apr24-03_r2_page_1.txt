@@ -1,0 +1,34 @@
+Medicare Claims Processing Manual 
+Chapter 22 - Remittance Advice 
+ 
+Table of Contents 
+Crosswalk to Old Manuals 
+10 - Background.................................................................................................................. 2 
+20 - General Remittance Completion Requirements .......................................................... 3 
+30 - Remittance Balancing.................................................................................................. 4 
+40 - Electronic Remittance Advice..................................................................................... 5 
+40.1 - ANSI ASC X12 835.......................................................................................... 5 
+40.2 - Generating an ERA if Required Data is Missing or Invalid.............................. 7 
+40.3 - Electronic Remittance Advice Data Sent to Banks ........................................... 8 
+40.4 - Medicare Standard Electronic PC-Print Software............................................. 8 
+40.5 - 835 Implementation Guide................................................................................ 9 
+40.5.1 - Medicare 835 HIPAA Companion Document - Intermediaries............ 10 
+40.5.2 - Medicare 835 HIPAA Companion Document - Carriers...................... 33 
+50 - Standard Paper Remittance Advice Notices.............................................................. 47 
+50.1 - The Do Not Forward (DNF) Initiative ............................................................ 47 
+50.2 - SPR Formats.................................................................................................... 48 
+50.2.1 - Part A/Intermediary SPR Format .......................................................... 49 
+50.2.2 - Part B/Carrier and DMERC SPR Format.............................................. 55 
+50.3 - Intermediary SPR Crosswalk to the 835 ......................................................... 59 
+50.4 - Carrier and DMERC SPR Crosswalk to the 835............................................. 67 
+60 - Remittance Advice Codes ......................................................................................... 71 
+60.1 - Standard Adjustment Reason Codes ............................................................... 71 
+60.2 - Remittance Advice Remark Codes.................................................................. 73 
+60.3 - Group Codes.................................................................................................... 74 
+60.4 - Requests for Additional Codes........................................................................ 75 
+70 - Intermediary ERA Requirement Changes to Accommodate OPPS and HH PPS..... 75 
+70.1- Scope of Remittance Changes for HH PPS...................................................... 77 
+70.2 - Payment Methodology of the HH PPS Remittance: HIPPS Codes................. 78 
+70.3 - Items Not Included in HH PPS Episode Payment........................................... 78 
+70.4 - 835 Version 3051.4A.01 Line Level Reporting Requirements for the Request 
+ 1

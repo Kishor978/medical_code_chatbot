@@ -1,0 +1,51 @@
+LINE FIELD LITERAL 
+FIELD 
+TYPE* BYTES 
+COL-
+UMNS 
+33 21.1 Diagnosis or Nature of Illness or Injury 
+(Code) 
+A/N 8 03-10 
+33 21.3 Diagnosis or Nature of Illness or Injury 
+(Code) 
+A/N 8 30-37 
+33 22 Medicaid Resubmission Code A/N 11 50-60 
+33 22.2 Original Reference Number A/N 18 61-78 
+35 21.2 Diagnosis or Nature of Illness or Injury 
+(Code) 
+A/N 8 03-10 
+35 21.4 Diagnosis or Nature of Illness or Injury 
+(Code) 
+A/N 8 30-37 
+35 23 Prior Authorization Number A/N 29 50-78 
+38 24 Line Detail Narrative A/N 63 01-63 
+38 24.1i Legacy Qualifier Rendering Provider A/N 2 65-66 
+38 24.1j Legacy Provider Number Rendering 
+Provider 
+A/N 11 68-78 
+39 24.1a Date(s) of Service - (From Month) N 2 01-02 
+39 24.1a Date(s) of Service - (From Day) N 2 04-05 
+39 24.1a Date(s) of Service - (From Year) N 2 07-08 
+39 24.1a Date(s) of Service - (To Month) N 2 10-11 
+39 24.1a Date(s) of Service - (To Day) N 2 13-14 
+39 24.1a Date(s) of Service - (To Year) N 2 16-17 
+39 24.1b Place of Service A/N 2 19-20 
+39 24.1c EMG A 2 22-23 
+39 24.1d Procedures, Svcs or Supplies 
+(CPT/HCPCS) 
+A/N 6 25-30 
+39 24.1d Procedures, Svcs or Supplies (Modifier 
+1) 
+A/N 2 33-34 
+39 24.1d Procedures, Svcs or Supplies (Modifier 
+2) 
+A/N 2 36-37 
+39 24.1d Procedures, Svcs or Supplies (Modifier 
+3) 
+A/N 2 39-40 
+39 24.1d Procedures, Svcs or Supplies (Modifier 
+4) 
+A/N 2 42-43 
+* M = mark (X), A = alpha, N = numeric 
+39 24.1e Diagnosis Pointer N 4 45-48 
+39 24.1f $ Charges N 8 50-57

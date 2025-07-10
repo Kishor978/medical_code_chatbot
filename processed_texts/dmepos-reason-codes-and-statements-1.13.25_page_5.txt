@@ -1,0 +1,45 @@
+Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) Reason Codes and 
+Statements  
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         5 
+ 
+PM3AH 
+The documentation demonstrates the length of need for the power mobility device is 
+less than 3 months and the underlying condition is reversible. Refer to Local Coverage 
+Determination 33789 Policy Article A52498. 
+PM3AI The documentation is not considered timely as it is not dated within the preceding 12 
+months. Refer to Local Coverage Determination 33789 Policy Article A52498. 
+PM3AJ The medical record does not contain the beneficiary's weight.  Refer to Local Coverage 
+Determination 33789 Policy Article A52498. 
+PM3AK 
+Group 2 POVs (K0806, K0807, K0808) have added capabilities that are not needed for 
+use in the home. Therefore, if a Group 2 POV is provided it will be denied as not 
+reasonable and necessary. Refer to Local Coverage Determination L33789. 
+ 
+Reason 
+Code SUPPORTING MEDICAL DOCUMENTATION 
+PMD5A The supporting medical documentation received was illegible. 
+PMD5D The supporting medical documentation contains an illegible signature. Refer to 
+Medicare Program Integrity Manual 3.3.2.4. 
+PMD5Z The supporting medical documentation (explain identified problem) 
+ 
+Reason 
+Code ASSISTIVE TECHNOLOGY PROFESSIONAL 
+PMD6A 
+The documentation does not demonstrate the supplier's Assistive Technology 
+Professional has a current Rehabilitation Engineering and Assistive Technology 
+Society of North America (RESNA) certification. Refer to Local Coverage 
+Determination 33789 Policy Article A52498. 
+PMD6B 
+The documentation does not demonstrate a Rehabilitation Engineering and 
+Assistive Technology Society of North America (RESNA) certified professional had 
+direct in-person involvement in the selection of the power mobility device. Refer to 
+Local Coverage Determination 33789 Policy Article A52498. 
+PMD6E 
+The Assistive Technology Professional's Rehabilitation Engineering and Assistive 
+Technology Society of North America (RESNA) certification has expired. Refer to 
+Local Coverage Determination 33789 Policy Article A52498 
+PMD6F The Assistive Technology Professional documentation does not include a date of 
+service. Refer to Local Coverage Determination 33789 Policy Article A52498 
+PMD6Z The Assistive Technology Professional documentation (explain identified problem)

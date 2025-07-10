@@ -1,0 +1,42 @@
+Days in Accounts Receivable 
+Hospitals focus on days in accounts receivable (A/R Days) 
+and days in accounts receivable greater than 90 days 
+(A/R >90 Days) because these metrics directly impact 
+the hospitals operating margin, and with ever-changing 
+payment structures, this is a key measure for vitality of 
+a rural hospital. Western Healthcare Alliance (WHA) and 
+Healthcare Management (HCM) have the resources to 
+assist rural hospitals with key metrics and aligning to 
+industry standards. 
+The first step in identifying how a hospital compares to 
+benchmark standards is to review financial reports with 
+hospital leaders to determine if standards are being met, 
+need improvement, or are significantly below industry 
+standard.
+(Note that benchmark rates will vary depending on 
+different organizational standards.)
+Step 1: Run an aged trial balance report (ATB). This report should be built into the hospital electronic medical 
+record and can be automated. 
+Step 2: Analyze and trend by payer with oldest aging dates.
+Step 3: Review the analysis.
+3.1:  If the analysis shows commercial payers are outstanding:
+ 1. Pull contractual data for payers.
+  a. If claims are out of timely filing, an action plan will be needed for possible write-offs. An   
+   action plan is needed to prevent future timely filing denials.
+   i. Before write-offs, determine what caused the timely filing denial (e.g., coding, insurance   
+    information added late, etc.).
+  b. If claims are still within the timely filing limit, status online and rebill as needed.
+   i. Before rebilling a claim, determine why the claim was not accepted previously and   
+    document the reason (e.g., incorrect payer ID, audit trail rejection, etc.). 
+3.2:  If the analysis shows government payers are outstanding:
+ 1. Identify your highly skilled accounts receivable representatives to run a report and prioritize   
+  claims by aged date, then rebill as needed.
+  a. Do not rebill until it has been determined why the claim was not accepted previously. If a   
+   claim was billed paper, it is recommended to send certified mail. 
+Additional financial reports to review that will help in 
+reducing A/R Days include bad debt, financial assistance, 
+discharged and no final bill (DNFB), discharged and no final 
+charges (DNFC), accounts waiting for coding, clean claim 
+rate, and credit balances. Reference the revenue cycle 
+score cards for benchmarking.
+PAGE FOUR

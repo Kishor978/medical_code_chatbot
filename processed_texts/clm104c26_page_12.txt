@@ -1,0 +1,46 @@
+nonphysician practitioner of the therapy plan of care be entered as the referring 
+physician in Items 17 and 17b. 
+ 
+Item 17a - Leave blank. 
+ 
+Item 17b - Enter the NPI of the referring, ordering, or supervising physician or non-
+physician practitioner listed in item 17.  All physicians and non-physician practitioners 
+who order services or refer Medicare beneficiaries must report this data. 
+ 
+NOTE:  Effective May 23, 2008, 17a is not to be reported but 17b MUST be reported 
+when a service was ordered or referred by a physician. 
+ 
+Item 18 - Enter either an 8-digit (MM | DD | CCYY) or a 6-digit (MM | DD | YY) date 
+when a medical service is furnished as a result of, or subsequent to, a related 
+hospitalization. 
+ 
+Item 19 - Enter either a 6-digit (MM | DD | YY) or an 8-digit (MM | DD | CCYY) date 
+patient was last seen and the NPI of his/her attending physician when a physician 
+providing routine foot care submits claims. 
+ 
+NOTE:  Effective May 23, 2008, all provider identifiers submitted on the CMS-1500 
+claim form MUST be in the form of an NPI. 
+ 
+Enter either a 6-digit (MM | DD | YY) or an 8-digit (MM | DD | CCYY) x-ray date for 
+chiropractor services (if an x-ray, rather than a physical examination was the method used 
+to demonstrate the subluxation).  By entering an x-ray date and the initiation date for 
+course of chiropractic treatment in item 14, the chiropractor is certifying that all the 
+relevant information requirements (including level of subluxation) of Pub. 100-02, 
+Medicare Benefit Policy Manual, chapter 15, is on file, along with the appropriate x-ray 
+and all are available for A/B MAC (B) review. 
+ 
+Instructions for Not Otherwise Classified (NOC) Codes – Any unlisted services or 
+procedure code.  Note: When reporting NOC codes, this field must be populated as 
+specified below.  
+ 
+Enter the drug's name and dosage when submitting a claim for NOC drugs. 
+ 
+Enter a concise description of an "unlisted procedure code" or a NOC code if one can be 
+given within the confines of this box.  Otherwise an attachment shall be submitted with 
+the claim. 
+   
+When billing for unlisted laboratory tests using a NOC code, this field MUST include the 
+specific name of the laboratory test(s) and/or a short descriptor of the test(s).  Claims for 
+unlisted laboratory tests that are received without this information shall be treated 
+according to the requirements found in Pub. 100-04, Medicare Claims Processing 
+Manual, Chapter 1, Section 80.3.2 and “returned as unprocessable.” Section 216(a) of the

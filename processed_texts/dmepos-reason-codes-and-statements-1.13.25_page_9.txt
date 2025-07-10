@@ -1,0 +1,53 @@
+Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) Reason Codes and 
+Statements  
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         9 
+ 
+Coverage Determination 280.1, Local Coverage Determination L33642 and Policy 
+Article A52490. 
+SS006 
+The medical record documentation does not demonstrate the beneficiary had a 
+myocutaneous flap or skin graft for a pressure ulcer on the trunk or pelvis within the 
+past 60 days. Refer to National Coverage Determination 280.1, Local Coverage 
+Determination L33642 and Policy ArticleA52490. 
+SS007 
+The medical record documentation does not demonstrate the beneficiary has been on a 
+group II or III support surface immediately prior to discharge from a hospital or 
+nursing facility within the past 30 days. Refer to National Coverage Determination 
+280.1, Local Coverage Determination L33642 and Policy Article A52490. 
+SS008 
+The medical record document demonstrates that it has been more than 60 days from 
+the date of the mycocutaneous flap or skin graft surgery, and fails to explain the 
+continued medical need for the specialty mattress. Refer to National Coverage 
+Determination 280.1, Local Coverage Determination L33642. 
+SS009 
+The order is dated greater than 30 days after the beneficiary was discharged from a 
+hospital or nursing facility. Refer to National Coverage Determination 280.1, Local 
+Coverage Determination L33642 and Policy Article A52490. 
+SS010 
+The medical record documentation indicates that all ulcers on the trunk or pelvis are 
+healed. Refer to National Coverage Determination 280.1, Local Coverage 
+Determination L33642 and Policy Article A52490. 
+SS011 
+The medical record documentation shows ulcer healing has not continued, and does 
+not demonstrate other aspects of the care plan are being modified to promote healing or 
+the use of the group 2 support surface is reasonable and necessary for wound 
+management. Refer to National Coverage Determination 280.1, Local Coverage 
+Determination L33642 and Policy Article A52490. 
+SS012 
+The medical record documentation does not demonstrate the beneficiary has been on a 
+comprehensive ulcer treatment program. Refer to National Coverage Determination 
+280.1, Local Coverage Determination L33642 and Policy Article A52490. 
+SS013 
+The medical record documentation does not demonstrate the beneficiary has been on a 
+comprehensive ulcer treatment program which included use of an appropriate group 1 
+support surface. Refer to National Coverage Determination 280.1, Local Coverage 
+Determination L33642 and Policy Article A52490. 
+SS014 
+The medical record documentation does not demonstrate the beneficiary has been on a 
+comprehensive ulcer treatment program which included use of an appropriate group 1 
+support surface within the past month. Refer to National Coverage Determination 
+280.1, Local Coverage Determination L33642 and Policy Article A52490. 
+SS015 The medical record documentation does not demonstrate the beneficiary has been on a 
+comprehensive ulcer treatment program which included regular assessment by a nurse,

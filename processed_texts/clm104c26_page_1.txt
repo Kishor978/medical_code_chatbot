@@ -1,0 +1,30 @@
+Medicare Claims Processing Manual 
+Chapter 26 - Completing and Processing 
+Form CMS-1500 Data Set 
+ 
+Table of Contents 
+(Rev. 12779; Issued: 08-09-24) 
+ 
+ 
+Transmittals for Chapter 26 
+ 
+10 - Health Insurance Claim Form CMS-1500 
+10.1 - Claims That Are Incomplete or Contain Invalid Information 
+10.2 - Items 1-11 - Patient and Insured Information 
+10.3 - Items 11a - 13 - Patient and Insured Information 
+10.4 - Items 14-33 - Provider of Service or Supplier Information 
+10.5 - Place of Service Codes (POS) and Definitions 
+10.6 - A/B Medicare Administrative Contractor (MAC) (B) Instructions for Place 
+of Service (POS) Codes 
+10.7 - Type of Service (TOS) 
+10.8 - Requirements for Specialty Codes 
+10.8.1 - Assigning Specialty Codes by A/B MACs (B) and DME MACs 
+10.8.2 - Physician Specialty Codes 
+10.8.3 - Nonphysician Practitioner, Supplier, and Provider Specialty 
+Codes 
+10.9 - Miles/Times/Units/Services (MTUS) 
+10.9.1 - Methodology for Coding Number of Services, MTUS Count and 
+MTUS Indicator Fields 
+20 - Patient’s Request for Medical Payment Form CMS-1490S 
+30 - Printing Standards and Print File Specifications Form CMS-1500 
+Exhibit 1 - Form CMS-1500 (08/05) User Print File Specifications (Formerly Exhibit 2)

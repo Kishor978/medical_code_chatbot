@@ -1,0 +1,46 @@
+(POS 22)), the patient’s physician or nonphysician practitioner or hospice 
+independent attending physician or nurse practitioner, shall assign the POS 
+code that represents that setting, as appropriate. 
+ 
+There may be use of nursing homes as the hospice patient’s “home,” where the 
+patient resides in the facility but is receiving a home level of care. In addition, 
+hospices are also operating “houses” or hospice residential entities where 
+hospice patients receive a home level of care. In these cases, physicians and 
+nonphysician practitioners, including the patient’s independent attending 
+physician or nurse practitioner, shall use the appropriate POS code representing 
+the particular setting, e.g., POS code 32 for nursing home, POS code 13 for an 
+assisted living facility, or POS code 14 for group home. 
+ 
+• Special Considerations for Non-residential Opioid Treatment Facility (Code 
+58) 
+ 
+NOTE: OUD treatment services furnished at Opioid Treatment Programs are not 
+considered physician services and are separately paid under the bundled payment 
+established under sections 1833(a)(1)(CC) and 1834(w) of the Social Security 
+Act. 
+ 
+• Paper Claims 
+ 
+Adjudicate paper claims with codes from the National POS code set as you 
+would for electronic claims. 
+ 
+ 
+ 
+10.6 - A/B Medicare Administrative Contractor (MAC) (B) Instructions 
+for Place of Service (POS) Codes 
+(Rev. 3490, Issued: 04-01-16, Effective: 04-25-16, Implementation: 04-25-16) 
+ 
+For purposes of payment under the Medicare Physician Fee Schedule (MPFS), the POS 
+code is generally used to reflect the actual setting where the beneficiary receives the face-
+to-face service.  For example, if the physician’s face-to-face encounter with a patient 
+occurs in the office, the correct POS code on the claim, in general, reflects the 2-digit 
+POS code 11 for office.  In these instances, the 2-digit POS code (Item 24B on the claim 
+Form CMS-1500) will match the address and ZIP entered in the service location (Item 32 
+on the 1500 Form) – the physical/geographical location of the physician.  However, there 
+are two exceptions to this general rule – these are for a service rendered to a patient who 
+is a registered inpatient or an outpatient of a hospital.  In these cases, the correct POS 
+code -- regardless of where the face-to-face service occurs -- is that of the appropriate 
+inpatient POS code (at a minimum POS code 21) or that of the appropriate outpatient 
+hospital POS code (at a minimum POS code 19 or 22, for outpatient services performed 
+off campus or on campus) as discussed in section 10.5 of this chapter.  So, if in the above 
+example, the patient seen in the physician’s office is actually an inpatient of the hospital,

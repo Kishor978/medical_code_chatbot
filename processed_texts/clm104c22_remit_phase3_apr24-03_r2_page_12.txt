@@ -1,0 +1,30 @@
+IEA  Required. 
+IEA01  Required.  TG 
+IEA02  Required.  TG 
+GS  Required 
+GS01  Required.  TG 
+GS02  Required.  Mapped to ff record 1, field 1. 
+GS03  Required.  The receiver’s code is established in the trading partner 
+agreement.  It may be the provider # (mapped to ff record 1, field 3), the 
+provider chain ID # (mapped to ff record 1, field 2), the VAN ID # (in 
+local records, TG), or the EDI submitter # (in local records, TG). 
+GS04  Required.  TG 
+GS05  Required.  TG 
+GS06  Required.  TG 
+GS07  Required.  TG 
+GS08  Required.  TG 
+Table 1, Header Data 
+ST  Required. 
+ST01  Required.  Always enter “835.” TG 
+ST02  Required.  TG 
+BPR  Required. 
+BPR01  Required.  Codes U and X do not apply to Medicare.  Mapped to ff record 
+1, field 14. 
+BPR02  Required.  Mapped to ff record 1, field 15. 
+BPR03  Required.  Code D does not apply to Medicare.  Mapped to ff record 1, 
+field 16. 
+BPR04  Required.  Codes BOP and FWT do not apply to Medicare.  Mapped to ff 
+record 1, field 17. 
+BPR05  Situational, but required for Medicare if ACH is entered in BPR04. 
+Mapped to ff record 1, field 18. 
+ 12

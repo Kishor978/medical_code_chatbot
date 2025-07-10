@@ -1,0 +1,49 @@
+Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) Reason Codes and 
+Statements  
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         6 
+ 
+Reason 
+Code LCMP/PT/OT 
+PMD7A 
+The financial attestation is not signed by the supplier or licensed/certified medical 
+professional (LCMP). Refer to Local Coverage Determination 33789 Policy Article 
+A52498 
+PMD7B 
+The documentation does not include a financial attestation stating the 
+licensed/certified medical professional (LCMP) has no financial relationship with the 
+supplier. Refer to Local Coverage Determination 33789 Policy Article A52498. 
+PMD7C 
+The specialty evaluation completed by the licensed/certified medical professional 
+(LCMP) does not have evidence of concurrence or disagreement by the treating 
+physician/practitioner. Refer to Local Coverage Determination 33789 Policy Article 
+A52498. 
+PMD7D 
+The licensed/certified medical professional (LCMP) mobility examination does not 
+have evidence of concurrence or disagreement by the treating physician/practitioner. 
+Refer to Local Coverage Determination 33789 Policy Article A52498. 
+PMD7G The specialty evaluation is illegible. 
+PMD7I 
+The specialty evaluation requires a signature to resolve authenticity concerns related 
+to legitimacy or falsity, signature requirements are not met. Refer to 42 Code of 
+Federal Regulations 410.38 (c) & Medicare Program Integrity Manual 100- 08, 
+Chapter 3, Section 3.3.2.4. 
+PMD7J The financial attestation is not dated.  Refer to Local Coverage Determination 33789 
+Policy Article A52498. 
+PMD7K 
+The financial attestation statement submitted does not contain the name of the 
+licensed/certified medical professional (LCMP) who completed the specialty 
+evaluation.  Refer to Local Coverage Determination 33789 Policy Article A52498.                                                
+PMD7L 
+The financial attestation statement submitted does not contain the name of the 
+licensed/certified medical professional (LCMP) who completed the mobility 
+examination.  Refer to Local Coverage Determination 33789 Policy Article A52498.          
+PMD7N The licensed/certified medical professional (LCMP) mobility examination is 
+illegible. 
+PMD7Q 
+The licensed/certified medical professional (LCMP) mobility examination was not 
+signed by the LCMP. Refer to Local Coverage Determination 33789; Policy Article 
+A52498 & Program Integrity Manual 3.3.2.4 
+PMD7R The specialty evaluation does not contain a date of service.  Refer to Local Coverage 
+Determination 33789; Policy Article A52498.

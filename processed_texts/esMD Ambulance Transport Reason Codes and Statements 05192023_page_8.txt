@@ -1,0 +1,42 @@
+Ambulance Transport Reason Codes and Statements  
+Updated on May 19, 2023 
+ 
+8 
+ 
+   
+Reason 
+Code TRANSPORT TO PHYSICIAN'S OFFICE  
+AMB2G 
+The documentation supports the routine non emergent transport was to a non-covered 
+destination such as, a physician's office or home health agency, which are not covered 
+destinations (outside of a public health emergency as defined in 400.200). Refer to 42 
+CFR § 410.40 (f), Internet Only Manual (IOM), Publication 100-02, Medicare Benefi t 
+Policy Manual, Chapter 10, Section 10.3, Internet Only Manual (IOM), Publication 
+100-04, Medicare Claims Processing Manual, Chapter 15, Section 10.2.  
+   
+Reason 
+Code ADMINISTRATIVE/OTHER (For Transmission via esMD)  
+GEX01 The file is corrupt and/or cannot be read 
+GEX02 The submission was sent to the incorrect review contractor  
+GEX03 A virus was found 
+GEX04 Other 
+GEX05 The system used to retrieve the Subscriber/Insured details using the given MBI is 
+temporarily unavailable. 
+GEX06 The documentation submitted is incomplete  
+GEX07 This submission is an unsolicited response  
+GEX08 The documentation submitted cannot be matched to a case/claim  
+GEX09 This is a duplicate of a previously submitted transaction  
+GEX10 The date(s) of service on the cover sheet received is missing or invalid.  
+GEX11 The NPI on the cover sheet received is missing or invalid.  
+GEX12 The state where services were provided is missing or invalid on the cover sheet 
+received. 
+GEX13 The Medicare ID on the cover sheet received is missing or invalid.  
+GEX14 The billed amount on the cover sheet received is missing or invalid.  
+GEX15 The contact phone number on the cover sheet received is missing or invalid.  
+GEX16 The Beneficiary name on the cover sheet received is missing or invalid 
+GEX17 The Claim number on the cover sheet received is missing or invalid  
+GEX18 The ACN on the coversheet received is missing or invalid  
+GEX19 
+(Effective 
+10/01/2021) 
+Provider is exempted from submitting this PA request

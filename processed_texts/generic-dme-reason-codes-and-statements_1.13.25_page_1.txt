@@ -1,0 +1,47 @@
+Generic Durable Medical Equipment (DME) Reason Codes and Statements 
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         1 
+ 
+ 
+Reason 
+Code PROOF of DELIVERY STATEMENTS 
+GDR01 
+The documentation does not include a proof of delivery.  Refer to Medicare 
+Program Integrity Manual 100-08, Chapter 4, Section 4.26 & Standard Documentation 
+Requirements A55426. 
+GDR02 The beneficiary or designee signature and date indicating proof of delivery is after the 
+date of service. Refer to Standard Documentation Requirements A55426. 
+GDR03 
+The beneficiary or designee signature and date indicating proof of delivery is prior to 
+the date of service.  Refer to Medicare Program Integrity Manual 100-08, Chapter 4, 
+Section 4.26.1 & Standard Documentation Requirements A55426. 
+GDR04 
+The shipping date documented on the proof of delivery is after the date of service.  
+Refer to Medicare Program Integrity Manual 100-08, Chapter 4, Section 4.26.1 & 
+Standard Documentation Requirements A55426. 
+GDR05 
+The shipping date indicating proof of delivery is prior to the date of service. Refer to 
+Medicare Program Integrity Manual 100-08, Chapter 4, Section 4.26.1 & Standard 
+Documentation Requirements A55426. 
+GDR06 
+The proof of delivery is missing the beneficiary or designee's signature.   Refer to 
+Medicare Program Integrity Manual 100-08, Chapter 4, Section 4.26.1 & Standard 
+Documentation Requirements A55426. 
+GDR07 
+The proof of delivery contains a beneficiary or designee's signature that is illegible.   
+Refer to Medicare Program Integrity Manual 100-08, Chapter 4, Section 4.26.1 & 
+Standard Documentation Requirements A55426. 
+GDR08 The proof of delivery is missing the beneficiary's name. Refer to Standard 
+Documentation Requirements A55426. 
+GDR09 The proof of delivery is missing the delivery address. Refer to Standard 
+Documentation Requirements A55426. 
+GDR10 The proof of delivery is missing the date delivered.   Refer to Medicare Program 
+Integrity Manual 4.26.1 
+GDR11 The proof of delivery is missing the quantity delivered. Refer to Standard 
+Documentation Requirements A55426. 
+GDR12 The proof of delivery contains a description of contents not consistent with the item(s) 
+billed. Refer to Standard Documentation Requirements A55426. 
+GDR13 
+The proof of delivery does not contain a sufficiently detailed description of contents. 
+Refer to Standard Documentation Requirements A55426.

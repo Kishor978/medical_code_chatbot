@@ -1,0 +1,62 @@
+eMDR Document Codes List (April 2024 Release) 
+Page 21 of 27 
+ 
+Document 
+Code 
+Document Description Action Release 
+100411 Documentation that support the concurrent presence of 
+at least one of the signs/symptoms/lab findings listed in 
+LCD criteria and at least two urine culture results that 
+confirm a UTI 
+    
+100412 Medical record documentation that supports the specific 
+reason the treating practitioner ordered a 
+frequency/quantity that exceeds utilization guidelines  
+    
+100413 Supplier documentation for custom molded 
+shoes/inserts with information regarding taking 
+impressions, making casts, or obtaining CAD-CAM 
+images of the beneficiary's feet that will be used in 
+creating positive models of the feet. 
+Modified Apr 
+2024 
+100414 Supplier's documentation that verifies that the 
+beneficiary has appropriate footwear into which the 
+inserts can be placed, if separate inserts were dispensed 
+independently of diabetic shoes. 
+Modified Apr 
+2024 
+100415 Documentation of the supplier in-person evaluation, 
+prior to or at the time of selection of items, that includes 
+exam and measurements of the feet with description of 
+the abnormalities needed to be accommodated by the 
+shoes/inserts/modifications 
+    
+100416 Documentation supporting the reason and diagnosis 
+associated with all previous stem cell treatments and 
+outcome 
+    
+100417 Documentation to support the code(s) and modifier(s) 
+billed 
+    
+100418 Mini mental status exam (MMSE) or similar test score     
+100419 Ocular Photodynamic Therapy (OPT) treatment notes, 
+including initial and subsequent treatments 
+    
+100420 Detailed Product Description (DPD)     
+100421 Supplier's record documentation showing the reason for 
+item(s) being replaced  
+Modified Apr 
+2024 
+100422 Supplier documentation of in-person visit and 
+evaluation and measurements prior to selection of 
+item(s) 
+    
+100423 Supplier documentation of objective assessment at the 
+time of in-person delivery 
+    
+100424 Reason and results for Duplex Study     
+100425 Reason and result for the Nerve Conduction Study      
+100426 Pre, post, or intra-operative diagnostic studies     
+100427 Medical documentation detailing prior course of 
+treatment, but not limited to, frequency and number of

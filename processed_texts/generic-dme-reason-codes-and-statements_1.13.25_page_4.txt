@@ -1,0 +1,51 @@
+Generic Durable Medical Equipment (DME) Reason Codes and Statements 
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         4 
+ 
+GDU09 
+The medical record documentation does not clearly indicate the author of the 
+amendment, correction or delayed entry.  Refer to Medicare Program Integrity Manual 
+100-08, Chapter 3, Section 3.3.2.5. 
+GDU10 
+The medical record documentation does not clearly identify all original content of the 
+amendment, correction or delayed entry.  Refer to Medicare Program Integrity Manual 
+100-08, Chapter 3, Section 3.3.2.5. 
+GDU11 
+The medical record documentation is dated after the date of service.  Refer to 
+Medicare Program Integrity Manual 100-08, Chapter 5, Section 5.9 & Standard 
+Documentation Requirements A55426. 
+GDU12 The medical record documentation is illegible. 
+GDU13 
+The documentation was not timely (within the preceding 12 months) to support 
+continued use by the beneficiary.  Refer to Standard Documentation Requirements 
+A55426 
+GDU14 
+The documentation was not timely (within the preceding 12 months) to support 
+continued need by the beneficiary.  Refer to Standard Documentation Requirements 
+A55426 
+GDU15 The telehealth visit does not comply with the Medicare prescribed telehealth 
+requirements. Refer to 42 CFR 414.65, 42 CFR 410.78, & 42 CFR 410.38. 
+GDU16 The medical record documentation does not indicate the date of service or date of visit. 
+Refer to Standard Documentation Requirements A55426. 
+GDU17 The medical record documentation appears to be missing pages.  
+GDU18 
+The medical record documentation indicates the item is needed for post-operative 
+recovery, this item is expected to be included in the Diagnostic Related Group (DRG) 
+or Prospective Payment System (PPS) rates. Refer to Claims Processing Manual Pub. 
+100-04 Chapter 1, Section 10.1.5.1 
+GDU19 
+The medical record documentation indicates the item is needed during post-operative 
+recovery; however, the surgery has not yet taken place. Refer to Medicare Benefit 
+Policy Manual Chapter 15, Section 110.1, Section C. 
+GDU20 
+The item provided is not clearly noted in the beneficiary’s record for a treating 
+practitioner who is also the supplier. Refer to Medicare Program Integrity Manual 100-
+08, Chapter 5, Section 5.2 and Standard Documentation Article A55426. 
+GDU1Z The medical record documentation contains an error not otherwise specified. 
+GDU21 
+The face-to-face encounter does not contain a treating practitioner's signature 
+required to resolve authenticity concerns related to legitimacy or falsity of the 
+documentation. Refer to Social Security Act §1815(a) and §1833(e), 42 Code of 
+Federal Regulations 410.38 (c), & Medicare Program Integrity Manual 100- 08, 
+Chapter 3, Section 3.3.2.4.

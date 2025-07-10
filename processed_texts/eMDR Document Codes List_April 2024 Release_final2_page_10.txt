@@ -1,0 +1,57 @@
+eMDR Document Codes List (April 2024 Release) 
+Page 10 of 27 
+ 
+Document 
+Code 
+Document Description Action Release 
+100190 Physician supervision and evaluation     
+100191 Anesthesia records (including pre- and post-anesthesia).     
+100192 Preoperative evaluations including anesthesia 
+evaluation 
+    
+100193 Current State License for Treating Therapist or NPIN 
+and/or therapy provided “incident to” physician’s 
+services, copy of performing therapist’s diploma and/or 
+license 
+Modified Apr 
+2024 
+100194 Initial evaluation/re-evaluation signed by ordering 
+physician or practitioner 
+    
+100195 Initial evaluation (intake notes), including all 
+beneficiary questionnaires 
+    
+100196 Specific Skilled Procedures and Modalities     
+100197 Medical records for any previously tried medical 
+treatment for obesity, including structured dietary 
+programs. 
+    
+100198 Medical literature that supports off label drug use     
+100199 Urinary and Fecal Incontinence Diaries, V oiding Diaries 
+and/or Urodynamic Studies 
+    
+100200 SPECT/Cardiac Perfusion Studies     
+100201 Previous SPECT results     
+100202 PET Scan reports and results     
+100203 Imaging studies including, but not limited to, CT, MRI, 
+PET 
+    
+100204 Complete neurological examination     
+100205 Evidence of trial test stimulation results     
+100206 Test Stimulation Results     
+100207 Diagnostic Studies, including visual acuity and glare 
+tests 
+    
+100208 Evaluation and biometry     
+100209 Practitioner, nurse, and ancillary progress notes     
+100210 Signed Consent Form     
+100211 Surgical recommendation      
+100212 Documentation of the product, NDC, strength     
+100213 Electrocardiogram (EKG) report     
+100214 Stress Test report     
+100215 Echocardiogram report     
+100216 Documentation of pain, comprehensive evaluation of 
+pain source, asymmetry/misalignment, range of motion 
+(ROM), tissue/tone (PART) if no x-ray available 
+    
+100217 Trans Thoracic Echocardiogram (TTE) report

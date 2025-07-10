@@ -1,0 +1,43 @@
+Full Description 
+(In Order Of 
+Appearance) 
+SPR ID SPR Field Size 
+Characteristics 
+835 Location 
+Cash deductible/  
+blood deductibles 
+DEDUCTIBLES N S9(7).99 Total of 2-020 or 2-090,  CAS03, 
+06, 09, 12, 15 or 18 when '66' in 
+prior data element 
+ 
+Coinsurance amount COINSURANCE N S9(7).99 Total of 2-020 or 2-090 CAS03, 
+06, 09, 12, 15 or 18 when '2' in 
+prior data element 
+ 
+Covered charges COVD CHGS N S9(7).99 2-060-AMT02 when 'AU' in prior 
+data element 
+ 
+Noncovered charges NCOVD CHGS N S9(7).99 2-010-CLP03 minus 2-060-
+AMT02 when 'AU' in prior data 
+element 
+ 
+Denied charges DENIED CHGS N S9(7).99 Total of 2-020 or 2-090-CAS03, 
+06, 09, 12, 15 or 18 
+ 
+Patient refund PAT REFUND N S9(7).99 2-020 or 2-amount 090-CAS 03, 
+06, 09, 12, 15 or 18 when '100' in 
+prior data element 
+ 
+Claim ESRD ESRD NET ADJ N S9(7).99 2-020 or 2-reduction 090-CAS 03, 
+06, 09, 12, 15 or 18 when '118' in 
+prior data element 
+ 
+Interest  INTEREST N S9(6).99 2-060-AMT02 when in prior data 
+element 
+ 
+Contractual CONTRACT ADJ N S9(7).99 Total of 2-020 adjustment or 2-090 
+CAS03, 06, 09, 12, 15 and 17 
+when 'CO' in CASOI 
+ 
+ 
+62

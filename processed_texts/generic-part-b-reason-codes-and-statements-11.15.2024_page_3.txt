@@ -1,0 +1,45 @@
+Generic Part B Reason Codes and Statements 
+November 15, 2024 
+ 
+*Updated and/or new codes can be found in bold italic  3 
+ 
+GBD04 
+The documentation does not support the service was performed as billed.  Refer to 
+IOM, 100-08, Medicare Program Integrity Manual Chapter 3, Section 3.6.2.4 and 
+Section 3.6.2.5, Medicare Claims Processing Manual Chapter 23 
+GBD05 The documentation does not support the diagnosis code billed.  Refer to Internet Only 
+Manual, Pub 100-08, Medicare Program Integrity Manual, Chapter 3 
+GBD06 Payment for this service is compensated in the global surgical period.  Refer to 
+Medicare Claims Processing Manual Chapter 12 Section 30.6.6 
+GBD07 Payment is included in another service received on the same date (bundled).  Refer to 
+Medicare Claims Processing Manual Chapter 12, Section 30 & 40 
+GBD08 
+This service or procedure is considered investigational and, therefore, not covered by 
+Medicare.  Refer to IOM, 100-08, Medicare Program Integrity Manual Chapter 
+3, Section 3.6.2.2 
+GBD09 The documentation submitted does not support the ordered service.  Refer to IOM- Pub 
+100-08, Medicare Program Integrity Manual, Chapter 3, Section 3.6.2.5, A 
+GBD10 
+The documentation does not support that a separately identifiable service was 
+performed.  Refer to IOM Medicare Claims Processing Manual Chapter 12, Section 
+30.6; Section 1833 (e), Title XVIII, of the Social Security Act 
+GBD11 The appropriate primary code has not been billed or paid.  Refer to IOM-Pub 100-08, 
+Medicare Program Integrity Manual, Chapter 3, Section 3.6.2.4 
+GBD12 The documentation submitted indicates the service was performed for cosmetic 
+purposes.  Refer to Medicare Benefit Policy Manual Chapter 16, Section 120 
+GBD13 The documentation submitted contains cloned or altered information.  Refer to Pub 
+100-8, Medicare Program Integrity Manual, Chapter 3, Section 3.3.2.5; Chapter 4.3 
+GBD14 The provider indicated services were billed in error.  Refer to Section 1833 (e), Title 
+XVIII, of the Social Security Act 
+GBD15 The documentation contains conflicting information.  Refer to Medicare Program 
+Integrity Manual Chapter 4.3 
+GBD16 The service or device was not FDA approved.  Refer to SSA 1862; Medicare Benefit 
+Policy Manual Chapter 14 
+GBD17 
+The service billed is statutorily excluded.  Refer to Medicare Claims Processing 
+Manual Chapter 30, Section 20.1.1, Social Security Act 1862 (a), 12 CFR 411.15, 
+Medicare Benefit Policy Manual Chapter 16 
+GBD18 
+The documentation submitted supports the performing and billing providers are 
+different. Refer to IOM, Medicare Claims Processing Manual, Pub 100-04, Chapter 
+12, Section 230.1

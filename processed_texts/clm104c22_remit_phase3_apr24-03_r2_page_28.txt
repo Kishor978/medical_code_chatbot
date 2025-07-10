@@ -1,0 +1,37 @@
+the implementation guide note which only mentions SNF billing.) N4 will 
+not be used until Medicare begins usage of NDC codes for drugs. 
+SVC01-2  Required.  HC mapped to ff record 50, field 14.  NU mapped to ff record 
+50, field 14.  ZZ mapped to ff record 50, field 14.  N4 mapped to ff record 
+50, field 16. 
+NOTE: When a service is being denied due to submission of an invalid 
+HCPCS, HIPPS, NDC or revenue code, the invalid submitted code must 
+be entered in this data element.  This is a necessary exception to the 
+HIPAA requirement for use of valid medical codes. 
+SVC01-3  Situational, but required for Medicare if HC applies and at least one 
+modifier was reported on the claim for the service.  Modifiers do not apply 
+to and may not be reported for other procedure code types.  Mapped to ff 
+record 50, field 17. 
+SVC01-4  Situational, but required for Medicare if HC applies and a second modifier 
+was reported on the claim for the service.  Mapped to ff record 50, field 
+18. 
+SVC01-5  Situational, but required for Medicare if HC applies and a third modifier 
+was reported on the claim for the service.  Mapped to ff record 50, field 
+19. 
+SVC01-6  Situational, but required for Medicare if HC applies and a fourth modifier 
+was reported on the claim for the service.  Mapped to ff record 50, field 
+20. 
+SVC01-7  Situational, but Medicare will not report text language in a remittance  
+ advice. 
+SVC02  Required.  Mapped to ff record 50, field 21. 
+SVC03  Required.  Mapped to ff record 50, field 22. 
+SVC04  Situational, but required for Medicare if both a HCPCS or NDC, and a 
+revenue code, were reported on the claim for the same service.  Mapped to 
+ff record 50, field 23. 
+SVC05  Situational, but required for Medicare.  Mapped to ff record 50, field 24. 
+SVC06-1  Situational, but required if the procedure or drug code has been changed 
+during adjudication.  Mapped to ff record 50, field 25 if HC, if N4 is field 
+27. 
+SVC06-2  Required.  HC mapped to ff record 50, field 26.  N4 mapped to ff record 
+50, field 28.  Medicare would not change a NU (revenue code) or ZZ 
+(HIPPS code) during adjudication. 
+ 28

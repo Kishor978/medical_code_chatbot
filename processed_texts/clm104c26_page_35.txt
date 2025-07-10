@@ -1,0 +1,46 @@
+C.F.R. 
+413.65.  Physicians shall use POS code 11 (office) when services are performed 
+in a separately maintained physician office space in the hospital or on the 
+hospital campus and that physician office space is not considered a provider-
+based department of the hospital. Use of POS code 11(office) in the hospital 
+outpatient department or on hospital campus is subject to the physician self-
+referral provisions set forth in 42 C.F.R 411.353 through 411.357. 
+ 
+• Special Consideration for Ambulatory Surgical Centers (Code 24) 
+ 
+When a physician/practitioner furnishes services to a patient in a Medicare- 
+participating ambulatory surgical center (ASC), the POS code 24 (ASC) shall 
+be used. 
+ 
+NOTE: Physicians/practitioners who perform services in an ASC shall use 
+POS code 24 (ASC). Physicians/practitioners are not to use POS code 11 
+(office) for ASC based services unless the physician has an office at the same 
+physical location of the ASC, which meets all other requirements for operating 
+as a physician office at the same physical location as the ASC – including 
+meeting the “distinct entity” criteria defined in the ASC State Operations 
+Manual that precludes the ASC and an adjacent physician office from being 
+open at the same time -- and the physician service was actually performed in the 
+office suite portion of the facility. 
+ 
+See Pub 100-07, Medicare State Operations Manual, Appendix L - Guidance 
+for Surveyors: Ambulatory Surgical Centers for a complete set of applicable 
+ASC definitions, basic requirements, and conditions of coverage. It is 
+available at the following link: 
+http://www.cms.gov/manuals/Downloads/som107ap_l_ambulatory.pdf 
+ 
+• Special Considerations for Hospice (Code 34) 
+ 
+When a physician/practitioner furnishes services to a patient under the 
+hospice benefit, use the following guidelines to identify the appropriate 
+POS. 
+ 
+When a beneficiary is in an “inpatient” respite or general “inpatient” care stay, 
+the POS code 34 (hospice) shall be used. When a beneficiary who has elected 
+coverage under the Hospice benefit is receiving inpatient hospice care in a 
+hospital, SNF, or hospice inpatient facility, POS code 34 (Hospice) shall be 
+used to designate the POS on the claim. 
+ 
+For services provided to a hospice beneficiary in an outpatient setting, such as 
+the physician/nonphysician practitioner’s office (POS 11); the beneficiary’s 
+home (POS 12), i.e., not operated by the hospice; or other outpatient setting 
+(e.g., off campus-outpatient hospital (POS 19) or on campus-outpatient hospital

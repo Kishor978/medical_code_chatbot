@@ -1,0 +1,34 @@
+NM107  Situational, but do not report for Medicare.  (Medicare reports only the 
+number, not the name of the rendering provider.) 
+NM108  Required.  Until the NPI is effective, always enter “UP” for Medicare 
+when there is a UPIN.  If no UPIN, enter FI.  When the NPI is effective, 
+always enter “XX.” BD, BS, MC, PC, and SL do not apply to Medicare. 
+NM109  Required. 
+NM110-111  Not used. 
+NM1 (030.E)  Situational, but required for Medicare if claim data is being transferred to 
+another payer under a coordination of benefits (COB) agreement with that 
+payer.  Note: Although Medicare may send claim and payment 
+information to multiple secondary payers, the 835 does not permit 
+identification of more than one of those secondary payers.  When COB 
+transmissions are sent to more than one secondary payer for the same 
+claim, enter remark code N89 (see attachment 2) in a MOA segment 
+remark code data element. 
+NM101  Required. 
+NM102  Required. 
+NM103  Required. 
+NM104-107  Not used. 
+NM108  Required.  Until the PlanID is effective, always enter “PI” for Medicare; 
+when effective, enter “XV.” AD, FI, NI, and PP do not apply to Medicare. 
+NM109  Required. 
+NM110-111  Not used. 
+NM1 (030.F)  Situational.  Required for Medicare when a claim is denied or rejected due 
+to the need for processing by a primary payer.  That primary payer should 
+be identified in the remittance advice. 
+NM101  Required. 
+NM102  Required. 
+NM103  Required. 
+NM104-107  Not used. 
+NM108  Required.  Until the PlanID is effective, always enter “PI” for Medicare in 
+this loop.  When effective, always enter “XV” for Medicare.  AD, FI, NI, 
+and PP do not apply to Medicare. 
+ 40

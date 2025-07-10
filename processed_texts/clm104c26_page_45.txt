@@ -1,0 +1,45 @@
+Code Non-physician Practitioner/Supplier/Provider Specialty 
+97 Physician Assistant 
+A0 Hospital 
+A1 Skilled Nursing Facility 
+A2 Intermediate Care Nursing Facility 
+A3 Nursing Facility, Other 
+A4 Home Health Agency 
+A5 Pharmacy 
+A6 Medical Supply Company with Respiratory Therapist 
+A7 Department Store 
+A8 Grocery Store 
+B1 Oxygen/Oxygen Related Equipment 
+B2 Pedorthic Personnel 
+B3 Medical Supply Company with Pedorthic Personnel 
+B4 Rehabilitation Agency 
+B5 Ocularist 
+C1 Centralized Flu  
+C2 Indirect Payment Procedure  
+C4 Restricted Use 
+D1 Medicare Diabetes Preventive Program 
+D2 Restricted Use 
+D5 Opioid Treatment Program  
+D6 Home Infusion Therapy Services 
+NOTE:  Specialty Code Use for Service in an Independent Laboratory.  For services 
+performed in an independent laboratory, show the specialty code of the physician 
+ordering the x-rays and requesting payment.  If the independent laboratory requests 
+payment, use type of supplier code "69". 
+ 
+10.9 - Miles/Times/Units/Services (MTUS) 
+(Rev. 1970, Issued: 05-21-10, Effective: 10-01-2010, Implementation: 10-04-10) 
+ 
+Miles/Times/Units/Services (MTUS) count and MTUS indicator fields are on Part B 
+Physician/Supplier Claims.  These fields are documented in the CMS National Claims 
+History Data Dictionary. 
+ 
+Shared systems are to put MTUS count and MTUS indicators on all claims at the line 
+item level. 
+ 
+The purpose of the MTUS Count Field on the line item is to document additional 
+information reflecting certain volumes related to indicators.  In most cases, the value in 
+this field will be the same as in the Service Count Field on the line item; however, for 
+services such as anesthesia the field values will differ.  In this case, the service count field 
+will likely contain a value of 1 for the occurrence of the surgery while the MTUS Count 
+Field will contain the actual time units that the anesthesiologist spent with the patient in 
+15 minute increments or a fraction thereof.

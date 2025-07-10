@@ -1,0 +1,55 @@
+eMDR Document Codes List (April 2024 Release) 
+Page 6 of 27 
+ 
+Document 
+Code 
+Document Description Action Release 
+100101 Operative/procedure report                              
+100102 Paring or cutting procedures on the skin     
+100103 Signed requisitions for lab services     
+100104 Stage of treatment for accurate dose administration 
+calculation for the drug; (i.e. First dose or subsequent 
+dosing)  
+    
+100105 Wound care assessment and supporting documentation     
+100106 Social Worker initial assessment     
+100107 All group psychotherapy notes including number of 
+participants     
+    
+100108 Breakdown of hours if nurse and aide visits combined 
+are more than two times a day 
+    
+100109 Caregiver Notes     
+100110 Diabetic lower extremity wounds-Wagner grade 
+classification, diagnostic testing to support Wagner 
+grade and documentation of prior failed treatment  
+    
+100111 For all therapy services rendered submit 
+attendance/treatment records for the claim period - must 
+include total treatment time and identify each specific 
+skilled modality provided 
+    
+100112 All documents needed to support Home Health services     
+100113 Interdisciplinary Group (IDG) Reviews     
+100114 If nurse visits are daily or more, statement of endpoint 
+when nurse visits are expected to decrease to less than 
+seven days a week 
+    
+100115 Initial nursing facility visit      
+100116 Subsequent Nursing Facility Visit(s)     
+100117 All documents needed for a Nursing Home Review     
+100118 Progress reports written by the clinician-services related 
+to progress reports are to be furnished on or before 
+every 10th treatment day 
+    
+100119 Physical Therapy (PT)/Occupational Therapy 
+(OT)/Speech Language Pathology (SLP) – Initial 
+evaluation/re-evaluation, plans of care, progress reports, 
+treatment encounter notes, therapy minute logs, and 
+discharge summary 
+Modified Apr 
+2024 
+100120 Therapeutic activities program for beneficiary     
+100121 Office visit with injection     
+100122 Diagnostic/Vascular studies      
+100123 Nutritional evaluation, consultations, and progress notes

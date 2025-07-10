@@ -1,0 +1,49 @@
+Home Blood Glucose Monitoring Reason Codes and Statements 
+January 4, 2024 
+ 
+1 
+ 
+ 
+Reason 
+Code BLOOD GLUCOSE MONITOR 
+GL002 
+The medical record documentation does not support the beneficiary has diabetes. Refer 
+to National Coverage Determination 40.2, Local Coverage Determination L33822, & 
+Policy Article A52464. 
+GL003 
+The medical record documentation does not support the beneficiary has had an in-
+person visit with the treating practitioner to evaluate their diabetes control and their 
+need for the specific quantity of supplies that exceeds the usual utilization amounts 
+within six months prior to ordering quantities of strips and lancets that exceed the 
+utilization guidelines.  Refer to Local Coverage Determination L33822 & Policy 
+Article A52464. 
+GL004 
+The medical record documentation does not support the need for the specific quantity 
+of supplies that exceeds the usual utilization amounts described. Refer to Local 
+Coverage Determination L33822 & Policy Article A52464. 
+GL005 
+The medical record does not include documentation to support the beneficiary is 
+testing at a frequency that corroborates the quantity of supplies dispensed (e.g., a 
+specific narrative statement that adequately documents the frequency at which the 
+beneficiary is actually testing or a copy of the beneficiary's log). Refer to Local 
+Coverage Determination L33822 & Policy Article A52464. 
+GL006 
+The testing log submitted which indicates the beneficiary's actual testing frequency is 
+not within the preceding six months. Refer to Local Coverage Determination L33822 
+& Policy Article A52464. 
+GL007 The testing log does not contain a date. Refer to Local Coverage Determination 
+L33822 & Policy Article A52464. 
+GL008 
+The testing log does not contain the beneficiary's name. Refer to Medicare Program 
+Integrity Manual 5.9, Local Coverage Determination L33822, & Policy Article 
+A52464. 
+GL009 
+The medical record documentation does not support the beneficiary has a severe visual 
+impairment (i.e., best corrected visual acuity of 20/200 or worse in both eyes) requiring 
+use of this special monitoring system. Refer to National Coverage Determination 40.2, 
+Local Coverage Determination L33822, & Policy Article A52464. 
+GL010 
+The medical record documentation does not support the treating practitioner has 
+certified that the beneficiary has an impairment of manual dexterity severe enough to 
+require the use of this monitoring system. Refer to Local Coverage Determination 
+L33822 & Policy Article A52464.

@@ -1,0 +1,46 @@
+In addition, the signature in this item authorizes payment of mandated Medigap benefits 
+to the participating physician or supplier if required Medigap information is included in 
+item 9 and its subdivisions.  The patient or his/her authorized representative signs this 
+item or the signature must be on file as a separate Medigap authorization.  The Medigap 
+assignment on file in the participating provider of service/supplier's office must be 
+insurer specific.  It may state that the authorization applies to all occasions of service 
+until it is revoked. 
+ 
+NOTE:  This can be "Signature on File" signature and/or a computer generated signature. 
+ 
+10.4 - Items 14-33 - Provider of Service or Supplier Information 
+(Rev.10341, Issued: 09-04-2020; Effective: 10-06-20; Implementation: 10- 06-20) 
+ 
+Reminder:  For date fields other than date of birth, all fields shall be one or the 
+other format, 6-digit:  (MM | DD | YY) or 8-digit:  (MM | DD | CCYY).  Intermixing 
+the two formats on the claim is not allowed. 
+ 
+Item 14 - Enter either an 8-digit (MM | DD | CCYY) or 6-digit (MM | DD | YY) date of 
+current illness, injury, or pregnancy.  For chiropractic services, enter an 8-digit (MM | 
+DD | CCYY) or 6-digit (MM | DD | YY) date of the initiation of the course of treatment 
+and enter an 8-digit (MM | DD | CCYY) or 6-digit (MM | DD | YY) date in item 19. 
+ 
+Additional information for form version 02/12:  Although this version of the form 
+includes space for a qualifier, Medicare does not use this information; do not enter a 
+qualifier in item 14. 
+ 
+Item 15 - Leave blank. 
+ 
+Item 16 - If the patient is employed and is unable to work in his/her current occupation, 
+enter an 8-digit (MM | DD | CCYY) or 6-digit (MM | DD | YY) date when patient is 
+unable to work.  An entry in this field may indicate employment related insurance 
+coverage. 
+ 
+Item 17 - Enter the name of the referring or ordering physician if the service or item was 
+ordered or referred by a physician.  All physicians who order services or refer Medicare 
+beneficiaries must report this data.  Similarly, if Medicare policy requires you to report a 
+supervising physician, enter this information in item 17.  When a claim involves multiple 
+referring, ordering, or supervising physicians, use a separate CMS-1500 claim form for 
+each ordering, referring, or supervising physician. 
+ 
+Additional instructions for form version 02/12:  Enter one of the following qualifiers as 
+appropriate to identify the role that this physician (or non-physician practitioner) is 
+performing: 
+ 
+Qualifier Provider Role 
+DN  Referring Provider

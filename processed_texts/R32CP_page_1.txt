@@ -1,0 +1,38 @@
+CMS Manual System Department of Health & 
+Human Services (DHHS) 
+Pub. 100-04 Medicare Claims Processing  Centers for Medicare & 
+Medicaid Services (CMS) 
+Transmittal  32  Date:  NOVEMBER 21, 2003
+ CHANGE REQUEST 2975
+ 
+I.   SUMMARY OF CHANGES: This transmittal updates the Remittance Advice Remark Code 
+and Claim Adjustment Reason Code lists that must be used to generate a HIPAA compliant 
+remittance advice. 
+ 
+NEW/REVISED MATERIAL - EFFECTIVE DATE: January 1, 2004 
+          IMPLEMENTATION DATE: January 5, 2004 
+ 
+II.  CHANGES IN MANUAL INSTRUCTIONS: 
+     (R = REVISED, N = NEW, D = DELETED  
+ 
+R/N/D CHAPTER/SECTION/SUBSECTION/TITLE 
+N/A  
+  
+  
+  
+  
+  
+  
+ 
+*III.  FUNDING:  
+ 
+These instructions should be implemented within your current operating budget. 
+ 
+IV.  ATTACHMENTS:   
+ 
+ Business Requirements 
+ Manual Instruction 
+ Confidential Requirements 
+X One-Time Notification 
+ 
+*Medicare contractors only

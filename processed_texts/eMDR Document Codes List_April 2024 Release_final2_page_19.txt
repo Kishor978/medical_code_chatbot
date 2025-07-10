@@ -1,0 +1,58 @@
+eMDR Document Codes List (April 2024 Release) 
+Page 19 of 27 
+ 
+Document 
+Code 
+Document Description Action Release 
+100370 Diagnostic/other tests and results     
+100371 Multi-discipline treatment plan     
+100372 Billing Forms, all that apply     
+100373 All behavioral/psychological/psychiatric tests that have 
+been performed. 
+    
+100374 Transfer sheet     
+100376 Discharge summary from acute care     
+100377 Hospice Plan of Care (initial and updates) covering all 
+specified dates of service plus two qualifying periods 
+    
+100378 Hospital documentation (during qualifying period)     
+100379 Discharge orders     
+100381 Transfer, Discharge, and/or revocation documentation     
+100382 Hospice initial and comprehensive assessment, and 
+updated assessments covering all specified dates of 
+service 
+    
+100383 Chaplain Records     
+100385 Policies and Procedures for Management and Disposal 
+of Controlled Drugs 
+    
+100386 Documentation that demonstrates the medical necessity 
+of the chiropractic treatment 
+    
+100387 Treating practitioner's written order Modified Apr 
+2024 
+100388 Total number of beneficiaries transported by ambulance 
+together 
+    
+100389 Time of day for each operative session for this 
+beneficiary on this date 
+    
+100390 Imaging reports prior to the visits or treatments     
+100391 Latest hemoglobin and hematocrit levels prior to the 
+administration of medication(s) 
+    
+100392 Legible fluorescein angiography or OCT reports 
+including photographs and descriptions of the lesion(s) 
+    
+100393 Documentation to support National Coverage 
+Determination (NCD), Local Coverage Determination 
+(LCD) and/or Policy Article 
+    
+100394 Election of Religious Nonmedical Health Care 
+Institution (RNHCI) Benefits Questionnaire response as 
+described in CMS IOM Publication number 100-2 
+Medicare Benefit Policy Manual, Chapter 1, Section 
+130.2 
+    
+100395 Copy of Prior Authorization decision letter which 
+includes assigned UTN

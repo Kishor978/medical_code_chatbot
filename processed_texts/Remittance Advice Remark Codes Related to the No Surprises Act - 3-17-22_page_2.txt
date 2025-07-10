@@ -1,0 +1,38 @@
+2 
+ 
+Final Payment Amount 
+RARC # RARC Text 
+N863 Alert: This claim is subject to the No Surprises Act (NSA). The amount 
+paid is the final out-of-network rate and was calculated based on an All 
+Payer Model Agreement, in accordance with the NSA. 
+N872 Alert: This final payment was calculated based on a specified state law, in 
+accordance with the No Surprises Act. 
+N873 Alert: This final payment was calculated based on an All-Payer Model 
+Agreement, in accordance with the No Surprises Act.  
+N874 Alert: This final payment was determined through open negotiation, in 
+accordance with the No Surprises Act. 
+N875 Alert: This final payment equals the amount selected as the out-of-
+network rate by a Federal Independent Dispute Resolution Entity, in 
+accordance with the No Surprises Act. 
+ 
+Denial of Payment 
+RARC # RARC Text 
+N876 Alert: This item or service is covered under the plan. This is a notice of 
+denial of payment provided in accordance with the No Surprises Act. The 
+provider or facility may initiate open negotiation if they desire to negotiate 
+a higher out-of-network rate than the amount paid by the patient in cost 
+sharing. 
+ 
+Notice and Consent  
+RARC # RARC Text 
+N878 Alert: The provider or facility specified that notice was provided and 
+consent to balance bill obtained, but notice and consent was not provided 
+and obtained in a manner consistent with applicable Federal law. Thus, 
+cost sharing and the total amount paid have been calculated based on the 
+requirements under the No Surprises Act, and balance billing is 
+prohibited.  
+N879 Alert: The notice and consent to balance bill, and to be charged out-of-
+network cost sharing, that was obtained from the patient with regard to the 
+billed services, is not permitted for these services. Thus, cost sharing and 
+the total amount paid have been calculated based on the requirements 
+under the No Surprises Act, and balance billing is prohibited.

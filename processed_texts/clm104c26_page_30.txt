@@ -1,0 +1,44 @@
+POS Code and Name (effective date) 
+Description 
+Payment Rate 
+Facility=F 
+Nonfacility=NF 
+58 Non-residential Opioid Treatment Facility (January 1, 2020) 
+ 
+A location that provides treatment for opioid use disorder on an ambulatory 
+basis.  Services include methadone and other forms of Medication Assisted 
+Treatment (MAT). 
+ 
+(See “Special Considerations” below.) 
+ 
+NF 
+59 Unassigned -- 
+60 Mass Immunization Center 
+ 
+A location where providers administer pneumococcal pneumonia and 
+influenza virus vaccinations and submit these services as electronic media 
+claims, paper claims, or using the roster billing method. This generally takes 
+place in a mass immunization setting, such as, a public health center, 
+pharmacy, or mall but may include a physician office setting. 
+NF 
+61 Comprehensive Inpatient Rehabilitation Facility 
+ 
+A facility that provides comprehensive rehabilitation services under the 
+supervision of a physician to inpatients with physical disabilities. Services 
+include physical therapy, occupational therapy, speech pathology, social or 
+psychological services, and orthotics and prosthetics services. 
+F 
+62 Comprehensive Outpatient Rehabilitation Facility  
+ 
+A facility that provides comprehensive rehabilitation services under the 
+supervision of a physician to outpatients with physical disabilities. Services 
+include physical therapy, occupational therapy, and speech pathology 
+services. 
+NF 
+63-64 Unassigned -- 
+65 End-Stage Renal Disease Treatment Facility 
+ 
+A facility other than a hospital, which provides dialysis treatment, 
+maintenance, and/or training to patients or caregivers on an ambulatory or 
+home-care basis. 
+NF

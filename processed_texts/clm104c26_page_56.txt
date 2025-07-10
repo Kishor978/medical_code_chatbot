@@ -1,0 +1,40 @@
+LINE FIELD LITERAL 
+FIELD 
+TYPE* BYTES 
+COL-
+UMNS 
+9 8 Patient Status (Married) M 1 41 
+9 8 Patient Status (Other) M 1 47 
+9 7 Insured's City A 23 50-72 
+9 7 Insured's State A 4 74-77 
+11 5 Patient's ZIP Code N 12 01-12 
+11 5 Patient's Area Code N 3 15-17 
+ 11 5 Patient's Phone Number N 10 19-28 
+11 8 Patient Status (Employed) M 1 35 
+11 8 Patient Status (Full Time Student) M 1 41 
+11 8 Patient Status (Part Time Student) M 1 47 
+11 7 Insured's ZIP Code N 12 50-61 
+11 7 Insured's Area Code N 3 65-67 
+11 7 Insured's Phone Number N 10 69-78 
+13 9 Other Insured's Name (Last, First, MI) A 28 01-28 
+13 11 Insured's Policy, Group or FECA 
+Number 
+A/N 29 50-78 
+15 9a Other Insured's Policy or Group 
+Number 
+A/N 28 01-28 
+15 10a Condition Related (Employment C/P, 
+Yes) 
+M 1 35 
+15 10a Condition Related (Employment C/P, 
+No) 
+M 1 41 
+15 11a Insured's Date of Birth (Month) N 2 53-54 
+15 11a Insured's Date of Birth (Day) N 2 56-57 
+15 11a Insured's Date of Birth (Year) N 4 59-62 
+15 11a Sex-Male M 1 68 
+15 11a Sex-Female M 1 75 
+17 9b Other Insured's Date of Birth (Month) N 2 02-03 
+* M = mark (X), A = alpha, N = numeric 
+17 9b Other Insured's Date of Birth (Day) N 2 05-06 
+17 9b Other Insured's Date of Birth (Year) N 4 08-11

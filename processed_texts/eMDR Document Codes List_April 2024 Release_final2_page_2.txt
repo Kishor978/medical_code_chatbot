@@ -1,0 +1,64 @@
+eMDR Document Codes List (April 2024 Release) 
+Page 2 of 27 
+ 
+Document 
+Code 
+Document Description Action Release 
+100023 CLIA certificate      
+100024 Diagnostic tests, radiological reports, lab results, 
+pathology reports, and other pertinent test results and 
+interpretations 
+Modified Apr 
+2024 
+100025 Results of preadmission testing and laboratory results     
+100026 X-ray findings and/or bone cultures                                  
+100027 Discharge summary from Hospital, Skilled Nursing, 
+Continuous Care, and/or Respite Care facilities 
+    
+100028 Documentation to support evidence of follow up 
+assessment of the beneficiary at one week, one month 
+and three months postoperatively. This must include 
+discussion of the beneficiary’s procedure; response, 
+prognosis and necessary follow up 
+Modified Apr 
+2024 
+100029 Admitting diagnosis along with any diagnosis of 
+comorbid disease and the psychiatric diagnosis if 
+applicable 
+Modified Apr 
+2024 
+100030 All records that justify and support the level of care 
+received          
+    
+100031 Beneficiary body surface area (BSA) used to calculate 
+dose given 
+    
+100032 Beneficiary’s medical records (which may include; 
+practitioner medical records, hospital records, nursing 
+home records, home care nursing notes, 
+physical/occupational therapy notes) that support the 
+item(s) provided is/are reasonable and necessary 
+Modified Apr 
+2024 
+100033 Cardiac Risk Factors Assessment     
+100034 Cardiac and/or pulmonary rehab session documentation 
+and/or Cardiopulmonary exercise testing  
+    
+100035 Current adjunctive treatment                                          
+100036 Description of the onset of illness and the circumstances 
+leading to admission 
+    
+100037 Documentation of Face-to-Face Encounter and signed 
+Attestation 
+Modified Apr 
+2024 
+100038 Documentation of pain level and activities of daily 
+living (ADL) limitations, for example Roland Morris 
+Disability Questionnaire 
+    
+100039 Documentation supporting the attitudes and behaviors 
+with estimation of intellectual functioning, memory 
+functioning, and orientation. 
+    
+100040 Documentation supporting the services billed are 
+subject to a waiver/alternative payment model (APM)

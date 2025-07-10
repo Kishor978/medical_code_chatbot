@@ -1,0 +1,62 @@
+eMDR Document Codes List (April 2024 Release) 
+Page 15 of 27 
+ 
+Document 
+Code 
+Document Description Action Release 
+100304 Itemized breakdown of charges and subtotals per 
+specific revenue code range(s) including the total 
+charges of all revenue codes billed 
+    
+100305 Explanation/reason for noncoverage     
+100306 Proof of phone calls     
+100307 Certified mail pertinent to the NCC     
+100308 Proof of the representative’s right to sign the NNC (for 
+the beneficiary if necessary) and the request checked for 
+intermediary review 
+Modified Apr 
+2024 
+100309 Power of attorney paper or health surrogate papers     
+100310 Face sheet(s)     
+100312 Blood level for plasma cotinine and/or arterial 
+carboxyhemoglobin 
+    
+100313 Documentation indicating use of smoking or nicotine 
+products 
+Modified Apr 
+2024 
+100314 Documentation to support therapeutic program 
+adherence 
+Modified Apr 
+2024 
+100315 A statement by the treating physician documenting the 
+special need for performing IMRT on the beneficiary in 
+question, rather than performing conventional or three-
+dimensional treatment planning and delivery. The 
+physician must address the other organs at risk and/or 
+adjacent critical structures 
+    
+100316 Review (signed and dated) by the radiation oncologist 
+of the CT or MRI based images of the target and all 
+critical structures with representative isodose 
+distributions that characterize the three-dimensional 
+dose 
+    
+100317 Radiation oncologist review of dose-volume histograms 
+for all targets and critical structures 
+    
+100318 Description of the number and location of each 
+treatment step/rotation or portal to accomplish the 
+treatment plan 
+    
+100319 Documentation of dosimetric verification of treatment 
+setup and delivery, signed by both the radiation 
+oncologist and the medical physicist 
+    
+100320 Other procedures performed during the episode of care 
+must have documentation that supports the professional 
+and technical components as applicable by identifying 
+the place of service, the date of service, the supervising 
+physician, and proof of work 
+    
+100321 Admissions face sheet

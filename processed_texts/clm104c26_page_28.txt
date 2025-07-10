@@ -1,0 +1,48 @@
+POS Code and Name (effective date) 
+Description 
+Payment Rate 
+Facility=F 
+Nonfacility=NF 
+34 Hospice 
+ 
+A facility, other than a patient's home, in which palliative and supportive 
+care for terminally ill patients and their families are provided. 
+F 
+35-40 Unassigned -- 
+41 Ambulance—Land 
+ 
+A land vehicle specifically designed, equipped and staffed for lifesaving 
+and transporting the sick or injured. 
+F 
+42 Ambulance—Air or Water 
+ 
+An air or water vehicle specifically designed, equipped and staffed for 
+lifesaving and transporting the sick or injured. 
+F 
+43-48 Unassigned -- 
+49 Independent Clinic (October 1, 2003) 
+ 
+A location, not part of a hospital and not described by any other Place of 
+Service code, that is organized and operated to provide preventive, 
+diagnostic, therapeutic, rehabilitative, or palliative services to outpatients 
+only. 
+NF 
+50 Federally Qualified Health Center 
+ 
+A facility located in a medically underserved area that provides Medicare 
+beneficiaries preventive primary medical care under the general direction of 
+a physician. 
+NF 
+51 Inpatient Psychiatric Facility 
+ 
+A facility that provides inpatient psychiatric services for the diagnosis and 
+treatment of mental illness on a 24 -hour basis, by or under the supervision 
+of a physician. 
+F 
+52 Psychiatric Facility-Partial Hospitalization 
+ 
+A facility for the diagnosis and treatment of mental illness that provides a 
+planned therapeutic program for patients who do not require full time 
+hospitalization, but who need broader programs than are possible from 
+outpatient visits to a hospital-based or hospital-affiliated facility. 
+F

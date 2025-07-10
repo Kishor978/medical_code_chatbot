@@ -1,0 +1,80 @@
+12
+D9 Claim/service denied. Clai m lacks invoice or statement 
+certifying the actual cost of the lens, less discounts or the 
+type of intraocular lens used. 
+ 
+Inactive for 004010, 
+since 2/99. Use code 16 
+and remark codes if 
+necessary. 
+D10 Claim/service denied. Co mpleted physician financial 
+relationship form not on file. 
+ 
+Inactive for 003070, 
+since 8/97. Use code 17. 
+D11 Claim lacks completed pacemaker registration form. 
+ 
+Inactive for 003070, 
+since 8/97. Use code 17. 
+D12 Claim/service denied. Cl aim does not identify who 
+performed the purchased diagnostic test or the amount 
+you were charged for the test. 
+ 
+Inactive for 003070, 
+since 8/97. Use code 17. 
+D13 Claim/service denied. Performed by a facility/supplier in 
+which the ordering/referring physician has a financial 
+interest. 
+ 
+Inactive for 003070, 
+since 8/97. Use code 17. 
+D14 Claim lacks indicati on that plan of treatment is on file. 
+ 
+Inactive for 003070, 
+since 8/97. Use code 17. 
+D15 Claim lacks indication that  service was supervised or 
+evaluated by a physician. 
+ 
+Inactive for 003070, 
+since 8/97. Use code 17. 
+   
+B.  Policy:  
+ 
+Contractors must implement the necessary changes by January 1, 2004.   
+ 
+C.  Provider Education:  Effected providers must be notified in advance about the changes 
+in the Remittance Advice Remark Codes and Claim Adjustment Reason Codes that are going 
+to be used in remittance advice (electronic and paper), and any other transaction that will be 
+impacted by these changes. 
+ 
+II.   BUSINESS REQUIREMENTS 
+ 
+“Shall" denotes a mandatory requirement 
+"Should" denotes an optional requirement 
+ 
+Requirement # Requirements Responsibility 
+2975.1 Intermediaries/carriers/DMERCs shall replace retired and 
+modified remark and reason codes that are applicable to 
+Medicare by January 1, 2004. 
+Intermediaries/ 
+carriers/ 
+DMERCs 
+2975.2 Intermediaries/carriers/DMERCs shall add new remark and 
+reason codes that are applicable to Medicare by January 1, 
+2004. 
+Intermediaries/ 
+carriers/ 
+DMERCs 
+2975.3 Intermediaries/carriers/DMERCs shall furnish provider 
+education about changes in remittance advice codes. 
+Intermediaries/carriers/DMERCs shall inform affected 
+provider communities by posting relevant portions of this 
+instruction on their Web sites within 2-3 weeks of the 
+issuance date on this instruction.  In addition, this same 
+information shall be published in your next regularly 
+scheduled bulletin.  If you have a listserv that targets the 
+affected 
+provider communities, you shall use it to notify 
+Intermediaries/ 
+carriers/ 
+DMERCs

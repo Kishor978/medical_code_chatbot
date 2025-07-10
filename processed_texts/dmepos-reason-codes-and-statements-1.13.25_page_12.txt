@@ -1,0 +1,52 @@
+Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) Reason Codes and 
+Statements  
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         12 
+ 
+LLP14 
+The medical record documentation does not demonstrate the beneficiary has a 
+microprocessor (swing and stance phase type (L5856)) controlled (electronic) knee for 
+payment of L5859. Refer to Local Coverage Determination L33787. 
+LLP15 
+(Code L5859 when submitted with L5856) The medical record documentation does not 
+demonstrate the beneficiary has a documented comorbidity of the spine and/or sound 
+limb affecting hip extension and/or quadriceps function that impairs K3 level function 
+with the use of a microprocessor-controlled knee alone.  Refer to Local Coverage 
+Determination L33787. 
+LLP16 
+(Code L5859 when submitted with L5856) The medical record documentation does not 
+demonstrate the beneficiary is able to make use of a product which requires daily 
+charging. Refer to Local Coverage Determination L33787. 
+LLP17 
+(Code L5859 when submitted with L5856) The medical record documentation does not 
+demonstrate the beneficiary is able to understand and respond to error alerts and alarms 
+indicating problems with the function of the unit.  Refer to Local Coverage 
+Determination L33787. 
+LLP18 
+(Code L5859 when submitted with L5856) The medical record documentation does not 
+demonstrate the beneficiary has a K3 functional level only for payment of L5859. 
+Refer to Local Coverage Determination L33787. 
+LLP19 
+Codes L5620, L5629, L5645, L5646, L5670, L5676, L5704, and L5962 will be denied 
+as not reasonable and necessary when billed with a below the knee preparatory 
+prefabricated prosthesis (L5535). Refer to Local Coverage Determination L33787. 
+LLP20 
+When an initial below knee prosthesis (L5500) or a preparatory below knee prosthesis 
+(L5510-L5530, L5540) is provided, prosthetic substitutions and/or additions of 
+procedures and components are covered in accordance with the functional level 
+assessment except for codes L5629, L5638, L5639, L5646, L5647, L5704, L5785, 
+L5962, and L5980 which will be denied as not reasonable and necessary.  Refer to 
+Local Coverage Determination L33787. 
+LLP21 
+Codes L5624, L5631, L5648, L5651, L5652, L5705, L5706, L5964, and L5966 will be 
+denied as not reasonable and necessary when billed with an above the knee preparatory 
+prefabricated prosthesis (L5585). Refer to Local Coverage Determination L33787. 
+LLP22 
+The microprocessor foot or ankle system addition with power assist which includes 
+any type motor (L5969) is not covered because there is insufficient information to 
+demonstrate that the item meets the Medicare standard to be considered reasonable and 
+necessary as per PIM Chapter 13. Claims for L5969 will be denied as not reasonable 
+and necessary.  Refer to Local Coverage Determination L33787. 
+LLP23 A user-adjustable heel height feature (L5990) will be denied as not reasonable and 
+necessary.  Refer to Local Coverage Determination L33787.

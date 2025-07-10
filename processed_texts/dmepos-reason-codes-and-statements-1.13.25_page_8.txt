@@ -1,0 +1,44 @@
+Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) Reason Codes and 
+Statements  
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         8 
+ 
+request for this beneficiary. 
+PMD8B No determination letter was sent to the supplier due to insufficient identification 
+information. 
+PMD8C No determination letter was sent to the treating physician/practitioner due to 
+insufficient identification information. 
+PMD8D No determination letter was sent to the beneficiary due to insufficient identification 
+information. 
+PMD8E The ordering physician is a Podiatrist (DPM) or Chiropractor (DC). Refer to Local 
+Coverage Determination 33789 & Local Coverage Article LA55426. 
+PMD8Z The documentation (explain identified problem) 
+ 
+Reason 
+Code REJECTION/INVALID PAR 
+PMD9M The documentation demonstrates the power mobility device has been delivered and is 
+therefore not eligible for Prior Authorization. 
+ 
+Reason 
+Code GROUP 2 PRESSURE REDUCING SUPPORT SURFACES 
+SS001 
+The medical record does not indicate any pressure ulcers on the trunk or pelvis. Refer 
+to National Coverage Determination 280.1, Local Coverage Determination 33642 and 
+Policy Article 52490. 
+SS002 
+The medical record documentation does not indicate the beneficiary has multiple stage 
+II pressure ulcers located on the trunk or pelvis. Refer to National Coverage 
+Determination 280.1, Local Coverage Determination L33642 and Policy Article 
+A52490. 
+SS003 
+The medical record does not demonstrate the beneficiary was on a comprehensive 
+ulcer treatment program for at least a month prior to being placed on a group 2 surface. 
+Refer to National Coverage Determination 280.1, Local Coverage Determination 
+L33642 and Policy Article A52490. 
+SS004 
+Medical record documentation does not demonstrate the staged ulcer(s) have failed to 
+improve over the past month. Refer to National Coverage Determination 280.1, Local 
+Coverage Determination L33642 and Policy Article A52490. 
+SS005 The medical record documentation does not demonstrate the beneficiary has large or 
+multiple stage III or IV pressure ulcer(s) on the trunk or pelvis. Refer to National

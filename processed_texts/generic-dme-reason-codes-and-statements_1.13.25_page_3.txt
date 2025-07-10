@@ -1,0 +1,45 @@
+Generic Durable Medical Equipment (DME) Reason Codes and Statements 
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         3 
+ 
+GDT04 The refill documentation is missing the beneficiary's name. Refer to 42 CFR 410.38 & 
+Standard Documentation Requirements A55426. 
+GDT05 The refill documentation is missing the description of each item that is being 
+requested. Refer to 42 CFR 410.38 & Standard Documentation Requirements A55426. 
+GDT06 The refill documentation is missing the date of the refill request. Refer to 42 CFR 
+410.38 & Standard Documentation Requirements A55426. 
+GDT08 The refill documentation is illegible. 
+GDT11 The documentation does not contain a refill request as the delivery slip is not signed by 
+the beneficiary or designee.   Refer to Standard Documentation Requirements A55426 
+GDT1Z The refill documentation contains an error for a reason not otherwise specified. 
+ 
+Reason 
+Code MEDICAL RECORDS STATEMENTS 
+GDU01 No medical record documentation was received.  Refer to Medicare Program 
+Integrity Manual 100-08, Chapter 3, Section 3.2.3.8. 
+GDU02 The medical record documentation is missing the beneficiary's name.   Refer to 
+Medicare Program Integrity Manual 100-08, Chapter 5, Section 5.9. 
+GDU03 Some or all of the medical record documentation is not applicable to this beneficiary.  
+Refer to Medicare Program Integrity Manual 100-08, Chapter 5, Section 5.9. 
+GDU04 
+The medical record documentation is not authenticated (handwritten or electronic) by 
+the author.   Refer to Medicare Program Integrity Manual 100-08, Chapter 3, Section 
+3.3.2.4. 
+GDU05 
+The medical record documentation contains a practitioner’s signature which does not 
+comply with the Centers for Medicare & Medicaid Services signature requirements.   
+Refer to Medicare Program Integrity Manual 100-08, Chapter 3, Section 3.3.2.4. 
+GDU06 
+The medical record documentation contains an illegible signature and no signature log 
+or attestation statement was submitted. Refer to Medicare Program Integrity Manual 
+100-08, Chapter 3, Section 3.3.2.4. 
+GDU07 
+The treating practitioner's order, Certificate of Medical Necessity, supplier prepared 
+statement, or the practitioner's attestation, by itself, does not provide sufficient 
+documentation of medical necessity. Refer to Medicare Program Integrity Manual 100-
+08, Chapter 5, Section 5.9. 
+GDU08 
+The medical record documentation does not clearly indicate the date of the 
+amendment, correction or delayed entry.  Refer to Medicare Program Integrity Manual 
+100-08, Chapter 3, Section 3.3.2.5.

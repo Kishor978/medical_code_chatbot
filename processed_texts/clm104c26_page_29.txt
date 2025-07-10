@@ -1,0 +1,45 @@
+POS Code and Name (effective date) 
+Description 
+Payment Rate 
+Facility=F 
+Nonfacility=NF 
+53 Community Mental Health Center 
+ 
+A facility that provides the following services: outpatient services, including 
+specialized outpatient services for children, the elderly, individuals who are 
+chronically ill, and residents of the CMHC’s mental health services area 
+who have been discharged from inpatient treatment at a mental health 
+facility; 24 hour a day emergency care services; day treatment, other partial 
+hospitalization services, or psychosocial rehabilitation services; screening 
+for patients being considered for admission to State mental health facilities 
+to determine the appropriateness of such admission; and consultation and 
+education services. 
+F 
+54 Intermediate Care Facility/Individuals with Intellectual Disabilities 
+ 
+A facility which primarily provides health-related care and services above 
+the level of custodial care to individuals but does not provide the level of 
+care or treatment available in a hospital or SNF. 
+NF 
+55 Residential Substance Abuse Treatment Facility 
+ 
+A facility which provides treatment for substance (alcohol and drug) abuse to 
+live-in residents who do not require acute medical care. Services include 
+individual and group therapy and counseling, family counseling, laboratory 
+tests, drugs and supplies, psychological testing, and room and board. 
+ 
+NF 
+56 Psychiatric Residential Treatment Center 
+ 
+A facility or distinct part of a facility for psychiatric care which provides a 
+total 24-hour therapeutically planned and professionally staffed group living 
+and learning environment. 
+F 
+57 Non-residential Substance Abuse Treatment Facility (October 1, 
+2003) 
+ 
+A location which provides treatment for substance (alcohol and drug) abuse 
+on an ambulatory basis. Services include individual and group therapy and 
+counseling, family counseling, laboratory tests, drugs and supplies, and 
+psychological testing. 
+NF

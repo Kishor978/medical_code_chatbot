@@ -1,0 +1,62 @@
+eMDR Document Codes List (April 2024 Release) 
+Page 8 of 27 
+ 
+Document 
+Code 
+Document Description Action Release 
+100147 Initial DME Information Form (DIF), and any 
+recertification and/or revised DIFs  
+    
+100148 Initial Certificate of Medical Necessity (CMN) and any 
+recertification and/or revised CMNs 
+    
+100149 If the beneficiary has same or similar equipment, 
+documentation indicating the reason new equipment is 
+necessary 
+    
+100150 Documentation of the request for refill     
+100151 Physician, Technician, Sleep Center and/or Laboratory 
+Accreditation Certification in Sleep Medicine 
+    
+100152 Physician/Non-Physician Practitioner (NPP) 
+certification of Plan of Care for Claim Period Including 
+Justification when the Certification is Delayed More 
+than 30 Days 
+    
+100153 RESNA Certification of Assistive Technology 
+Professional (ATP) 
+    
+100154 OASIS documentation (certifications, recertifications, 
+follow-ups and significant change). 
+    
+100155 Facility Utilization Review Plan (ONLY if used in lieu 
+of Certifications or Recertifications for Extended Care 
+Services) 
+    
+100156 Physician/Nonphysician (NPP) coding queries     
+100157 Medical clearance     
+100158 Chaplain initial assessment     
+100160 Therapy treatment plan and notes that demonstrate 
+failed behavioral and/or pharmacologic therapies 
+    
+100161 Manufacturer’s invoice containing make, model 
+number, quantity and cost of item provided 
+Modified Apr 
+2024 
+100162 Cost invoice for all supplies     
+100163 Supplier or Licensed/Certified Medical Professional 
+(LCMP) Attestation  
+    
+100164 Supplier beneficiary information forms     
+100165 List of all personnel billing services under your NPI. 
+List credentialing, training, licensure, etc., of all 
+personnel performing services under your NPI. 
+    
+100166 On Site Home Evaluation     
+100167 Documentation of procedures for emergency 
+management of beneficiaries 
+    
+100168 Electrocardiogram (ECG) and response by monitoring 
+entity 
+    
+100169 Summary report at the end of the monitoring episode

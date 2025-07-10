@@ -1,0 +1,72 @@
+7
+ 
+Deactivated Remark Codes  
+ 
+Code      Current Modified Narrative          Deactivation Date    
+ 
+M43 Payment for this service previ ously issued to you or another 
+provider by another carrier/intermediary. 
+Deactiv. eff. 1/31/04 
+Refer to Reason Code 
+23 
+ 
+M48 Payment for services furnished to hospital inpatients (other 
+than professional services of physicians) can only be made to 
+the hospital.  You must request payment from the hospital 
+rather than the patient for this service. 
+ 
+Deactiv. eff. 1/31/04 
+Refer to M97 
+M63 We do not pay for more than one of these on the same day. Deactiv. eff. 1/31/04 
+Refer to M86 
+M98 Begin to report the Universal Product Number on claims for 
+items of this type. We will soon begin to deny payment for 
+items of this type if billed without the correct UPN. 
+ 
+Deactiv. eff.1/31/04 
+Refer to M99 
+M101 Begin to report a G1-G5 modifier with this HCPCS.  We will 
+soon begin to deny payment for this service if billed without a 
+G1-G5 modifier. 
+ 
+Deactiv. eff. 1/31/04 
+Refer to M78 
+M106 Information supplied does not support a break in therapy.  A 
+new capped rental period will not begin. This is the maximum 
+approved under the fee schedule for this item or service. 
+ 
+Deactiv. eff. 1/31/04 
+Refer to MA31 
+M140 Service not covered until after the patient’s 50th birthday, i.e., 
+no coverage prior to the day after the 50th birthday. 
+ 
+Deactiv. eff. 1/31/04 
+Refer to M82 
+MA11 Payment is being issued on a conditional basis.  If no-fault 
+insurance, liability insurance, Workers' Compensation, 
+Department of Veterans Affairs, or a group health plan for 
+employees and dependents also covers this claim, a refund 
+may be due us.  Contact us if the patient is covered by any of 
+these sources. 
+ 
+Deactiv. eff. 1/31/04 
+Refer to M32 
+MA78 The patient overpaid you.  You must issue the patient a refund 
+within 30 days for the difference between our allowed amount 
+total and the amount paid by the patient. 
+ 
+Deactiv. eff. 1/31/04 
+Refer to MA59 
+MA104 Missing/incomplete/inv alid date the patient was last seen or 
+the provider identifier of the attending physician. 
+Deactiv. eff. 1/31/04 
+Refer to M128 or 
+M57 
+MA124 Processed for IME only. Deactiv. eff. 1/31/04 
+Refer to reason code 
+74 
+MA129 This provider was not certified for this procedure on this date 
+of service. 
+Deactiv. eff. 1/31/04  
+Refer to MA120. 
+and reason code B7

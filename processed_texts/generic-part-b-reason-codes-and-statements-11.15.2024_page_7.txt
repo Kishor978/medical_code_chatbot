@@ -1,0 +1,50 @@
+Generic Part B Reason Codes and Statements 
+November 15, 2024 
+ 
+*Updated and/or new codes can be found in bold italic  7 
+ 
+Chapter 12, Section 30.6.1.1; IOM, Pub 100-04, Medicare Claims Processing Manual 
+Chapter 23. 
+GBI14 
+The documentation does not support a separate E&M service was performed during a 
+global surgery period. Refer to Social Security Act 1862; Internet Only Manual, Pub 
+100-04, Medicare Claims Processing Manual, Chapter 12, Section 30.6.6.  
+GBI15 
+The documentation submitted did not support teaching service criteria were met. Refer 
+to 42 CFR §415.172; Internet Only Manual (IOM), Pub 100-02, Medicare Benefit 
+Policy Manual, Chapter 15, Section 30.2B; IOM, Pub 100-04, Medicare Claims 
+Processing Manual Chapter 12 Section 100.1.  
+GBI16 
+The submitted documentation does not support that the billing physician is the 
+physician who ordered the observation services and was responsible for the patient 
+during his/her observation care. Refer to Internet Only Manual (IOM), Pub 100-04, 
+Medicare Claims Processing Manual, Chapter 12, Section 30.6.8; IOM, Pub 100-04, 
+Medicare Claims Processing Manual Chapter 23.  
+GBI17 
+The documentation submitted does not support the required elements for the service 
+billed.  Refer to Internet Only Manual (IOM), Pub 100-04, Medicare Claims 
+Processing Manual, Chapter 12, Section 30.6; IOM, Pub 100-04, Medicare Claims 
+Processing Manual Chapter 23.  
+GBI18 
+The documentation submitted and claim history do not support the reasonable 
+necessity of an additional physicians visit. Refer to Social Security Act 1862; Internet 
+Only Manual (IOM), Pub 100-04, Medicare Claims Processing Manual, Chapter 12, 
+Section 30.6.9; IOM, Pub 100-04, Medicare Claims Processing Manual Chapter 23.  
+GBI19 
+The documentation submitted supports the billing physician billing the initial nursing 
+facility service is not the ordering physician. Refer to Internet Only Manual (IOM), 
+Pub 100-04, Medicare Claims Processing Manual, Chapter 12, Section 30.6.13; IOM, 
+Pub 100-04, Medicare Claims Processing Manual Chapter 23.   
+ 
+Reason 
+Code 
+ADMINISTRATIVE/OTHER  
+(For Transmission via esMD) 
+GEX04 Other 
+GEX05 The system used to retrieve the Subscriber/Insured details using the given MBI is 
+temporarily unavailable. 
+GEX06 The documentation submitted is incomplete 
+GEX07 This submission is an unsolicited response  
+GEX08 The documentation submitted cannot be matched to a case/claim 
+GEX09 This is a duplicate of a previously submitted transaction  
+GEX10 The date(s) of service on the cover sheet received is missing or invalid.

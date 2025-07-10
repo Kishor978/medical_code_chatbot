@@ -1,0 +1,43 @@
+The purpose of the MTUS Indicator Field is to indicate what the value entered into the 
+MTUS Count Field means.  There are 6 indicator values, as follows: 
+ 
+Indicator Description 
+0 No allowed services 
+1 Ambulance transportation miles 
+2 Anesthesia Time Units 
+3 Services  
+4 Oxygen units 
+5 Units of Blood 
+ 
+Examples of how to code these fields are specified in §10.9.1 below. 
+ 
+10.9.1 - Methodology for Coding Number of Services, MTUS Count and 
+MTUS Indicator Fields 
+(Rev. 1970, Issued: 05-21-10, Effective: 10-01-2010, Implementation: 10-04-10) 
+ 
+The following instructions should be used as a guide for coding the number of services, 
+MTUS Count and MTUS Indicator fields on the Part B Physician/Supplier Claim.  These 
+fields are documented in the CMS National Claims History Data Dictionary as 
+CWFB_SRVC_CNT, CWFB_MTUS_CNT, and CWFB_MTUS_IND_CD, respectively.  
+Services not falling into examples B, C, E, or F should be coded as shown in example D 
+(services/pricing units). 
+ 
+A. No Allowed Services - (CWFB_MTUS_IND_CD = 0) 
+ 
+For claims reporting no allowed services, the following example should be used to code 
+the line item: 
+ 
+A total of 2 visits was reported for HCPCS code 99211:  Office or other outpatient visit 
+for the management of an established patient.  Both services were denied. 
+ 
+Number of services: 2 (furnished) 
+MTUS (services): 0 (allowed) 
+MTUS indicator: 0 
+ 
+B. Ambulance Miles - (CWFB_MTUS_IND_CD = 1) 
+ 
+For claims reporting ambulance miles, the following example should be used to code the 
+line item: 
+ 
+Mileage Reporting:  A total of 10 miles (1 trip) was reported for HCPCS code A0425: 
+Ground mileage, per statute mile.

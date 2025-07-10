@@ -1,0 +1,46 @@
+Medicare contractors shall not add any specialty codes to the list.  They must send all 
+requests for expansion of the specialty code list to the Director, Division of Practitioner 
+Services, at the address above. 
+ 
+B. When considering a request for expanding the specialty code list for physician and 
+non-physician practitioners, CMS will take into consideration the following: 
+ 
+• Whether the requested specialty has the authority to bill Medicare independently; 
+ 
+• The requester’s stated reason or purpose for the code; 
+ 
+• Evidence that the practice pattern of the specialty is markedly different from that 
+of the dominant parent specialty; 
+ 
+• Evidence of any specialized training and/or certification required; 
+ 
+• Whether the specialty treats a significant volume of the Medicare population; 
+ 
+• Whether the specialty is recognized by another organization, such as the 
+American Board of Medical Specialties; and 
+ 
+• Whether the specialty has a corresponding Healthcare Provider Taxonomy Code. 
+ 
+Physicians may not have a specialty code of 70 (single or multi-specialty Clinic or Group 
+Practice.)  Contractors must contact physicians whose records indicate specialty code 70 
+and require the physicians to update their enrollment records by submitting a CMS-8551 
+with a specialty that is valid for a physician. 
+ 
+10.8.1 - Assigning Specialty Codes by A/B MACs (B) and DME MACs 
+ 
+Physicians are allowed to choose a primary and a secondary specialty code.  If the A/B 
+MAC (B) and DME MAC provider file can accommodate only one specialty code, the 
+A/B MAC (B) or DME MAC assigns the code that corresponds to the greater amount of 
+allowed charges.  For example, if the practice is 50 percent ophthalmology and 50 
+percent otolaryngology, the A/B MAC (B)/DME MAC compares the total allowed 
+charges for the previous year for ophthalmology and otolaryngology services.  They 
+assign the code that corresponds to the greater amount of the allowed charges. 
+ 
+10.8.2 - Physician Specialty Codes 
+(Rev. 12456; Issued:01-11-24; Effective:07-01-24; Implementation:07-01-24) 
+ 
+Code Physician Specialty 
+01 General Practice 
+02 General Surgery 
+03 Allergy/Immunology 
+04 Otolaryngology

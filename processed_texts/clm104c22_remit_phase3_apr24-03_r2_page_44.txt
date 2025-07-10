@@ -1,0 +1,34 @@
+CAS (svc)  Situational, but required for Medicare whenever the amount paid for a 
+service does not equal the amount billed.  Medicare carriers are required to 
+separately report every adjustment made to a service. 
+CAS01  Required.  PI does not apply to Medicare.  Necessary to use separate loops 
+if more than 1 group code applies, or if there are more than 6 procedure 
+codes per group. 
+CAS02  Required. 
+CAS03  Required. 
+CAS04  Situational, but not used for Medicare. 
+CAS05  Situational, but required for Medicare if there is a second service level 
+adjustment. 
+CAS06  Situational, but required for Medicare if there is a second service level 
+adjustment. 
+CAS07  Situational, but not used for Medicare. 
+CAS08  Situational, but required for Medicare if there is a third service level 
+adjustment. 
+CAS09  Situational, but required for Medicare if there is a third service level 
+adjustment. 
+CAS10  Situational, but not used for Medicare. 
+CAS11  Situational, but required for Medicare if there is a fourth service level 
+adjustment. 
+CAS12  Situational, but required for Medicare if there is a fourth service level 
+adjustment. 
+CAS13  Situational, but not used for Medicare. 
+CAS14  Situational, but required for Medicare if there is a fifth service level 
+adjustment. 
+CAS15  Situational, but required for Medicare if there is a fifth service level 
+adjustment. 
+CAS16  Situational, but not used for Medicare. 
+CAS17  Situational, but required for Medicare if there is a sixth service level 
+adjustment. 
+CAS18  Situational, but required for Medicare if there is a sixth service level 
+adjustment. 
+ 44

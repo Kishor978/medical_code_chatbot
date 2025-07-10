@@ -1,0 +1,51 @@
+N3 Missing consent form. (Modified 8/1/04, 
+2/28/03) Also see 
+N228 
+N26 Missing itemized bill. (Modified 8/1/04, 
+2/28/03) Also see 
+N232 
+N29 Missing documentation/orders/notes/summary/report/invoice. (Modified 8/1/04, 
+2/28/03) See 
+N225 
+N40 Missing x-ray. (Modified 
+2/28/03, 6/30/03, 
+2/1/04, 8/1/04) 
+See N242 
+N121 Medicare Part B does not pay for items or services provided by 
+this type of practitioner for beneficiaries in a Medicare Part A 
+covered Skilled Nursing Facility (SNF) stay. 
+(New Code 
+9/9/02. Modified 
+8/1/04, 6/30/03) 
+N127 This is a misdirected claim/service for a United Mine Workers of 
+America (UMWA) beneficiary. Please submit claims to them. 
+(New Code 
+10/31/02) 
+Modified 8/1/04 
+N137 The provider acting on the Member's behalf, may file an appeal 
+with the Payer. The provider, acting on the Member's behalf, may 
+file a complaint with the State Insurance Regulatory Authority 
+without first filing an appeal, if the coverage decision involves an 
+urgent condition for which care has not been rendered. The 
+address may be obtained from the State Insurance Regulatory 
+Authority. 
+(New Code 
+10/31/02, 
+Modified  
+2/28/03, 8/1/04) 
+N146 Missing screening document. (New Code 
+10/31/02) 
+Modified 8/1/04 
+Also see N243 
+N175 Missing Review Organization Approval. (New Code 
+2/28/03) 
+Modified 8/1/04 
+Also see N241 
+N178 Missing pre-operative photos or visual field results. (New Code 
+2/28/03) 
+Modified 8/1/04 
+Also see N244 
+N190 Missing contract indicator. (New Code 
+2/28/03) 
+Modified 8/1/04. 
+Also see N229

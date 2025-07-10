@@ -1,0 +1,43 @@
+Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) Reason Codes and 
+Statements  
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         19 
+ 
+Determination 150.2, Local Coverage Determination L33796, and Policy Article 
+A52513. 
+ 
+Reason 
+Code ANKLE FOOT ORTHOSES (L1951) 
+AFO00 The medical record documentation does not support the beneficiary is ambulatory. 
+Refer to Local Coverage Determination L33686 and Policy Article A52457. 
+AFO01 
+The medical record documentation does not support the beneficiary has weakness or 
+deformity of the foot and ankle. Refer to Local Coverage Determination L33686 and 
+Policy Article A52457. 
+AFO02 
+The medical record documentation does not support the beneficiary requires 
+stabilization for medical reasons. Refer to Local Coverage Determination L33686 and 
+Policy Article A52457. 
+AFO03 
+The medical record documentation does not support the beneficiary has the potential to 
+benefit functionally. Refer to Local Coverage Determination L33686 and Policy 
+Articles A52457. 
+AFO04 
+The medical record documentation does not demonstrate one of the following criteria: 
+The beneficiary could not be fit with a prefabricated AFO; or, The condition 
+necessitating the orthosis is expected to be permanent or of longstanding duration (more 
+than 6 months); or, There is a need to control the knee, ankle or foot in more than one 
+plane; or, The beneficiary has a documented neurological, circulatory, or orthopedic 
+status that requires custom fabricating to prevent tissue injury; or, The beneficiary has a 
+healing fracture which lacks normal anatomical integrity or anthropometric proportions. 
+Refer to Local Coverage Determination L33686 and Policy Article A52457. 
+AFO05 
+The orthotist's functional evaluation does not corroborate the medical records submitted 
+by the treating practitioner. Refer to Local Coverage Determination L33686 and Policy 
+Article A52457. 
+AFO06 
+Documentation does not include a detailed description of the modifications necessary 
+for the item requiring more than minimal self-adjustment by a qualified practitioner at 
+the time of fitting the ankle foot orthosis. Refer to Local Coverage Determination 
+L33686 and Policy Article A52457.

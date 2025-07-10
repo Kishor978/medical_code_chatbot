@@ -1,0 +1,45 @@
+eMDR Document Codes List (April 2024 Release) 
+Page 26 of 27 
+ 
+Document 
+Code 
+Document Description Action Release 
+700001 From initial admission to current     
+700002 1 year to date of service     
+700003 Date of service-on admit     
+700004 Admit to discharge     
+700005 From bene enrollment     
+700006 DOS if SNF, different for outpatient therapy     
+700007 Start of therapy     
+700008 DOS     
+700009 Years to DOS     
+700010 Most recent to DOS     
+700011 DOS and 7 day look back period     
+700013 Prior to admit     
+700015 Most recent     
+700016 DOS billed/admit     
+700017 Admit/initial evaluation     
+700018 Most recent notes     
+700019 All recent     
+700020 Most recent notes containing information     
+700022 Initial evaluation/start of therapy     
+700023 Admit     
+700024 DOS billed and look back period     
+700025 DOS billed/when given if SNF demand     
+700026 Most recent being used to support     
+700027 DOS billed/when received     
+700029 Most recent-could be years prior to DOS billed     
+700030 Most recent note with information     
+700031 For the dates of service billed on the claim     
+700032 30 days prior to the dates of services billed     
+700033 Due Date     
+700034 within the required time-frame     
+700035 as outlined in the NCD, LCD and/or LCA     
+800001 if applicable     
+800002 Ordering Provider NPI     
+800003 Ordering Provider Name     
+800005 PHP Services     
+800006 Extended Care Services     
+800007 Unlisted Code     
+800008 Provenge treatment     
+800009 IPPS

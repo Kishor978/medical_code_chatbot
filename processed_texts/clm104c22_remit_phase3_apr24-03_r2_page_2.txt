@@ -1,0 +1,40 @@
+for Anticipated Payment (RAP) Payment for an Episode .............................. 79 
+70.5 - 835 Version 3051.4A.01 Line Level Reporting Requirements for the Claim 
+Payment in an Episode (More Than Four Visits) ........................................... 80 
+70.6 - 835 Version 3051.4A.01 Line Level Reporting Requirements for the Claim 
+Payment in an Episode (Four or Fewer Visits)............................................... 81 
+70.7- HH PPS Partial Episode Payment (PEP) Adjustment...................................... 82 
+ 
+10 - Background 
+(Rev.) 
+A-01-57, B3-7030, AB-03-026 
+Intermediaries, carriers, and Durable Medical Equipment Regional Carriers (DMERCs) 
+send to providers, physicians, and suppliers, as a companion to claim payments, a notice 
+of payment, referred to as the Remittance Advice (RA).  RAs explain the payment and 
+any adjustment(s) made.  For each claim or line item payment, reduction, or denial, there 
+is an associated remittance advice item.  Payment for multiple claims can be reported on 
+one transmission of the remittance advice.  RA notices can be produced and transferred in 
+either paper or electronic format. 
+Carriers and DMERCs also send informational RAs to physicians that do not accept 
+assignment (acceptance of direct Medicare payments instead of billing the patient), unless 
+the beneficiary or physician requests that the remittance notice be suppressed.  An 
+informational RA is identical to other RAs, but must carry a standard message to notify 
+physicians that do not accept assignment that they do not have appeal rights beyond those 
+afforded when limitation on liability (rules regulating the amount of liability that an 
+entity can accrue because of medical services which are not covered by Medicare) 
+applies.  Suppliers that do not accept assignment may not be sent an RA. 
+In order to implement the Health Insurance Portability and Accountability Act (HIPAA) 
+Administrative Simplification provisions for Electronic Remittance Advice (ERA) 
+transactions, the Secretary of Health and Human Services has established an 
+implementation guide for a HIPAA compliant version of the X12N 835 (Health Care 
+Claim/Payment Advice).  An implementation guide is a reference document governing 
+the implementation of an electronic format, it contains all information necessary to use 
+the subject format, e.g., instructions and structures.  This HIPAA compliant 835 has been 
+established as a national standard for use by all health plans in the United States, 
+including Medicare intermediaries, carriers, and DMERCs.  Medicare requires the use of 
+this format exclusively for ERAs.  Medicare has also established paper formats that must 
+be used by carriers, DMERCs and intermediaries. 
+The HIPAA compliant version of the 835 includes some significant changes from earlier 
+versions of the 835 supported by Medicare.  See appendix D of the 835 version 4010 
+implementation guide for a summary of these changes.  Implementation guides may be 
+ 2

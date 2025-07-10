@@ -1,0 +1,83 @@
+11
+124 Payer refund amount - not our patient. 
+ 
+Inactive for 004030, 
+since 6/99. Refer to 
+implementation guide for 
+proper handling of 
+reversals. 
+A3 Medicare Secondary Payer liability met. 
+ 
+Inactive for 004010, 
+since 6/98. 
+B2 Covered visits. 
+ 
+Inactive for 003040 
+B3 Covered charges. 
+ 
+Inactive for 003040 
+B19 Claim/service adjusted becaus e of the finding of a Review 
+Organization. 
+ 
+Inactive for 003070 
+B21 The charges were reduced because the service/care was 
+partially furnished by another physician. 
+ 
+Inactive for 003040 
+D1 Claim/service denied. Level of subluxation is missing or 
+inadequate. 
+ 
+Inactive for 004010, 
+since 2/99. Use code 16 
+and remark codes if 
+necessary. 
+D2 Claim lacks the name, strengt h, or dosage of the drug 
+furnished. 
+ 
+Inactive for 004010, 
+since 2/99. Use code 16 
+and remark codes if 
+necessary. 
+D3 Claim/service denied because information to indicate if 
+the patient owns the equipment that requires the part or 
+supply was missing. 
+ 
+Inactive for 004010, 
+since 2/99. Use code 16 
+and remark codes if 
+necessary. 
+D4 Claim/service does not indi cate the period of time for 
+which this will be needed. 
+ 
+Inactive for 004010, 
+since 2/99. Use code 16 
+and remark codes if 
+necessary. 
+D5 Claim/service denied. Clai m lacks individual lab codes 
+included in the test. 
+ 
+Inactive for 004010, 
+since 2/99. Use code 16 
+and remark codes if 
+necessary. 
+D6 Claim/service denied. Clai m did not include patient's 
+medical record for the service. 
+ 
+Inactive for 004010, 
+since 2/99. Use code 16 
+and remark codes if 
+necessary. 
+D7 Claim/service denied. Claim lacks date of patient's most 
+recent physician visit. 
+ 
+Inactive for 004010, 
+since 2/99. Use code 16 
+and remark codes if 
+necessary. 
+D8 Claim/service denied. Claim lacks indicator that `x-ray is 
+available for review.' 
+ 
+Inactive for 004010, 
+since 2/99. Use code 16 
+and remark codes if 
+necessary.

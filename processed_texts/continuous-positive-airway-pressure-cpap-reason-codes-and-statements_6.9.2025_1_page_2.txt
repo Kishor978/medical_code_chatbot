@@ -1,0 +1,51 @@
+Continuous Positive Airway Pressure (CPAP) Reason Codes and Statements 
+June 9, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         2 
+ 
+Reason 
+Code CRITERION C 
+CP200 
+There is no documentation to support the provider of the PAP device conducted 
+education on the proper use and care of the device.  Refer to National Coverage 
+Determination 240.4 & Local Coverage Determination L33718. 
+ 
+Reason 
+Code 
+2B CONTINUING COVERAGE 
+CP300 
+The medical record documentation does not contain an in-person clinical re-evaluation 
+by the treating practitioner between the 31st and 91st day after initiating therapy. Refer 
+to Local Coverage Determination L33718. 
+CP301 
+The medical record documentation does not indicate the beneficiary is benefitting from 
+PAP therapy and the symptoms of obstructive sleep apnea are improved. Refer to 
+National Coverage Determination (NCD) 240.4 & Local Coverage Determination 
+(LCD) L33718. 
+CP302 
+The medical record documentation indicates the in-person clinical re-evaluation 
+occurred prior to the 31st day after initiating therapy. Refer to Local Coverage 
+Determination L33718. 
+CP303 
+The medical record documentation does not include objective evidence of adherence 
+defined as use of PAP ≥4 hours per night on 70% of nights during a consecutive 30-
+day period anytime during the first three months of initial usage. Refer to Local 
+Coverage Determination L33718. 
+CP304 
+The medical record documentation does not support the treating practitioner has 
+reviewed the objective evidence of adherence. Refer to Local Coverage Determination 
+L33718. 
+ 
+Reason 
+Code 
+3B REASONABLE USEFUL LIFETIME (RUL) 
+CP400 
+The medical record documentation does not support there was an in-person evaluation 
+by their treating practitioner prior to replacement of PAP device following the 5-year 
+reasonable useful lifetime (RUL).  Refer to Medicare Program Integrity Manual 5.9, 
+Local Coverage Determination L33718 & Policy Article A55426. 
+CP401 
+The medical record documentation does not support the beneficiary continues to use 
+and benefit from the PAP device following the 5-year reasonable useful lifetime 
+(RUL). Refer to National Coverage Determination 240.4 & Local Coverage 
+Determination L33718.

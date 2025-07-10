@@ -1,0 +1,42 @@
+Generic Durable Medical Equipment (DME) Reason Codes and Statements 
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         11 
+ 
+GDX24 
+The standard written order (SWO) required prior to delivery was written before the 
+completion date of the face-to-face encounter. Refer to 42 CFR 410.38(d)(1), CMS-
+1713-F, Standard Documentation Requirements A55426 & applicable Local Coverage 
+Determination/ Policy Article. 
+GDX25 
+The standard written order (SWO) required prior to delivery was not completed by the 
+treating practitioner that performed the face-to-face encounter. Refer to Social Security 
+Act 1834(a)(1)(E)(iv), 42 CFR 410.38(d)(1) & Standard Documentation Requirements 
+A55426. 
+GDX26 
+The standard written order (SWO) does not specify the type of supplies needed in such 
+a manner that the supplier may calculate the necessary disbursement and assess the 
+continued need for refill with the beneficiary. Refer to Medicare Program Integrity 
+Manual 100-08, Chapter 5, Section 5.11. 
+ 
+Reason 
+Code 
+ADMINISTRATIVE/OTHER  
+(For Transmission via esMD) 
+GEX04 Other 
+GEX05 The system used to retrieve the Subscriber/Insured details using the given MBI is 
+temporarily unavailable. 
+GEX06 The documentation is incomplete 
+GEX07 This submission is an unsolicited response 
+GEX08 The documentation cannot be matched to a case/claim 
+GEX09 This is a duplicate of a previous transaction 
+GEX10 The date(s) of service on the cover sheet received is missing or invalid. 
+GEX11 The NPI on the cover sheet received is missing or invalid. 
+GEX12 The state where services were provided is missing or invalid on the cover sheet 
+received. 
+GEX13 The Medicare ID on the cover sheet received is missing or invalid. 
+GEX14 The billed amount on the cover sheet received is missing or invalid. 
+GEX15 The contact phone number on the cover sheet received is missing or invalid. 
+GEX16 The Beneficiary name on the cover sheet received is missing or invalid 
+GEX17 The Claim number on the cover sheet received is missing or invalid 
+GEX18 The ACN on the coversheet received is missing or invalid

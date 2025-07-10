@@ -1,0 +1,51 @@
+Generic Part B Reason Codes and Statements 
+November 15, 2024 
+ 
+*Updated and/or new codes can be found in bold italic  6 
+ 
+IOM, Pub 100-04, Medicare Claims Processing Manual Chapter 23; IOM, Pub 100-04, 
+Medicare Claims Processing Manual, Chapter 12, Section 30.6.1  
+GBI06 
+The documentation submitted did not support incident-to criteria were met. Refer to 
+SSA 1862; Internet Only Manual (IOM), Pub 100-08, Medicare Program Integrity 
+Manual Chapter 3, Section 3.6.2.5; IOM, Pub 100-02, Medicare Benefit Policy 
+Manual, Chapter 15, Section 60.1-60.3; IOM, Pub 100-04, Medicare Claims 
+Processing Manual, Chapter 12, Section 30.6.4, 30.6.1 B.  
+GBI07 
+The documentation submitted did not support shared service criteria were met. Refer to 
+SSA 1862; Internet Only Manual (IOM), Pub 100-08, Medicare Program Integrity 
+Manual Chapter 3, Section 3.6.2.5; IOM, Pub 100-04, Medicare Claims Processing 
+Manual, Chapter 12, Section 30.6.1 B; IOM, Pub 100-02, Medicare Benefit Policy 
+Manual, Chapter 15, Sections 60.1-60.3.  
+GBI08 
+The documentation submitted did not support all of the requirements of an initial 
+preventative physical examination. Refer to SSA 1861 (s)(2)(w) and 1861(ww); 42 
+CFR 410.16, 411.15 (a)(1), 411.15 (k)(11); Internet Only Manual (IOM), Pub 100-04, 
+Medicare Claims Processing Manual, Chapter 12, Section 30.6.1.1; IOM, Pub 100-08, 
+Medicare Program Integrity Manual Chapter 3, Section 3.6.2.5.  
+GBI09 
+The documentation submitted did not support all of the requirements of an annual 
+wellness visit. Refer to SSA 1861 (s)(2)(FF) and 1861 (hhh); 42 CFR 410.15; Internet 
+Only Manual (IOM), Pub 100-02, Medicare Benefit Policy Manual, Chapter 15, 
+Section 280.5; IOM, Pub 100-04, Medicare Claims Processing Manual Chapter 12, 
+Section 30.6.1.1; IOM, Pub 100-08, Medicare Program Integrity Manual Chapter 3, 
+Section 3.6.2.5.  
+GBI10 
+The submitted documentation supported the annual wellness visit billed occurred 
+within twelve months from the previous annual wellness visit. Refer to 42 CFR 
+410.15; Internet Only Manual (IOM), Pub 100-02, Medicare Benefit Policy Manual, 
+Chapter 15, Section 280.5; IOM, Pub 100-04, Medicare Claims Processing Manual, 
+Chapter 12, Section 30.6.1.1; IOM, Pub 100-08, Medicare Program Integrity Manual 
+Chapter 3, Section 3.6.2.5.  
+GBI11 
+The documentation submitted support the annual wellness visit occurred within twelve 
+months from Part B Entitlement. Medicare [only] pays for an AWV for a beneficiary 
+who is no longer within 12 months after the effective date of his/her first Medicare Part 
+B coverage period.  Refer to 42 CFR 410.15; Internet Only Manual (IOM), Pub 100-
+02, Medicare Benefit Policy Manual, Chapter 15, Section 280.5; IOM, Pub 100-04, 
+Medicare Claims Processing Manual, Chapter 12, Section 30.6.1.1. 
+GBI12 
+The documentation submitted supports an Annual Wellness Visit; however, the 
+beneficiary has had a previous initial Annual Wellness Visit billed. Refer to 42 CFR 
+410.15; Internet Only Manual (IOM), Pub 100-02, Medicare Benefit Policy Manual, 
+Chapter 15, Section 280.5; IOM, Pub 100-04, Medicare Claims Processing Manual,

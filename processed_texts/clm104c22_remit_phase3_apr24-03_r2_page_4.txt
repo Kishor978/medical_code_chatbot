@@ -1,0 +1,40 @@
+• The contractor does not issue an RA for a voided or cancelled claim.  It issues an 
+RA for the adjusted claim with "Previously Paid" (CLP04 in the 835) showing the 
+amount paid for the voided claim. 
+30 - Remittance Balancing 
+(Rev.) 
+A-01-57, AB-02-067, A-02-070, B-01-35 
+The principles of remittance balancing are the same for both paper and electronic 
+remittance formats.  Balancing requires that the total paid is equal to the total billed plus 
+or minus payment adjustments for a single 835 remittance in accordance with the rules of 
+the 835 format.  Specific instructions for each electronic version are included in the 
+implementation guides. 
+Every HIPAA compliant X12 835 transaction issued by an intermediary or 
+carrier/DMERC must comply with the implementation guide (IG) requirements, i.e., 
+these remittances must balance at the service, claim and transaction levels.  Back end 
+validation must be performed to ensure that these conditions are met. 
+Although issuance of out-of-balance RAs is not encouraged, providers have indicated that 
+receipt of an out-of-balance RA is preferable to not receiving any RA to explain payment.  
+It is permissible on an exception basis for carriers to issue an 835 that does not balance as 
+long as immediate action is initiated to correct the problem that created the out-of-
+balance situation.  However, these out-of-balance 835s must be rare exceptions, and not 
+the rule.  If an out-of-balance 835 is issued, affected physicians, suppliers and 
+clearinghouses must be notified of the problem and the expected date of correction .  
+Carrier shared system software will treat production of an out-of-balance 835 as a priority 
+problem, and will work closely with the carriers and CMS to fix the problem as soon as 
+possible. 
+Intermediary shared systems must make forced balancing adjustments at the line, claim 
+and/or transaction level as applicable to make each 835 transaction balance.  Intermediary 
+shared systems must report the amount by which a line or claim is out of balance with 
+adjustment reason code A7 (Presumptive Payment Adjustment) at the line or claim level.  
+The intermediary shared systems must report the amount by which a transaction is out-of-
+balance with reason code CA (manual claim adjustment) as a provider level adjustment 
+(PLB).  PLB Medicare composite reason code CS/CA will be reported in this situation. 
+A7 and CA may only be used by intermediaries on a temporary exception basis, pending 
+intermediary diagnosis of the source of the balancing problem and intermediary shared 
+system programming to correct that problem.  Intermediaries must notify effected 
+providers and clearinghouses of the problem and the expected date of correction 
+whenever A7 or CA is used to force 835s to balance.  The shared systems will treat 
+production of an out-of-balance 835 as a priority problem, and will work closely with the 
+fiscal intermediaries and CMS to fix the problem as soon as possible. 
+ 4

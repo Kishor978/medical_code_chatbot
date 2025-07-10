@@ -1,0 +1,16 @@
+EXAMPLE OF BALANCE #1:  CONCURRENT BILLING
+INTENT
+• Per the Steering Committee Guidance, it 
+is the Intent of Codes 97155 (Protocol 
+Modification with Simultaneous 
+Direction) and 97153 (Treatment by 
+Protocol) to be billed Concurrently.
+IMPLEMENTATION
+• Providers do not need to seek to have 
+this in writing to move forward, the 
+language of the code and supplemental 
+guidance reflect intent and purpose.
+• Providers do, however, need to watch for                                                                              
+documented payer policies that 
+“disallow” this and continue to educate 
+health plans of the intent.

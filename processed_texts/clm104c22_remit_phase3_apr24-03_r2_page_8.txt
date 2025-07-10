@@ -1,0 +1,36 @@
+40.3 - Electronic Remittance Advice Data Sent to Banks 
+A3-3751, A-01-057, A-02-070, AB-02-067, B-01-35 
+(Rev.) 
+Under the HIPAA Privacy requirements, U.S.  health care payers are prohibited from 
+sending table two 835 data (portion of 835 containing protected patient health care 
+information) (or protected patient health care information in any other paper or electronic 
+format) to a bank (see §40.5.1), unless: 
+• That bank also functions as a health care data clearinghouse; 
+• The provider has authorized the bank as a health care data clearinghouse to 
+receive that data; and  
+• The bank has signed an agreement to safeguard the privacy and security of the 
+data.   
+The definition of a financial clearinghouse, as used by banks for transfer of funds, differs 
+from the definition of health care data clearinghouse as used by HIPAA.  The HIPAA 
+definition must be met if a bank is to be authorized for receipt of table two or equivalent 
+patient health care data. 
+Table two contains protected patient information that is not approved for release to a 
+bank that is not an authorized health care data clearinghouse.  A nonhealth data 
+clearinghouse bank cannot receive 835 data, except as provided in table one. 
+40.4 - Medicare Standard Electronic PC-Print Software 
+A3-3751, A-01-57 
+(Rev.) 
+PC-Print software enables providers to print remittance data transmitted by Medicare.  
+Intermediaries are required to make PC-Print software available to providers at no 
+charge.  This software must be able to operate on Windows-95, 98, 2000/Me, and 
+Windows NT platforms, and include self-explanatory loading and use information for 
+providers.  It should not be necessary to furnish providers training for use of PC-Print 
+software. 
+Intermediaries must supply providers with PC-Print software within three weeks of 
+request.  The Fiscal Intermediary Shared System (FISS) maintainer will supply PC-Print 
+software and a user's guide for all intermediaries.  The FISS maintainer must assure that 
+the PC-Print software is modified as needed to correspond to updates in the ERA and 
+SPR formats.   
+Providers are responsible for any telecommunication costs associated with receipt of the 
+835, but the software itself is provided at no cost. 
+ 8

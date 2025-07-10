@@ -1,0 +1,37 @@
+Full Description 
+(In Order Of 
+Appearance) 
+SPR ID SPR Field Size 
+Characteristics 
+835 Location 
+Refunds as written N S9(7).99 3-010-PLB04, 06, 08 or 10 when 
+'RF' in prior data element 
+    
+Penalty release as written N S9(7).99 3-010-PLB04, 06, 08 or 10 when 
+'RS' in prior data element 
+    
+Transitional outpatient 
+payment 
+TRANS OP PYMT N S9(7).99 3-010-PLB04, 06, 08 or 10 when 
+'IR' in prior data element 
+    
+Withhold from Payment 
+Claims accounts as written N S9(7).99 3-010-PLB04, 06, 08 or 10 when 
+'AA' in prior data element 
+Accelerated payments as written N S9(7).99 3-010-PLB04, 06, 08 or 10 when 
+'AW' in prior data element 
+Penalty as written N S9(7).99 3-010-PLB04, 06, 08 or 10 when 
+'PW' in prior data element 
+Settlement as written N S9(7).99 3-010-PLB04, 06, 08 or 10 when 
+'OR' in prior data element 
+Total withholding TOTAL WTHLD N S9(7).99 Total of the above withholding 
+amounts 
+    
+Provider Payment Recap 
+Payments and withhold previously listed   
+Net provider payment as written N S9(7).99 1-020-BPR02 
+Check/EFT number as written N S9(7).99 1-040-TRN02 
+See 835 implementation guides for data element definitions, completion and use. 
+ 
+ 
+66

@@ -1,0 +1,76 @@
+10
+64 Denial reversed per medical review. 
+ 
+Inactive for 003040  
+65 Procedure code was incorrect.  This payment reflects the 
+correct code. 
+ 
+Inactive for 003040 
+67  Lifetime reserve days. (Handled in QTY, QTY01=LA) 
+ 
+Inactive for 003040 
+68 DRG weight. (Handled in CLP12) 
+  
+Inactive for 003040 
+71 Primary payer amount. 
+ 
+Deleted as of 6/00. Use 
+code 23. 
+72 Coinsurance day. (Handled in QTY, QTY01=CD) 
+ 
+Inactive for 003040 
+73 Administrative days. 
+ 
+Inactive for 003050 
+77 Covered days. (Handled in QTY, QTY01=CA) 
+ 
+Inactive for 003040 
+79 Cost Report days. (Handled in MIA15) 
+ 
+Inactive for 003050 
+80 Outlier days. (Handled in QTY, QTY01=OU) 
+ 
+Inactive for 003050 
+81 Discharges.  Inactive for 003040 
+82 PIP days. 
+ 
+Inactive for 003040 
+83 Total visits. 
+ 
+Inactive for 003040 
+84 Capital Adjustment. (Handled in MIA) 
+ 
+Inactive for 003050 
+86 Statutory Adjustment. 
+ 
+Inactive for 004010, 
+since 6/98. Duplicative 
+of code 45. 
+88 Adjustment amount represents collection against receivable 
+created in prior overpayment. 
+ 
+Inactive for 004050. 
+92 Claim paid in full. 
+ 
+Inactive for 003040 
+93 No claim level adjustments. 
+ 
+Inactive for 004010, 
+since 2/99. In 004010, 
+CAS at the claim level 
+is optional. 
+98 The hospital must file the Medicare claim for this 
+inpatient non-physician service. 
+ 
+Inactive for 003040 
+99 Medicare Secondary Payer Adjustment Amount. 
+ 
+Inactive for 003040 
+120 Patient is covered by a managed care plan. Inactive for 004030 
+123 Payer refund due to overpayment. 
+ 
+Inactive for 004030, 
+since 6/99. Refer to 
+implementation guide for 
+proper handling of 
+reversals.

@@ -1,0 +1,80 @@
+Introduction
+The revenue cycle is made up of multiple processes to ensure a clean claim is submitted to payers for timely payment. 
+These processes can begin before a patient arrives at the hospital and continue weeks to months after a patient leaves 
+the hospital. Breaking down each revenue cycle process (FIGURE 1: REVENUE CYCLE LIFE CYCLE ) and measuring performance 
+will lead to better financial outcomes. It is important to note that while revenue cycle processes are not all patient-facing 
+processes, they will all impact patient perception of care, patient satisfaction, and are a deciding factor on where 
+patients in the community seek care.
+Four challenge areas that impact revenue cycle processes, 
+hospital vitality, and ultimately patient experiences are 
+outlined throughout this document. These four challenge 
+areas can be used as starting points for hospital leaders 
+to identify areas of opportunity and build out actionable 
+next steps for improvement. 
+Key Resources:  
+National Rural Health Resource Center
+• Small Rural Hospital and Clinic Finance 101 Manual
+Institute for Healthcare Improvement
+• Plan-Do-Study Act (PDSA) Worksheet
+• Run Chart Tool
+Partners
+• Western Healthcare Alliance (WHA)
+• Healthcare Management (HCM)
+Patient
+Centered
+Care
+Commonly Used T erms 
+• Aged trial balance (ATB) report: A report commonly 
+built into the hospital electronic medical record that can 
+be automated.
+• Advanced beneficiary notice (ABN): Notices given to 
+Medicare beneficiaries to notify them that a specific 
+service may not be covered by insurance.
+• Bad debt: An expense that a hospital or business incurs 
+that is estimated to be uncollectable.
+• Clean claim rate: The rate at which insurance claims 
+have passed all edits without manual intervention and 
+have been successfully accepted by payers.
+• Credit balances: An amount that will need to be 
+researched and possibly refunded to a patient or 
+insurance company.
+ 
+• Current procedural terminology (CPT) code: A uniform code 
+ used to identify and report medical services and procedures.
+• Days in accounts receivable (A/R Days): A formula that 
+indicates how long it takes to receive payment and clear 
+accounts receivable.
+• Days in accounts receivable greater than 90 days (A/R 
+Days >90): An amount that indicates the accounts and 
+dollars that are greater than 90 days.
+• Discharged and no final bill (DNFB): Accounts that 
+remain incomplete due to coding or documentation 
+gaps.
+• Discharged and no final charges (DNFC): Accounts that 
+are waiting on charge completion.
+• Financial assistance: Discounted medical care provided 
+after patients are approved for assistance.
+PAGE THREE
+Scheduling, 
+eligibility, 
+pre-authorization, 
+cost estimates
+Registration,
+eligibility, insurance
+verification, co-pay
+collections
+A/R, patient
+collections, denial
+management,
+contracts
+management
+Billing, claims
+submission,
+reimbursements,
+posting
+Charge
+capture, clinical
+documentation,
+coding, utilization
+management
+FIGURE 1: Revenue Cycle Life Cycle

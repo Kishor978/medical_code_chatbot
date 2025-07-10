@@ -1,0 +1,37 @@
+Exhibit 1 
+(Rev. 1970, 05-21-10) 
+ 
+Form CMS-1500 (08/05) User Print File Specifications (Formerly Exhibit 2) 
+ 
+LINE FIELD LITERAL 
+FIELD 
+TYPE* BYTES 
+COL-
+UMNS 
+1  Left printer alignment block M 3 01-03 
+1  Right printer alignment block M 3 77-79 
+3 1 Medicare M 1 01 
+3 1 Medicaid M 1 08 
+3 1 Tricare Champus M 1 15 
+3 1 Champva M 1 24 
+3 1 Group Health Plan M 1 31 
+3 1 FECA Blk Lung M 1 39 
+3 1 Other M 1 45 
+3 1a Insured's ID Number A/N 29 50-78 
+5 2 Patient's Name (Last, First, MI) A 28 01-28 
+5 3 Patient's Birth Date (Month) N 2 31-32 
+5 3 Patient's Birth Date (Day) N 2 34-35 
+5 3 Patient's Birth (Year) N 4 37-40 
+5 3 Sex-Male M 1 42 
+5 3 Sex-Female M 1 47 
+5 4 Insured Name (Last, First, MI) A 29 50-78 
+7 5 Patient's Address A/N 28 01-28 
+7 6 Patient Relationship to Insured (Self) M 1 33 
+7 6 Patient Relationship to Insured (Spouse) M 1 38 
+7 6 Patient Relationship to Insured (Child) M 1 42 
+7 6 Patient Relationship to Insured (Other) M 1 47 
+7 7 Insured's Address A/N 29 50-78 
+9 5 Patient's City A 24 01-24 
+* M = mark (X), A = alpha, N = numeric 
+9 5 Patient's State A 3 26-28 
+9 8 Patient Status (Single) M 1 35

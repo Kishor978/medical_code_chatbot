@@ -1,0 +1,45 @@
+top portion in each of the six service lines is shaded and is the location for reporting 
+supplemental information.  It is not intended to allow the billing of 12 service lines. 
+ 
+When required to submit NDC drug and quantity information for Medicaid rebates, 
+submit the NDC code in the red shaded portion of the detail line item in positions 01 
+through position 13.  The NDC is to be preceded with the qualifier N4 and followed 
+immediately by the 11 digit NDC code (e.g. N499999999999).  Report the NDC quantity 
+in positions 17 through 24 of the same red shaded portion.  The quantity is to be preceded 
+by the appropriate qualifier: UN (units), F2 (international units), GR (gram) or ML 
+(milliliter).  There are six bytes available for quantity.  If the quantity is less than six 
+bytes, left justify and space-fill the remaining positions (e.g., UN2 or F2999999). 
+ 
+Item 24A - Enter a 6-digit or 8-digit (MMDDCCYY) date for each procedure, service, or 
+supply.  When "from" and "to" dates are shown for a series of identical services, enter the 
+number of days or units in column G.  This is a required field.  Return as unprocessable if 
+a date of service extends more than 1 day, and a valid "to" date is not present. 
+ 
+Item 24B - Enter the appropriate place of service code(s) from the list provided in section 
+10.5.  Identify the setting, using a place of service code, for each item used or service 
+performed.  This is a required field. 
+ 
+NOTE:  When a service is rendered to a patient who is a registered inpatient or an 
+outpatient (off campus or on campus) of a hospital, use the inpatient hospital POS code 
+21, Off Campus-Outpatient Hospital POS code 19, or On Campus-Outpatient Hospital 
+POS code 22, respectively, as discussed in section 10.5 of this chapter. 
+ 
+Item 24C - Medicare providers are not required to complete this item. 
+ 
+Item 24D - Enter the procedures, services, or supplies using the CMS Healthcare 
+Common Procedure Coding System (HCPCS) code.  When applicable, show HCPCS 
+code modifiers with the HCPCS code.  The CMS-1500 claim form has the capacity to 
+capture up to four modifiers. 
+ 
+Enter the specific procedure code without a narrative description.  However, when 
+reporting an "unlisted procedure code" or a "not otherwise classified" (NOC) code, 
+include a narrative description in item 19 if a coherent description can be given within the 
+confines of that box.  Otherwise, an attachment shall be submitted with the claim.  This is 
+a required field. 
+ 
+Return as unprocessable if an "unlisted procedure code" or a NOC code is indicated in 
+item 24d, but an accompanying narrative is not present in item 19 or on an attachment. 
+ 
+Item 24E - This is a required field.  Enter the diagnosis code reference number or letter 
+(as appropriate, per form version) as shown in item 21 to relate the date of service and the 
+procedures performed to the primary diagnosis.  Enter only one reference number/letter

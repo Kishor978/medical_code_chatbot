@@ -1,0 +1,46 @@
+case, 100 calories equals 1 unit/service.  Thus, 24 cans * 300 calories / 100 
+calories equals 72 units/services. 
+ 
+Number of services: 72 
+MTUS (services): 72 
+MTUS indicator: 3 
+ 
+E. Oxygen Services - (CWFB_MTUS_IND_CD = 4) 
+ 
+For claims reporting oxygen units, the following example should be used 
+to code the line item: 
+ 
+A total of 2 allowed services was reported for HCPCS code E0441:  
+Oxygen contents, gaseous, 1 month’s supply = 1 unit.  The claim reported 
+a 2 month’s supply of oxygen. 
+ 
+Number of services: 2 
+MTUS: 2 
+MTUS indicator: 4 
+ 
+F. Blood Services - (CWFB_MTUS_IND_CD = 5) 
+ 
+For claims reporting blood units, the following example should be used to 
+code the line item: 
+ 
+A total of 6 units of blood (services) was furnished for HCPCS code 
+P9010:  Blood (whole), for transfusion, per unit.  Two units were denied. 
+ 
+Number of services: 6 (furnished) 
+MTUS (units):  4 (allowed) 
+MTUS indicator: 5 
+ 
+20 - Patient’s Request for Medical Payment Form CMS-1490S 
+(Rev.: 4388; Issued: 09-06-19; Effective: 10-07-19; Implementation: 10-07-19) 
+ 
+The CMS implemented a new version of the Form CMS-1490S effective January 1, 
+2019. The revised form is version 01/18, OMB control number 0938-1197. The revised 
+form will replace the previous version of the form 01/05, OMB control number 0938-
+0999.  
+ 
+The term, “Form CMS-1490S” refers to the form generically, independent of a given 
+version. 
+Medicare will conduct a dual-use period (January 1, 2019 through March 31, 2019) 
+during which Beneficiaries (or their representatives) can send Medicare claims on either 
+the old or the revised form. When the dual-use period is over, Medicare will accept 
+beneficiary paper claims on only the revised Form CMS-1490S, version 01/18.

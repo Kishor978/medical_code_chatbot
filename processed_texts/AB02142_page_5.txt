@@ -1,0 +1,59 @@
+5 
+ 
+X12 N 835 Health Care Claim Adjustment Reason Codes 
+ 
+The Health Care Code Maintenance Committee maintains the health care claim adjustment reason 
+codes. The Committee meets at the beginning of each X12 trimester meeting (February, June and 
+October) and makes decisions about  additions, modifications, and retirement of existing reason 
+codes. The updated list is posted three times a year after each X12 trimester meeting at 
+http://www.wpc-edi.com/hipaa/. By January 1, 2003, you must have the most current reason code set 
+installed for production, and continue downloading from the above mentioned web site every 4 
+months to make sure that all Me dicare carriers, intermediaries, and DMERCs are using the latest 
+approved reason codes in 835 and standard paper remittance advice transactions. 
+ 
+In most cases, reason code additions, modifications and retirements are requested by non-Medicare 
+entities, Medicare may occasionally request changes. If the request comes from Medicare, it may be 
+included in a Medicare instruc tion in addition to the regular code update program memorandum. 
+Code changes requested by entitie s other than Medicare would not  be routinely included in a 
+Medicare instruction as part of a policy change, but modification or retirement of an existing code 
+could impact Medicare. A PM will be issued on a periodic basis to provide a summary of changes in 
+the reason and remark codes introduced since the last update PM, and will establish the deadline for 
+Medicare contractors to implement the reason and remark code changes applicable to Medicare that 
+may not already have been implemented as part of a previous Medicare policy change instruction.  
+ 
+A reason code may be retired if it is no longer applicable or a similar code exists. Retirements are 
+effective for a specified future and succeeding versions, but contractors also can discontinue use of 
+retired codes in prior versions.  Contractors and shared system maintainers must modify their maps 
+or programming as necessary by the date the speci fied electronic version or a higher numbered 
+version is implemented or earlier if the replacing code is available for the earlier version(s), if a 
+retired code is being used. 
+ 
+The committee approved the following reason code changes in June 2002: 
+ 
+New Reason Codes 
+ 
+Code     Current Narrative 
+ 
+145  Premium payment withholding 
+ 
+146 Payment denied because the diagnosis was invalid for the date(s) of service 
+reported. 
+ 
+147        Provide contracted/nego tiated rate expired or not in file 
+  
+148        Claim/service rejected at this time because information from another provider 
+was not provided or was insufficient/incomplete.   
+ 
+Modified Reason Codes  
+ 
+Code     Current Narrative 
+ 
+ 
+6     The procedure/revenue code is inconsistent with the patient’s age. 
+ 
+7     The procedure/revenue code is inconsistent with the patient’s gender. 
+ 
+8     The procedure/revenue code is inconsistent with the provider 
+type/specialty (taxonomy). 
+ 
+108     Payment adjusted because rent /purchase guidelines were not met.

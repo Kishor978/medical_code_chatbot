@@ -1,0 +1,63 @@
+eMDR Document Codes List (April 2024 Release) 
+Page 4 of 27 
+ 
+Document 
+Code 
+Document Description Action Release 
+100059 In hospital to hospital transfers, medical reason 
+beneficiary could not be treated at first or initial 
+hospital 
+    
+100060 Include an inventory of the beneficiary's assets in 
+descriptive, not interpretative fashion 
+Modified Apr 
+2024 
+100061 Include records for dates of service billed and the MDS 
+look back period. This can be up to 30 days prior to the 
+assessment reference date(s) of the MDS(s) 
+    
+100062 Individual and group psychotherapy and beneficiary 
+education and training 
+    
+100063 Individualized treatment plan for psychiatric services 
+with updates 
+    
+100064 Initial hospital inpatient care     
+100065 Initial psychiatric/psychological evaluation/mental 
+status exam 
+    
+100066 IRF PAI (Patient Assessment Instrument)     
+100067 Listing of most current beneficiary medications     
+100068 Medical documentation detailing prior course of 
+treatment, including all interventions and/or evaluations   
+    
+100069 Medication Administration Record (MAR) and/or 
+Infusion Flowsheet documenting the quantity 
+administered include a dose, route, and frequency given 
+and/or Medication invoice or evidence of free drug 
+program if applicable 
+Modified Apr 
+2024 
+100070 Complete neurological examinations and/or including 
+cognitive scales and/or documentation of unified 
+Parkinson's disease rating scale (or equivalent) and/ or 
+documentation of clinical tremor rating scale (or 
+equivalent) 
+Modified Apr 
+2024 
+100071 Office visit/E&M documentation if billed on same date 
+of service under medical review  
+    
+100072 Outcomes assessment     
+100073 Photographs showing visual impairment         
+100074 Documentation to support the medical necessity of 
+service and DRG billed 
+    
+100075 Post admission assessment/post admission physician 
+evaluation completed within the first 24 hours of 
+admission and supporting medical necessity of 
+admission 
+    
+100076 Preadmission screening/notes     
+100077 Pre-Hospital documentation     
+100078 Prior Level of Function (PLOF)

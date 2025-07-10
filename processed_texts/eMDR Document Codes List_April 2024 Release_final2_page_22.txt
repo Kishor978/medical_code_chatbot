@@ -1,0 +1,58 @@
+eMDR Document Codes List (April 2024 Release) 
+Page 22 of 27 
+ 
+Document 
+Code 
+Document Description Action Release 
+past injections, non-surgical/non-injection care 
+involved, duration and effectiveness of treatment  
+100428 CEAP Classification and VCSS score including the 
+date(s) of exam and diagnostic evaluation, as 
+appropriate 
+    
+100429 Documentation regarding prior interventions provided 
+and the effectiveness of treatments 
+    
+100430 Documentation that provides detailed medical 
+information, including but not limited to objective 
+description of the patient’s signs/symptoms, relevant 
+history, medical condition, mobility, functional, and 
+mental status before and after the ambulance trip, as 
+well as other on-scene information, assessment/exam, 
+treatment/specific monitoring, patient’s response to 
+interventions, change in patient’s condition, and any 
+other special circumstances 
+Modified Apr 
+2024 
+100431 Documentation that shows the name and total 
+calculated dosage (mg) of the photodynamic therapy 
+drug administered, the patient's body surface area on 
+which the dose of the drug is based, and the amount of 
+drug wasted 
+Modified Apr 
+2024 
+100432 Documentation that supports special program involved     
+100433 Initial Hyperbaric Oxygen Therapy (HBOT) 
+evaluation/consultation 
+    
+100434 Pharmacy Record     
+100435 Proof of attempts if the required physician certification 
+statement could not be obtained 
+    
+100436 Biopsy results must be included     
+100437 Any other documentation prior to the course of 
+treatment such as but not limited to intraaortic balloon 
+pump (IABP) therapy and/or left ventricular ejection 
+fraction (LVEF) 
+    
+100438 Manufacturer’s serial/lot/batch or other unit 
+identification number of the skin substitute material 
+Modified Apr 
+2024 
+100439 Medical documentation indicating that the beneficiary 
+is mobile in the home 
+    
+100440 For initial supply of drugs, documentation to support 
+the drugs were furnished on or after the date of 
+discharge from the hospital following a covered organ 
+transplant

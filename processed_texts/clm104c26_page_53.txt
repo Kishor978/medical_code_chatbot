@@ -1,0 +1,46 @@
+Part 2 -Face and back, head to head. 
+ 
+Margins - On detached sheet, same as for Cut Sheet. 
+ 
+Askewity - On detached sheet, same as for Cut Sheet. 
+ 
+Paper Stock -  
+ 
+Part 1 - Carbonless, 20 CB - Recycled White 
+ 
+Part 2 - Any color or weight that does not interfere with scanning of part 1 sheet. Suggest 
+the following sequence: 
+ 
+Paper Weight: 
+ 
+1st part is 20 CB - OCR Bond 
+ 
+2nd part is 14 CFB (if not last part) 
+ 
+Last part is 15CF 
+ 
+CB = Coated Back (Carbonless black print) 
+ 
+CFB = Coated Front and Back (Carbonless black print) 
+ 
+CF = Coated Front (Carbonless black print) 
+ 
+Ink color - 
+ 
+Part 1 - Same as for cut sheet, (OCR-Red Ink) must be in Flint J-6983 Red OCR 
+“dropout” ink or an exact match. 
+ 
+Part 2 - Any color that will not interfere with scanning of the part 1 sheet. 
+ 
+Titles - Color of any titles if applicable: Are to be in the same ink as the form, Flint J6983 
+OCR Red “dropout” ink. 
+ 
+Symbol - The identifiable 1500 in a rectangle located in the upper left front of the form 
+above the PICA boxes is to be in black ink. 
+ 
+Joining - Crimp left and right. 
+ 
+Perforations - Marginally 0.5 inch left and right, tear line horizontally every 11”. 
+ 
+NOTE:  Users may determine the number of parts that are applicable to their needs.  Up 
+to four total parts are feasible on some printers; some other printers may limit the

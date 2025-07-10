@@ -1,0 +1,15 @@
+provider adjustment reason code data element in 3-010-PLB.  They report the 
+amount carried forward as a negative amount. 
+70.7- HH PPS Partial Episode Payment (PEP) Adjustment 
+(Rev.) 
+A-02-103 
+Medicare systems apply two codes to the ERA to indicate a PEP adjustment is being 
+reported.  The codes are defined as follows: 
+B20 - Payment adjusted because procedure/service was partially or fully furnished 
+by another provider; and 
+N120 - Payment is subject to home health prospective payment system partial 
+episode payment adjustment.  Beneficiary transferred or was 
+discharged/readmitted during payment episode. 
+These are not applicable to the standard paper remittance advice. 
+ 
+82

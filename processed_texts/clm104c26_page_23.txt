@@ -1,0 +1,58 @@
+POS Code and Name (effective date) 
+Description 
+Payment Rate 
+Facility=F 
+Nonfacility=NF 
+03 School (January 1, 2003) 
+ 
+A facility whose primary purpose is education. 
+NF 
+04 Homeless Shelter (January 1, 2003) 
+ 
+A facility or location whose primary purpose is to provide temporary 
+housing to homeless individuals (e.g., emergency shelters, individual or 
+family shelters). 
+ 
+(See “Special Considerations” below.) 
+NF 
+05 Indian Health Service Free-standing Facility (January 1, 2003) 
+ 
+A facility or location, owned and operated by the Indian Health Service, 
+which provides diagnostic, therapeutic (surgical and nonsurgical), and 
+rehabilitation services to American Indians and Alaska Natives who do not 
+require hospitalization. 
+ 
+(See “Special Considerations” below.) 
+Not applicable for 
+adjudication of 
+Medicare claims; 
+systems must 
+recognize for HIPAA 
+06 Indian Health Service Provider-based Facility (January 1, 2003) 
+ 
+A facility or location, owned and operated by the Indian Health Service, 
+which provides diagnostic, therapeutic (surgical and nonsurgical), and 
+rehabilitation services rendered by, or under the supervision of, physicians 
+to American Indians and Alaska Natives admitted as inpatients or 
+outpatients. 
+ 
+(See “Special Considerations” below.) 
+Not applicable for 
+adjudication of 
+Medicare claims; 
+systems must 
+recognize for HIPAA 
+07 Tribal 638 Free-Standing Facility (January 1, 2003) 
+ 
+A facility or location owned and operated by a federally recognized 
+American Indian or Alaska Native tribe or tribal organization under a 638 
+agreement, which provides diagnostic, therapeutic (surgical and 
+nonsurgical), and rehabilitation services to tribal members who do not 
+require hospitalization. 
+ 
+(See “Special Considerations” below.) 
+Not applicable for 
+adjudication of 
+Medicare claims; 
+systems must 
+recognize for HIPAA

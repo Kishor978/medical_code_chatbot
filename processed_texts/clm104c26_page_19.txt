@@ -1,0 +1,45 @@
+• Ambulance services; 
+ 
+• Drugs and biologicals; and 
+ 
+• Simplified Billing Roster for influenza virus vaccine and pneumococcal vaccine. 
+ 
+Item 28 - Enter total charges for the services (i.e., total of all charges in item 24f). 
+ 
+Item 29 - Enter the total amount the patient paid on the covered services only. 
+ 
+Item 30 - Leave blank.  Not required by Medicare. 
+ 
+Item 31 - Enter the signature of provider of service or supplier, or his/her representative, 
+and either the 6-digit date (MM | DD | YY), 8-digit date (MM | DD | CCYY), or alpha-
+numeric date (e.g., January 1, 1998) the form was signed. 
+ 
+In the case of a service that is provided incident to the service of a physician or non-
+physician practitioner, when the ordering physician or non-physician practitioner is 
+directly supervising the service as in 42 CFR 410.32, the signature of the ordering 
+physician or non-physician practitioner shall be entered in item 31.  When the ordering 
+physician or non-physician practitioner is not supervising the service, then enter the 
+signature of the physician or non-physician practitioner providing the direct supervision 
+in item 31. 
+ 
+NOTE:  This is a required field; however, the claim can be processed if the following is 
+true:  if a physician, supplier, or authorized person's signature is missing, but the 
+signature is on file; or if any authorization is attached to the claim or if the signature field 
+has "Signature on File" and/or a computer generated signature. 
+ 
+Item 32 - For services payable under the physician fee schedule and anesthesia services, 
+enter the name and address, and ZIP code of the facility if the services were furnished in 
+a hospital, clinic, laboratory, or facility other than the patient's home or physician's office.  
+Effective for claims received on or after April 1, 2004, enter the name, address, and ZIP 
+code of the service location for all services other than those furnished in place of service 
+home - 12.  Effective for claims received on or after April 1, 2004, only one name, 
+address and ZIP code may be entered in the block.  If additional entries are needed, 
+separate claim forms shall be submitted.  Effective January 1, 2011, for claims processed 
+on or after January 1, 2011, submission of the location where the service was rendered 
+will be required for all POS codes. 
+ 
+Providers of service (namely physicians) shall identify the supplier's name, address, and 
+ZIP code when billing for anti-markup tests.  When more than one supplier is used, a 
+separate CMS-1500 claim form shall be used to bill for each supplier.  (See Pub. 100-04, 
+chapter 1, §10.1.1.2 for more information on payment jurisdiction for claims subject to 
+the anti-markup limitation.)

@@ -1,0 +1,51 @@
+Generic Durable Medical Equipment (DME) Reason Codes and Statements 
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         2 
+ 
+GDR14 
+The proof of delivery documentation is missing the date the item(s) was shipped or 
+delivered. Refer to Medicare Program Integrity Manual 100-08, Chapter 4, Section 
+4.26.1 & Standard Documentation Requirements A55426. 
+GDR15 
+The shipping documentation does not contain the delivery service's package 
+identification number, supplier invoice number or alternative method that links the 
+supplier's delivery documents with the delivery service's records. Refer to Standard 
+Documentation Requirements A55426.  
+GDR16 The shipping documentation does not contain proof or confirmation of delivery. Refer 
+to Standard Documentation Requirements A55426. 
+GDR17 
+The documentation showing proof of delivery for the item(s) billed is prior to 
+Medicare eligibility. Refer to Medicare Program Integrity Manual 100-08, Chapter 4, 
+Section 4.26.3 & Standard Documentation Requirements A55426. 
+GDR18 The proof of delivery is illegible.  
+GDR19 
+There is no prescription number on any document to compare to the prescription 
+number on the proof of delivery, therefore, the item(s) received cannot be determined.  
+Refer to 42 CFR 424.57(c)(12) 
+GDR20 
+The proof of delivery does not contain a statement, signed and dated by the beneficiary 
+(or beneficiary's designee), that the supplier has examined the item received prior to 
+Medicare eligibility.   Refer to Medicare Program Integrity Manual 100-08, Chapter 4, 
+Section 4.26.3. 
+GDR21 
+The proof of delivery does not contain an attestation from the supplier to the fact that 
+the item meets Medicare requirements. Refer to Medicare Program Integrity Manual 
+100-08, Chapter 4, Section 4.26.3 & Standard Documentation Requirements A55426. 
+GDR1Z The proof of delivery contains an error for a reason not otherwise specified. 
+ 
+Reason 
+Code REFILL REQUIREMENT STATEMENTS 
+GDT01 
+There is no documentation of beneficiary contact and beneficiary affirmation that the 
+refill is needed. Refer to 42 CFR 410.38, Medicare Program Integrity Manual 100-08, 
+Chapter 5, Section 5.2.6. & Standard Documentation Requirements A55426. 
+GDT02 
+The documentation does not show contact with the beneficiary within 30 calendar days 
+of the expected end of the current supply. Refer to 42 CFR 410.38, Medicare Program 
+Integrity Manual 100-08, Chapter 5, Section 5.2.6. & Standard Documentation 
+Requirements A55426. 
+GDT03 
+The documentation contains a retrospective attestation statement by the supplier or 
+beneficiary for a refill request. Refer to 42 CFR 410.38 & Standard Documentation 
+Requirements A55426.

@@ -1,0 +1,35 @@
+6 
+           
+Implementation of Reason and Remark Codes 
+ 
+As instructed before, shared system maintainers must provide a crosswalk between the reason and 
+remark codes to the shared system internal codes so that a carrier or DMERC or intermediary can 
+easily locate and update each internal code that may be impacted by a remittance advice 
+reason/remark code change to eliminate the need for lengthy and error prone manual 
+carrier/DMERC/intermediary searches to identify each affected internal code.  
+ 
+The effective date of programming for use of new or modified reason/remark codes applicable to 
+Medicare is the earlier of the date specified in  the contractor manual transmittal or PM requiring 
+implementation of a policy change that led to the issuance of the new/modified code, or the date 
+specified in the periodic  PM announcing issuance of the code  changes. Contractors must notify 
+providers of the new and/or modified codes and their meanings in a prov ider bulletin or other 
+instructional release prior to issuance of remittance advice transactions that include these changes. 
+ 
+Medicare contractors must use appropriate remark codes in conjunction with the appropriate reason 
+code(s) when applicable, and must make sure th at they are using the currently valid reason and 
+remark codes.  
+ 
+ 
+ 
+ 
+ 
+ 
+The effective date for this Program Memorandum (PM) is January 1, 2003. 
+ 
+The implementation date for this PM is January 1, 2003. 
+ 
+These instructions should be implemented within your current operating budget. 
+ 
+This PM may be discarded after January 1, 2004.  
+ 
+If you have any questions, contact Sumita Sen at 410-786-5755 or ssen@cms.hhs.gov.

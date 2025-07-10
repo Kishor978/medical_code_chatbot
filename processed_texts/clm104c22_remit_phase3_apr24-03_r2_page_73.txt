@@ -1,0 +1,42 @@
+update each internal code that may be impacted by a remittance advice reason/remark 
+code change to eliminate the need for lengthy and error prone manual carrier and 
+intermediary searches to identify each affected internal code.  Standard systems must also 
+make sure that 5-position remark codes can be accommodated at both the claim and 
+service level for version 4010 onwards. 
+The effective date of programming for use of new or modified reason/remark codes 
+applicable to Medicare is the earlier of the date specified in the contractor manual 
+transmittal or program memorandum (PM) requiring implementation of a policy change 
+that led to the issuance of the new or modified code, or the date specified in the periodic 
+PM announcing issuance of the code changes (additions/modifications/retirements).  
+Contractors must notify providers of the new and/or modified codes and their meanings 
+in a provider bulletin or other instructional release prior to issuance of remittance advice 
+transactions that include these changes. 
+A code may not be reported in a new remittance advice after the effective date of its 
+retirement.  If processing an adjustment involving a code that was retired after generation 
+of the original remittance advice, the reversed claim may report the currently valid code 
+supplanting the code that appeared in the initial notice.  If easier from a mapping or 
+programming perspective, an intermediary or carrier has the option to eliminate use of a 
+retired code in each supported remittance advice versions, including those that pre-date 
+the effective date of the retirement. 
+60.2 - Remittance Advice Remark Codes 
+(Rev.) 
+AB-02-142, AB-01-132, AB-02-067, AB-03-012 
+Remark codes are used in a remittance advice to further explain an adjustment or relay 
+informational messages that cannot be expressed with a claim adjustment reason code.  
+Remark codes are maintained by CMS, but may be used by any health care payer when 
+they apply.  Medicare contractors must report any remark codes that apply, subject to 
+capacity limits in the standard. 
+Most remark codes were initially separated into service level (line level) and claim level 
+categories.  Some of the same messages were included in both categories.  To simplify 
+remark code use, these categories have been eliminated.  Any remark code may now be 
+reported at the service or the claim level, as applicable, in any electronic or paper 
+remittance advice version.  To eliminate duplication, the following remark code messages 
+have been made inactive and should no longer be used effective with implementation of 
+version 4010 of the X12 835: 'M34' (duplicates 'MA120'), 'M72' (duplicates 'MA52'), 
+'MA05' (information included in 'MA30', or 'MA40', or 'MA43'),  'N41' (duplicates reason 
+code '39'), and 'N44' (duplicates reason code '137'). 
+Rather than renumber existing 'M' (prior service level) and 'MA' (prior claim level) codes, 
+and possibly confuse providers, old code numbers have been retained.  All new post-
+consolidation remark codes, however, will begin with an 'N'.  The 'N' is used to quickly 
+ 
+73

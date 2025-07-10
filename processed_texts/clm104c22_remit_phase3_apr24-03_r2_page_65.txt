@@ -1,0 +1,46 @@
+Full Description 
+(In Order Of 
+Appearance) 
+SPR ID SPR Field Size 
+Characteristics 
+835 Location 
+ 
+Return on equity as written N S9(7).99 3-010-PLB04, 06, 08 or 10 when 
+'RE' in prior data element 
+    
+Direct medical 
+education 
+as written N S9(7).99 3-010-PLB04, 06, 08 or 10 when 
+'DM' in prior data element 
+    
+Kidney acquisition as written N S9(7).99 3-010-PLB04, 06, 08 or 10 when 
+'KA' in prior data element 
+    
+Bad debt   3-010-PLB04, 06, 08 or 10 when 
+'BD' in prior data element 
+    
+Nonphysician 
+anesthetists 
+as written N S9(7).99 3-010-PLB04, 06, 08 or 10 when 
+'CR' in prior data element 
+    
+Hemophilia add on as written N S9(7).99 3-010-PLB04, 06, 08 or 10 when 
+'ZZ' in prior data element 
+    
+Total pass through as written N S9(7).99 Total of the above pass through 
+amounts. 
+    
+Non-Pass Through Amounts 
+PIP payment as written N S9(7).99 3-010-PLB04, 06, 08 or 10 when 
+'PP' in prior data element 
+    
+Settlement amounts SETTLEMENT 
+PAYMENTS 
+ 3-010-PLB04, 06, 08 or 10 when 
+'FP' in prior data element 
+    
+Accelerated payments as written N S9(7).99 3-010-PLB04, 06, 08 or 10 when 
+'AP' in prior data element 
+    
+ 
+65

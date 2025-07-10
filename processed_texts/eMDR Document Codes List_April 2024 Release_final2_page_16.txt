@@ -1,0 +1,59 @@
+eMDR Document Codes List (April 2024 Release) 
+Page 16 of 27 
+ 
+Document 
+Code 
+Document Description Action Release 
+100322 The diagnosis of neovascular (wet) macular 
+degeneration has been firmly established (fluorescein 
+angiogram) 
+    
+100323 Documentation of a second opinion of a psychiatrist 
+who is not involved in the care of the beneficiary 
+    
+100324 Beneficiary's compliance, and response to treatment Modified Apr 
+2024 
+100325 Documentation supporting contraindication to 
+conventional endoscopy 
+    
+100326 Please advise us as to which OSCAR you wish to have 
+payment made 
+    
+100327 Assistant Surgeon Additional Documentation Request 
+needed to support exceptional circumstance and 
+establish medical necessity.  
+    
+100328 All other records that support medical necessity for the 
+two surgeons 
+    
+100329 Documentation for surgical procedures is not required 
+for co-surgeons where the specialties of the two 
+surgeons are different. Please indicate the name and 
+specialty of both physicians 
+    
+100330 This additional development request is a review of co-
+surgeon charges. 
+    
+100331 Diagnostic testing results related to the unlisted code     
+100332 Itemized statement/bill/invoice     
+100333 Any other documentation related to the unlisted code 
+billed and claim services 
+    
+100334 All outside hospital records that support the required 
+World Professional Association for Transgender Health 
+(WPATH SOC) Transgender Surgery (examples: reports 
+from two mental health professionals regarding 
+diagnosis and appropriateness for surgery; age at 
+diagnosis; length of time on hormone replacement 
+therapy, etc...) 
+    
+100335 Medicare Card     
+100336 Documentation showing provider number you want 
+used to bill claim (multiple provider numbers for same 
+NPI) 
+    
+100337 Our records indicate that more than one number exists 
+that corresponds to your national provider identifier 
+(NPI). Please advise which legacy number type you 
+wish to have payment made, and correspondence sent 
+for this claim.

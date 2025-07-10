@@ -1,0 +1,42 @@
+Changes to this code list occur more frequently than the version changes for the 835 
+standard.  However, the most current list can be used in any Medicare-recognized version 
+of the 835 standard and the SPRs. 
+Any reference to procedures or services in the CAS reason codes apply equally to 
+products, drugs, supplies or equipment.  References to prescriptions also include 
+certificates of medical necessity (CMNs).   
+These reason codes report the reasons for any claim financial adjustments, such as 
+denials, reductions or increases in payment.  CAS reason codes may be used at the 
+service or claim level, as appropriate.  Multiple CAS reason codes may be entered for 
+each service or claim as warranted. 
+Early in the history of CAS reason codes, some codes, such as codes 69-83 were 
+implemented for informational rather than adjustment purposes.  However, these codes 
+and their amounts interfered with balancing of the remittance data.  Approval of new 
+codes is now limited to those that involve an adjustment from the amount billed.  There 
+are basic criteria that the Health Care Code Maintenance Committee considers when 
+evaluating requests for new codes: 
+• Can the information be conveyed by the use or modification of an existing CAS 
+reason code? 
+• Is the information available elsewhere in the 835? 
+• Will the addition of the new CAS reason code make any significant difference in 
+the action taken by the provider who receives the message? 
+The list of Adjustment Reason Codes can be found at  
+http://www.wpc-edi.com/ClaimAdjustment_40.asp.  This list is updated every four 
+months based on the outcome of each Health Care Code Maintenance Committee 
+meeting held before X12 trimester meeting in February, June, and October.  The updated 
+list is published in the months of March, July and November.  Medicare contractors must 
+download the list after each update to make sure they are using the latest approved 
+adjustment reason codes in 835 and standard paper remittance advice transactions. 
+Individual carriers and intermediaries are responsible for entering claim adjustment 
+reason code updates to their standard system and entry of parameters for standard system 
+use to determine how and when particular codes are to be reported in remittance advice 
+transactions.  In most cases, remittance and remark codes reported in remittance advice 
+transactions are mapped to alternate codes used by a standard system.  These standard 
+system codes may exceed the number of the reason and remark codes approved for 
+reporting in a remittance advice transaction.  A particular 835 reason or remark code 
+might be mapped to one or more standard system codes, or vice versa, making it difficult 
+for a carrier or intermediary to determine each of the internal codes that may be impacted 
+by remark or reason code modification, retirement or addition. 
+Standard systems must provide a crosswalk between the reason and remark codes to the 
+standard system internal codes so that a carrier or intermediary can easily locate and 
+ 
+72

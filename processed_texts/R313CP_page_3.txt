@@ -1,0 +1,39 @@
+New Code      Current Narrative                      Medicare Initiated
+ 
+N217 We pay only one site of service per provider per claim. Y 
+N218 You must furnish and service this item for as long as the patient continues to need 
+it.  We can pay for maintenance and/or servicing for the time period specified in 
+the contract or coverage manual. 
+Y 
+N219 Payment based on previous payer's allowed amount. N 
+N220 See the payer's web site or contact the payer's Customer Service department to 
+obtain forms and instructions for filing a provider dispute. 
+N 
+N221 Missing Admitting History and Physical report. N 
+N222 Incomplete/invalid Admitting History and Physical report. N 
+N223 Missing documentation of benefit to the patient during initial treatment period. N 
+N224 Incomplete/invalid documentation of benefit to the patient during initial treatment 
+period. 
+N 
+N225 Incomplete/invalid documentation/orders/notes/summary/report/invoice. Y 
+N226 Incomplete/invalid American Diabetes Association Certificate of Recognition. Y 
+N227 Incomplete/invalid Certificate of Medical Necessity. Y 
+N228 Incomplete/invalid consent form. Y 
+N229 Incomplete/invalid contract indicator. Y 
+N230 Incomplete/invalid indication of whether the patient owns the equipment that 
+requires the part or supply. 
+Y 
+N231 Incomplete/invalid invoice or statement certifying the actual cost of the lens, less 
+discounts, and/or the type of intraocular lens used. 
+Y 
+N232 Incomplete/invalid itemized bill. Y 
+N233 Incomplete/invalid operative report. Y 
+N234 Incomplete/invalid oxygen certification/re-certification. Y 
+N235 Incomplete/invalid pacemaker registration form. Y 
+N236 Incomplete/invalid pathology report. Y 
+N237 Incomplete/invalid patient medical record for this service. Y 
+N238 Incomplete/invalid physician certified plan of care. Y 
+N239 Incomplete/invalid physician financial relationship form. Y 
+N240 Incomplete/invalid radiology report. Y 
+N241 Incomplete/invalid Review Organization Approval. Y 
+N242 Incomplete/invalid x-ray. Y

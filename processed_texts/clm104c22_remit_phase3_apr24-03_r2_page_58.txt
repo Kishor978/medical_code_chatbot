@@ -1,0 +1,46 @@
+CARRIER NAME               YYYY/MM/DD 
+     (999) 111-2222        MEDICARE 
+PROVIDER #: 1234567890     
+               PROVIDER NAME        
+REMITTANCE   
+CHECK/EFT #:12345678901234567890     
+         PAGE #:  999 OF 999       NOTICE 
+REMITTANCE # 12345678901234567890 (NOT A  REQUIRED FIELD) 
+ 
+ 
+SUMMARY OF NON-ASSIGNED CLAIMS 
+ 
+PERF  PROV  SERV DATE     POS NOS  PROC     MODS     BILLED     ALLOWED     DEDUCT       COINS      GRP/RC-
+AMT   PROV  PD  
+_______________________________________________________________________________________________________________________
+______ 
+NAME  LLLLLLLLLLLL, FFFFFFFF  HIC 123456789012  ACNT 12345678901234567890  ICN 123456789012345  ASG X      MOA  11111  
+22222 
+     33333  44444  
+55555 
+ 
+1234567890 MMDD MMDDYY    12 123   PPPPP  aabbccdd  1234567.12  1234567.12  1234567.12  1234567.12  GPRRR 1234567.12   
+1234567.12 
+                                  (PPPPP)    REM:       RRRRR        RRRRR        RRRRR         RRRRR          RRRRR         
+1234567890 MMDD MMDDYY    12 123   PPPPP  aabbccdd  1234567.12  1234567.12  1234567.12  1234567.12  GPRRR 1234567.12   
+1234567.12 
+    (PPPPP)    REM:    RRRRR        RRRRR        RRRRR         RRRRR          
+RRRRR        
+1234567890 MMDD MMDDYY    12 123   PPPPP  aabbccdd  1234567.12  1234567.12  1234567.12  1234567.12  GPRRR 1234567.12   
+1234567.12 
+    (PPPPP)    REM:   RRRRR        RRRRR         RRRRR         RRRRR          
+RRRRR 
+   
+PT RESP 1234567.12     CLAIM TOTAL          1234567.12  1234567.12  1234567.12  
+1234567.12        1234567.12   1234567.12 
+   
+      
+          
+  
+CLAIM INFORATION FORWARDED TO:   XXXXXXXXXXXXXXXXXXXXXXX 
+  
+_______________________________________________________________________________________________________________________
+__________                                                                                                                              
+   
+ 
+58

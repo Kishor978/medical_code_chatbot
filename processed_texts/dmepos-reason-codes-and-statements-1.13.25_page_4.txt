@@ -1,0 +1,51 @@
+Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) Reason Codes and 
+Statements  
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         4 
+ 
+PMD3U The documentation does not demonstrate the beneficiary is expected to grow in height. 
+Refer to Local Coverage Determination 33789 Policy Article A52498. 
+PMD3V 
+The documentation does not provide sufficient information to demonstrate why the 
+home does not provide adequate access between rooms, maneuvering space and 
+surfaces for the power operated vehicle. Refer to Local Coverage Determination 33789 
+Policy Article A52498. 
+PMD3W 
+The documentation does not demonstrate the beneficiary requires a drive control 
+interface other than a hand or chin-operated standard proportional joystick and the 
+system is being used on the power mobility device. Refer to Local Coverage 
+Determination 33789 Policy Article A52498. 
+PMD3X 
+The documentation does not demonstrate the beneficiary meets the coverage criteria 
+for a power tilt seating system and the system is being used on the power mobility 
+device. Refer to Local Coverage Determination 33789 and Policy Article A52498 
+PMD3Z 
+The documentation in the face-to-face examination (explain identified problem with 
+the documentation related to specific criteria in the LCD). Refer to Local Coverage 
+Determination 33789 and Policy Article A52498. 
+PM3AA 
+The documentation does not demonstrate the beneficiary meets the coverage criteria 
+for a power tilt and power recline seating system and the system is being used on the 
+power mobility device.  Refer to Local Coverage Determination 33789 and Policy 
+Article A52498. 
+PM3AB 
+The documentation does not demonstrate the beneficiary meets the coverage criteria 
+for a power recline seating system and the system is being used on the power mobility 
+device. Refer to Local Coverage Determination 33789 and Policy Article A52498. 
+PM3AC 
+The documentation demonstrates the beneficiary meets coverage criteria for a skin 
+protection seat or back cushion which is not appropriate with a Captain's Chair. Refer 
+to Local Coverage Determination 33789 Policy Article A52498. 
+PM3AD 
+The documentation demonstrates the beneficiary meets coverage criteria for a 
+positioning seat or back cushion which is not appropriate with a Captain's Chair.  Refer 
+to Local Coverage Determination 33789 Policy Article A52498. 
+PM3AE 
+The documentation demonstrates the beneficiary does not have special skin protection 
+or positioning needs to support a sling/solid seat/back wheelchair. Refer to Local 
+Coverage Determination 33789 Policy Article A52498. 
+PM3AF 
+The documentation does not demonstrate the beneficiary's neurological deficits 
+significantly impact the beneficiary's mobility limitations. Refer to Local Coverage 
+Determination 33789 Policy Article A52498.

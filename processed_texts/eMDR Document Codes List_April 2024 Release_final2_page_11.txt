@@ -1,0 +1,58 @@
+eMDR Document Codes List (April 2024 Release) 
+Page 11 of 27 
+ 
+Document 
+Code 
+Document Description Action Release 
+100218 Telemetry Tracings     
+100219 Electrophysiology Studies (EPS)     
+100220 24-Hour Holter Monitor     
+100221 Physician Directed Home Treatment Regimen     
+100222 Alternative Treatment Consideration     
+100223 Description of the Device used in the Procedure     
+100224 Documentation to support the skilled nature of care 
+during the admission 
+    
+100225 Documentation for the 30 days immediately prior to the 
+acute hospital and/or skilled care admission 
+    
+100226 The most recent Minimum Data Set (MDS) prior to the 
+start of therapy services 
+    
+100228 Documentation supporting the diagnosis code(s) 
+required for the item(s) billed 
+    
+100229 Orthotist or prosthetist's functional evaluation 
+documentation supporting the need for a custom 
+fabricated device 
+Modified Apr 
+2024 
+100230 Preadmission Notes     
+100231 Referral for echocardiography services     
+100232 Complete study that contains: M mode and/or 2D 
+measurements of LV end diastolic diameter, LV end 
+systolic diameter, LV wall thickness, left atrial diameter, 
+aortic valve excursion and a qualitative description of 
+the LV function 
+    
+100233 Documentation supporting comorbid condition(s) 
+related to obesity 
+    
+100234 Documentation of beneficiary BMI     
+100235 Documentation supporting previous medical weight 
+reduction treatments prior to the surgery 
+    
+100236 Counseling Records     
+100237 Documentation to support that the beneficiary is 
+enrolled in an approved prospective clinical study 
+    
+100238 Full Itemization of Services     
+100239 Authorization of Benefits     
+100240 Beneficiary Election form     
+100242 Documentation Supporting Clinical/Facility Hours of 
+Operation 
+    
+100243 Multidisciplinary evaluation prior to the surgery     
+100245 Beneficiary identification data including legal status     
+100246 Documentation of the devices, implants, biological 
+products used

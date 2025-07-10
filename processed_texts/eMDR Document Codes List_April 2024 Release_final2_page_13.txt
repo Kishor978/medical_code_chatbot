@@ -1,0 +1,56 @@
+eMDR Document Codes List (April 2024 Release) 
+Page 13 of 27 
+ 
+Document 
+Code 
+Document Description Action Release 
+100267 Home assessment indicating the power mobility device 
+is able to access all rooms of the home 
+    
+100268 A complete facility-based, attended polysomnogram     
+100269 Any medical records from the place of services 
+rendered, physician history and progress notes, 
+diagnoses/conditions, physicals, diagnostic testing 
+(including MRI, CT results, etc.), lab tests and any other 
+pertinent information to document the medical necessity 
+of the orthoses chosen. Include CPO documentation 
+regarding evaluation, and fitting if applicable, signed 
+and dated legibly 
+    
+100270 If codes A4649, A6261 or A6262 are billed, the claim 
+must include a narrative description of the item 
+(including size of the product provided), the 
+manufacturer, the brand name or number, and 
+information justifying the medical necessity for the item 
+    
+100271 Statement of Certifying Physician for Therapeutic 
+Shoes 
+    
+100272 Documentation from the prescribing/ordering physician     
+100273 Nursing Documentation (i.e. Nursing notes and 
+admission assessment - Lines; Medication & IV 
+administration records; nursing treatment sheets such 
+as: Skin care/wound care treatment sheets. Respiratory 
+treatments and oxygen therapy records)  
+    
+100274 Confirm that intention to bill either modifier PA 
+(surgery, wrong body part), PB (surgery, wrong 
+beneficiary), or PC (wrong surgery on beneficiary) for 
+this service 
+    
+100275 Documentation supporting the medical necessity of 
+NPLATE(TM)(ROMIPLOSTIM) where there is 
+insufficient response to corticosteroids, 
+immunoglobulins, or splenectomy and the 
+administration record 
+    
+100276 The clinical indication/medical necessity for the 
+injection including the number and location of 
+injections as well as dosages and medications used 
+    
+100277 The topical corticosteroid(s) given previously to 
+beneficiary for ocular inflammatory condition prior to 
+current treatment 
+    
+100278 Documentation showing enrollment in the touch 
+prescribing program

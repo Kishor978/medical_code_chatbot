@@ -1,0 +1,51 @@
+Generic Durable Medical Equipment (DME) Reason Codes and Statements 
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         9 
+ 
+GDB04 
+The face-to-face encounter was completed on a limited space template with 
+insufficiently detailed or incomplete narrative to support medical necessity from the 
+physician/practitioner. Refer to Medicare Program Integrity Manual 3.3.2.1.1. 
+GDB05 
+The face-to-face encounter contains an amendment, correction or delayed entry that 
+does not comply with accepted record keeping principles. Refer to 42 Code of Federal 
+Regulations 410.38 (c) & Medicare Program Integrity Manual 100-08, Chapter 3, 
+Section 3.3.2.5. 
+GDB06 
+The face-to-face encounter contains a practitioner’s signature which does not comply 
+with the Centers for Medicare & Medicaid Services signature requirements. Refer to 
+42 Code of Federal Regulations 410.38 (c) & Medicare Program Integrity Manual 100-
+08, Chapter 3, Section 3.3.2.4. 
+GDB07 
+The face-to-face encounter is not authenticated (handwritten or electronic) by the 
+author. Refer to 42 Code of Federal Regulations 410.38 (c) & Medicare Program 
+Integrity Manual 100-08, Chapter 3, Section 3.3.2.4. 
+GDB08 The face-to-face encounter is illegible. 
+GDB09 The face-to-face encounter is missing the beneficiary's name. Refer to Medicare 
+Program Integrity Manual 100-08, Chapter 3, Section 5.9. 
+GDB10 
+The face-to-face encounter does not indicate the date of service or date of visit. Refer 
+to 42 Code of Federal Regulations 410.38 (c) & Standard Documentation 
+Requirements A55426. 
+GDB11 The face-to-face encounter contains an error not otherwise specified. 
+ 
+Reason 
+Code STANDARD WRITTEN ORDER (SWO) 
+GDX01 
+The documentation does not include a standard written order (SWO). Refer to 42 CFR 
+410.38(d)(1), Medicare Program Integrity Manual 100-08, Chapter 5, Section 5.2.1 & 
+Standard Documentation Requirements A55426. 
+GDX02 
+The standard written order (SWO) is missing the beneficiary's name or Medicare 
+Beneficiary Identifier (MBI). Refer to 42 CFR 410.38(d)(1), Medicare Program 
+Integrity Manual 100-08, Chapter 5, Section 5.2.2 & Standard Documentation 
+Requirements A55426. 
+GDX03 
+The standard written order (SWO) is not applicable to this beneficiary. Refer to 42 
+CFR 410.38(d)(1), Medicare Program Integrity Manual 100-08, Chapter 5, Section 
+5.2.2 & Standard Documentation Requirements A55426. 
+GDX04 
+The standard written order (SWO) is missing a description of the item. Refer to 42 
+CFR 410.38(d)(1), Medicare Program Integrity Manual 100-08, Chapter 5, Section 
+5.2.2 & Standard Documentation Requirements A55426.

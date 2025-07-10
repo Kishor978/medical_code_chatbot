@@ -1,0 +1,31 @@
+NM109  Required.  Enter the PlanID when effective.  Prior to that date, zero-fill. 
+NM110-111  Not used. 
+MIA  Situational, but does not apply to Medicare carriers. 
+MOA  Situational, but required for Medicare whenever any claim level remark 
+code applies, such as an appeal rights remark code or when there is more 
+than one COB payer. 
+MOA01  Situational, but does not apply to Medicare carriers. 
+MOA02  Situational, but does not apply to Medicare carriers. 
+MOA03  Situational, but required for Medicare whenever at least one claim level 
+remark code applies, such as for an appeal remark code. 
+MOA04  Situational, but required for Medicare if more than one claim level remark 
+code applies. 
+MOA05  Situational, but required for Medicare if a third claim level remark code 
+applies. 
+MOA06  Situational, but required for Medicare if a fourth claim level remark code 
+applies. 
+MOA07  Situational, but required for Medicare if a fifth claim level remark code 
+applies. 
+MOA08  Situational, but does not apply to Medicare carriers. 
+MOA09  Situational, but does not apply to Medicare carriers. 
+REF (040.A)  Situational, but does not apply to Medicare carriers. 
+REF (040.B)  Situational, but does not apply to Medicare.  Carriers identify rendering 
+providers, if different than billing providers, at the service level. 
+DTM (050)  Situational, but required for Medicare. 
+DTM01  Required.  Always enter “050" for Medicare.  This data element would 
+only be used to report the date of receipt of the claim.  Medicare carriers 
+must report the start and end dates of care at the service level, and 
+expiration of coverage information (036) does not apply to Medicare. 
+DTM02  Required. 
+DTM03-06  Not used. 
+ 41

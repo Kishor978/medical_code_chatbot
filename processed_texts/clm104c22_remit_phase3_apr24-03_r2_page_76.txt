@@ -1,0 +1,42 @@
+by the FISS.  Current versions of the SPR and ERA continue to report claims-
+level summary data. 
+• 2-062-AMT02 modified to allow reporting of either inpatient or partial 
+hospitalization per diem.  Intermediaries also report the amount of any outlier 
+determined payable for the claim, by the Outpatient Prospective Payment 
+System (OPPS) and Home Health (HH) Prospective Payment System (PPS) 
+Medicare Contractor PRICER software (PRICER software calculates a 
+payment amount), in a separate AMT loop with 'ZZ' in AMT01 and the outlier 
+amount in AMT02. 
+• 2-100.A-REF and REF02 modified to allow service line reporting of the 
+Ambulatory Payment Classification (APC) and the Health Insurance 
+Prospective Payment System (HIPPS), representing a Home Health Resource 
+Group (HHRG) for HH PPS) group numbers.  The APC will supplant the 
+Ambulatory Surgical Center (ASC) group for outpatient hospital claims paid 
+under PPS. 
+• 2-100.B-REF modified to allow service line reporting of the home health 
+payment percentage.  This segment applies to ASC and Home Health PPS 
+payments, but does not apply to APC payments. 
+• 2-110.A-AMT modified to allow service line reporting of the allowed amount 
+for APC and home health HIPPS payments.   
+For OPPS, the standard provider level adjustment reason codes in Appendix B have been 
+expanded to include the X12 835 code of BN (bonus) for the reporting of transitional 
+OPPS payments (TOPS payments).  This is a claim level segment and must be reported.  
+TOPS payments will be discontinued after December 2003 for all but specified children’s 
+and cancer hospitals. 
+For OPPS, Intermediaries treat the amount determined payable for an OPPS service, 
+whether APC, average wholesale price (AWP), etc., as the allowed amount for a service. 
+For OPPS, Intermediaries report services that do not have a related APC, and which are 
+considered to be included in the payment for one or more other APCs, with Group Code 
+CO and reason code 97 (payment included in the allowance for another 
+service/procedure).  If a non-APC service on the same claim is denied for another reason, 
+such as not reasonable or necessary (CO 50), they report the specific reason code that 
+applies to that denial rather than CO 97. 
+For OPPS, Intermediaries use the 835 bundling methodology  to report APC payment 
+when multiple HCPCS are included in a single APC.  When bundling services into an 
+APC grouping, they report service line information back to a provider in the same way as 
+billed, so the provider may automatically identify the services involved and post payment 
+information to  patient accounts. 
+For OPPS, Intermediaries report each procedure billed in a remittance advice, even if 
+bundled for payment into a single APC.  However, they report the payment for all of the 
+ 
+76

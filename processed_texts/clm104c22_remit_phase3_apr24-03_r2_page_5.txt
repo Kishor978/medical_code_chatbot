@@ -1,0 +1,36 @@
+40 - Electronic Remittance Advice 
+(Rev.) 
+A3-3750 
+Electronic Remittance Advice (ERA) transactions must be produced in the current 
+HIPAA compliant Accredited Standards Committee (ASC) X12 835 format.  Directions 
+for version updates are posted when necessary in program memoranda issued by CMS.  
+Refer to http://www.wpc-edi.com/HIPAA for implementation guides, record formats, and 
+data dictionaries for the 835. 
+Shared systems maintainers must provide appropriate provider file structures and 
+switching mechanisms so that contractors can select and generate the abbreviated 835 
+and/or the automated clearing house (ACH) format when electronic funds transfer (EFT) 
+applies.  See the implementation guides for further information on the abbreviated 835 
+and use of the 835 for EFT. 
+Changes to content and format of ERAs may not be made by individual contractors.  
+Changes will be made only by shared system maintainers, and then, only as directed by 
+CMS. 
+40.1 - ANSI ASC X12 835 
+(Rev.) 
+A3-3750, AB-02-067, A-02-070 
+The 835 is a variable-length record designed for wire transmission and is not suitable for 
+use in application programs.  Therefore, shared systems generate a flat file version of the 
+835.  Contractors must translate that flat file into the variable length 835 record for 
+transmission to providers or their billing services.  See Chapter 24 for technical 
+information about transmission of the 835. 
+Contractors are required to: 
+• Send the remittance data directly to providers or their designated billing services;   
+• Provide sufficient security to protect beneficiaries' privacy.  At the provider's 
+request, the contractor may send the 835 through the banking system if its 
+Medicare bank and the provider's bank have that capability.  The contractor does 
+not allow any party to view beneficiary information, unless authorized by specific 
+instructions from CMS see §40.1 for additional information; 
+• Issue the remittance advice specifications and technical interface specifications to 
+all requesting providers within three weeks of their request.  Interface 
+specifications must contain sufficient detail to enable a reasonably knowledgeable 
+provider to interpret the RA, without the need to pay the contractor or an 
+ 5

@@ -1,0 +1,57 @@
+M30 Missing pathology report. (Modified 8/1/04, 
+2/28/03) Also see 
+N233Missing 
+pathology 
+report.(Modified 
+8/1/04, 2/28/03) 
+Also see N236 
+M31 Missing radiology report. (Modified 8/1/04, 
+2/28/03) Also see 
+N240 
+M60 Missing Certificate of Medical Necessity. (Modified 8/1/04, 
+6/30/03) Also see 
+N227 
+M73 
+ 
+ 
+ 
+ 
+ 
+ 
+The HPSA/Physician Scarcity bonus can only be paid on the 
+professional component of this service. Rebill as separate 
+professional and technical components. 
+(Modified 8/1/04) 
+M74 This service does not qualify for a HPSA/Physician Scarcity 
+bonus payment. 
+(Modified 8/1/04) 
+M124 Missing indication of whether the patient owns the equipment 
+that requires the part or supply. 
+(Modified 8/1/04, 
+2/28/03) Also see 
+N230 
+M127 Missing patient medical record for this service. (Modified 8/1/04, 
+2/28/03) Also see 
+N237 
+M130 Missing invoice or statement certifying the actual cost of the lens, 
+less discounts, and/or the type of intraocular lens used. 
+(Modified 8/1/04, 
+2/28/03) Also see 
+N231 
+M131 Missing physician financial relationship form. (Modified 8/1/04, 
+2/28/03) Also see 
+N239 
+M132 Missing pacemaker registration form. (Modified 8/1/04, 
+2/28/03) Also see 
+N235 
+M141 Missing physician certified plan of care. (Modified 8/1/04, 
+2/28/03) Also see 
+N238 
+M142 Missing American Diabetes Association Certificate of 
+Recognition. 
+(Modified 8/1/04, 
+2/28/03) Also see 
+N226 
+MA92 Missing plan information for other insurance. (Modified 8/1/04, 
+2/28/03, 2/1/04) 
+Also see N245

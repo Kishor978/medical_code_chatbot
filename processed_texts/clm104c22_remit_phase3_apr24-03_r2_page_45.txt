@@ -1,0 +1,31 @@
+CAS19  Situational, but not used for Medicare. 
+REF (100.A)  Situational, but required for Medicare. 
+REF01 Required.  Only LU and 6R apply to Medicare.  Two loops must be used if 
+both LU and 6R apply. 
+REF02  Required.  Note: The provider line item control number (6R) is not used 
+by and will not be retained by the Medicare core system.  As with a 20-
+digit patient account number, use the COB data repository to populate 
+REF02 for 6R.  Do not report 6R in REF01 of a reissued ERA if there is 
+no line item control number in the repository. 
+REF03-04  Not used. 
+REF (100.B)  Situational, but required for Medicare if the rendering provider for the 
+service is other than the payee and other than the rendering provider 
+reported at the claim level. 
+REF01  Required.  Prior to the NPI effective date, always enter “1C” (the flat file 
+does not differentiate between a UPIN and any other Medicare provider 
+number) in this loop.  After the NPI is effective, enter “HPI.” The other 
+codes do not apply to Medicare. 
+REF02  Required. 
+REF03-04  Not used. 
+AMT (110)  Situational, but required for Medicare carriers if any of the qualifiers 
+apply. 
+AMT01  Required.  Only KH and B6 apply to Medicare.  Two loops must be used 
+for Medicare if both apply. 
+AMT02  Required. 
+AMT03  Not used. 
+QTY  Situational, but does not currently apply to Medicare carriers. 
+LQ  Situational, but required for Medicare whenever any service level remark 
+codes apply. 
+LQ01  Required.  Always enter “HE” for Medicare. 
+LQ02  Required. 
+ 45

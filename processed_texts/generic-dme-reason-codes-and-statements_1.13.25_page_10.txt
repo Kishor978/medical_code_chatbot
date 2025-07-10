@@ -1,0 +1,50 @@
+Generic Durable Medical Equipment (DME) Reason Codes and Statements 
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         10 
+ 
+GDX05 
+The standard written order (SWO) is missing the treating practitioner's signature. Refer 
+to 42 CFR 410.38(d)(1), Medicare Program Integrity Manual 100-08, Chapter 5, 
+Section 5.2.2 & Standard Documentation Requirements A55426. 
+GDX06 
+The standard written order (SWO) contains a treating practitioner's signature which 
+does not comply with the Centers for Medicare & Medicaid Services signature 
+requirements. Refer to Medicare Program Integrity Manual 100-08, Chapter 3, Section 
+3.3.2.4 & Standard Documentation Requirements A55426. 
+GDX07 
+The standard written order (SWO) is signed after the claim was submitted. Refer to 42 
+CFR 410.38(d)(1), Medicare Program Integrity Manual 100-08, Chapter 5, Section 
+5.2.4 & Standard Documentation Requirements A55426. 
+GDX08 
+The standard written order (SWO) is missing the order date. Refer to 42 CFR 
+410.38(d)(1), Medicare Program Integrity Manual 100-08, Chapter 5, Section 5.2.2 & 
+Standard Documentation Requirements A55426. 
+GDX09 
+The standard written order (SWO) is dated after the claim was submitted. Refer to 42 
+CFR 410.38(d)(1), Medicare Program Integrity Manual 100-08, Chapter 5, Section 
+5.2.4 & Standard Documentation Requirements A55426. 
+GDX11 
+The standard written order (SWO) contains an amendment, correction or delayed entry 
+that does not comply with accepted record keeping principles. Refer to Medicare 
+Program Integrity Manual 100-08, Chapter 3, Section 3.3.2.5. 
+GDX12 The standard written order (SWO) is illegible. 
+GDX13 
+The standard written order (SWO) is missing the quantity to be dispensed. Refer to 42 
+CFR 410.38(d)(1), Medicare Program Integrity Manual 100-08, Chapter 5, Section 
+5.2.2 & Standard Documentation Requirements A55426. 
+GDX15 The standard written order (SWO) does not identify the item to be ordered. Refer to 42 
+CFR 410.38(d)(1) and Standard Documentation Requirements A55426. 
+GDX16 The standard written order (SWO) contains an error for a reason not otherwise 
+specified. 
+GDX18 
+The standard written order (SWO) was signed prior to the date of the in-person visit 
+with the treating practitioner. Refer to applicable Local Coverage Determination 
+(LCD).   
+GDX19 
+The standard written order (SWO) is missing the treating practitioner's name or 
+National Provider Identifier (NPI). Refer to 42 CFR 410.38(d)(1) & Standard 
+Documentation Requirements A55426. 
+GDX22 The standard written order (SWO) is expired per length of need. 
+GDX23 The standard written order (SWO) required prior to delivery is dated after delivery of 
+the item(s). Refer to Standard Documentation Requirements A55426.

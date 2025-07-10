@@ -1,0 +1,37 @@
+Prioritization of Billing and 
+Payer Follow Up
+After the revenue cycle score cards have been completed and reviewed by the revenue cycle performance improvement 
+team, prioritization of billing and payer follow up should begin as soon as possible. Prioritizing billing and payer follow up 
+will result in improvement across multiple metrics. New processes will need to be clearly communicated to patient financial 
+services and health information management staff. It is also recommended that a lead is identified in each department 
+to help support leadership in ensuring progress is made and to help with identifying and resolving workflow issues. 
+1. Address large dollar claims first.
+ a. The patient financial services team can identify 
+  large dollar claims.
+2. Address claims that have timely filing 
+ restrictions next.
+ a. The health information management team can   
+  identify uncoded accounts.
+1. Claim status for government claims should begin 
+ at 35 days.
+ a. Medicare pays a clean claim in 14 days.
+2. Claim status for commercial claims should begin 
+ at 45 days.
+ a. Reference contracts with payers to determine   
+  timely filing requirements.
+Billing Prioritization: Payer Follow Up: 
+All denials should have a unique write-off code so 
+reports can be easily pulled to identify what types of 
+denials are being received and the percentage of denials 
+compared against the total number of claims. Denials 
+should be tracked and discussed with the revenue cycle 
+performance improvement team when meeting to 
+determine root causes and what can be done to prevent 
+denials in the future. The cost of denials makes up an 
+estimated 20 percent of revenue expenses.
+• Medical necessity/level of care
+• Eligibility
+• Authorization
+• Timely filing 
+Example Denial Categories:
+PAGE SEVEN

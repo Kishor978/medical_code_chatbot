@@ -1,0 +1,31 @@
+Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) Reason Codes and 
+Statements  
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         20 
+ 
+Reason 
+Code 
+ADMINISTRATIVE/OTHER  
+(For Transmission via esMD) 
+PMDXD Other 
+PMDXE The system used to retrieve the Subscriber/Insured details using the given MBI is 
+temporarily unavailable. 
+PMDXF The documentation is incomplete 
+PMDXG This submission is an unsolicited response  
+PMDXH The documentation cannot be matched to a case/claim 
+PMDXI This is a duplicate of a previous transaction 
+PMDXJ The date(s) of service on the cover sheet received is missing or invalid. 
+PMDXK The NPI on the cover sheet received is missing or invalid. 
+PMDXL The state where services were provided is missing or invalid on the cover sheet 
+received.  
+PMDXM The Medicare ID on the cover sheet received is missing or invalid.  
+PMDXN The billed amount on the cover sheet received is missing or invalid.  
+PMDXO The contact phone number on the cover sheet received is missing or invalid. 
+PMDXP The Beneficiary name on the cover sheet received is missing or invalid 
+PMDXQ The Claim number on the cover sheet received is missing or invalid 
+PMDXR The ACN on the coversheet received is missing or invalid 
+GEX19 
+(Effective 
+10/01/2021) 
+Provider is exempted from submitting this PA request

@@ -1,0 +1,50 @@
+Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) Reason Codes and 
+Statements  
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         1 
+ 
+ 
+Reason 
+Code GENERAL FACE TO FACE EXAM/MEDICAL RECORDS 
+PMD2A 
+The documentation does not include a face-to-face examination.  Refer to 42 Code of 
+Federal Regulations 410.38, Medicare Program Integrity Manual 5.9.2, Local 
+Coverage Determination 33789 & Local Coverage Article A55426. 
+PMD2C 
+The face-to-face examination does not clearly indicate that a major reason for the visit 
+was a mobility evaluation. Refer to 42 Code of Federal Regulations 410.38 (c), Local 
+Coverage Determination 33789 & Local Coverage Article A55426. 
+PMD2D 
+The face-to-face examination does not paint a clear picture of the beneficiary's 
+functional abilities and limitations as it does not contain sufficient objective data. Refer 
+to 42 Code of Federal Regulations 410.38 (c), Local Coverage Determination 33789 & 
+Local Coverage Article A55426. 
+PMD2E 
+Claim history demonstrates the beneficiary received a similar power mobility 
+device within the past five years. The documentation does not demonstrate a change in 
+medical condition that meets the medical necessity for the requested base. Refer to 
+Medicare Benefit Policy Manual 100-02 Chapter 15, Section 110.2.C & Local 
+Coverage Article A55426. 
+PMD2F 
+Claim history demonstrates the beneficiary received same or similar durable 
+medical equipment. The documentation does not indicate the rationale for the power 
+mobility device requested. Refer to Medicare Benefit Policy Manual 100-02 Chapter 
+15, Section 110.2.C & Local Coverage Article A55426. 
+PMD2H 
+The medical documentation demonstrates the beneficiary's primary need for the power 
+mobility device is for use outside of the home.  Refer to 42 Code of Federal 
+Regulations 410.38 (a), Medicare Program Integrity Manual 5.9.2 & Local Coverage 
+Determination 33789. 
+PMD2J The face-to-face examination contains conflicting information. Refer to Local 
+Coverage Determination 33789. 
+PMD2K 
+The face-to-face examination was completed on a limited space template with 
+insufficiently detailed or incomplete narrative to support medical necessity from the 
+physician/practitioner. Refer to 42 Code of Federal Regulations 410.38 (c) & Medicare 
+Program Integrity Manual 3.3.2.1.1. 
+PMD2S The face-to-face documentation is illegible. 
+PMD2V 
+The face-to-face documentation does not contain the beneficiary's name. Refer to 42 
+Code of Federal Regulations 410.38 (c), Local Coverage Determination 33789 & 
+Local Coverage Article A55426.

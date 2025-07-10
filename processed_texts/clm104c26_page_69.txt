@@ -1,0 +1,41 @@
+Rev # Issue Date Subject Impl Date CR# 
+R3083CP 10/02/2014 Form CMS-1500 Instructions: Revised for 
+Form Version 02/12 
+01/06/2014 8509 
+R3073CP 09/23/2014 New Physician Specialty Code for 
+Interventional Cardiology 
+01/05/2015 8812 
+R3061CP 09/04/2014 New Physician Specialty Code for 
+Interventional Cardiology – Rescinded and 
+replaced by Transmittal 3073 
+01/05/2015 8812 
+R3048CP 08/22/2014 New Physician Specialty Code for 
+Interventional Cardiology – Rescinded and 
+replaced by Transmittal 3061 
+01/05/2015 8812 
+R3047CP 08/22/2014 Reporting the Service Location National 
+Provider Identifier (NPI) on Anti-Markup 
+and Reference Laboratory Claims – 
+Rescinded and replaced by Transmittal 
+3098 
+01/05/2014 8806 
+R2984CP 07/11/2014 Beneficiary Signature Requirements for 
+Ambulance Services 
+08/12/2014 8760 
+R2842CP 12/27/2013 Form CMS-1500 Instructions: Revised for 
+Form Version 02/12 – Rescinded and 
+replaced by Transmittal 3083 
+01/06/2014 8509 
+R2814CP 11/15/2013 2014 Annual Type of Service (TOS) Update 01/06/2014 8519 
+R2744CP 07/24/2013 Type of Service (TOS) Corrections 2013 10/07/2013 8392 
+R2738CP 07/12/2013 Type of Service (TOS) Corrections 2013 – 
+Rescinded and replaced by Transmittal 
+2744 
+10/07/2013 8392 
+R2721CP 06/12/2013 New Non-Physician Specialty Code for 
+Complimentary Insurer 
+10/07/2013 8282 
+R2697CP 05/03/2013 New Non-Physician Specialty Code for 
+Complimentary Insurer – Rescinded and 
+replaced by Transmittal 2721 
+10/07/2013 8282

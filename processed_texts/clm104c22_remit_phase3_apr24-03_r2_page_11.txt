@@ -1,0 +1,33 @@
+Table 1 - Header Data 
+Segment/  835 and Medicare Requirements/Notes  
+Data Elements 
+Envelope 
+ISA Required 
+ISA01 Required.  Enter 00 pending establishment of HIPAA security 
+requirements for transmissions.  Translator Generated (TG) 
+ISA02 Required.  Enter 10 blank spaces pending establishment of HIPAA 
+security requirements.  TG 
+ISA03  Required.  Enter 00 pending establishment of HIPAA security 
+requirements.  TG 
+ISA04  Required.  Enter 10 blank spaces pending establishment of HIPAA 
+security requirements.  TG 
+ISA05  Required.  Enter ZZ as Medicare trading partners will always mutually 
+decide on the interchange sender ID to be used.  TG 
+ISA06 Required.  Mapped to flat file (ff) record 1, field 1. 
+ISA07  Required.  The type of number used for receiver identification is 
+individually negotiated between trading partners.  Enter 29 if using the 
+NPI number, when effective, as the qualifier.  Enter ZZ, mutually defined, 
+if using an alternate locally defined qualifier.  Alternately, one of the other 
+qualifiers permitted in the IG can be used if trading partners choose one of 
+those means of identification.  TG 
+ISA08  Required.  The number must be locally determined.  TG 
+ISA09  Required.  Enter the transmission date.  TG 
+ISA10  Required.  Enter the transmission time.  TG 
+ISA11  Required.  TG 
+ISA12  Required.  TG 
+ISA13  Required.  TG 
+ISA14  Required.  Enter 0.  TG 
+ISA15  Required.  Mapped to ff record 1, field 13. 
+ISA16  Required.  Locally determined, but “>” is recommended as the delimiter 
+symbol.  TG 
+ 11

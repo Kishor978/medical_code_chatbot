@@ -1,0 +1,42 @@
+Home Blood Glucose Monitoring Reason Codes and Statements 
+January 4, 2024 
+ 
+4 
+ 
+is denied as missing the equipment that requires the supply. Refer to National 
+Coverage Determination 40.2, Local Coverage Determination L33822, & Policy 
+Article A52464. 
+GL025 
+The KS modifier was incorrectly appended. The medical record documentation 
+supports the beneficiary is insulin treated. Refer to Local Coverage Determination 
+L33822 & Policy Article A52464. 
+GL026 
+The KX modifier was incorrectly appended. The medical record documentation 
+supports the beneficiary is non-insulin treated. Refer to Local Coverage Determination 
+L33822 & Policy Article A52464. 
+ 
+Reason 
+Code 
+ADMINISTRATIVE/OTHER  
+(For Transmission via esMD) 
+GEX04 Other 
+GEX05 The system used to retrieve the Subscriber/Insured details using the given MBI is 
+temporarily unavailable. 
+GEX06 The documentation submitted is incomplete 
+GEX07 This submission is an unsolicited response  
+GEX08 The documentation submitted cannot be matched to a case/claim 
+GEX09 This is a duplicate of a previously submitted transaction  
+GEX10 The date(s) of service on the cover sheet received is missing or invalid. 
+GEX11 The NPI on the cover sheet received is missing or invalid. 
+GEX12 The state where services were provided is missing or invalid on the cover sheet 
+received.  
+GEX13 The Medicare ID on the cover sheet received is missing or invalid.  
+GEX14 The billed amount on the cover sheet received is missing or invalid.  
+GEX15 The contact phone number on the cover sheet received is missing or invalid. 
+GEX16 The Beneficiary name on the cover sheet received is missing or invalid 
+GEX17 The Claim number on the cover sheet received is missing or invalid 
+GEX18 The ACN on the coversheet received is missing or invalid 
+GEX19 
+(Effective 
+10/01/2021) 
+Provider is exempted from submitting this PA request

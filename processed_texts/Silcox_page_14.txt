@@ -1,0 +1,14 @@
+DEEPER DIVE INTO: BEHAVIOR IDENTIFICATION 
+ASSESSMENTS
+Per the Steering Committee Supplemental Guidance sent to Providers or found in the Members Only 
+section of www.apbahome.net
+• Q: Is 97151 intended to be used for day-to-day assessment and treatment planning? 
+• A: No. This code is intended for reporting initial assessment and treatment plan development and 
+reassessment and progress reporting by the QHP (timeframes for reassessments are determined by payer 
+policy or medical necessity). 97151 includes face-to-face time with the patient and/or caregivers to 
+conduct assessments as well as non-face-to-face time for reviewing records, scoring and interpreting 
+assessments, and writing the treatment plan or progress report. The QHP must have conducted both the 
+face-to-face and non-face-to-face activities to report this service. Day-to-day assessment and treatment 
+planning by the QHP are bundled into the treatment codes 97153-97158 and 0373T; therefore, 97151 
+cannot be used to report those indirect services because they do not meet all requirements of the code 
+descriptor.

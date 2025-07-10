@@ -1,0 +1,36 @@
+NM1 (030.E)  Situational, but required for Medicare if claim data is being transferred to 
+another payer under a coordination of benefits (COB) agreement with that 
+payer. 
+ NOTE: Although Medicare may send claim and payment information to 
+multiple secondary payers, the 835 does not permit identification of more 
+than one of those secondary payers.  When COB transmissions are sent to 
+more than one secondary payer for the same claim, report remark code 
+N89  in a claim level remark code data element. 
+NM101  Required.  Mapped to ff record 41, field 13. 
+NM102  Required.  Mapped to ff record 41, field 14. 
+NM103  Required.  Mapped to ff record 41, field 15. 
+NM104-107  Not used. 
+NM108  Required.  Until the PlanID is effective, enter “PI” for Medicare if another 
+or no ID number is available for the payer.  When PlanID is effective, 
+enter “XV.” AD, FI, NI, and PP do not apply to Medicare.  Mapped to ff 
+record 41, field 16. 
+NM109  Required.  Enter the PlanID when effective.  Prior to that date, enter the  
+ other number if available with PI, or if no ID number is available, enter 00 
+ with PI.  Mapped to ff record 41, field 17. 
+NM110-111  Not used. 
+NM1 (030.F)  Situational, but required for Medicare when a claim is denied or rejected 
+ due to the need for processing by a primary payer.  That primary payer 
+ must be identified in the remittance advice.  This segment notifies the 
+ provider whom to bill first.  Do not use when NM1 segment 030.E applies. 
+NM101  Required.  Mapped to ff record 41, field 18.  (If 2nd loop, mapped to field 
+ 23.) 
+NM102  Required.  Mapped to ff record 41, field 19.  (If 2d loop, mapped to field 
+ 24.) 
+NM103  Required.  Mapped to ff record 41, field 20.  (If 2nd loop, mapped to field 
+25.) 
+NM104-107  Not used. 
+NM108  Required.  Until the PlanID is effective, always enter “PI” for Medicare in 
+this loop.  When effective, always enter “XV” for Medicare.  AD, FI, NI, 
+and PP do not apply to Medicare.  Mapped to ff record 41, field 21.  (If 
+2nd loop, mapped to field 26.) 
+ 23

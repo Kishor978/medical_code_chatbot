@@ -1,0 +1,48 @@
+POS Code and Name (effective date) 
+Description 
+Payment Rate 
+Facility=F 
+Nonfacility=NF 
+25 Birthing Center 
+ 
+A facility, other than a hospital's maternity facilities or a physician's office, 
+which provides a setting for labor, delivery, and immediate postpartum care 
+as well as immediate care of newborn infants. 
+NF 
+26 Military Treatment Facility 
+A medical facility operated by one or more of the Uniformed Services. 
+Military Treatment Facility (MTF) also refers to certain former U.S. Public 
+Health Service (USPHS) facilities now designated as Uniformed Service 
+Treatment Facilities (USTF). 
+F 
+27 Outreach Site/Street (October 1, 2023) 
+ 
+A non-permanent location on the street or found environment, not described by 
+any other POS code, where health professionals provide preventive, screening, 
+diagnostic, and/or treatment services to unsheltered homeless individuals. 
+ 
+ 
+ 
+NF 
+28-30 Unassigned -- 
+31 Skilled Nursing Facility 
+ 
+A facility which primarily provides inpatient skilled nursing care and 
+related services to patients who require medical, nursing, or rehabilitative 
+services but does not provide the level of care or treatment available in a 
+hospital. 
+F 
+32 Nursing Facility 
+ 
+A facility which primarily provides to residents skilled nursing care and 
+related services for the rehabilitation of injured, disabled, or sick persons, 
+or, on a regular basis, health-related care services above the level of 
+custodial care to other than individuals with intellectual disabilities. 
+ 
+NF 
+33 Custodial Care Facility 
+ 
+A facility which provides room, board and other personal assistance 
+services, generally on a long term basis, and which does not include a 
+medical component. 
+NF

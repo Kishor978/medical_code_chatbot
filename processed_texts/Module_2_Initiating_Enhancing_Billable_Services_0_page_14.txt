@@ -1,0 +1,2 @@
+-The Financial summary provides high level data of the total charges, adjustment and payment for a specified period of time.-Provides a quick overview of the practice/clinic’s financial status.
+14

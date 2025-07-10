@@ -1,0 +1,31 @@
+N404-406  Not used. 
+REF (120.A)  Situational.  Required for Medicare prior to the effective date of the Plan 
+ID.  After that date, a Medicare payer may use at its option in addition to 
+the Plan ID in the 060 REF. 
+REF01  Required.  Only 2U applies to Medicare. 
+REF02  Required. 
+REF03-04  Not used. 
+PER (130)  Situational.  Recommended for use for Medicare, but reporting of contact 
+information in an 835 is at the option of individual Medicare contractors. 
+PER01  Required. 
+PER02  Situational.  Optional for Medicare but recommended if this segment is 
+used. 
+PER03  Situational, but required for Medicare if this segment is used. 
+PER04  Situational, but required for Medicare if there is an entry in PER03. 
+PER05  Situational.  May be used at the option of a Medicare contractor to report a 
+second contact. 
+PER06  Situational, but required if there is an entry in PER05. 
+PER07  Situational, but required for Medicare if segment is used and it is 
+necessary to report a telephone extension number. 
+PER08-09  Not used. 
+N1 (080.B)  Required to identify the payee. 
+N101  Required. 
+N102  Situational, but required for Medicare prior to the effective date of the 
+NPI. 
+N103  Required.  Always enter “FI” until the NPI is effective.  After that date, 
+always enter “XX.” 
+N104  Required. 
+N105-106  Not used. 
+N3 (080)  Situational, but required for Medicare. 
+N301  Required. 
+ 36

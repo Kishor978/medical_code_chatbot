@@ -1,0 +1,45 @@
+Generic Durable Medical Equipment (DME) Reason Codes and Statements 
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         5 
+ 
+GDU22 
+The medical record documentation does not contain a treating practitioner's 
+signature required to resolve authenticity concerns related to legitimacy or falsity of 
+the documentation. Refer to Social Security Act §1815(a) and §1833(e) & Medicare 
+Program Integrity Manual 100- 08, Chapter 3, Section 3.3.2.4. 
+ 
+Reason 
+Code UTILIZATION STATEMENTS 
+GDV01 The date of service for item(s) billed has been paid.  Refer to Medicare Benefit Policy 
+Manual 100-02, Chapter 15, Section 50.5.1-50.6 & 110-140. 
+GDV02 The date of service for item(s) billed has paid to another supplier.  Refer to Medicare 
+Benefit Policy Manual 100-02, Chapter 15, Section 50.5.1-50.6 & 110-140. 
+GDV03 The date of service for item(s) billed has been partially paid.  Refer to Medicare 
+Benefit Policy Manual 100-02, Chapter 15, Section 50.5.1-50.6 & 110-140. 
+GDV04 
+The date of service for item(s) billed has been partially paid to another supplier. Refer 
+to Medicare Benefit Policy Manual 100-02, Chapter 15, Section 50.5.1-50.6 & 110-
+140. 
+GDV05 
+The claim is billed for greater quantity than the order indicates.  Refer to Medicare 
+Program Integrity Manual 100-08, Chapter 5, Section 5.2 & applicable Local Coverage 
+Determination/Policy Article. 
+GDV06      The claim is billed for greater quantity than the proof of delivery indicates.  Refer to 
+Medicare Program Integrity Manual 4.26.1 
+ 
+Reason 
+Code MISCELLANEOUS STATEMENTS 
+GDW01 The beneficiary was not enrolled in Medicare fee for service on the date of service. 
+GDW02 Claims history indicates same or similar durable medical equipment within the last five 
+years.  Refer to Medicare Claims Processing Manual 100-04, Chapter 20, Section 50.1. 
+GDW03 
+The documentation does not include verification that the equipment was lost, stolen, or 
+irreparably damaged in a specific incident.  Refer to Medicare Claims Processing 
+Manual 100-04, Chapter 20, Section 50 & Standard Documentation Requirements 
+A55426. 
+GDW04 The claim was submitted with an incorrect modifier.  Refer to Medicare Claims 
+Processing Manual 100-04, Chapter 20 & LCDs. 
+GDW05 The claim was submitted without a required modifier.  Refer to Medicare Claims 
+Processing Manual 100-04, Chapter 20 & LCDs. 
+GDW06 The documentation submitted indicates the item(s) were returned by the beneficiary.

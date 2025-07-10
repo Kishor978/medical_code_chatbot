@@ -1,0 +1,37 @@
+PLB02  Required.  Mapped to ff record 60, field 4. 
+PLB03-1  Required.  The X12N provider adjustment reason code must be reported in 
+03-1, and the Medicare provider adjustment identifier code in 03-2.  The 
+first X12N provider adjustment reason code is mapped to ff record 60, 
+field 13. 
+NOTE: Outpatient PPS instructions had directed intermediaries to identify 
+Transitional Outpatient Payments (TOPs) with BN in this data element, 
+but some providers associate BN with managed care only and not with fee 
+for service payments.  For Medicare’s use of version 4010, report TOPs 
+with IS, interim settlement, in PLB03-1 and IR in the first 2 positions of 
+PLB03-2. 
+PLB03-2  Situational, but required for Medicare.  Positions 1-2=the first Medicare 
+provider adjustment code (mapped to ff record 60, field 14).  Contrary to 
+the misphrased note in the implementation guide, intermediaries should 
+not report any additional data in positions 3-30 of this data element.  Nor 
+may intermediaries report anything other than the Medicare provider 
+adjustment code in positions 1-2 of this data element. 
+PLB04  Required.  Mapped to ff record 60, field 15. 
+PLB05-1  Situational, but required if there is a second provider level adjustment.   
+ Mapped to ff record 60, field 16. 
+PLB05-2  Situational, but required for Medicare if there is a second provider level  
+ adjustment.  Mapped to ff record 60, field 17. 
+PLB06  Situational, but required for Medicare if there is a second provider level 
+adjustment.  Mapped to ff record 60, field 18. 
+PLB07-1  Situational, but required if there is a third provider level adjustment.   
+ Mapped to ff record 60, field 19. 
+PLB07-2  Situational, but required for Medicare if there is a third provider level  
+ adjustment.  Mapped to ff record 60, field 20. 
+PLB08  Situational, but required for Medicare if there is a third provider level  
+ adjustment.  Mapped to ff record 60, field 21. 
+PLB09-1  Situational, but required if there is a fourth provider level adjustment.   
+ Mapped to ff record 60, field 22. 
+PLB09-2  Situational, but required for Medicare if there is a fourth provider level  
+ adjustment.  Mapped to ff record 60, field 23. 
+PLB10  Situational, but required for Medicare if there is a fourth provider level  
+ adjustment.  Mapped to ff record 60, field 24. 
+ 32

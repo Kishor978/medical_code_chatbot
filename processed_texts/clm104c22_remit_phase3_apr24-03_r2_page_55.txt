@@ -1,0 +1,80 @@
+50.2.2 - Part B/Carrier and DMERC SPR Format 
+ 
+CARRIER NAME 
+ADDRESS 1      
+                  MEDICARE 
+ADDRESS 2      
+                   REMITTANCE 
+CITY, STATE   ZIP     
+           NOTICE 
+(9099) 111-2222 
+ 
+ 
+ 
+ PROVIDER NAME     
+ PROVIDER #:       1234567890 
+ ADDRESS 1     
+  PAGE #:               1 OF 999 
+ ADDRESS 2     
+  CHECK/EFT #: 12345678901234567890 
+ CITY, STATE ZIP    
+  REMITTANCE # 12345678901234567890 (NOT A REQUIRED FIELD) 
+  
+ 
+………………………………………………………………………………………………………………………………………………………………………………. 
+*LINE 1      
+                    
+ * 
+*LINE 2      
+                    
+ * 
+*LINE 3      
+                    
+ * 
+*LINE 4      
+                    
+ * 
+*LINE 5      
+                    
+ * 
+*LINE 6      
+                    
+ * 
+*LINE 7      
+                    
+ * 
+*LINE 8      
+                    
+ * 
+*LINE 9      
+                    
+ * 
+*LINE 10      
+                 
+ * 
+*LINE 11      
+                 
+ * 
+*LINE 12      
+                 
+ * 
+*LINE 13      
+                 
+ * 
+*LINE 14      
+                 
+ * 
+*LINE 15      
+                 
+ *  
+………………………………………………………………………………………………………………………………………………………………………………. 
+   
+ 
+PERF  PROV  SERV DATE    POS NOS   PROC   MODS    BILLED      ALLOWED      DEDUCT     COINS    
+GRP/ RC-AMT   PROV  PD  
+_______________________________________________________________________________________________________________________
+______ 
+NAME  LLLLLLLLLLLL, FFFFFFFF  HIC 123456789012  ACNT 12345678901234567890  ICN 123456789012345  ASG X      MOA  11111  
+22222 
+ 
+55

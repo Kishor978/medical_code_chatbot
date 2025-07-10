@@ -1,0 +1,39 @@
+60.4 - Requests for Additional Codes 
+AB-02-142, AB-03-012 
+(Rev.) 
+The CMS has national responsibility for maintenance of the remittance advice remark 
+codes.  Requests for new or changed remark codes should be submitted to CMS via the 
+Washington Publishing Company Web page (http://www.wpc-edi.com/HIPAA) remark 
+code request function.  Requests for codes must include the name, phone number, 
+company name, and e-mail address of the requestor, the suggested wording for the new or 
+revised message, and an explanation of how the message will be used and why it is 
+needed.  A fax number or mail address is acceptable in the absence of an e-mail address.  
+Requests may also be mailed to: 
+Centers for Medicare & Medicaid Services 
+OIS/BSOG/DDIS 
+Mail Stop N2-13-16 
+7500 Security Blvd. 
+Baltimore MD 21244-1850 
+To provide a summary of changes introduced in the previous four months, a PM will be 
+issued if in the last four months (a) any new remark or reason code is introduced; and/or 
+(b) an existing code is discontinued; and/or c) the wording for an existing code is 
+modified, and at least one of these changes impact Medicare.  These PMs will establish 
+the deadline for Medicare standard system and contractor changes to complete the reason 
+and/or remark code updates that had not already been implemented as part of a previous 
+Medicare policy change instruction. 
+70 - Intermediary ERA Requirement Changes to Accommodate OPPS 
+and HH PPS 
+(Rev.) 
+B-02-050, A3-3754 
+The type of bill in CLP08 identifies whether a service is an outpatient hospital, 
+Community Mental Health Center (CMHC), Home Health Agency (HHA), or other 
+category of intermediary processed claim.  A remittance advice does not typically 
+identify which of the possible cost bases is being used for payment. 
+The CMS had to assure both these PPS payment systems could be accommodated in the 
+835 transaction when they were implemented in 2000. 
+Changes to accommodate these PPS systems include: 
+• Detailed service line level data will only be reported in 3051.4A.01 and later 
+versions of the 835.  Detailed service line data is not reported in paper 
+remittance advice notices, or in pre-3051.4A.01 versions of the 835 supported 
+ 
+75

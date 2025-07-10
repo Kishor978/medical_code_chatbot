@@ -1,0 +1,47 @@
+POS Code and Name (effective date) 
+Description 
+Payment Rate 
+Facility=F 
+Nonfacility=NF 
+19 Off Campus-Outpatient Hospital (January 1, 2016) 
+ 
+A portion of an off-campus hospital provider based department which 
+provides diagnostic, therapeutic (both surgical and nonsurgical), and 
+rehabilitation services to sick or injured persons who do not require 
+hospitalization or institutionalization. 
+ 
+(See “Special Considerations” below.) 
+F 
+20 Urgent Care Facility (January 1, 2003) 
+ 
+Location, distinct from a hospital emergency room, an office, or a clinic, 
+whose purpose is to diagnose and treat illness or injury for unscheduled, 
+ambulatory patients seeking immediate medical attention. 
+NF 
+21 Inpatient Hospital 
+ 
+A facility, other than psychiatric, which primarily provides diagnostic, 
+therapeutic (both surgical and nonsurgical), and rehabilitation services by, 
+or under, the supervision of physicians to patients admitted for a variety of 
+medical conditions. 
+ 
+F 
+22 On Campus-Outpatient Hospital (description revised January 1, 2016) 
+ 
+A portion of a hospital’s main campus which provides diagnostic, 
+therapeutic (both surgical and nonsurgical), and rehabilitation services to 
+sick or injured persons who do not require hospitalization or 
+institutionalization. 
+ 
+(See “Special Considerations” below.) 
+F 
+23 Emergency Room-Hospital 
+ 
+A portion of a hospital where emergency diagnosis and treatment of illness 
+or injury is provided. 
+F 
+24 Ambulatory Surgical Center 
+ 
+A freestanding facility, other than a physician's office, where surgical and 
+diagnostic services are provided on an ambulatory basis. 
+F

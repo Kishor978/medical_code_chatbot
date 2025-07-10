@@ -1,0 +1,40 @@
+Rev # Issue Date Subject Impl Date CR# 
+R1586CP 09/05/2008 Pneumococcal Pneumonia, Influenza Virus, 
+and Hepatitis B Vaccines 
+10/06/2008 6079 
+R1552CP 07/18/2008 VMS Recognition of New Specialty Codes 
+for Suppliers of Durable Medical 
+Equipment, Prosthetics, Orthotics and 
+Supplies (DMEPOS) With Pedorthic 
+Personnel, Medical Supply Companies With 
+Pedorthic Personnel, and Rehabilitation 
+Agencies.  (DME MACs Only) 
+01/05/2009 5930 
+R1481CP 03/21/2008 Type of Service (TOS) Corrections 04/07/2008 5977 
+R1432CP 02/01/2008 Medicare Fee for Service Legacy Provider 
+IDs Prohibited on Form CMS-1500 and 
+Form CMS-1450 (UB-04) Claims 
+04/07/2008 5858 
+R1420CP 01/25/2008 Clarification Regarding the Coordination of 
+Benefits Agreement (COBA) Medigap 
+Claim-Based Crossover Process 
+02/01/2008 5837 
+R1412CP 01/11/2008 Reporting of Hematocrit or Hemoglobin 
+Levels on All Claims for the Administration 
+of Erythropoiesis Stimulating Agents 
+(ESAs), Implementation of New Modifiers 
+for Non-ESRD Indications, and Reporting 
+of Hematocrit/Hemoglobin Levels on all 
+Non-ESRD, Non-ESA Claims Requesting 
+Payment for Anti-Anemia Drugs 
+04/07/2008 5699 
+R1410CP 01/11/2008 Annual Type of Service (TOS) Update 01/07/2008 5838 
+R1401CP 12/21/2007 Medicare Shared Systems Modifications 
+Necessary to Accept and Crossover to 
+Medicaid National Drug Codes (NDC) And 
+Corresponding Quantities Submitted on 
+Form CMS-1500 Paper Claims 
+04/07/2008 5835 
+R1398CP 12/19/2007 Annual Type of Service (TOS) Update 
+(Replaced by Transmittal 1410) 
+01/07/2008 5838

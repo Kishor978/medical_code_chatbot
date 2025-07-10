@@ -1,0 +1,44 @@
+Code Description 
+4 Diagnostic Radiology 
+5 Diagnostic Laboratory 
+6 Therapeutic Radiology 
+7 Anesthesia 
+8 Assistant at Surgery 
+9 Other Medical Items or Services 
+A Used DME 
+B High Risk Screening Mammography 
+C Low Risk Screening Mammography 
+D Ambulance 
+E Enteral/Parenteral Nutrients/Supplies 
+F Ambulatory Surgical Center (Facility Usage for Surgical Services) 
+G Immunosuppressive Drugs 
+H Hospice 
+J Diabetic Shoes 
+K Hearing Items and Services 
+L ESRD Supplies 
+M Monthly Capitation Payment for Dialysis 
+N Kidney Donor 
+P Lump Sum Purchase of DME, Prosthetics, Orthotics 
+Q Vision Items or Services 
+R Rental of DME 
+S Surgical Dressings or Other Medical Supplies 
+T Outpatient Mental Health Treatment Limitation 
+U Occupational Therapy 
+V Pneumococcal/Flu Vaccine 
+W Physical Therapy 
+ 
+10.8 - Requirements for Specialty Codes 
+(Rev. 1725, Issued: 05-01-09, Effective: 07-01-09, Implementation: 07-06-09) 
+ 
+Medicare physician/non-physician practitioner specialty codes describe the 
+specific/unique types of medicine that physicians and non-physician practitioners (and 
+certain other suppliers) practice.  Physicians self-designate their Medicare physician 
+specialty on their Medicare enrollment application (CMS-855I) or on the Internet-based 
+Provider Enrollment, Chain and Ownership System.  Non-physician practitioners are 
+assigned a Medicare specialty code when they enroll based on their profession.  Specialty 
+codes are used by CMS for programmatic and claims processing purposes. 
+ 
+A. A physician specialty association will submit a specialty code request to the Director, 
+Division of Practitioner Services, Center for Medicare Management, Centers for 
+Medicare & Medicaid Services, Mail Stop C4-01-26, 7500 Security Blvd., Baltimore, 
+MD 21244.

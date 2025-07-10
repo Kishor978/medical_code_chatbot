@@ -1,0 +1,21 @@
+3 
+ 
+Miscellaneous 
+RARC # RARC Text 
+N830 Alert: The charge[s] for this service was processed in accordance with 
+Federal/ State, Balance Billing/ No Surprise Billing regulations. As such, 
+any amount identified with OA, CO, or PI cannot be collected from the 
+member and may be considered provider liability or be billable to a 
+subsequent payer. Any amount the provider collected over the identified 
+PR amount must be refunded to the patient within applicable 
+Federal/State timeframes. Payment amounts are eligible for dispute 
+pursuant to any Federal/State documented appeal/grievance process(es). 
+N859 Alert: The Federal No Surprise Billing Act was applied to the processing of 
+this claim. Payment amounts are eligible for dispute pursuant to any 
+Federal documented appeal/ grievance/ dispute resolution process(es).  
+ 
+For more on health care payment and remittance advice, please see 
+https://www.cms.gov/Regulations-and-Guidance/Administrative-
+Simplification/Transactions/HealthCarePaymentandRemittanceAdviceandElectronicFun
+dsTransfer or 
+https://www.cms.gov/Medicare/Billing/ElectronicBillingEDITrans/Remittance.

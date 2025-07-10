@@ -1,0 +1,48 @@
+Reason Code Changes  
+Code      Current Narrative           Notes
+163 Claim/Service adjusted because the attachment referenced on the 
+claim was not received. 
+ 
+New as of 6/04 
+164  Claim/Service adjusted because the attachment referenced on the 
+claim was not received in a timely fashion.  
+ 
+New as of 6/04 
+ 
+D16  Claim lacks prior payer payment information.  New as of 6/04 
+Inactive as of version 
+5010. Use code 16 with 
+appropriate claim 
+payment remark code 
+[N4] 
+ 
+D17  Claim/Service has invalid non-covered days. New as of 6/04 
+Inactive as of version 
+5010. Use code 16 with 
+appropriate claim 
+payment remark code 
+[M32, M33] 
+ 
+D18  Claim/Service has missing diagnosis information.  New as of 6/04 
+Inactive as of version 
+5010. Use code 16 with 
+appropriate claim 
+payment remark code 
+[MA63, MA65] 
+ 
+D19  Claim/Service lacks Physician/Operative or other supporting 
+documentation.  
+New as of 6/04 
+Inactive as of version 
+5010. Use code 16 with 
+appropriate claim 
+payment remark code 
+[M29, M30, M35, M66] 
+ 
+D20  Claim/Service missing service/product information.  New as of 6/04 
+Inactive as of version 
+5010. Use code 16 with 
+appropriate claim 
+payment remark code 
+[M20, M67, M19, 
+MA67]

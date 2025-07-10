@@ -1,0 +1,55 @@
+4
+M60 Missing/incomplete/invalid Certificate of Medical Necessity. (Modified 6/30/03) 
+M86 Service denied because payment already made for some/similar 
+procedure within set time frame. 
+ 
+(Modified 6/30/03) 
+M117 Not covered unless submitted via electronic claim. 
+ 
+(Modified 6/30/03) 
+M129 Missing/incomplete/invalid indi cator of x-ray availability for 
+review. 
+ 
+(Modified 6/30/03) 
+M134 Performed by a facility/supplie r in which the provider has a 
+financial interest. 
+ 
+(Modified 6/30/03) 
+MA01 If you do not agree with what we approved for these services, you 
+may appeal our decision.  To make sure that we are fair to you, 
+we require another individual that did not process your initial 
+claim to conduct the review.  However, in order to be eligible for 
+a review, you must write to us within 120 days of the date of this 
+notice, unless you have a good reason for being late. 
+ 
+An institutional provider, e.g., hospital, skilled nursing facility 
+(SNF), home health agency (HHA) or hospice may appeal only if 
+the claim involves a reasonable and necessary denial, a SNF 
+recertified bed denial, or a home health denial because the patient 
+was not homebound or was not in need of intermittent skilled 
+nursing services, or a hospice care denial because the patient was 
+not terminally ill, and either the patient or the provider is liable 
+under Section 1879 of the Social Security Act, and the patient 
+chooses not to appeal. 
+ 
+If your carrier issues telephone review decisions, a professional 
+provider should phone the carrier’s office for a telephone review 
+if the criteria for a telephone review are met. 
+ 
+(Modified 6/30/03) 
+MA02 If you do not agree with this de termination, you have the right to 
+appeal. You must file a written request for reconsideration within 
+120 days of the date of this notice.  Decisions made by a Quality 
+Improvement Organization (QIO) must be appealed to that QIO 
+within 60 days. 
+ 
+An institutional provider, e.g., hospital, skilled nursing facility 
+(SNF), home health agency (HHA) or a hospice may appeal only 
+if the claim involves a reasonable and necessary denial, a SNF 
+non-certified bed denial, or a home health denial because the 
+patient was not homebound or was not in need of intermittent 
+skilled nursing services, or a hospice care denial because the 
+patient was not terminally ill, and either the patient or the 
+provider is liable under Section1879 of the Social Security Act, 
+and the patient chooses not to appeal. 
+(Modified 6/30/03)

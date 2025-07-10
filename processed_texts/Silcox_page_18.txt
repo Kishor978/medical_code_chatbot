@@ -1,0 +1,10 @@
+SESSION NOTE DOCUMENTATION
+• Follow standard session note documentation requirements for accurate reflection of session in 
+and out times; provider and client information, narrative summaries, etc.
+• T o safeguard during audit, review and understand the intent of the codes.
+• The session note must clearly state what occurred during the session, even if it was determined by 
+the QHP not to modify protocol at this time.
+• Protocol modification can occur with or without the technician present.
+• Protocol modification services that are delivered during face-to-face sessions with patients or 
+caregivers are billable. Modifying written protocols is an indirect service that is not reported 
+separately, but is bundled with 97155 for payment.

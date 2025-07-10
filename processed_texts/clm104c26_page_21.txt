@@ -1,0 +1,45 @@
+o The Health Insurance Portability and Accountability Act of 1996 
+(HIPAA) became effective October 16, 2003, for all covered entities. 
+Medicare is a covered entity under HIPAA. 
+ 
+o The final rule, “Health Insurance Reform: Standards for Electronic 
+Transactions,” published in the Federal Register, August 17, 2000, 
+adopts the standards to be used under HIPAA and names the 
+implementation guides to be used for these standards.  The ASC X12N 
+837 professional is the standard to be used for transmitting health care 
+claims electronically, and its implementation guide requires the use of 
+POS codes from the National POS code set, currently maintained by 
+CMS. 
+ 
+o As a covered entity, Medicare must use the POS codes from the 
+National POS code set for processing its electronically submitted 
+claims. Medicare must also recognize as valid POS codes from the POS 
+code set when these codes appear on such a claim. 
+ 
+o Medicare must recognize and accept POS codes from the 
+national POS code set in terms of HIPAA compliance. Note 
+special considerations for Homeless Shelter (code 04), Indian 
+Health Service (codes 05, 06), Tribal 638 (codes 07, 08), and 
+09 Prison/Correctional Facility settings, describe below. 
+Where there is no national policy for a given POS code, local 
+contractors may work with their medical directors to develop 
+local policy regarding the services payable in a given setting, 
+and this could include creating a crosswalk to an existing 
+setting if desired. However, local contractors must pay for the 
+services at either the facility or the nonfacility rate as 
+designated below. In addition, local contractors, when 
+developing policy, must ensure that they continue to pay 
+appropriate rates for services rendered in the new setting; if 
+they choose to create a crosswalk from one setting to another, 
+they must crosswalk a facility rate designated code to another 
+facility rate designated code, and a nonfacility rate designated 
+code to another nonfacility rate designated code. For 
+previously issued POS codes for which a crosswalk was 
+mandated, and for which no other national Medicare directive 
+has been issued, local contractors may elect to continue to use 
+the crosswalk or develop local policy regarding the services 
+payable in the setting, including another crosswalk, if 
+appropriate. If a local contractor develops local policy for 
+these settings, but later receives specific national instructions 
+for these codes, the local contractors shall defer to and 
+comply with the newer instructions. (Note: While, effective

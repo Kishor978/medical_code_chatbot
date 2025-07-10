@@ -1,0 +1,63 @@
+eMDR Document Codes List (April 2024 Release) 
+Page 12 of 27 
+ 
+Document 
+Code 
+Document Description Action Release 
+100247 RAP (Request for Anticipated Payment)     
+100248 Rent/purchase option     
+100249 Statement of Endpoint, if nurse visits are daily or more 
+frequently 
+    
+100250 Hospice Notice of Election and addendum     
+100251 Hospice Certification of Terminal Illness (Initial and 
+subsequent to cover billed dates of service), from 
+Certifying Physician and Attending Physician (if 
+applicable) including written and oral/verbal 
+certification (if applicable) and Physician's narrative 
+Modified Apr 
+2024 
+100252 Physician/Non Physician (NPP) order or evidence of 
+intent to order 
+    
+100253 Documentation supporting wastage of medication     
+100254 Names, credentialing, and privileges within the facility 
+of consulting physicians related to utilization 
+management. (need for IRF, IPPS, and surgical 
+services) 
+    
+100255 Vital sign records, weight sheets, care plans, treatment 
+records 
+    
+100256 Documentation for the look back and look forward 
+period for each MDS billed. May be prior to or after the 
+billing period to assess if a change of therapy 
+assessment would be necessary.  
+    
+100257 Referral Documentation     
+100258 The beneficiary’s response to the therapeutic 
+interventions provided by the PHP 
+Modified Apr 
+2024 
+100259 Treatment goals for coordination of services to facilitate 
+discharge from the PHP/CMHC. 
+    
+100260 Behavior monitoring flow sheets     
+100261 Treatment team, person-centered active treatment plan, 
+and coordination of services 
+    
+100262 Any other supporting/pertinent documentation     
+100263 Written documentation on the costs of the item to 
+include design fabrication, assembly and materials and 
+labor of those performing the customization 
+    
+100264 Written documentation to support necessary use of 
+custom design fabrication, assembly and materials 
+    
+100265  If for an E0470 device, documentation to support that 
+an E0601 has been tried and proven ineffective based 
+on a therapeutic trial conducted in either a facility or in 
+a home setting 
+    
+100266 Documentation to meet LCD criteria for beneficiaries 
+entering Medicare

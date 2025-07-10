@@ -1,0 +1,43 @@
+Full Description 
+(In Order Of 
+Appearance) 
+SPR ID SPR Field Size 
+Characteristics 
+835 Location 
+MSP primary MSP PAYMT N S9(7).99 Total of claim amount level SPR 
+MSP PAYMT 
+ 
+Cash deductible/  
+blood deductibles 
+DEDUCTIBLES N S9(7).99 Total of claim level SPR 
+DEDUCTIBLES 
+ 
+Coinsurance amount COINSURANCE N S9(7).99 Total of claim level SPR 
+COINSURANCE 
+ 
+Patient refund PAT REFUND N S9(7).99 Total of claim amount level SPR 
+PAT REFUND 
+ 
+Interest  INTEREST N S9(7).99 Total of claim level SPR 
+INTEREST 
+ 
+Contractual adjustment CONTRACT ADJ N S9(7).99 Total of claim level SPR 
+CONTRACT ADJ. 
+ 
+Procedure code 
+payable amount 
+PROC CD AMT N S9(7).99 Total of claim level SPR PROC 
+CD AMT 
+ 
+Claim payment 
+amount 
+NET REIMB N S9(7).99 Total of claim level SPR NET 
+REIMB 
+ 
+SPR Summary Data  
+ 
+Pass Thru Amounts 
+Capital pass thru CAPITAL N S9(7).99 3-010-PLB04, 06, 08 or 10 when 
+'CP' in prior data element 
+ 
+64

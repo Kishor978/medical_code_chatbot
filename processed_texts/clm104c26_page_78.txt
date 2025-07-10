@@ -1,0 +1,31 @@
+Rev # Issue Date Subject Impl Date CR# 
+R228CP 07/16/2004 Lab and Carrier Processing of Claims for 
+Reference Lab Services When there is No 
+Face-to-Face Encounter with the 
+Beneficiary 
+08/16/2004 3267 
+R153CP 04/30/2004 Correction of Type of Service (TOS) 
+Inconsistencies 
+10/04/2004 3189 
+R148CP 04/23/2004 Describing the Identity of the Ordering and 
+Supervising Physician on Form CMS-1500 
+Paper Claim 
+05/24/2004 3138 
+R145CP 04/23/2004 Deletion of the Data Element Requirements 
+Matrix for Carriers from Chapter 1 and 
+Chapter 26 
+05/24/2004 3164 
+R121CP 03/19/2004 Manualization of Program Memorandum B-
+03-040, CR 2730, Dated May 16, 2003, 
+Regarding Place of Service (POS) Codes 
+and Revises the Wording of the Group 
+Home Code, 14 
+04/01/2004 3087 
+R108CP 02/27/2004 Correction of Type of Service (TOS) 
+Inconsistencies in CR 2929 
+03/29/2004 3018 
+R005CP 10/10/2003 Update to 2004 HCPCS/Type of Service 
+Crosswalk 
+01/01/2004 2929 
+R001CP 10/01/2003 Initial Publication of Manual NA NA 
+Back to top of Chapter

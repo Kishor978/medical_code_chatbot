@@ -1,0 +1,46 @@
+CMS Manual System Department of Health & 
+Human Services (DHHS)
+Pub. 100-04 Medicare Claims Processing Centers for Medicare & 
+Medicaid Services (CMS)
+Transmittal  313  Date:  October 15, 2004 
+ CHANGE REQUEST 3466
+ 
+SUBJECT:  Remittance Advice Remark Code and Claim Adjustment Reason Code 
+Update 
+ 
+I.  SUMMARY OF CHANGES:  This contains information about reason and remark 
+code updates from March 2004 through June 2004. Medicare contractors must update 
+their remittance advice maps/matrices as appropriate to incorporate those changes that 
+impact their electronic and paper remittance advice, and coordination of benefits (COB) 
+transactions.
+ 
+ 
+NEW/REVISED MATERIAL - EFFECTIVE DATE*: January 1, 2005 
+           IMPLEMENTATION DATE: January 3, 2005 
+ 
+Disclaimer for manual changes only:  The revision date and transmittal number apply 
+to the red italicized material only.  Any other material was previously published and 
+remains unchanged.  However, if this revision contains a table of contents, you will 
+receive the new/revised information only, and not the entire table of contents. 
+ 
+II.  CHANGES IN MANUAL INSTRUCTIONS: (N/A if manual not updated.) 
+     (R = REVISED, N = NEW, D = DELETED) – (Only One Per Row.) 
+ 
+R/N/D CHAPTER/SECTION/SUBSECTION/TITLE 
+N/A  
+  
+  
+ 
+III.  FUNDING:  Medicare contractors shall implement these instructions within 
+their current operating budgets. 
+   
+ 
+IV.  ATTACHMENTS: 
+ 
+ Business Requirements 
+ Manual Instruction 
+ Confidential Requirements 
+ One-Time Notification 
+X Recurring Update Notification 
+ 
+*Unless otherwise specified, the effective date is the date of service.

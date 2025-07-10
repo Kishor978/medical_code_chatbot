@@ -1,0 +1,54 @@
+Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) Reason Codes and 
+Statements  
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         15 
+ 
+OR004 
+The medical record documentation does not support the beneficiary has had a recent 
+injury or a surgical procedure on the knee(s). Refer to Local Coverage Determination 
+L33318 and Policy Article A52465. 
+OR005 
+The medical record documentation does not demonstrate knee instability due to an 
+applicable group 4 diagnosis code. Refer to Local Coverage Determination L33318 
+and Policy Article A52465. 
+OR006 
+The medical record documentation does not demonstrate knee injury or surgery due to 
+an applicable group 2 or group 4 diagnosis code. Refer to Local Coverage 
+Determination L33318 and Policy Article A52465. 
+OR007 
+The medical record documentation does not demonstrate the beneficiary has knee 
+instability due to genu recurvatum – hyperextended knee. Refer to Local Coverage 
+Determination L33318 and Policy Article A52465. 
+OR008 
+The medical record documentation does not demonstrate knee instability by 
+examination of the beneficiary. Refer to Local Coverage Determination L33318 and 
+Policy Article A52465. 
+OR009 
+The medical record documentation does not demonstrate an objective description of 
+joint laxity. Refer to Local Coverage Determination L33318 and Policy Article 
+A52465. 
+OR010 
+The medical record documentation does not demonstrate a physical characteristic 
+which requires the use of a custom fabricated orthosis instead of a prefabricated 
+orthosis. Refer to Local Coverage Determination L33318 and Policy Article A52465. 
+OR011 
+The medical record documentation does not demonstrate instability due to internal 
+ligamentous disruption of the knee. Refer to Local Coverage Determination L33318 
+and Policy Article A52465. 
+OR012 
+The medical record documentation does not demonstrate the beneficiary weighs more 
+than 300 pounds.  Refer to Local Coverage Determination L33318 and Policy Article 
+A52465. 
+OR013 
+The medical record documentation does not demonstrate the beneficiary requires knee 
+extension assist in the absence of any co-existing joint contracture. Refer to Local 
+Coverage Determination L33318 and Policy Article A52465. 
+OR014 Claims history indicates same or similar durable medical equipment within the last two 
+years. Refer to Local Coverage Determination L33318 and Policy Article A52465. 
+OR015 
+Claims history indicates same or similar durable medical equipment within the last 
+three years. Refer to Local Coverage Determination L33318 and Policy Article 
+A52465. 
+OR016 Claims history indicates same or similar durable medical equipment within the last one 
+year. Refer to Local Coverage Determination L33318 and Policy Article A52465.

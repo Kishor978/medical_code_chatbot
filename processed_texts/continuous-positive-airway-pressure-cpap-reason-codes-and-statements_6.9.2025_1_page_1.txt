@@ -1,0 +1,52 @@
+Continuous Positive Airway Pressure (CPAP) Reason Codes and Statements 
+June 9, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         1 
+ 
+ 
+Reason 
+Code 
+0B CRITERION A 
+CP000 The medical record documentation does not contain a clinical evaluation by the 
+treating practitioner.  Refer to Local Coverage Determination L33718. 
+CP001 
+The medical record documentation does not contain a clinical evaluation by the 
+treating practitioner prior to the sleep test. Refer to National Coverage Determination 
+240.4 & Local Coverage Determination L33718. 
+CP002 The clinical evaluation does not include an assessment of the beneficiary for 
+obstructive sleep apnea. Refer to Local Coverage Determination L33718. 
+ 
+Reason 
+Code 
+1B CRITERION B 
+CP100 The medical record documentation does not contain a sleep test. Refer to National 
+Coverage Determination 240.4 & Local Coverage Determination L33718. 
+CP101 
+The medical record documentation does not indicate the apnea-hypopnea index (AHI) 
+or respiratory disturbance index (RDI) is greater than or equal to 15 events per hour 
+with a minimum of 30 events or the AHI or RDI is greater than or equal to 5 and less 
+than or equal to 14 events per hour with a minimum of 10 events and documentation of 
+excessive daytime sleepiness, impaired cognition, mood disorders, or insomnia; or 
+hypertension, ischemic heart disease, or history of stroke. Refer to National Coverage 
+Determination 240.4 & Local Coverage Determination L33718. 
+CP102  
+(For RAC 
+Reviews) 
+The medical record documentation does not indicate a diagnosis of obstructive sleep 
+apnea which is based upon a sleep test that meets the Medicare coverage criteria. Refer 
+to National Coverage Determination (NCD) 240.4 & Local Coverage Determination 
+(LCD) L33718. 
+CP104 
+The medical record documentation does not support hypopneas were calculated based 
+on at least a 4 percent decrease in oxygen saturation. Refer to National Coverage 
+Determination 240.4 & Local Coverage Determination L33718. 
+CP105 
+The medical record documentation indicates the apnea-hypopnea index (AHI) or 
+respiratory disturbance index (RDI) was calculated by including respiratory effort 
+related arousals (RERAs). Refer to Local Coverage Determination L33718. 
+CP106 
+The medical record documentation indicates the apnea-hypopnea index (AHI) or 
+respiratory disturbance index (RDI) is calculated based on less than 2 hours of 
+sleep/recording time and does not meet the total number of required events used to 
+calculate the AHI or RDI Refer to National Coverage Determination 240.4 & Local 
+Coverage Determination L33718.

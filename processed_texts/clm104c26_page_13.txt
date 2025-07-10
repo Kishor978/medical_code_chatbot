@@ -1,0 +1,46 @@
+Protecting Access to Medicare Act of 2014 (PAMA) requires reporting entities to report 
+private payor payment rates for laboratory tests and the corresponding volumes of 
+tests.  In compliance with PAMA, CMS must collect private payor data on unique tests 
+currently being paid as a NOC code, Not Otherwise Specified (NOS) code, or unlisted 
+service or procedure code.  
+ 
+Enter all applicable modifiers when modifier -99 (multiple modifiers) is entered in item 
+24d.  If modifier -99 is entered on multiple line items of a single claim form, all 
+applicable modifiers for each line item containing a -99 modifier should be listed as 
+follows: 1=(mod), where the number 1 represents the line item and "mod" represents all 
+modifiers applicable to the referenced line item. 
+ 
+Enter the statement "Homebound" when an independent laboratory obtains a specimen 
+from a homebound or institutionalized patient.  (See Pub. 100-02, Medicare Benefit 
+Policy Manual, Chapter 15, "Covered Medical and Other Health Services," and Pub. 100-
+04, Medicare Claims Processing Manual, Chapter 16, "Laboratory Services,” and Pub. 
+100-01, Medicare General Information, Eligibility, and Entitlement Manual, Chapter 5, 
+"Definitions," respectively, for the definition of "homebound" and a more complete 
+definition of a medically necessary laboratory service to a homebound or an institutional 
+patient.) 
+ 
+Enter the statement, "Patient refuses to assign benefits," when the beneficiary absolutely 
+refuses to assign benefits to a non-participating physician/supplier who accepts 
+assignment on a claim.  In this case, payment can only be made directly to the 
+beneficiary. 
+ 
+Enter the statement, "Testing for hearing aid" when billing services involving the testing 
+of a hearing aid(s) is used to obtain intentional denials when other payers are involved. 
+ 
+When dental examinations are billed, enter the specific surgery for which the exam is 
+being performed. 
+ 
+Enter the specific name and dosage amount when low osmolar contrast material is billed, 
+but only if HCPCS codes do not cover them. 
+ 
+Enter a 6-digit (MM | DD | YY) or an 8-digit (MM | DD | CCYY) assumed and/or 
+relinquished date for a global surgery claim when providers share post-operative care. 
+ 
+Enter demonstration ID number "30" for all national emphysema treatment trial claims. 
+ 
+Enter demonstration ID number “56” for all national Laboratory Affordable Care Act 
+Section 113 Demonstration Claims. 
+ 
+Enter the NPI of the physician who is performing the technical or professional 
+component of a diagnostic test that is subject to the anti-markup payment limitation.  (See 
+Pub. 100-04, chapter 1, section 30.2.9 for additional information.)

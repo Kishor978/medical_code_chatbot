@@ -1,0 +1,51 @@
+Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) Reason Codes and 
+Statements  
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         18 
+ 
+Reason 
+Code SPINAL ELECTRICAL OSTEOGENESIS STIMULATOR (E0748) 
+OS100 
+The medical record documentation does not support a failed spinal fusion where a 
+minimum of nine months has elapsed since the last surgery. Refer to National 
+Coverage Determination 150.2, Local Coverage Determination L33796, and Policy 
+Article A52513. 
+OS101 
+The medical record documentation does not support a multilevel spinal fusion surgery 
+which involves 3 or more vertebrae. Refer to National Coverage Determination 150.2, 
+Local Coverage Determination L33796, and Policy Article A52513. 
+OS102 
+The medical record documentation does not support a history of a previously failed 
+spinal fusion at the same spinal fusion site. Refer to National Coverage Determination 
+150.2, Local Coverage Determination L33796, and Policy Article A52513. 
+ 
+Reason 
+Code ULTRASONIC ELECTRICAL OSTEOGENESIS STIMULATOR (E0760) 
+OS200 
+The medical record documentation does not include a minimum of two sets of 
+radiographs prior to starting treatment with the osteogenesis stimulator, separated by a 
+minimum of 90 days.  Each set must include multiple views of the fracture site and a 
+written interpretation by a practitioner stating there has been no clinically significant 
+evidence of fracture healing between the two sets of radiographs. Refer to National 
+Coverage Determination 150.2, Local Coverage Determination L33796, and Policy 
+Article A52513. 
+OS201 
+The medical record documentation supports the fracture is of the skull or vertebrae. 
+Refer to National Coverage Determination 150.2, Local Coverage Determination 
+L33796, and Policy Article A52513. 
+OS202 
+The medical record documentation supports the fracture is tumor related. Refer to 
+National Coverage Determination 150.2, Local Coverage Determination L33796, and 
+Policy Article A52513. 
+OS203 
+The medical record documentation indicates a fresh fracture or delayed union; 
+therefore, the use of an ultrasonic electrical osteogenesis stimulator is not medically 
+necessary. Refer to National Coverage Determination 150.2, Local Coverage 
+Determination L33796, and Policy Article A52513. 
+OS204 
+The ultrasonic osteogenesis stimulator is non-covered; therefore, the ultrasound 
+conductive coupling gel is non-covered. Refer to Local Coverage Determination 
+L33796 and Policy Article A52513. 
+OS205 The ultrasonic osteogenesis stimulator is not medically necessary as it is being used 
+with other noninvasive osteogenesis stimulators. Refer to National Coverage

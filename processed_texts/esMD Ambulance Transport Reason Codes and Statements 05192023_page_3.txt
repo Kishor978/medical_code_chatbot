@@ -1,0 +1,52 @@
+Ambulance Transport Reason Codes and Statements  
+Updated on May 19, 2023 
+ 
+3 
+ 
+   
+Reason 
+Code DOES NOT MEET BENEFIT (NON -CLINICAL) 
+AMB4A 
+For RAC 
+Audit 
+Only 
+Missing/incomplete/invalid patient signature or authorized representative signature on  
+ambulance consent. 
+AMB4C Missing/Incomplete/invalid date on ambulance record.  
+AMB4G Date of service(s) documented does not match date of service(s) (DOS) billed on 
+ambulance claim. 
+AMB4Z Does not meet non-clinical benefit (explain identified problem)  
+AMB4X Services billed were not rendered  
+   
+Reason 
+Code 
+DOES NOT MEET DEFINITION OF MEDICARE AMBULANCE BENEFIT  – 
+BENEFICIARY LIABLE 
+AMB2J This service is denied as the beneficiary refused transport.  
+AMB2K Non-covered charge(s). 
+AMB2L Statutorily excluded service(s).  
+AMB2N 
+Transport Not Medically Necessary with an Advance Beneficiary Notice (ABN).  
+Refer to Internet Only Manual, Pub 100-4, Medicare Claims Processing Manual, 
+Chapter 30, Section 50.   
+AMB2Z Does not meet definition of Medicare ambulance benefit (explain identified problem) 
+  
+Reason 
+Code 
+GROUND AMBULANCE: ADVANCED LIFE SUPPORT (ALS2) 
+ASSESSMENT 
+AM400 
+The documentation does not support the requirements of advanced life support, level 
+2 (ALS2). Documentation does not support the administration of at least 3 separate 
+administrations of one or more medications given by IV push/bolus or continuous 
+infusion or the provision of at least one of the ALS2 procedures (excluding crystalloid 
+fluids) as in the internet Only Manual as in the Internet Only Manual.   Refer to 42 
+CFR § 410.40 (c), 42 CFR § 414.605, Internet Only Manual (IOM), Publication 100-
+02, Medicare Benefit Policy Manual, Chapter 10, Section 30.1.1.  
+   
+Reason 
+Code GROUND AND AIR AMBULANCE: BENEFICIARY DEATH  
+AMB3B 
+The documentation supports the beneficiary was pronounced dead prior to dispatch. 
+Refer to Internet Only Manual (IOM), Publication 100-02, Medicare Benefit Policy, 
+Manual, Chapter 10, Section 10.2.6, 10.4.9.

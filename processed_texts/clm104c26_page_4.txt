@@ -1,0 +1,44 @@
+Legend Description 
+(MMDDYY) or (MMDDCCYY) No space must be reported between month, 
+day, and year (e.g., 121598 or 12151998).  
+The date must be recorded as one 
+continuous number. 
+ 
+10.1 - Claims That are Incomplete or Contain Invalid Information 
+(Rev. 145, 04-23-04) 
+ 
+If a claim is submitted with incomplete or invalid information, it may be returned to the 
+submitter as unprocessable.  See Chapter 1 for definitions and instructions concerning the 
+handling of incomplete or invalid claims. 
+ 
+10.2 - Items 1-11 - Patient and Insured Information 
+(Rev. 4232, Issued: 02-08-19, Effective: 03-12-19, Implementation: 03-12-19) 
+ 
+The term Medicare beneficiary identifier (Mbi) is a general term describing a 
+beneficiary's Medicare identification number. For purposes of this manual, Medicare 
+beneficiary identifier references both the Health Insurance Claim Number (HICN) and 
+the Medicare Beneficiary Identifier (MBI) during the new Medicare card transition 
+period and after for certain business areas that will continue to use the HICN as part of 
+their processes. 
+ 
+Item 1 - Shows the type of health insurance coverage applicable to this claim by the 
+appropriately checked box; check the Medicare box. 
+ 
+Item 1a - Enter the patient's Medicare beneficiary identifier whether Medicare is the 
+primary or secondary payer.  This is a required field. 
+ 
+Item 2 - Enter the patient's last name, first name, and middle initial, if any, as shown on 
+the patient's Medicare card.  This is a required field. 
+ 
+Item 3 - Enter the patient's 8-digit birth date (MM | DD | CCYY) and sex. 
+ 
+Item 4 - If there is insurance primary to Medicare, either through the patient's or spouse's 
+employment or any other source, list the name of the insured here.  When the insured and 
+the patient are the same, enter the word SAME.  If Medicare is primary, leave blank. 
+ 
+Item 5 - Enter the patient's mailing address and telephone number.  On the first line enter 
+the street address; the second line, the city and state; the third line, the ZIP code and 
+phone number. 
+ 
+Item 6 - Check the appropriate box for patient's relationship to insured when item 4 is 
+completed.

@@ -1,0 +1,57 @@
+Generic Part A Reason Codes and Statements 
+Updated July 6, 2021  
+ 
+1 
+ 
+Reason 
+Code Duplicates 
+GAA01 
+This is a duplicate of a line item service already submitted.  Refer to Internet-
+Only Manual, Pub 100-04, Medicare Claims Processing Manual, Chapter 1, 
+Section 120-120.3 
+GAA02 
+This is a duplicate of a previously submitted claim.  Refer to Internet-Only 
+Manual, Pub 100-04, Medicare Claims Processing Manual, Chapter 1, Section 
+120-120.3 
+    
+Reason 
+Code Insufficient Documentation 
+GAI01 
+Provider did not submit all records requested. Refer to Social Security Act  
+ 1833(e); 42 CFR 424.5(a)(6); Medicare Program Integrity Manual IOM 100-
+08, Chapter 3, Section 3.2.3.8C 
+GAI02 
+Provider did not submit additional records requested.  Refer to Internet-Only 
+Manual, Pub 100-08, Medicare Program Integrity Manual, Chapter 3, Section 
+3.2.3.8 B/C, 42 CFR 424.5(a)(6), Social Security Act 1833(e) 
+GAI03 
+Incomplete/Insufficient information. Refer to Internet-Only Manual, Pub 100-
+08, Medicare Program Integrity Manual, Chapter 3, Section 3.2.3.8 C, Social 
+Security Act 1833(e), 42 CFR 424.5(a)(6) 
+GAI04 
+The documentation submitted did not support the service(s) billed as being 
+rendered. Refer to Internet-Only Manual, Pub 100-08, Medicare Program 
+Integrity Manual, Chapter 3, Section 3.6.2.5, A  
+GAI05 
+The documentation submitted did not include a signed physician order or 
+documentation to support intent to order. Refer to Internet-Only Manual, Pub 
+100-08, Medicare Program Integrity Manual, Chapter 3, Section 3.6.2.2; 
+Social Security Act Section 1842(p)(4), IOM, Pub 100-08, Chapter 3, Sec 
+3.3.2.4; 42 CFR 410 
+GAI06 
+The documentation submitted did not contain an order that was sufficiently 
+specific to support the service. Refer to Internet-Only Manual, Pub 100-08, 
+Medicare Program Integrity Manual, Chapter 3, Section 3.6.2.2 Social 
+Security Act 1862(a)(1)(A). 
+GAI07 
+The documentation submitted did not support signature requirements were 
+met. Refer to: Medicare Program Integrity Manual IOM 100-08, Chapter 3, 
+Sec 3.3.2.4 
+GAI08 The documentation submitted was illegible.  Refer to Internet Only-Manual, 
+Pub 100-08, Medicare Program Integrity Manual, Chapter 3, Section 3.3.2.1 
+GAI09 
+The documentation submitted was for the incorrect service. Refer to Internet-
+Only Manual, Pub 100-08, Medicare Program Integrity Manual, Chapter 3, 
+Section 3.6.2.2 
+GAI10 The submitted documentation was for the incorrect beneficiary. Refer to 
+Medicare Program Integrity Manual IOM 100-08, Chapter 3, Sec 3.6.2.2.

@@ -1,0 +1,35 @@
+Rev # Issue Date Subject Impl Date CR# 
+R980CP 06/14/2006 Changes Conforming to CR 3648 
+Instructions for Therapy Services - Replaces 
+Rev. 941 
+10/02/2006 4014 
+R941CP 05/05/2006 Changes Conforming to CR 3648 
+Instructions for Therapy Services 
+10/02/2006 4014 
+R899CP 03/31/2006 Revised Heath Insurance Claim Form CMS-
+1500 
+10/02/2006 4293 
+R870CP 02/24/2006 Type of Service (TOS) Corrections 04/03/2006 4322 
+R735CP 10/31/2005 Processing All Diagnosis Codes Reported 
+on Claims Submitted to Carriers 
+04/03/2006 4097 
+R727CP 10/28/2005 Annual Type of Service (TOS) 01/03/2006 4145 
+R549CP 04/29/2005 Update to the Place of Service (POS) Code 
+Set to Add a Code for Pharmacy 
+10/03/2005 3819 
+R511CP 03/28/2005 Type of Service (TOS) Corrections 04/18/2005 3788 
+R506CP 03/18/2005 Updated Manual Instructions for Item 24G 
+(Days or Units) 
+07/01/2005 3753 
+R476CP 02/18/2005 Type of Service (TOS) Corrections 04/04/2005 3717 
+R400CP 12/16/2004 Incorrect Reporting of MTUS Indicator 
+When Drugs are Billed Using an NDC Code 
+04/04/2005 3435 
+R359CP 11/04/2004 2005 Annual Type of Service (TOS)  01/03/2005 3519 
+R349CP 10/29/2004 2005 Annual Type of Service (TOS)  01/03/2005 3519 
+R335CP 10/29/2004 Correction of Reporting of MTUS Indicator 
+When Drugs are Billed Using an NDC Code 
+– Rescinded and replaced by Transmittal 
+400 
+04/04/2005 3435 
+R317CP 10/22/2004 Clarification to Chapter 26 N/A 3431

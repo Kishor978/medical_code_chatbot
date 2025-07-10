@@ -1,0 +1,52 @@
+LINE FIELD LITERAL 
+FIELD 
+TYPE* BYTES 
+COL-
+UMNS 
+17 9b Sex-Male M 1 18 
+17 9b Sex-Female M 1 24 
+17 10b Condition Related To: (Auto Accident-
+Yes) 
+M 1 35 
+17 10b Condition Related To: (Auto Accident-
+No) 
+M 1 41 
+17 10b Condition Related To: (Auto Accident-
+State) 
+A 2 45-46 
+17 11b Insured's Employer's Name or School 
+Name 
+A/N 29 50-78 
+19 9c Other Insured's Employer's Name or 
+School 
+A/N 28 01-28 
+19 10c Other Accident (Yes) M 1 35 
+19 10c Other Accident (No) M 1 41 
+19 11c Insured's Insurance Plan or PayerID A/N 29 50-78 
+21 9d Other Insured’s Plan Name or Payer 
+ID 
+A/N 28 01-28 
+21 10d (Reserved for Local Use) A/N 19 30-48 
+21 11d Another Benefit Health Plan (Yes) M 1 52 
+21 11d Another Benefit Health Plan (No) M 1 57 
+25 12 Left Blank for Patient's Signature & Date    
+25 13 Left Blank for Insured's Signature    
+27 14 Date of Current Illness, Injury, 
+Pregnancy (Month) 
+N 2 02-03 
+27 14 Date of Current Illness, Injury, 
+Pregnancy (Day)  
+N 2 05-06 
+27 14 Date of Current Illness, Injury, 
+Pregnancy - (Year) 
+N 4 08-11 
+27 15 First Date Has Had Same or Similar 
+Illness (Month) 
+N 2 37-38 
+* M = mark (X), A = alpha, N = numeric 
+27 15 First Date Has Had Same or Similar 
+Illness (Day) 
+N 2 40-41 
+27 15 First Date Has Had Same or Similar 
+Illness - (Year) 
+N 4 43-46

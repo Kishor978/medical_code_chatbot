@@ -1,0 +1,42 @@
+Full Description 
+(In Order Of 
+Appearance) 
+SPR ID SPR Field Size 
+Characteristics 
+835 Location 
+data element 
+ 
+Reason code 
+(4 occurrences) 
+RC AN 05 2-020-CAS02, 05,08 and 11 
+ 
+Remark code 
+(4 occurrences) 
+REM AN 05 Inpatient: 2-033-MIA -05, 20, 21, 
+22, Outpatient: 2-035- MOA03, 
+04, 05, 06 
+ 
+DRG # as written N 9(3) 2-010-CLP1 1 
+ 
+Outlier code OUTCD AN 02 2-062-AMT01 if 'ZZ' 
+ 
+Capital code CAPCD AN 01 2-033-MIA08 
+ 
+Professional 
+component 
+PROF COMP N S9(7).99 Total of amounts in 2-020 or 2-
+090, CAS03, 06, 09, 12, 15 or 18 
+when '89' in prior data element 
+ 
+DRG operating and 
+capital amount 
+DRG AMT N S9(7).99 2-033-MIA04 
+ 
+DRG outlier amount DRG OUT AMT N S9(7).99 2-062-AMT02 when 'ZZ' in prior 
+data element 
+ 
+MSP primary amount MSP PAYMT N S9(7).99 2-062-AMT02 when 'NJ' in prior 
+data element 
+ 
+ 
+61

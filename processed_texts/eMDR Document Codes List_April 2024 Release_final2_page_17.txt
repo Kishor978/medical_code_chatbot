@@ -1,0 +1,61 @@
+eMDR Document Codes List (April 2024 Release) 
+Page 17 of 27 
+ 
+Document 
+Code 
+Document Description Action Release 
+100338 Documentation that support a fire, flood, earthquake, or 
+other unusual event that caused extensive damage to an 
+agency’s ability to operate 
+Modified Apr 
+2024 
+100339 Documentation of an event that produced a CMS or 
+CGS data filing problem which was beyond the 
+agencies control 
+    
+100340 Documentation to support an agency was newly 
+certified and received notification after the Medicare 
+effective date and may include the tie-in notice from 
+CMS 
+    
+100341 Documentation to support retroactive Medicare which 
+must include: Proof of retroactive Medicare entitlement, 
+Certification of Terminal illness that meets the criteria 
+set forth in the Medicare Benefits policy manual chapter 
+9 section 20.1, and Hospice election statement that 
+meets the criteria set forth in the Medicare Benefits 
+policy manual chapter 9 section 20.2.1 
+    
+100342 Documentation to support any other circumstance that 
+the agency feels was beyond their control. This may 
+include, but is not limited to, documentation showing a 
+prior hospice’s submission of an untimely notice of 
+termination/revocation or sequential billing issues 
+which required an agency to remove a timely filed 
+NOE/Claims to allow a previous hospice to bill 
+Modified Apr 
+2024 
+100343 Documentation in support of the hospice exception 
+request for filing the NOE more than 5 calendar days 
+after the hospice admission date 
+    
+100344 WPATH criteria-specifically which criteria and how it 
+was met 
+    
+100345 Documentation of hormone or other medication 
+regimen 
+    
+100346 Documentation to support that the service provided was 
+medically necessary and not cosmetic 
+    
+100347 Documentation to clearly identify the unlisted 
+procedure/medication 
+    
+100348 Invoice showing amount you paid for the implantable 
+device/DME 
+    
+100349 Clearly marked documentation to support the 
+beneficiary received the items invoiced 
+    
+100350 Observation greater than 48 hours         
+100351 An itemized medical supply list if supplies are billed

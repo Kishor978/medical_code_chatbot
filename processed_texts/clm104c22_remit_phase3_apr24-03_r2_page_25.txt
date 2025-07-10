@@ -1,0 +1,36 @@
+MIA16  Situational, but required for Medicare if PPS operating FSP DRG amount  
+ paid.  Mapped to ff record 42, field 28. 
+MIA17  Situational, but required for Medicare if PPS outlier amount paid.  
+Mapped to ff record 42, field 29. 
+MIA18  Situational, but required for Medicare if indirect teaching amount paid.  
+ Mapped to ff record 42, field 30. 
+MIA19  Situational, but required for Medicare if professional component amount 
+ billed but not payable by this provider.  Mapped to ff record 42, field 31. 
+MIA20  Situational but required for Medicare if a second claim level remark code 
+applies.  Mapped to ff record 42, field 32. 
+MIA21  Situational but required for Medicare if a third claim level remark code  
+ applies.  Mapped to ff record 42, field 33. 
+MIA22  Situational but required for Medicare if a fourth claim level remark code  
+ applies.  Mapped to ff record 42, field 34. 
+MIA23  Situational but required for Medicare if a fifth claim level remark code  
+ applies.  Mapped to ff record 42, field 35. 
+MIA24  Situational but required for Medicare if a PPS capital exception amount  
+ paid.  Mapped to ff record 42, field 36. 
+MOA  Situational, but required for Medicare intermediaries if there has been 
+ other than inpatient care and at least one claim level remark code applies 
+ for that noninpatient care. 
+MOA01  Situational, but required for Medicare if reimbursement rate reporting  
+ applies.  Mapped to ff record 43, field 13. 
+MOA02  Situational, but required for Medicare if any line items paid on a fee 
+schedule basis.  Mapped to ff record 43, field 14. 
+MOA03  Situational, but required for Medicare if at least one claim level remark  
+ code applies.  Mapped to ff record 43, field 15. 
+MOA04  Situational, but required for Medicare if a second claim level remark code 
+applies.  Mapped to ff record 43, field 16. 
+MOA05  Situational, but required for Medicare if a third claim level remark code 
+ applies.  Mapped to ff record 43, field 17. 
+MOA06  Situational, but required for Medicare if a fourth claim level remark code 
+ applies.  Mapped to ff record 43, field 18. 
+MOA07  Situational, but required for Medicare if a fifth claim level remark code 
+ applies.  Mapped to ff record 43, field 19. 
+ 25

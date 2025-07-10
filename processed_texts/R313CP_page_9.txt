@@ -1,0 +1,63 @@
+New reason codes (D16-D20) were added at the request of a group of health care industry 
+professionals who identified some situations, that happen frequently, where there is no current 
+reason code available. For these situations, remark codes are available, but commercial payers may 
+not use the available remark codes. The suggestion was to create a few “temporary” reason codes 
+that would be deactivated in the next version, and could be used in lieu of remark codes. Payers 
+currently using the appropriate combination of reason and remark codes, do not have to switch and 
+start using the new reason codes. Medicare will continue using the combination of reason and 
+appropriate remark code as is currently done, and not use the new temporary reason codes.   
+ 
+B. Policy:  For transactions 835 (Health Care Claim Payment/Advice), 837 COB, and standard 
+paper remittance advice, there are two code sets – reason and remark code sets – that must be used 
+to report payment adjustments, appeal rights, and related information.  These code sets are updated 
+on a regular basis.  Medicare contractors must use only currently valid codes, and make the 
+necessary changes on a regular basis as per this recurring code update CR or the specific CR that 
+describes the change in policy that resulted in the code change. 
+ 
+C. Provider Education:
+ 
+A Medlearn Matters provider education article related to this instruction will be available at 
+www.cms.hhs.gov/medlearn/matters shortly after the CR is released.  You will receive notification 
+of the article release via the established "medlearn matters" listserv.  Contractors shall post this 
+article, or a direct link to this article, on their Web site and include information about it in a listserv 
+message within one week of the availability of the provider education article.  In addition, the 
+provider education article must be included in your next regularly scheduled bulletin.  Contractors 
+are free to supplement Medlearn Matters articles with localized information that would benefit 
+their provider community in billing and administering the Medicare program correctly. 
+ 
+II. BUSINESS REQUIREMENTS  
+ 
+“Shall" denotes a mandatory requirement 
+"Should" denotes an optional requirement 
+ 
+   
+Shared System 
+Maintainers FISS 
+MCS 
+VMS 
+CWF 
+  
+FI 
+RHHI 
+Carrier 
+DMERC 
+F 
+I 
+S
+S 
+M
+C
+S 
+V
+M
+S 
+C
+W
+F 
+Other 
+3466.1 Intermediaries/RHHIs/Carriers/DMERCs and 
+VMS shall replace the modified remark codes 
+applicable to Medicare by January 3, 2005. 
+ 
+ 
+X X X X   X

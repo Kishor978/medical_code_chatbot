@@ -1,0 +1,55 @@
+Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) Reason Codes and 
+Statements  
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         3 
+ 
+PMD3E 
+The face-to-face examination does not demonstrate the beneficiary is able to 
+operate the tiller steering system of the power operated vehicle. Refer to Local 
+Coverage Determination 33789 Policy Article A52498. 
+PMD3F 
+The face-to-face examination does not demonstrate the beneficiary is able to 
+maintain postural stability and position while operating the power operated vehicle. 
+Refer to Local Coverage Determination 33789. 
+PMD3G 
+The face-to-face examination identifies a physical deficit that may prevent the safe use 
+of the power mobility device. Refer to Local Coverage Determination 33789 Policy 
+Article A52498. 
+PMD3H 
+The beneficiary's weight does not meet the weight capacity for the power mobility 
+device requested. Refer to Local Coverage Determination 33789 Policy Article 
+A52498. 
+PMD3I 
+The face-to-face examination does not demonstrate the use of the power mobility 
+device will significantly improve the beneficiary's ability to participate in mobility 
+related activities of daily living (MRADLs). Refer to Local Coverage Determination 
+33789 Policy Article A52498. 
+PMD3J 
+The face-to-face examination demonstrates the beneficiary expressed an 
+unwillingness to use the power mobility device in the home. Refer to Local Coverage 
+Determination 33789 Policy Article A52498. 
+PMD3K 
+The face-to-face examination does not demonstrate the beneficiary has the mental 
+capability to safely operate the power mobility device. Refer to Local Coverage 
+Determination 33789 Policy Article A52498. 
+PMD3L 
+The face-to-face examination does not demonstrate a caregiver is unable to 
+adequately propel an optimally configured manual wheelchair. Refer to Local 
+Coverage Determination 33789 Policy Article A52498. 
+PMD3M 
+The face to face examination does not demonstrate the caregiver is available, 
+willing and able to safely operate the power mobility device requested. Refer to Local 
+Coverage Determination 33789 Policy Article A52498. 
+PMD3N 
+The face-to-face examination does not demonstrate the use of a power operated vehicle 
+has been excluded. Refer to Local Coverage Determination 33789 Policy Article 
+A52498. 
+PMD3S 
+The documentation does not demonstrate the beneficiary uses a ventilator which is 
+mounted on the power mobility device. Refer to Local Coverage Determination 33789 
+Policy Article A52498. 
+PMD3T 
+The documentation does not demonstrate the beneficiary's mobility limitations are due 
+to a neurological condition, myopathy, or congenital skeletal deformity. Refer to Local 
+Coverage Determination 33789 Policy Article A52498.

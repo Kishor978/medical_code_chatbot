@@ -1,0 +1,51 @@
+Home Health Services Pre-Claim Review Reason Codes and Statements 
+Updated July 6, 2021 
+ 
+4 
+ 
+HH06J Occupational therapy visits cannot be allowed without a qualifying service. Refer to CMS 
+IOM Publication 100.02 Chapter 7 Section 30.4 and 42 CFR 409.45(a) & (d). 
+HH06K 
+Documentation of the occupational therapy plan of care/orders does not include specific 
+goals that are measurable. Refer to CMS IOM Publication 100-02, Chapter 7, Section 
+40.2.1 & Section 40.2.4, and 42CFR 409.44(c)(1). 
+HH06L 
+The documentation submitted did not show that the occupational therapy services were 
+reasonable and necessary and at a level of complexity which requires the skills of a 
+qualified occupational therapist.   Refer to CMS IOM Publication 100-02, Chapter 7, 
+Section 40.2.1, Section 40.2.4 and 42CFR 409.44(c)(2). 
+HH06M 
+An order for skilled nursing services is invalid because it does not contain either the type 
+of services to be provided, the professional who will provide the services, or the frequency 
+of the services. Refer to CMS IOM Publication 100-02, Chapter 7, Section 30.2.2 and 42 
+CFR 409.43(b).  
+HH06N 
+An order for physical therapy services is invalid because it does not contain either the type 
+of services to be provided, the professional who will provide the services or the frequency 
+of the services. Refer to CMS IOM Publication 100-02, Chapter 7, Section 30.2.2 and 42 
+CFR 409.43(b). 
+HH06O 
+An order for speech language pathology services is invalid because it does not contain 
+either the type of services to be provided, the professional who will provide the services or 
+the frequency of the services. Refer to CMS IOM Publication 100-02, Chapter 7, Section 
+30.2.2 and 42 CFR 409.43(b). 
+HH06P 
+An order for occupational therapy services is invalid because it does not contain either the 
+type of services to be provided, the professional who will provide the services or the 
+frequency of the services. Refer to CMS IOM Publication 100-02, Chapter 7, Section 
+30.2.2 and 42 CFR 409.43(b). 
+  
+Reason 
+Code Dependent Services 
+HH07A The documentation is missing an order for the social worker services. Refer to CMS IOM 
+Publication 100-02, Chapter 7, Section 30.2.2 and 42 CFR 409.43(b). 
+HH07B Social worker services cannot be allowed without a qualifying service. Refer to CMS IOM 
+Publication 100-02, Chapter 7, Section 30, 30.2.10 and 42 CFR 409.45(a) & (c). 
+HH07C 
+Documentation submitted does not support social worker services are reasonable and 
+necessary. Refer to CMS IOM Publication 100-02, Chapter 7, Section 50.3 and 42CFR 
+409.45(c). 
+HH07D The documentation is missing an order for the Home Health Aide Services. Refer to CMS 
+IOM Publication 100-02, Chapter 7, Section 30.2.2 and 42 CFR 409.43(b). 
+HH07E Home Health Aide services cannot be allowed without a qualifying service. Refer to CMS 
+IOM Publication 100-02, Chapter 7, Section 30, 30.2.10 and 42 CFR 409.45(a) & (b).

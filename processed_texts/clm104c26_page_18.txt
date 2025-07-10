@@ -1,0 +1,46 @@
+Item 24J - Enter the rendering provider’s NPI number in the lower unshaded portion.  In 
+the case of a service provided incident to the service of a physician or non-physician 
+practitioner, when the person who ordered the service is not supervising, enter the NPI of 
+the supervisor in the lower unshaded portion. 
+ 
+This unprocessable instruction does not apply to influenza virus and pneumococcal 
+vaccine claims submitted on roster bills as they do not require a rendering provider NPI. 
+ 
+NOTE:  Effective May 23, 2008, the shaded portion of 24J is not to be reported. 
+ 
+Item 25 - Enter the provider of service or supplier Federal Tax ID (Employer 
+Identification Number or Social Security Number) and check the appropriate check box. 
+Medicare providers are not required to complete this item for crossover purposes since 
+the Medicare contractor will retrieve the tax identification information from their internal 
+provider file for inclusion on the COB outbound claim.  However, tax identification 
+information is used in the determination of accurate National Provider Identifier 
+reimbursement.  Reimbursement of claims submitted without tax identification 
+information will/may be delayed. 
+ 
+Item 26 - Enter the patient's account number assigned by the provider's of service or 
+supplier's accounting system.  This field is optional to assist the provider in patient 
+identification.  As a service, any account numbers entered here will be returned to the 
+provider. 
+ 
+Item 27 - Check the appropriate block to indicate whether the provider of service or 
+supplier accepts assignment of Medicare benefits.  If Medigap is indicated in item 9 and 
+Medigap payment authorization is given in item 13, the provider of service or supplier 
+shall also be a Medicare participating provider of service or supplier and accept 
+assignment of Medicare benefits for all covered charges for all patients. 
+ 
+The following providers of service/suppliers and claims can only be paid on an 
+assignment basis: 
+ 
+• Clinical diagnostic laboratory services; 
+ 
+• Physician services to individuals dually entitled to Medicare and Medicaid; 
+ 
+• Participating physician/supplier services; 
+ 
+• Services of physician assistants, nurse practitioners, clinical nurse specialists, 
+nurse midwives, certified registered nurse anesthetists, clinical psychologists, and 
+clinical social workers; 
+ 
+• Ambulatory surgical center services for covered ASC procedures; 
+ 
+• Home dialysis supplies and equipment paid under Method II;

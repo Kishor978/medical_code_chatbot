@@ -1,0 +1,46 @@
+10 - Health Insurance Claim Form CMS-1500 
+(Rev. 3083, Issued:  10-02-14, Effective:  CMS-1500:  01-06-14, ICD-10 - Upon 
+Implementation of ICD-10, Implementation:  CMS-1500:  01-06-14, ICD-10 - Upon 
+Implementation of ICD-10) 
+ 
+The Administrative Simplification Compliance Act (ASCA) requires that Medicare 
+claims be sent electronically unless certain exceptions are met.  Providers meeting an 
+ASCA exception may send their claims to Medicare on a paper claim form.  (For more 
+information regarding ASCA exceptions, refer to Chapter 24.) 
+ 
+Providers sending professional and supplier claims to Medicare on paper must use Form 
+CMS-1500 in a valid version.  This form is maintained by the National Uniform Claim 
+Committee (NUCC), an industry organization in which CMS participates.  Any new 
+version of the form must be approved by the White House Office of Management and 
+Budget (OMB) before it can be used for submitting Medicare claims.  When the NUCC 
+changes the form, CMS coordinates its review, any changes, and approval with the OMB. 
+ 
+The NUCC has recently changed the Form CMS-1500, and the revised form received 
+OMB approval on June 10, 2013.  The revised form is version 02/12, OMB control 
+number 0938-1197. 
+ 
+The revised form will replace the previous version of the form 08/05, OMB control 
+number 0938-0999.  
+ 
+Throughout this chapter, the terms, “Form CMS-1500,” “Form 1500,” and “CMS-1500 
+claim form” may be used to describe this form depending upon the context and version.  
+The term, “CMS-1500 claim form” refers to the form generically, independent of a given 
+version. 
+ 
+Medicare will conduct a dual-use period during which providers can send Medicare 
+claims on either the old or the revised forms.  When the dual-use period is over, Medicare 
+will accept paper claims on only the revised Form 1500, version 02/12. 
+ 
+For the implementation and dual-use dates, contractors shall consult the appropriate 
+implementation change requests for the revised Form 1500.  Providers and other 
+interested parties may obtain the implementation dates on the CMS web site @ 
+www.cms.gov. 
+ 
+Reminder:  Regardless of the paper claim form version in effect:  Providers cannot 
+submit ICD-10-CM codes for claims with dates of service prior to implementation of 
+ICD-10. 
+ 
+Medicare A/B MACS (B), DME MACS, physicians, and suppliers are responsible for 
+purchasing their own CMS-1500 claim forms.  Forms can be obtained from printers or 
+printed in-house as long as they follow the specifications developed by the NUCC.  
+Photocopies of the CMS-1500 claim form are NOT acceptable.  Medicare will accept any

@@ -1,0 +1,29 @@
+REF01  Required.  Always enter ”EV.” TG 
+REF02  Required.  Must correspond to entry in ISA08.  Mapped to ff record 1, 
+field 2. 
+REF03-04  Not used. 
+REF (060.B)  Situational, but does not apply to Medicare intermediaries. 
+DTM (070)  Situational, but required for Medicare if the date of the 835 is different 
+than the cutoff  date for the adjudication action that generated the 835. 
+DTM01  Required.  Mapped to ff record 1, field 32. 
+DTM02  Required.  Mapped to ff record 1, field 33. 
+DTM03-06  Not used. 
+N1 (080.A)  Required for payer identification. 
+N101  Required.  Mapped to ff record 10, field 13. 
+N102  Situational, but required for Medicare.  Mapped to ff record 10, field 14. 
+N103  Situational.  Always enter “XV” in this loop when the PlanID is effective, 
+but not used prior to that date.  Mapped to ff record 10, field 15. 
+N104  Situational, but required once the PlanID is effective.  Mapped to ff record 
+10, field 16. 
+N105-106  Not used. 
+N3 (100)  Required for payer identification. 
+N301  Required.  Mapped to ff record 10, field 17. 
+N302  Situational in the 835, but required by Medicare if there is more than 1 
+address line for the payer, such as for a suite number.  Mapped to ff record 
+10, field 18. 
+N4 (110)  Required for payer identification. 
+N401  Required.  Mapped to ff record 10, field 19. 
+N402  Required.  Mapped to ff record 10, field 20. 
+N403  Required.  Mapped to ff record 10, field 21. 
+N404-406  Not used. 
+ 14

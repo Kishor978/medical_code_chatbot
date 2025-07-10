@@ -1,0 +1,53 @@
+Home Oxygen Therapy Reason Codes and Statements  
+August 18, 2023 
+ 
+2 
+ 
+Reason 
+Code GROUP IV 
+OX300 
+The medical record documentation supports the beneficiary has angina pectoris in the 
+absence of hypoxemia. Refer to National Coverage Determination 240.2 & Local 
+Coverage Determination L33797. 
+OX301 
+The medical record documentation supports the beneficiary has dyspnea without cor 
+pulmonale or evidence of hypoxemia. Refer to National Coverage Determination 240.2 
+& Local Coverage Determination L33797. 
+OX302 
+The medical record documentation supports the beneficiary has severe peripheral 
+vascular disease resulting in clinically evident desaturation in one or more extremities 
+but in the absence of systemic hypoxemia. Refer to National Coverage Determination 
+240.2 & Local Coverage Determination L33797. 
+OX303 
+The medical record documentation supports the beneficiary has a terminal illness that 
+does not affect the ability to breathe. Refer to National Coverage Determination 240.2 
+& Local Coverage Determination L33797. 
+ 
+Reason 
+Code BLOOD GAS STUDY / HOME SLEEP TEST 
+OX400 
+The medical record documentation does not include a blood gas study. Refer the 
+National Coverage Determination 240.2, Local Coverage Determination L33797, & 
+Policy Article A52514. 
+OX401 
+The medical record documentation does not support the blood gas study was 
+performed while the beneficiary was on 4 or more liters of oxygen per minute. Refer to 
+Local Coverage Determination L33797 & Policy Article A52514. 
+OX402 
+The medical record documentation does not support the blood gas study was obtained 
+within two days of discharge from an inpatient hospital stay. Refer to National 
+Coverage Determination 240.2 & Local Coverage Determination L33797. 
+OX403 
+The medical record documentation does not contain a qualifying blood gas study 
+performed at rest (awake) or during exercise to support a portable oxygen system. 
+Refer to National Coverage Determination 240.2 & Local Coverage Determination 
+L33797. 
+OX404 
+The medical record documentation does not indicate the qualifying blood gas study 
+was performed in-person by a treating practitioner or other medical professional 
+qualified to conduct exercise oximetry testing. Refer to National Coverage 
+Determination 240.2 & Local Coverage Determination L33797. 
+OX405 
+The medical record documentation does not support a valid blood gas study obtained 
+during exercise. Refer National Coverage Determination 240.2 & Local Coverage 
+Determination L33797.

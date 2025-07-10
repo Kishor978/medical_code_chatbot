@@ -1,0 +1,29 @@
+BPR  Required. 
+BPR01  Required.  Codes U and X do not apply to Medicare. 
+BPR02  Required. 
+BPR03  Required.  Code D does not apply to Medicare. 
+BPR04  Required.  Codes BOP and FWT do not apply to Medicare. 
+BPR05  Situational, but required for Medicare if ACH is entered in BPR04. 
+BPR06  Situational, but required for Medicare if ACH in BPR04.  Code 04 does 
+not apply to Medicare. 
+BPR07  Situational, but required for Medicare if ACH in BPR04. 
+BPR08  Situational, but required for Medicare if ACH in BPR04. 
+BPR09  Situational, but required for Medicare if ACH in BPR04. 
+BPR10  Situational, but required for Medicare if ACH in BPR04. 
+BPR11  Situational, but does not apply to Medicare and should not be reported. 
+BPR12  Situational, but required for Medicare if ACH in BPR04.  Code 04 does 
+not apply to Medicare. 
+BPR13  Situational, but required for Medicare if ACH in BPR04. 
+BPR14  Situational, but required for Medicare if ACH in BPR04. 
+BPR15  Situational, but required if ACH in BPR04. 
+BPR16  Required. 
+BPR17-21  Not used. 
+TRN01  Required. 
+TRN02  Required. 
+TRN03  Required. 
+TRN04  Situational, but does not apply to Medicare. 
+CUR  Situational, but does not apply to Medicare. 
+REF (060.A)  Situational, but required for Medicare if the 835 is being sent to any entity 
+other than the provider. 
+REF01  Required. 
+ 34

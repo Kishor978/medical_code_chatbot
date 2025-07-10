@@ -1,0 +1,50 @@
+Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) Reason Codes and 
+Statements  
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         13 
+ 
+LLP24 
+The medical record documentation does not demonstrate the beneficiary has a K4 
+functional level for the high activity knee control frame (L5930).  Refer to Local 
+Coverage Determination L33787. 
+LLP25 
+The medical record documentation does not demonstrate a functional level of two or 
+above for payment of an axial rotation unit (L5982-L5986).  Refer to Local Coverage 
+Determination L33787. 
+LLP26 
+The medical record documentation does not demonstrate a functional level of three or 
+above for payment of a pneumatic or hydraulic polycentric hip joint (L5961).  Refer to 
+Local Coverage Determination L33787. 
+LLP27 The medical record documentation does not justify the need for more than two test 
+(diagnostic) sockets (L5618-L5628).  Refer to Local Coverage Determination L33787. 
+LLP28 A test socket is not reasonable and necessary for an immediate prosthesis (L5400 – 
+L5460).  Refer to Local Coverage Determination L33787. 
+LLP29 
+No more than two of the same socket inserts (L5654 – L5665, L5673, L5679, L5681, 
+L5683) are allowed per individual prosthesis at the same time.  Refer to Local 
+Coverage Determination L33787. 
+LLP30 A prosthetic donning sleeve (L7600) will be denied as non-covered.  Refer to Local 
+Coverage Article A52496. 
+LLP31 Code L7520 must not be billed for labor time involved in the replacement of parts that 
+are billed with a specific HCPCS code.  Refer to Local Coverage Article A52496. 
+LLP32 Foot covers are included in the codes for a prosthetic foot component and are not 
+separately payable.  Refer to Local Coverage Article A52496. 
+LLP33 
+The beneficiary’s potential functional level is zero (0), therefore the prosthesis will be 
+denied as not reasonable and necessary.   Refer to Local Coverage Determination 
+L33787. 
+LLP34 A pneumatic or hydraulic polycentric hip joint (L5961) is covered for beneficiaries 
+whose functional level is 3 or above.  Refer to Local Coverage Determination L33787. 
+LLP35 
+Codes L5681 and L5683 are for use only with the initial issue of a custom fabricated 
+socket insert. Additional inserts (either custom fabricated or prefabricated) provided at 
+the time of initial issue or replacement socket inserts are coded L5673 and L5679.  
+Refer to Local Coverage Article A52496. 
+LLP36 
+Codes L5647 and L5652 describe a modification to a prosthetic socket that 
+incorporates a suction valve in the design. The items described by these codes are not 
+components of a suspension locking mechanism (L5671).  Refer to Local Coverage 
+Article A52496. 
+LLP37 Code L7700 is not to be used to bill for gaskets, seals, or other sealing materials that 
+are included as part of an insert. L7700-(GASKET OR SEAL, FOR USE WITH

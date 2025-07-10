@@ -1,0 +1,60 @@
+6
+N100 PPS (Prospect Payment System) code corrected during 
+adjudication. 
+ 
+(Modified 6/30/03) 
+N103 Social Security reco rds indicate that this patient was a prisoner 
+when the service was rendered.  This payer does not cover items 
+and services furnished to an individual while they are in State or 
+local custody under a penal authority, unless under State or local 
+law, the individual is personally liable for the cost of his or her 
+health care while incarcerated and the State or local government 
+pursues such debt in the same way and with the same vigor as any 
+other debt. 
+ 
+(Modified 6/30/03) 
+N106 Payment for services furnished to skilled nursing facility (SNF) 
+inpatients (except for excluded services) can only be made to the 
+SNF.  You must request payment from the SNF rather than the 
+patient for this service. 
+ 
+(Modified 6/30/03) 
+N107 Services furnished to skilled nursing facility (SNF) inpatients 
+must be billed on the inpatient claim. They cannot be billed 
+separately as outpatient services. 
+ 
+(Modified 6/30/03) 
+N113 Only one initial visit is cove red per physician, group practice or 
+provider. 
+ 
+(Modified 6/30/03) 
+N115 This decision was based on a local medical review policy 
+(LMRP).  An LMRP provides a guide to assist in determining 
+whether a particular item or service is covered.  A copy of this 
+policy is available at http://www.cms.hhs.gov/mcd, or if you do 
+not have web access, you may contact the contractor to request a 
+copy of the LMRP. 
+ 
+(Modified 6/30/03) 
+N117 This service is paid only  once in a patient’s lifetime. 
+ 
+(Modified 6/30/03) 
+N119 This service is not paid if billed once every 28 days, and the 
+patient has spent 5 or more consecutive days in any inpatient or 
+skilled nursing facility (SNF) within those 28 days. 
+ 
+(Modified 6/30/03) 
+N120 Payment is subject to home h ealth prospective payment system 
+partial episode payment adjustment. Patient was 
+transferred/discharged/readmitted during payment episode. 
+ 
+(Modified 6/30/03) 
+N121 No coverage for items or services provided by this type of 
+practitioner for patients in a covered skilled nursing facility 
+(SNF) stay. 
+ 
+(Modified 6/30/03) 
+N177 We did not send this claim to pa tient’s other insurer. They have 
+indicated no additional payment can be made. 
+(New Code 2/28/03) 
+(Modified 6/30/03)

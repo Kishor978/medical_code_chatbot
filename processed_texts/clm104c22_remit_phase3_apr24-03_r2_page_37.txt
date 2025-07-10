@@ -1,0 +1,29 @@
+N302  Situational, but required if there is a second payee address line. 
+N4 (100.B)  Situational, but required for Medicare. 
+N401  Required. 
+N402  Required 
+N403  Required. 
+N404  Situational.  Only required if the address is other than the U.  S. 
+N405  Not used. 
+N406  Not used. 
+REF (120.B)  Situational, but required for Medicare. 
+REF01  Required.  Always enter “TJ” in this loop when the NPI is effective.  Prior 
+to that date, use 1C (Medicare provider number) or 1G (UPIN) for 
+Medicare.  0B, 1A, 1B,1D, 1E, 1F, 1H, D3, G2, N5 and PQ do not apply 
+to Medicare. 
+REF02  Required. 
+REF03-04  Not used. 
+Table 2 - Detail Data 
+LX  Situational, but required for Medicare. 
+LX01  Required. 
+TS3  Situational.  Not used by Medicare carriers, only by intermediaries. 
+TS2  Situational.  Not used by Medicare carriers, only by intermediaries. 
+CLP  Required. 
+CLP01  Required. 
+CLP02  Required.  Codes 25 and 27 do not apply to Medicare and are not in the 
+flat file. 
+CLP03  Required. 
+CLP04  Required. 
+CLP05  Situational, but required for Medicare if there is any patient financial 
+responsibility for amounts not paid by Medicare. 
+ 37

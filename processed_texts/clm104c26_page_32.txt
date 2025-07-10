@@ -1,0 +1,46 @@
+in CY 2024 are POS 02 and POS 10. As appropriate, POS 02 or POS 10 may 
+be used and must be paired with the appropriate telehealth modifier (modifier 
+93 for audio-only and modifier 95 for audio/video). The payment rate for 
+POS 02 is the facility payment rate (F); the payment rate for POS 10 is the 
+non-facility rate (NF). Use of audio-only (93) or audio-video (95) does not 
+change rate of payment, only the POS code determines the non-facility or 
+facility payment rate. 
+ 
+• Special Considerations for Homeless Shelter (Code 04) 
+ 
+Note that for the purposes of receiving durable medical equipment 
+(DME), a homeless shelter is considered the beneficiary’s home. 
+Because DME is payable in the beneficiary’s home, the crosswalk 
+for Homeless Shelter (code 04) to Office (code 11) that was 
+mandated effective January 1, 2003, may need to be adjusted or local 
+policy developed so that HCPCS codes for DME are covered when 
+other conditions are met and the beneficiary is in a homeless shelter. 
+If desired, local contractors are permitted to work with their medical 
+directors to determine a new crosswalk such as from Homeless 
+Shelter (code 04) to Home (code 12) or Custodial Care Facility 
+(code 33) for DME provided in a homeless shelter setting. If a local 
+contractor is currently paying claims correctly, however, it is not 
+necessary to change the current crosswalk. 
+ 
+• Special Considerations for Indian Health Service (Codes 05, 06) and 
+Tribal 638 Settings (Codes 07, 08) 
+ 
+Medicare does not currently use the POS codes designated for these settings. 
+Follow the instructions you have received regarding how to process claims for 
+services rendered in IHS and Tribal 638 settings. If you receive claims with 
+these codes, you must initially accept them in terms of HIPAA compliance. 
+However, follow your “return as unprocessable” procedures after this initial 
+compliance check. Follow your “return as unprocessable" procedures when you 
+receive paper claims with these codes. (Note that while these codes became part 
+of the National POS code set effective January 1, 2003, Medicare contractors 
+received instructions regarding how to process claims with these codes effective 
+October 1, 2003, so that Medicare could be HIPAA compliant by October 16, 
+2003). 
+ 
+• Special Considerations for Mobile Unit Settings (Code 15) 
+ 
+When services are furnished in a mobile unit, they are often provided to serve 
+an entity for which another POS code exists. For example, a mobile unit may be 
+sent to a physician’s office or a skilled nursing facility. If the mobile unit is 
+serving an entity for which another POS code already exists, providers should 
+use the POS code for that entity. However, if the mobile unit is not serving an

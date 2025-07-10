@@ -1,0 +1,65 @@
+LINE FIELD LITERAL 
+FIELD 
+TYPE* BYTES 
+COL-
+UMNS 
+27 16 Dates Patient Unable to Work (From 
+Month)
+ 
+ 
+N 2 54-55 
+27 16 Dates Patient Unable to Work (From 
+Day)
+ 
+ 
+N 2 57-58 
+27 16 Dates Patient Unable to Work (From 
+Year)
+ 
+ 
+N 4 60-63 
+27 16 Dates Patient Unable to Work (To 
+Month)
+ 
+ 
+N 2 68-69 
+27 16 Dates Patient Unable to Work (To Day)
+ 
+ 
+N 2 71-72 
+27 16 Dates Patient Unable to Work (To 
+Year)
+ 
+ 
+N 4 74-787 
+28 17a Legacy Qualifier/Provider Number of 
+Referring Physician 
+A/N 19 30-48 
+29 17 Name of Referring Physician or Other 
+Source 
+A 26 01-26 
+29 17b NPI Number of Referring Physician N 17 32-48 
+29 18 Hospitalization Related Current Svcs 
+(From Month) 
+N 2 54-55 
+29 18 Hospitalization Related Current Svcs 
+(From Day) 
+N 2 57-58 
+29 18 Hospitalization Related Current Svcs 
+(From Year) 
+N 4 60-63 
+29 18 Hospitalization Related Current Svcs 
+(To Month) 
+N 2 68-69 
+29 18 Hospitalization Related Current Svcs 
+(To Day) 
+N 2 71-72 
+29 18 Hospitalization Related Current Svcs 
+(To Year) 
+N   
+30 19 Reserved for Local Use A/N 35 14-48 
+31 19 Reserved for Local Use A/N 48 01-48 
+31 20 Outside Lab (Yes) M 1 52 
+* M = mark (X), A = alpha, N = numeric 
+31 20 Outside Lab (No) M 1 57 
+31 20 $ Charges N 8/8 62-78

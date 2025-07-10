@@ -1,0 +1,42 @@
+Rev # Issue Date Subject Impl Date CR# 
+R3547CP 06/22/2016 New Physician Specialty Code for Dentist 07/05/2016 9355 
+R3544CP 06/15/2016 New Physician Specialty Code for Dentist - 
+Rescinded and replaced by Transmittal 
+3547 
+07/05/2016 9355 
+R3490CP 04/01/2016 Medicare Internet Only Manual Publication 
+100-04 Chapter 26 - Completing and 
+Processing Form CMS-1500 Data Set 
+04/25/2016 9344 
+R3484CP 03/25/2016 Medicare Internet Only Manual Publication 
+100-04 Chapter 26 - Completing and 
+Processing Form CMS-1500 Data Set - 
+Rescinded and replaced by Transmittal 
+3490 
+04/25/2016 9344 
+R3447CP 01/29/2016 New Physician Specialty Code for Dentist – 
+Rescinded and replaced by Transmittal 
+3544 
+07/05/2016 9355 
+R3315CP 08/06/2015 New and Revised Place of Service Codes 
+(POS) for Outpatient Hospital 
+01/04/2016 9231 
+R3255CP 05/08/2015 Correction to the Multi-Carrier System 
+(MCS) Editing on the Service Location 
+National Provider Identifier (NPI) Reported 
+for Anti-Markup and Reference Laboratory 
+Claims 
+10/05/2015 9150 
+R3177CP 01/30/2015 Updating CMS IOM 100-04, Chapter 26 
+with Specialty Code B1 
+03/02/2015 9001 
+R3103CP 11/03/2014 Reporting the Service Location National 
+Provider Identifier (NPI) on Anti-Markup 
+and Reference Laboratory Claims 
+04/06/2015 8806 
+R3098CP 10/21/2014 Reporting the Service Location National 
+Provider Identifier (NPI) on Anti-Markup 
+and Reference Laboratory Claims – 
+Rescinded and replaced by Transmittal 
+3103 
+04/05/2014 8806

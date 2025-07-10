@@ -1,0 +1,37 @@
+CLP12  Situational, but required for Medicare if DRG payment made.  Mapped to 
+ff record 30, field 21. 
+CLP13  Situational, but required for Medicare if discharge fraction was a factor in 
+payment to an institution.  Mapped to ff record 30, field 22. 
+CAS (020)  Situational.  May only be used if there are claim level adjustments.  
+Adjustments reported at the service level may not be reported again, 
+individually or in total, at the claim level.  Unlike prior 835 versions, 
+version 4010 does not require entry of an OA 93 message in a claim level 
+CAS when there are no claim level adjustments.  Payers, including 
+Medicare, are prohibited from use of any reason code that is not valid 
+for use with version 4010 in the official reason code compendium 
+maintained at http://www.wpc-edi.com/.  This list is updated 3 times a 
+year in the months following the X12 meetings – in March, July and 
+November.  See the service level CAS segment for more information on 
+Medicare use of the CAS. 
+CAS01  Required.  Medicare contractors are limited to use of the CO, CR, OA, and 
+PR group codes.  PI may not be used for Medicare.  Mapped to ff record 
+31, field 13.  (If 2nd loop, mapped to ff record 31, field 32.) 
+CAS02  Required.  Mapped to ff record 31, field 14.  (If 2nd loop, mapped to field 
+33.) 
+CAS03  Required.  Mapped to ff record 31, field 15.  (If 2nd loop, mapped to field 
+34.) 
+CAS04  Situational.  Mapped to ff record 31, field 16.  (If 2nd loop, mapped to 
+field 35.) 
+CAS05  Situational, but required for Medicare if a second claim level adjustment 
+applies to this group code.  Mapped to ff record 31, field 17.  (If 2nd loop, 
+mapped to field 36.) 
+CAS06  Situational, but required for Medicare if a second claim level adjustment 
+applies to this group code.  Mapped to ff record 31, field 18.  (If 2nd loop, 
+mapped to field 37.) 
+CAS07  Situational, but required for Medicare if a second claim level adjustment 
+applies to this group code.  Mapped to ff record 31, field 19.  (If 2nd loop, 
+mapped to field 38.) 
+CAS08  Situational, but required for Medicare if a third claim level adjustment 
+applies to this group code.  Mapped to ff record 31, field 20.  (If 2nd loop 
+mapped to field 39.) 
+ 20

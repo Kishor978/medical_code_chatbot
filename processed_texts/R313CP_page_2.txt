@@ -1,0 +1,35 @@
+Attachment – Recurring Update Notification 
+ 
+Pub. 100-04 Transmittal: 313 Date: October 15, 2004 Change Request 3466 
+ 
+SUBJECT:  Remittance Advice Remark Code and Claim Adjustment Reason Code Update 
+I. GENERAL INFORMATION 
+ 
+A. Background: Per the Health Insurance Portability and Accountability Act (HIPAA) of 1996, 
+health plans must be able to conduct standard electronic transactions for transactions mentioned in 
+the regulation using valid standardized codes.  These two code sets (Claim Adjustment Reason 
+Code and Remittance Advice Remark Code) are used in remittance advice and coordination of 
+benefits transactions. 
+X12N 835 Health Care Remittance Advice Remark Codes 
+The CMS is the national maintainer of the remittance advice remark code list that is one of the 
+code lists mentioned in the ASC X12 transaction 835 (Health Care Claim Payment/Advice) 
+version 4010A1 Implementation Guide (IG).  Under HIPAA, all payers, including Medicare, have 
+to use reason and remark codes approved by X12 recognized maintainers instead of proprietary 
+codes to explain any adjustment in the payment.  Approved code changes requested by non-
+Medicare entities may not impact Medicare.  Traditionally, Medicare staff in conjunction with a 
+policy change, requests remark code changes that impact Medicare.  Contractors are notified of 
+those new/modified codes in the corresponding implementation instructions, which implement the 
+policy change, in addition to the regular code update notification.  If a modification has been 
+initiated by an entity other than Medicare for a code currently used by Medicare, contractors must 
+use the modified code even though the modification was not initiated by Medicare.  If a new code 
+is not initiated by Medicare, contractors do not have to use it unless otherwise instructed by 
+Medicare.  Contractors must stop using codes that have been deactivated on or before the effective 
+date specified in the comment section if they are currently being used.  The list is updated three 
+times a year, and the complete list of remark codes is available at: 
+http://www.wpc-edi.com/codes/Codes.asp
+(NOTE: If you find any discrepancy between any code text included in this CR and the 
+corresponding text as posted on the WPC Website, use the text posted at the Website.) 
+By January 3, 2005, you must have completed entry of all applicable code text changes and new 
+codes, and terminated use of deactivated codes.  You must use the latest approved and valid codes 
+in your 835, corresponding standard paper remittance advice, and coordination of benefits 
+transactions.  The following list summarizes changes made from March 2004 to June 2004.

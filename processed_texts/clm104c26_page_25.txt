@@ -1,0 +1,55 @@
+POS Code and Name (effective date) 
+Description 
+Payment Rate 
+Facility=F 
+Nonfacility=NF 
+13 Assisted Living Facility (October 1, 2003) 
+ 
+Congregate residential facility with self-contained living units providing 
+assessment of each resident’s needs and on-site support 24 hours a day, 7 
+days a week, with the capacity to deliver or arrange for services including 
+some health care and other services. 
+NF 
+14 Group Home (Code effective, October 1, 2003; description revised, 
+effective April 1, 2004) 
+ 
+A residence, with shared living areas, where clients receive supervision and 
+other services such as social and/or behavioral services, custodial service, 
+and minimal services (e.g., medication administration). 
+NF 
+15 Mobile Unit (January 1, 2003)  
+A facility/unit that moves from place-to-place equipped to provide 
+preventive, screening, diagnostic, and/or treatment services. 
+ 
+(See “Special Considerations” below.) 
+NF 
+16 Temporary Lodging (April 1, 2008) 
+ 
+A short-term accommodation such as a hotel, camp ground, hostel, cruise 
+ship or resort where the patient receives care, and which is not identified by 
+any other POS code. 
+ 
+ 
+ 
+ 
+NF 
+17 Walk-in Retail Health Clinic (No later than May 1, 2010) 
+ 
+A walk-in health clinic, other than an office, urgent care facility, pharmacy 
+or independent clinic and not described by any other Place of Service code, 
+that is located within a retail operation and provides, on an ambulatory 
+basis, preventive and primary care services. 
+ 
+(See “Special Considerations” below.) 
+NF 
+18 Place of Employment/Worksite (No later than May 1, 2013) 
+ 
+A location, not described by any other POS code, owned or operated by a 
+public or private entity where the patient is employed, and where a health 
+professional provides on-going or episodic occupational medical, therapeutic 
+or rehabilitative services to the individual. 
+Not applicable for 
+adjudication of 
+Medicare claims; 
+systems must 
+recognize for HIPAA

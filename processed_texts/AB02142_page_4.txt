@@ -1,0 +1,56 @@
+4 
+ 
+Code     Current Narrative 
+ 
+ homebound or was not in need of intermittent  skilled nursing services, or a hospice 
+care denial because the patient was not termin ally ill, and either the patient or the 
+provider is liable under §1879 of the Social Security Act, and the patient chooses not 
+to appeal.)   
+ 
+ ( NOTE:  Carriers who issue telephone review decisions should add: If you meet the 
+criteria for a telephone review, you should phone this office if you wish to request a 
+telephone review.)  
+ 
+MA02 (Initial Medicare Part A de termination)--If you do not agree with this determination, 
+you have the right to appeal.  You must file a written request for a reconsideration 
+within 60 days of the date of this notice, if this notice is dated September 30, 2002, or 
+earlier or within 120 days of the date of this notice, if this notice is dated October 1, 
+2002, or later.  Decisions made by a QIO must be appealed to that QIO within 60 
+days. (An institutional provider, e.g., hospital, SNF, HHA or a hospice may appeal 
+only if the claim involves a medical necessity denial, a SNF non-certified bed denial, 
+or a home health denial because the patient was not homebound or was not in need of 
+intermittent skilled nursing services, or a hospice care denial because the patient was 
+not terminally ill, and either the patient or the provider is liable under §1879 of the 
+Social Security Act, and the patient chooses not to appeal.) 
+ 
+N103 Social Security records i ndicate that this beneficiary was a prisoner when the service 
+was rendered.  Medicare does not cover items and services furnished to beneficiaries 
+while they are in State or local custody under a penal authority, unless under State or 
+local law, the beneficiary is personally liable  for the cost of his or her health care 
+while incarcerated and the State or local government pursues such debt in the same 
+way and with the same vigor as any other debt. 
+ 
+Additionally, the following codes were modified before February 28, 2002, but were not included in   
+Transmittal AB-02-067 (CR 1959). 
+ 
+ 
+Code     Current Narrative  
+ 
+MA49 Missing/Incomplete/invalid six-digit pr ovider number of home health agency or 
+hospice for physician(s) performing care plan oversight services.  
+ 
+MA50 Missing/Incomplete/inva lid Investigational Device Exemption number for FDA-
+approved clinical trial services.  
+ 
+MA51 Missing/Incomplete/invalid CLIA certification number for laboratory services billed 
+by physician office laboratory. 
+ 
+MA82 Did not complete or enter the correct physician/physici an assistant/nurse 
+practitioner/clinical nurse specialist/s upplier's billing number/NPI and/or billing 
+name, address, city, state, zip code, and phone number.  
+ 
+MA112 Our records indicate that the performi ng physician/physician assistant/clinical nurse 
+specialist/certified registered nurse anesth etist/anesthesia assistant/supplier/nurse 
+practitioner is a member of a group practice; however, you did not complete or enter 
+accurately the group’s name, address, zip code and their carrier assigned individual 
+and group PINs.  (Substitute “NPI” for “PIN” when effective.)

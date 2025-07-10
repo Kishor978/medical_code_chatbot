@@ -1,0 +1,9 @@
+GROUP THERAPY
+• 97158 is intended to be reported for QHP-led group sessions only. 
+• When performing direction of technician the code used is 97155 and it must be 1:1 per client, per 
+technician with other qualifications of the code descriptor which will then qualify for concurrent 
+billing according to the intent of the codes.
+• A group includes at least 2 patients but no more than 8. 
+• 97154 for technician-led group sessions is reported for each patient attending a group session. 
+• Each member of the group can have different funding sources (eg specific health plans or private 
+pay).

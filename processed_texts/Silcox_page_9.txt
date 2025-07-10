@@ -1,0 +1,12 @@
+CONCURRENT BILLING…CONTINUED
+• The descriptor for code 97155 adds that the service may include *simultaneous* direction of a technician by the 
+QHP ,  and the CPT Assistant article reads: "Adaptive behavior treatment by protocol (97153) is administered by 
+a technician under the direction of a physician/other QHP ,  who may provide direction during the actual 
+treatment, which represents face-to-face treatment delivered to a patient. 
+• The QHP designs the treatment protocols, assists the technician in adhering to the protocols, and analyzes the 
+technician-recorded data to determine whether the protocol is producing adequate progress (97155)" and 
+"Code 97155 may be reported in two scenarios: when the QHP is delivering the treatment with the client 
+(according to the code descriptor) one-to-one or when the QHP is directing the technician in delivering 
+treatment (code 97153) and both the technician and the client are present." 
+• Both the CPT code book and the CPT Assistant article list codes that cannot be billed concurrently with each of 
+the codes in the 2019 code set. For 97155 that list does not include 97153.

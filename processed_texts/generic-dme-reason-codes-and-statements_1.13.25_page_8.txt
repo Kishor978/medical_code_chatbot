@@ -1,0 +1,41 @@
+Generic Durable Medical Equipment (DME) Reason Codes and Statements 
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         8 
+ 
+GDY04 Section C of the Advance Beneficiary Notice contains a Medicare or Social 
+Security number. 
+GDY05 Section D of the Advance Beneficiary Notice is not properly completed. 
+GDY06 Section E of the Advance Beneficiary Notice is not properly completed. 
+GDY07 Section E of the Advance Beneficiary Notice indicates a reason Medicare may not pay 
+which is unrelated to the denial. 
+GDY08 Section E of the Advance Beneficiary Notice does not contain a genuine reason that 
+denial by Medicare is expected. 
+GDY09 Section E of the Advance Beneficiary Notice is not completed using beneficiary 
+friendly language. 
+GDY10 Section F of the Advance Beneficiary Notice is not properly completed. 
+GDY11 Section G of the Advance Beneficiary Notice is not properly completed. 
+GDY12 Section I of the Advance Beneficiary Notice is not signed by the beneficiary (or 
+representative). 
+GDY13 Section J of the Advance Beneficiary Notice is not properly completed. 
+GDY14 The Advance Beneficiary Notice is dated after the date of service. 
+GDY15 Generic Advance Beneficiary Notices which do no more than state that Medicare 
+denial of payment is possible are not considered to be acceptable. 
+GDY16 The Advance Beneficiary Notice is not the most current version of the Centers for 
+Medicare & Medicaid Services approved form. 
+GDY17 The Advance Beneficiary Notice contains an amendment, correction or delayed entry 
+that does not comply with accepted record keeping principles. 
+GDY18 Some or all of the Advance Beneficiary Notice is illegible. 
+GDY19 The file does not contain a valid Advance Beneficiary Notice. 
+GDY1Z The Advance Beneficiary Notice contains an error not otherwise specified. 
+ 
+Reason 
+Code FACE-TO-FACE 
+GDB02 
+The face-to-face encounter is greater than six months prior to the date of the standard 
+written order (SWO) required prior to delivery. Refer to 42 CFR 410.38(d)(2) & 
+Standard Documentation Requirements A55426. 
+GDB03 
+The documentation does not include a face-to-face encounter within six months prior 
+to the order. Refer to 42 Code of Federal Regulations 410.38 (c) and Standard 
+Documentation Requirements A55426.

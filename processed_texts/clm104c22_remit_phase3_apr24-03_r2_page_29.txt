@@ -1,0 +1,34 @@
+SVC06-3  Situational, but required for Medicare if the first modifier was changed 
+during adjudication.  Mapped to ff record 50, field 29. 
+SVC06-4  Situational, but required for Medicare if the second modifier was changed 
+during adjudication.  Mapped to ff record 50, field 30. 
+SVC06-5  Situational, but required for Medicare if the third modifier was changed 
+ during adjudication.  Mapped to ff record 50, field 31. 
+SVC06-6  Situational, but required for Medicare if the fourth modifier was changed 
+ during adjudication.  Mapped to ff record 50, field 32. 
+SVC06-7  Situational, but text will not be reported by Medicare. 
+SVC07  Situational, but required for Medicare if the paid units of service is 
+ different than the billed units of service.  Mapped to ff record 50, field 33. 
+DTM (080)  Situational, but required for Medicare when service level data is reported 
+ on the claim. 
+DTM01  Required.  Only 472 applies to intermediaries.  472 mapped to ff record 
+50, field 34. 
+DTM02  Required.  Mapped to ff record 50, field 35. 
+DTM03-06  Not used. 
+CAS (090)  Situational, but required for Medicare whenever the amount paid for a 
+service does not equal the amount billed.  Medicare intermediaries are 
+required to separately report every adjustment made to a service.  It is 
+necessary to use separate loops if more than 1 group code applies, or if 
+there are more than 6 adjustment codes per group. 
+CAS01  Required.  PI does not apply to Medicare.  Mapped to ff record 51, field 
+13. 
+CAS02  Required.  Mapped to ff record 51, field 14. 
+CAS03  Required.  Mapped to ff record 51, field 15. 
+CAS04  Situational, but required for Medicare.  Mapped to ff record 51, field 16. 
+CAS05  Situational, but required for Medicare if there is a second service level 
+ adjustment.  Mapped to ff record 51, field 17. 
+CAS06  Situational, but required for Medicare if there is a second service level 
+ adjustment.  Mapped to ff record 51, field 18. 
+CAS07  Situational, but required for Medicare if there is a second service level 
+ adjustment.  Mapped to ff record 51, field 19. 
+ 29

@@ -1,0 +1,45 @@
+per line item.  When multiple services are performed, enter the primary reference 
+number/letter for each service. 
+ 
+When using form version 08/05, this reference will be either a 1, or a 2, or a 3, or a 4. 
+ 
+When using form version 02/12, the reference to supply in 24E will be a letter from A-L.  
+Otherwise, the instructions above apply. 
+ 
+If a situation arises where two or more diagnoses are required for a procedure code (e.g., 
+pap smears), the provider shall reference only one of the diagnoses in item 21. 
+ 
+Item 24F- Enter the charge for each listed service. 
+ 
+Item 24G - Enter the number of days or units.  This field is most commonly used for 
+multiple visits, units of supplies, anesthesia minutes, or oxygen volume.  If only one 
+service is performed, the numeral 1 must be entered. 
+ 
+Some services require that the actual number or quantity billed be clearly indicated on the 
+claim form (e.g., multiple ostomy or urinary supplies, medication dosages, or allergy 
+testing procedures).  When multiple services are provided, enter the actual number 
+provided. 
+ 
+For anesthesia, show the elapsed time (minutes) in item 24g.  Convert hours into minutes 
+and enter the total minutes required for this procedure. 
+ 
+For instructions on submitting units for oxygen claims, see chapter 20, section 130.6 of 
+this manual. 
+ 
+Beginning with dates of service on and after January 1, 2011, for ambulance mileage, 
+enter the number of loaded miles traveled rounded up to the nearest tenth of a mile up to 
+100 miles.  For mileage totaling 100 miles and greater, enter the number of covered miles 
+rounded up to the nearest whole number miles.  If the total mileage is less than 1 whole 
+mile, enter a “0” before the decimal (e.g. 0.9).  See Pub. 100-04, chapter 15, §20.2 for 
+more information on loaded mileage and §30.1.2 for more information on reporting 
+fractional mileage. 
+ 
+NOTE:  This field should contain an appropriate numerical value.  The A/B MAC (B) 
+should program their system to automatically default "1" unit when the information in 
+this field is missing to avoid returning as unprocessable, except on claims for ambulance 
+mileage.  For ambulance mileage claims, contractors shall automatically default “0.1” 
+unit when total mileage units are missing in this field. 
+ 
+Item 24H - Leave blank.  Not required by Medicare. 
+ 
+Item 24I - Leave Blank. Not required by Medicare.

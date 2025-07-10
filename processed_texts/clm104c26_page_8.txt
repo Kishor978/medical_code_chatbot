@@ -1,0 +1,45 @@
+Form version 02/12:  provide this information to the right of the vertical dotted line. 
+ 
+Item 11c - Enter the 9-digit PAYERID number of the primary insurer.  If no PAYERID 
+number exists, then enter the complete primary payer's program or plan name.  If the 
+primary payer's EOB does not contain the claims processing address, record the primary 
+payer's claims processing address directly on the EOB.  This is required if there is 
+insurance primary to Medicare that is indicated in item 11. 
+ 
+Item 11d - Leave blank.  Not required by Medicare. 
+ 
+Item 12 - The patient or authorized representative must sign and enter either a 6-digit 
+date (MM | DD | YY), 8-digit date (MM | DD | CCYY), or an alpha-numeric date (e.g., 
+January 1, 1998) unless the signature is on file.  In lieu of signing the claim, the patient 
+may sign a statement to be retained in the provider, physician, or supplier file in 
+accordance with Chapter 1, “General Billing Requirements.”  If the patient is physically 
+or mentally unable to sign, a representative specified in chapter 1, may sign on the 
+patient's behalf.  In this event, the statement's signature line must indicate the patient's 
+name followed by “by” the representative's name, relationship to the patient, and the 
+reason the patient cannot sign.  The authorization is effective indefinitely unless the 
+patient or the patient's representative revokes this arrangement. 
+ 
+NOTE: This can be "Signature on File" and/or a computer generated signature. 
+ 
+The patient's signature authorizes release of medical information necessary to process the 
+claim.  It also authorizes payment of benefits to the provider of service or supplier when 
+the provider of service or supplier accepts assignment on the claim. 
+ 
+Signature by Mark (X) - When an illiterate or physically handicapped enrollee signs by 
+mark, a witness must enter his/her name and address next to the mark. 
+ 
+Item 13 - The patient’s signature or the statement “signature on file” in this item 
+authorizes payment of medical benefits to the physician or supplier.  The patient or 
+his/her authorized representative signs this item or the signature must be on file 
+separately with the provider as an authorization.  However, note that when payment 
+under the Act can only be made on an assignment-related basis or when payment is for 
+services furnished by a participating physician or supplier, a patient’s signature or a 
+“signature on file” is not required in order for Medicare payment to be made directly to 
+the physician or supplier. 
+ 
+The presence of or lack of a signature or “signature on file” in this field will be indicated 
+as such to any downstream coordination of benefits trading partners (supplemental 
+insurers) with whom CMS has a payer-to-payer coordination of benefits relationship.  
+Medicare has no control over how supplemental claims are processed, so it is important 
+that providers accurately address this field as it may affect supplemental payments to 
+providers and/or their patients.

@@ -1,0 +1,48 @@
+Generic Part B Reason Codes and Statements 
+November 15, 2024 
+ 
+*Updated and/or new codes can be found in bold italic  5 
+ 
+Reason 
+Code OTHER 
+GBH01 The claim did not include a valid NPI.  Refer to IOM, Pub 100-04, Medicare Claims 
+Processing Manual Chapter 1, Section 80.3.1 
+GBH02 The claim submitted did not contain required information. 
+ 
+Reason 
+Code EVALUATION AND MANAGEMENT (E&M) 
+GBI01 
+The documentation submitted does not support the medical necessity of the level of 
+service billed. Refer to SSA 1862; Internet Only Manual (IOM), Pub 100-08, Medicare 
+Program Integrity Manual Chapter 3, Section 3.6.2.4 and Section 3.6.2.5; IOM, Pub 
+100-04, Medicare Claims Processing Manual Chapter 23; IOM, Pub 100-04, Medicare 
+Claims Processing Manual, Chapter 12, Section 30.6.1 A  
+GBI02 
+The documentation submitted supported the key elements and/or reasonable 
+necessity of a lower level of service. Refer to Internet Only Manual (IOM), Pub 100-
+04, Medicare Claims Processing Manual, Chapter 12, Section 30.6; 1995 
+Documentation Guidelines For Evaluation and Management Services; 1997 
+Documentation Guidelines For Evaluation and Management Services; AMA’s 2021 
+and 2023 changes to office, outpatient, and other E/M visits; IOM, Pub 100-08, 
+Medicare Program Integrity Manual Chapter 3, Section 3.6.2.4 and Section 3.6.2.5, 
+IOM, Pub 100-04, Medicare Claims Processing Manual Chapter 23. 
+GBI03 
+The documentation submitted supported the key elements and/or reasonable 
+necessity of a higher level of service. Refer to Internet Only Manual (IOM), Pub 
+100-04, Medicare Claims Processing Manual, Chapter 12, Section 30.6; 1995 
+Documentation Guidelines For Evaluation and Management Services; 1997 
+Documentation Guidelines For Evaluation and Management Services; AMA’s 2021 
+and 2023 changes to office, outpatient, and other E/M visits; IOM, Pub 100-08, 
+Medicare Program Integrity Manual Chapter 3, Section 3.6.2.4; IOM, Pub 100-04, 
+Medicare Claims Processing Manual Chapter 23. 
+GBI04 
+The documentation supported there was another evaluation and management service 
+paid to the same physician on the same day and documentation did not support a 
+separately identifiable evaluation and management service. Refer to SSA 1862; 
+Internet Only Manual (IOM), Pub 100-08, Medicare Program Integrity Manual 
+Chapter 3, Section 3.6.2.5; IOM, Pub 100-04, Medicare Claims Processing Manual, 
+Chapter 12, Section 30.6.  
+GBI05 
+The documentation submitted does not support the medical necessity of the frequency 
+of service(s) billed. Refer to SSA 1862; Internet Only Manual (IOM), Pub 100-08, 
+Medicare Program Integrity Manual Chapter 3, Section 3.6.2.4 and Section 3.6.2.5;

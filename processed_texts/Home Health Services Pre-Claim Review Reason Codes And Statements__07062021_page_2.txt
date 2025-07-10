@@ -1,0 +1,54 @@
+Home Health Services Pre-Claim Review Reason Codes and Statements 
+Updated July 6, 2021 
+ 
+2 
+ 
+HH02G 
+Applicable to physician recertification due prior to January 1, 2019. The physician 
+recertification estimate of how much longer skilled services are required is missing. Refer 
+to CMS IOM Publication 100-02,Chapter 7, Section 30.5.2, 100-08, Chapter 6, Section 
+6.2.2 and 42 CFR 424.22(b). 
+HH02H 
+The home health agency generated record contained relevant clinical information 
+addressing the “confined to the home” (homebound) eligibility requirement, which was 
+corroborated by the certifying physician or the acute/post-acute facility documentation, but 
+was NOT signed and dated by the certifying physician. Please have the certifying 
+physician sign and date the relevant HHA-generated information and resubmit. Refer to 
+CMS IOM Publication 100-02, Chapter 7, Section 30.5.1.2, 100-08, Chapter 6, Section 
+6.2.3 and 42 CFR 424.22(c)(1). 
+HH02I 
+The Plan of Care submitted was not signed timely by a qualified physician.   Refer to CMS 
+IOM Publication 100-02, Chapter 7, Section 30.2.4, CMS IOM Publication 100-08, 
+Chapter 6, Section 6.2.1.1 and 42 CFR 409.43. 
+HH02J 
+The home health agency generated record contained relevant clinical information 
+addressing the “need for skilled services” eligibility requirement, which was corroborated 
+by the certifying physician or the acute/post-acute facility documentation, but was NOT 
+signed and dated by the certifying physician. Please have the certifying physician sign and 
+date the relevant HHA-generated information and resubmit.  Refer to CMS IOM 100-02, 
+Chapter 7, Section 30.5.1.2 Publication 100-08, Chapter 6, Section 6.2.3 and 42 CFR 
+424.22 (a)(1)(i). 
+HH02L Missing physician certification statement. Refer to CMS IOM  Publication 100-02, 
+Chapter 7, Section 30.5, 100-08, Chapter 6, Section 6.2 and 42CFR 424.22. 
+HH02M 
+The practitioner who signed the plan of care was not a qualified physician. Please refer to 
+IOM Pub 100-02, Chapter 7, Section 30.2.3 and 42 CFR 424.22(a)(1)(iii), 42 CFR 
+409.43(c). 
+  
+Reason 
+Code Confined to the Home: First Criteria 
+HH03A 
+Documentation submitted does not support homebound criteria-one is met. For criteria-one 
+to be met, the patient must either because of illness or injury, need the aid of supportive 
+devices such as crutches, canes, wheelchairs, and walker; the use of special transportation; 
+or the assistance of another person in order to leave their place of residence; or have a 
+condition such that leaving his or her home is medically contraindicated. Refer to CMS 
+IOM Publication 100-02, Chapter 7, Section 30.1.1, 100-08, Chapter 6, Section 6.2.1.1 and 
+42 CFR 424.22 (a)(1)(ii). 
+  
+Reason 
+Code Confined to the Home: Second Criteria 
+HH04A 
+Documentation submitted does not support a normal inability to leave the home. Refer to 
+CMS IOM Publication 100-02, Chapter 7, Section 30.1.1, Pub 100-08, Chapter 6, Section 
+6.2.1.1 and 42CFR 424.22 (a)(1)(ii).

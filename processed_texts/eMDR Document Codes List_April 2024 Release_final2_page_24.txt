@@ -1,0 +1,84 @@
+eMDR Document Codes List (April 2024 Release) 
+Page 24 of 27 
+ 
+Document 
+Code 
+Document Description Action Release 
+100454 Medical record documentation to support time spent on 
+services for the CPT level of code billed 
+    
+100455 Documentation to support availability of services 24-
+hours-a-day, 7-days-a-week 
+    
+100456 The medical necessity for the use of in vitro 
+testing if used, including the measurement (in mm) of 
+reaction sizes of both wheal and erythema response 
+    
+100457 Clinical indication(s) and management that necessitate 
+the need for a PET study 
+    
+100458 Documentation to support bypassing condition of 
+payment prior authorization for emergent need 
+    
+100459 Acute/post-acute care document to support IRF/SNF 
+eligibility 
+    
+100460 Documentation to support the staging of the tumor  New code 
+added 
+Apr 
+2024 
+100461 Documented to support the reason for the defibrillator New code 
+added 
+Apr 
+2024 
+100462 Documentation to include maximum urinary flow rate 
+(Qmax), International Prostate Symptom Score (IPPS), 
+and Transrectal Ultrasound (TRUS) 
+New code 
+added 
+Apr 
+2024 
+100463 Documentation to support drug-induced sleep 
+endoscopy (DISE)  procedure was performed 
+New code 
+added 
+Apr 
+2024 
+100464 If face-to-face visit conducted via telecommunication 
+technology, documentation also supports the visit was 
+completed using acceptable audio/visual equipment 
+permitting two-way, real-time interactive 
+communication between the beneficiary and the 
+physician or other allowed practitioner 
+New code 
+added 
+Apr 
+2024 
+100465 CMS Health Insurance Claim Form New code 
+added 
+Apr 
+2024 
+100466 Hospice Election Statement and addendum New code 
+added 
+Apr 
+2024 
+100467 CT Coronary Angiography report New code 
+added 
+Apr 
+2024 
+100468 Documentation to support the virtual service was 
+provided using audio/video, real time communication 
+technology for CPT codes 99201-99205 and 99211-
+99215  
+New code 
+added 
+Apr 
+2024 
+100469 For audio-only CPT codes 99441-99443, 
+documentation to support the services provided on the 
+DOS under review is not related to any E/M service(s) 
+provided within the previous 7 days and/or within the 
+New code 
+added 
+Apr 
+2024

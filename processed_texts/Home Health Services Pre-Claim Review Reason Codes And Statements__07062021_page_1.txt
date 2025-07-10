@@ -1,0 +1,53 @@
+Home Health Services Pre-Claim Review Reason Codes and Statements 
+Updated July 6, 2021 
+ 
+1 
+ 
+Reason 
+Code Face to Face 
+HH01A 
+The physician certification was invalid since the required face-to-face encounter  
+document (actual clinical note for the face-to face encounter visit for admissions on  or 
+after 1/1/15, or the narrative for admissions on or after 4/1/11and before 1/1/15)  was 
+missing. Refer to CMS IOM Publication 100-02, Chapter 7, Section 30.5.1.1 and 30.5.1.2 
+and 42CFR 424.22(a) (1)(v). 
+HH01B 
+The physician certification was invalid since the required face-to-face encounter document 
+was untimely.  The encounter occurred greater 90 days prior to the home health start of 
+care or greater 30 days after the start of care.  Refer to CMS IOM Publication 100-02, 
+Chapter 7, Section 30.5.1.1 and 30.5.1.2 and 42 CFR 424.22(a)(1)(v).' 
+HH01C 
+The physician certification was invalid since the face-to-face encounter was not performed 
+by an approved practitioner. Refer to CMS IOM Publication 100-02, Chapter 7, Section 
+30.5.1.1 and 42CFR 424.22(a)(1)(v)(A). 
+HH01D 
+The physician certification was invalid since the required face-to-face encounter was not 
+related to the primary reason for home health services. Refer to CMS IOM Publication 
+100-02, Chapter 7, Section 30.5.1.2 and 42CFR 424.22(a)(1)(v). 
+HH01E The certifying physician did not document the date of the encounter. Refer to CMS IOM 
+Publication 100-02, Chapter 7, Section 30.5.1 and 42CFR 424.22(a)(1)(v). 
+  
+Reason 
+Code Plan of Care/Certification/Recertification 
+HH02A The Plan of Care was missing. Refer to CMS IOM Publication 100-02, Chapter 7, Section 
+30.2 and 42CFR 424.22(a)(1)(iii). 
+HH02B The content of the Plan of Care submitted was insufficient. Refer to CMS IOM 
+Publication 100-02, Chapter 7, Section 30.2.1 and 42CFR 484.60(a). 
+HH02C The Plan of Care submitted was not signed. Refer to CMS IOM Publication 100-02, 
+Chapter 7, Section 30.2.3 and 42CFR 424.22(a)(1)(iii), 42CFR 409.43(c). 
+HH02D Missing physician recertification statement. Refer to CMS IOM  Publication 100-02, 
+Chapter 7, Section 30.5, 100-08, Chapter 6, Section 6.2 and 42CFR 424.22. 
+HH02E 
+The initial physician certification submitted does not support skilled need. Documentation 
+in the certifying physician's medical records and/or the acute/post-acute care facility's 
+medical records (if the patient was directly admitted to home health) shall be used as the 
+basis for certification of home health eligibility. Refer to CMS IOM Publication 100-02, 
+Chapter 7, Section 30.5,100-08, Chapter 6, Section 6.2.1, 6.2.2, 6.2.3 and 42CFR 424.22 
+(a),(b) and (c). 
+HH02F 
+The initial physician certification submitted does not support homebound status. 
+Documentation in the certifying physician’s medical records and/or the acute/post-acute 
+care facility’s medical records (if the patient was directly admitted to home health) shall be 
+used as the basis for certification of home health eligibility. Refer to CMS IOM 
+Publication 100-02, Chapter 7, Section 30.5.1, 100-08, Chapter 6, Section 6.2.1.1 and 
+42CFR 424.22 (a) and (c).

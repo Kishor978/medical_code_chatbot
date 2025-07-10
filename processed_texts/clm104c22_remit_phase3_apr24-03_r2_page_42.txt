@@ -1,0 +1,36 @@
+PER  Situational, Medicare contractors may report contact information at their 
+option, either in table 1, or table 2, but it should not be necessary to report 
+contact information in both tables. 
+PER01  Required. 
+PER02  Situational, and optional for use by a Medicare carrier.  If furnished, 
+contact data must be supplied by the carrier rather than the standard 
+system. 
+PER03  Situational, but required for Medicare if the segment is used.  Contact data 
+must be furnished by the carrier. 
+PER04  Situational, but required for Medicare if this segment is used.  Carrier 
+must furnish the data. 
+PER05  Situational, and optional for use by a Medicare carrier if the carrier would 
+like to report additional contact information.  If used, the data must be 
+furnished by the carrier. 
+PER06  Situational, but required for Medicare if an entry in PER05.  Data must be 
+furnished by the carrier. 
+PER07  Situational, and optional for a carrier to use to report the extension number 
+of any phone number reported in PER04 or 06.  Data must be furnished by 
+the carrier. 
+PER08  Situational, and optional for a carrier to use to report the extension number 
+of any phone number reported in PER04 or 06.  Data must be furnished by 
+the carrier. 
+PER09  Not used. 
+AMT (062)  Situational, but required for Medicare if the claim reported the patient 
+made any payment for the claim. 
+AMT01  Required.  Only F5 and I apply to Medicare carriers.  No other codes for  
+this data element apply to Medicare. 
+AMT02  Required. 
+AMT03  Not used. 
+QTY  Situational, but does not apply to Medicare carriers. 
+SVC  Situational, but required for Medicare carriers.  Note: The HCPCS, 
+modifiers, and when applicable, NDC code reported on a claim for a 
+service must be reported on the 835 for that service, including in situations 
+where a service is being adjusted for submission of an invalid procedure 
+code or modifier.  This situation is considered an exception to the HIPAA 
+ 42

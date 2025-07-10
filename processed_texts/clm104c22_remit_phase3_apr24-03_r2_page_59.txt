@@ -1,0 +1,44 @@
+50.3 - Intermediary SPR Crosswalk to the 835 
+A3-3754 
+(Rev.) 
+This crosswalk provides a systematic presentation of SPR data fields and the 
+corresponding fields in an 835 version 4010.  It also includes some computed fields for 
+provider use that are not present in an ERA.  The comment column in the crosswalk 
+provides clarification and instruction in some special cases. 
+Full Description 
+(In Order Of 
+Appearance) 
+SPR ID SPR Field Size 
+Characteristics 
+835 Location 
+ 
+SPR Page Headers 
+ 
+FI name/ 
+address/city/state/zip/ 
+phone number 
+as written Alpha Numeric 
+(AN) 132 
+characters 
+Name=1-080.A-N102 Other data 
+elements are Fiscal Intermediary 
+(FI) generated. 
+ 
+Provider number as written AN 13 1-080.B-N104 
+Provider name as written AN 25 1-080.B-N102 
+ 
+Literal Value: Part A as written AN 06 Literal value not included on 835, 
+Medicare Part would be indicated 
+by the type of bill 
+ 
+Paid date as written N MM/DD/CCYY 1-020-BPR16 
+ 
+Remittance advice REMIT Numeric (N) 9(l 0) FI generated 
+ 
+Literal Value: Page as written AN 06 FI generated 
+ 
+SPR Pages 1 and 2 
+ 
+Patient Last Name PATIENT NAME AN 18 2-030.A-NM103 
+ 
+59

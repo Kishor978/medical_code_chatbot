@@ -1,0 +1,58 @@
+eMDR Document Codes List (April 2024 Release) 
+Page 23 of 27 
+ 
+Document 
+Code 
+Document Description Action Release 
+100441 Medical record documentation that supports the drugs 
+were prescribed following one of the covered 
+transplants outlined in applicable Medicare National 
+and/or Local Coverage Determination (NCD or LCD)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+    
+100442 Documentation that supports non-healing     
+100443 Documentation that supports greater than half of the 
+total care provided was nursing care, delivered by an 
+RN/LPN/LVN  
+    
+100444 New York Heart Association (NYHA) Classification of 
+heart failure                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+    
+100445 Documentation of skin substitute utilized, how the 
+product was supplied and wastage 
+    
+100446 Medical record that supports beneficiary had in-person 
+visit with the treating practitioner to evaluate diabetes 
+control and/or adherence to the CGM regimen and 
+diabetes plan 
+    
+100447 Organ Procurement and Transplantation Network 
+(OPTN) heart transplant waitlist documentation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+    
+100448 Forms containing Beneficiary/Authorized 
+representative signature 
+    
+100449 Cardiac imaging and/or Cardiac catheterization report     
+100450 Medical record documentation to support beneficiary 
+having two or more chronic conditions (expected to last 
+at least 12 months) with significant risk of death, 
+functional decline, exacerbation, or decompensation 
+    
+100451 Annual Wellness Visit (AWV), Initial Preventive 
+Physical Exam (IPPE) or comprehensive Evaluation 
+and Management (E/M) performed prior to billing 
+CCM services for a beneficiary new to Chronic Care 
+Management (CCM) or for beneficiaries not seen by the 
+billing provider within the last 12 months 
+    
+100452 Verbal consent or a written consent signed by 
+beneficiary or caregiver and must include the following; 
+description of the Chronic Care Management (CCM) 
+services, ability to revoke/right to stop CCM services, 
+responsibility for cost sharing and if verbal consent 
+obtained for CCM, documentation to support narrative 
+discussion and prior permission acceptance 
+    
+100453 Comprehensive care plan with measurable goals was 
+established, implemented, revised, or significantly 
+monitored and a copy was provided to the beneficiary 
+and/or caregiver

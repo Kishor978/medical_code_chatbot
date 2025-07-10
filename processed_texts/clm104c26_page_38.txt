@@ -1,0 +1,44 @@
+If a claim lacks a valid place of service (POS) code in item 24b, or contains an invalid 
+POS in item 24b, return the claim as unprocessable to the provider or supplier, using 
+Group Code CO, Claim Adjustment Remark Code (CARC) 16, and Remittance Advice 
+Remark Code (RARC) M77.  Effective for claims received on or after April 1, 2004, only 
+one POS may be submitted on the Form CMS-1500 for services paid under the MPFS 
+and anesthesia services.  If the place of service is missing and the MAC cannot infer the 
+place of service from the procedure code billed (e.g., a procedure code for which the 
+definition is not site specific or which can be performed in more than one setting), then 
+return services as unprocessable. 
+ 
+If place of service is inconsistent with procedure code billed, then edit for consistency or 
+compatibility between the place of service and site-specific procedure codes.  If the place 
+of service is valid but inconsistent or incompatible with the procedure billed (e.g., the 
+place of service is inpatient hospital and the procedure code billed is office visit), then 
+return services as unprocessable since the MAC typically will not know whether the 
+procedure code or the place of service is incorrect in such instances.  If place of service is 
+invalid, then edit for the validity of the place of service coding.  If the place of service 
+code is not valid (e.g., the number designation has not been assigned or defined by CMS), 
+then return services as unprocessable. 
+ 
+10.7 - Type of Service (TOS) 
+(Rev. 2814, Issued: 11-15-13, Effective: 01-01-14, Implementation: 01-06-14) 
+ 
+Medicare Administrative Contractors (MACs) must assign the proper TOS using the 
+annual HCPCS update from the CMS mainframe.  Changes to this list are issued annually 
+via a Recurring Update Notification.  Some procedures may have more than one 
+applicable TOS.  For claims received on or after April 3, 1995, CWF produced alerts on 
+codes with incorrect TOS designations.  Effective July 3, 1995, CWF began rejecting 
+codes with incorrect TOS designations. 
+ 
+The only exceptions to this annual update are: 
+ 
+• Surgical services billed for dates of service through December 31, 2007, 
+containing the ASC facility service modifier SG must be reported as TOS F.  
+Effective for services on or after January 1, 2008, the SG modifier is no longer 
+applicable for Medicare services.  ASC providers should discontinue applying the 
+SG modifier on ASC facility claims.  The indicator ‘F’ does not appear in the 
+TOS table because its use depends upon claims submitted with POS 24 (ASC 
+Facility) from an ASC (specialty 49).  This became effective for dates of service 
+January 1, 2008 and after. 
+ 
+• Surgical services billed with an assistant-at-surgery modifier (80-82, AS) must be 
+reported with TOS 8.  The 8 indicator does not appear on the TOS table because 
+its use is dependent upon the use of the appropriate modifier.  (See Pub. 100-04,

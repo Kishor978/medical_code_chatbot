@@ -1,0 +1,44 @@
+Item 9a - Enter the policy and/or group number of the Medigap insured preceded by 
+MEDIGAP, MG, or MGAP. 
+ 
+NOTE:  Item 9d must be completed, even when the provider enters a policy and/or group 
+number in item 9a. 
+ 
+Item 9b - Form version 08/05: Enter the Medigap insured's 8-digit birth date (MM | DD | 
+CCYY) and sex. 
+Form version 02/12:  Leave blank. 
+ 
+Item 9c - Leave blank if item 9d is completed.  Otherwise, enter the claims processing 
+address of the Medigap insurer.  Use an abbreviated street address, two-letter postal code, 
+and ZIP code copied from the Medigap insured's Medigap identification card.  For 
+example: 
+ 
+1257 Anywhere Street 
+Baltimore, MD 21204 
+ 
+is shown as "1257 Anywhere St.  MD 21204." 
+ 
+Item 9d - Enter the Coordination of Benefits Agreement (COBA) Medigap-based 
+Identifier (ID).  Refer to chapter 28, section 70.6.4, of this manual for more information.  
+ 
+Items 10a through 10c - Check "YES" or "NO" to indicate whether employment, auto 
+liability, or other accident involvement applies to one or more of the services described in 
+item 24.  Enter the State postal code.  Any item checked "YES" indicates there may be 
+other insurance primary to Medicare.  Identify primary insurance information in item 11. 
+ 
+Item 10d - Use this item exclusively for Medicaid (MCD) information.  If the patient is 
+entitled to Medicaid, enter the patient's Medicaid number preceded by MCD. 
+ 
+Item 11 - THIS ITEM MUST BE COMPLETED, IT IS A REQUIRED FIELD.  BY 
+COMPLETING THIS ITEM, THE PHYSICIAN/SUPPLIER ACKNOWLEDGES 
+HAVING MADE A GOOD FAITH EFFORT TO DETERMINE WHETHER 
+MEDICARE IS THE PRIMARY OR SECONDARY PAYER. 
+ 
+If there is insurance primary to Medicare, enter the insured's policy or group number and 
+proceed to items 11a - 11c.  Items 4, 6, and 7 must also be completed. 
+ 
+NOTE:  Enter the appropriate information in item 11c if insurance primary to Medicare 
+is indicated in item 11. 
+ 
+If there is no insurance primary to Medicare, enter the word "NONE" and proceed to item 
+12.

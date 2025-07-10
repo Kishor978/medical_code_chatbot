@@ -1,0 +1,49 @@
+Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) Reason Codes and 
+Statements  
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         14 
+ 
+PROSTHETIC SOCKET INSERT, ANY TYPE, EACH) describes a stand-alone (i.e., 
+not integrated into or a part of a prosthetic socket insert) sealing ring that is added to a 
+socket insert to assist in providing or maintaining negative pressure for socket 
+suspension. Unit of service (UOS) is 1 (one) item.  Refer to Local Coverage Article 
+A52496. 
+LLP38 
+Codes L5940-L5960 for ultra-light materials may only be used when materials such as 
+carbon fiber, fiberglass, Kevlar®, or other advanced composite lamination materials 
+are used in the fabrication of a socket for an endoskeletal prosthesis. For codes L5940-
+L5960, the unit of service is per limb.  Refer to Local Coverage Article A52496. 
+LLP39 
+Codes L5962, L5964, and L5966 are specialized covers intended to be worn over an 
+existing prosthesis, for protection against unusually harsh environmental situations. 
+Protective outer surface coverings are different from the covering that is already 
+reimbursed as part of L5704 – L5707.  Refer to Local Coverage Article A52496. 
+LLP40 
+ There is no separate payment for batteries (L7360, L7364, and L7367) and/or battery 
+chargers (L7362, L7366, and L7368) billed concurrently with a powered base item 
+(L5781, L5782, L5856, L5857, L5858, L5859, L5973).   Refer to Local Coverage 
+Article A52496. 
+LLP41 The medical record does not contain any identifying information to determine the 
+Certified Prosthetist/Orthotist (CPO) who performed the evaluation. 
+LLP42 Documentation was not submitted from the prosthetist to support functional level. 
+ 
+Reason 
+Code KNEE ORTHOSES 
+OR000 
+The medical record documentation does not demonstrate the beneficiary is ambulatory 
+for a knee orthosis that is necessary due to knee instability.  Refer to Local Coverage 
+Determination L33318 and Policy Article A52465. 
+OR001 
+The medical record documentation does not demonstrate the beneficiary has weakness 
+or deformity of the knee. Refer to Local Coverage Determination L33318 and Policy 
+Article A52465. 
+OR002 
+The medical record documentation does not demonstrate the beneficiary requires 
+stabilization. Refer to Local Coverage Determination L33318 and Policy Article 
+A52465. 
+OR003 
+The medical record documentation does not demonstrate the beneficiary has flexion or 
+extension contractures of the knee with movement on passive range of motion testing 
+of at least 10 degrees. Refer to Local Coverage Determination L33318 and Policy 
+Article A52465.

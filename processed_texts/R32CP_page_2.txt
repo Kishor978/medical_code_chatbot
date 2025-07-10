@@ -1,0 +1,41 @@
+One-Time Notification 
+Pub. 100-04 Transmittal:  32 Date:  November 21, 2003 Change Request 2975 
+ 
+SUBJECT:  Remittance Advice Remark Code  and Claim Adjustment Reason Code 
+Update 
+I.   GENERAL INFORMATION 
+This one-time notification updates remark and reason codes for intermediaries, carriers and 
+durable medical equipment regional contractors (DMERCs). 
+A.  Background: This one-time notification updates remark and reason codes to be inserted 
+in the electronic and paper remittance advice by intermediaries, carriers and DMERCs. 
+X12N 835 Health Care Remittance Advice Remark Codes 
+The CMS is the national maintainer of the remittance advice remark code list that is one of 
+the code lists mentioned in ASC X12 transaction 835 (Health Care Claim Payment/Advice) 
+version 4010A1 Implementation Guide (IG).  Under the Health Insurance Portability and 
+Accountability Act (HIPAA), all payers, including Medicare, have to use reason and remark 
+codes approved by X12 recognized maintainers instead of proprietary codes to explain any 
+adjustment in the payment.  The CMS receives a significant number of requests for new 
+remark codes and modifications in existing remark codes from non-Medicare entities, and 
+these additions and modifications may not impact Medicare.  Traditionally, remark code 
+changes that impact Medicare are requested by Medicare staff in conjunction with a policy 
+change.  Contractors are notified of those new/modified codes in the corresponding 
+implementation instructions which implement the policy change, in addition to the regular 
+code update notification.  If a modification has been initiated by an entity other than 
+Medicare for a code currently used by Medicare, contractors must use the modified code 
+even though the modification was not initiated by Medicare.  If a new code is not initiated by 
+Medicare, contractors do not have to use it unless otherwise instructed by Medicare.  
+Contractors must stop using codes that have been deactivated on or before the effective date 
+specified in the comment section if they are currently being used.  The list posted on the two 
+Web sites also have the following codes deactivated without any replacement codes: M16, 
+MA116, and MA94. Research has revealed that these codes are still being used by Medicare 
+contractors, and will be re-activated in the next update.  These codes are not included in this 
+document, and contractors do not need to deactivate them. 
+The complete list of remark codes is available at: 
+http://ww.cms.hhs.gov/providers/edi/hipaadoc.asp 
+and  
+http://ww.wpc-edi.com/codes/Codes.asp 
+The list is updated 3 times a year – in the months following X12 trimester meetings.  By 
+January 1, 2004, you must have completed entry of all applicable code text changes, new 
+codes, and deactivation of codes that have been deactivated, for use in production, and to 
+make sure that you are using the latest approved remark codes as included in any CMS 
+instructions in your 835 version 4010A1 and subsequent versions, the corresponding standard

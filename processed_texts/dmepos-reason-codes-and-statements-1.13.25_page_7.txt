@@ -1,0 +1,50 @@
+Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) Reason Codes and 
+Statements  
+January 13, 2025 
+ 
+*Updated and/or new codes can be found in bold italic                                                                         7 
+ 
+PMD7S 
+The licensed/certified medical professional (LCMP) mobility examination does not 
+contain a date of service.  Refer to Local Coverage Determination 33789; Policy 
+Article A52498. 
+PMD7T The specialty evaluation does not include the treating physician/practitioner's 
+signature date.  Refer to Local Coverage Determination 33789 Policy Article A52498. 
+PMD7U 
+The licensed/certified medical professional (LCMP) mobility examination does not 
+include the date of concurrence. Refer to Local Coverage Determination 33789 Policy 
+Article A52498. 
+PMD7X The specialty evaluation contains conflicting information.  Refer to Local Coverage 
+Determination 33789; Policy Article A52498. 
+PMD7Y 
+The licensed/certified medical professional (LCMP) mobility examination has 
+been completed on a limited space template with insufficiently detailed or incomplete 
+narrative to support medical necessity from the physician/practitioner. Refer to 42 
+Code of Federal Regulations 410.38 (c) & Medicare Program Integrity Manual 
+3.3.2.1.1. 
+PM7AA 
+The specialty evaluation does not document the medical necessity for the power 
+mobility device and its special features. Refer to Local Coverage Determination 33789 
+Policy Article A52498. 
+PM7AB 
+The documentation does not include a specialty evaluation completed by the 
+licensed/certified medical professional (LCMP). Refer to Local Coverage 
+Determination 33789 Policy Article A52498. 
+PM7AC 
+The documentation does not include a mobility examination completed by the 
+licensed/certified medical professional (LCMP). Refer to Local Coverage 
+Determination 33789 Policy Article A52498. 
+PM7AD 
+The licensed/certified medical professional (LCMP) documentation contains 
+conflicting information. Refer to Local Coverage Determination 33789 Policy Article 
+A52498. 
+PM7AE 
+The specialty evaluation has been completed on a limited space template with 
+insufficiently detailed or incomplete narrative to support medical necessity from the 
+physician/practitioner. Refer to 42 Code of Federal Regulations 410.38 (c) & Medicare 
+Program Integrity Manual 3.3.2.1.1. 
+PMD7Z The licensed/certified medical professional (LCMP) (explain identified problem) 
+ 
+Reason 
+Code OTHER 
+PMD8A An affirmative decision was made on a previously submitted Prior Authorization

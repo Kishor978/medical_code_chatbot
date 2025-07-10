@@ -1,0 +1,60 @@
+eMDR Document Codes List (April 2024 Release) 
+Page 9 of 27 
+ 
+Document 
+Code 
+Document Description Action Release 
+100170 Documentation of plan for quality control for 
+electrocardiogram (ECG) surveillance 
+    
+100171 Documentation of plan to ensure uninterrupted 24/7 
+surveillance of beneficiaries 
+    
+100172 Beneficiary Care Instructions for a Hospice 
+Aide/Homemaker 
+    
+100173 Records of nursing, aide, home maker visits to support 
+times and dates billed 
+    
+100174 DME Information Form (DIF)     
+100175 DME Documentation of continued Need and Use     
+100176 Plan of Care/Updates and Interdisciplinary Team/Group 
+(IDG/IDT) notes with full list of participants and clear 
+distinction of professional disciplines to cover all days 
+in this billing period, which may include the latest 
+update prior to this billing period 
+Modified Apr 
+2024 
+100177 Sleep Oximetry Study Results     
+100178 Polysomnography Results     
+100179 Epworth Sleepiness Scale     
+100180 Download of Usage Data from PAP Device     
+100181 Documentation to support each of the Health Insurance 
+Prospective Payment System (HIPPS) code(s) billed 
+including the Minimum Data Set (MDS) 
+Documentation i.e. hardcopy version of each MDS 
+related to claim period under review (all 5-day 
+assessments); and documentation supporting the look 
+back period under review based on the Assessment 
+Reference Date (ARD)  
+Modified Apr 
+2024 
+100182 Documentation to support each of the look back periods 
+which may fall outside the billing period under review 
+    
+100183 Documentation up to 30 days prior to the first 
+assessment reference date 
+    
+100184 Date the beneficiary started therapy     
+100185 Photograph and/or detailed description of service     
+100186 Eye exams showing deterioration of visual acuity, 
+lesion progression and/or lesion growth not only the 
+OPT treatment notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+    
+100187 All Visual Field Testing     
+100188 Comprehensive preoperative ophthalmologic evaluation 
+including but not limited to: examination/testing, best 
+corrected Snellen visual acuity and corrected vision 
+with glasses or contacts 
+    
+100189 Documentation to support cataract removal

@@ -1,0 +1,57 @@
+services in a single APC on the line for the first listed service in that APC.  Since the 
+payment for the entire APC will be higher than for that procedure code alone, 
+Intermediaries must enter group code OA (other adjustment) and reason code 94 
+(processed in excess of charges) for the amount of the excess (difference between the 
+billed amount for the service and the allowed rate for the APC) as a negative amount to 
+enable the line and claim to balance.  They report the remaining procedures for that APC 
+on the following lines of the remittance advice with group code CO and reason code 97 
+(payment included in the allowance for another service/procedure) for each.  They repeat 
+the process if there are multiple APCs for the same claim. 
+For Home Health, there may be situations in which a beneficiary is under a home health 
+plan of care, but Common Working File (CWF) does not yet have a record of either a 
+request for anticipated payment or a home health claim for the episode of care.  To help 
+inform therapy providers that the services they performed may be subject to consolidated 
+billing, provide the following remark code on the remittance advice for the conditions 
+noted. 
+Remark 
+Code 
+Message Conditions for Use 
+N116 This payment is being made 
+conditionally because the service was 
+provided in the home, and it is 
+possible that the patient is under a 
+home health episode of care.  When a 
+patient is treated under a home health 
+episode of care, consolidated billing 
+requires that certain therapy services 
+and supplies, such as this, be included 
+in the home health agency's (HHA's) 
+payment.  This payment will need to 
+be recouped from you if we establish 
+that the patient is concurrently 
+receiving treatment under an HHA 
+episode of care. 
+Provide this message on a 
+remittance advice when CWF 
+indicates that the service is payable, 
+and all three of the following 
+conditions are true:  
+1.  The place of service is "12 
+home."  
+2.  The HCPCS code is a therapy 
+code subject to home health 
+consolidated billing (refer to the 
+most recent PM announcing affected 
+services and codes).   
+3.  The CWF has not returned a 
+message indicating the presence of a 
+request for anticipated payment 
+(RAP). 
+70.1- Scope of Remittance Changes for HH PPS 
+A3-3753 
+(Rev.) 
+Additional HH PPS changes in specific versions of the electronic remittance format are 
+presented in the next few subsections of this manual, and are additions to joint 
+requirements with OPPS in §70.  However, CMS will not make additional paper 
+ 
+77

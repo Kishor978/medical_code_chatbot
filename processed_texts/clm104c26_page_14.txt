@@ -1,0 +1,45 @@
+NOTE:  Effective May 23, 2008, all provider identifiers submitted on the CMS-1500 
+claim form MUST be in the form of an NPI. 
+ 
+Method II suppliers shall enter the most current HCT value for the injection of Aranesp 
+for ESRD beneficiaries on dialysis.  (See Pub. 100-04, chapter 8, section 60.7.2.) 
+ 
+Individuals and entities who bill A/B MACs (B) for administrations of ESAs or Part B 
+anti-anemia drugs not self-administered (other than ESAs) in the treatment of cancer 
+must enter the most current hemoglobin or hematocrit test results.  The test results shall 
+be entered as follows: TR= test results (backslash), R1=hemoglobin, or R2=hematocrit 
+(backslash), and the most current numeric test result figure up to 3 numerics and a 
+decimal point [xx.x]).  Example for hemoglobin tests: TR/R1/9.0, Example for 
+Hematocrit tests: TR/R2/27.0. 
+ 
+Item 20 - Complete this item when billing for diagnostic tests subject to the anti-markup 
+payment limitation.  Enter the acquisition price under charges if the "yes" block is 
+checked.  A "yes" check indicates that an entity other than the entity billing for the 
+service performed the diagnostic test.  A "no" check indicates "no anti-markup tests are 
+included on the claim."  When "yes" is annotated, item 32 shall be completed.  When 
+billing for multiple anti-markup tests, each test shall be submitted on a separate claim 
+form CMS-1500.  Multiple anti-markup tests may be submitted on the ASC X12 837 
+electronic format as long as appropriate line level information is submitted when services 
+are rendered at different service facility locations.  See chapter 1. 
+ 
+NOTE:  This is a required field when billing for diagnostic tests subject to the anti-
+markup payment limitation. 
+ 
+Item 21 - Enter the patient's diagnosis/condition.  With the exception of claims submitted 
+by ambulance suppliers (specialty type 59), all physician and nonphysician specialties 
+(i.e., PA, NP, CNS, CRNA) use diagnosis codes to the highest level of specificity for the 
+date of service.  Enter the diagnoses in priority order.  All narrative diagnoses for 
+nonphysician specialties shall be submitted on an attachment. 
+ 
+Reminder:  Do not report ICD-10-CM codes for claims with dates of service prior to 
+implementation of ICD-10-CM, on either the old or revised version of the CMS-1500 
+claim form. 
+ 
+For form version 08/05, report a valid ICD-9-CM code.  Enter up to four diagnosis codes. 
+ 
+For form version 02/12, it may be appropriate to report either ICD-9-CM or ICD-10-CM 
+codes depending upon the dates of service (i.e., according to the effective dates of the 
+given code set).  
+ 
+• The “ICD Indicator” identifies the ICD code set being reported.  Enter the 
+applicable ICD indicator according to the following:

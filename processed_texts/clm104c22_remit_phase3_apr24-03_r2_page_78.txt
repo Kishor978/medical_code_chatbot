@@ -1,0 +1,34 @@
+remittance format changes, 835 version 3051.4A.01 implementation guide changes, or 
+PC-Print changes for HH PPS. 
+All the statements below on home health billing apply only to type of bills submitted as 
+32x, which may be processed as 33x, or what was submitted prior to HH PPS on both 
+32x and 33x claims.  Type of bill is reported on form locator 4 on the Form CMS-1450 
+(UB-92) claim form. 
+70.2 - Payment Methodology of the HH PPS Remittance: HIPPS Codes 
+A3-3753 
+(Rev.) 
+HH PPS episode payment is represented by a HIPPS code on a claim or a Request for 
+Anticipated Payment (RAP).  As a general rule, the amount of the first payment for a 60-
+day HH PPS episode, made in response to a RAP submitted on a claim form and 
+processed like a claim, will be reversed and withheld from the full payment made for the 
+episode, in response to a claim, at the end of the 60 days.  Episodes of 4 or fewer visits 
+will be paid using standard per visit rates, rather than under HH PPS episode 
+methodology. 
+Two HIPPS can appear on a single line item.  This new feature is used for HH PPS when, 
+during processing, Medicare finds payment should have been made on a HIPPS other 
+than the one submitted by the provider.  Standard systems carry the corrected HIPPS in 
+the panel code field of the line item.  As noted below, the remittance carries both the 
+submitted and paid HIPPS. 
+70.3 - Items Not Included in HH PPS Episode Payment 
+A3-3753 
+(Rev.) 
+By law, durable medical equipment (DME) is not included in payment of home health 
+PPS episodes, though episodes are global payment for most other home health services 
+and items.  DME must be reported in a separate line/loop for the claim closing an 
+episode.  DME may not be included in the Request for Anticipated Payment (RAP) for an 
+episode.  DME will continue to be paid under the DME fee schedule as at present.  
+Intermediaries continue to pay osteoporosis drug, flu injection, vaccines or outpatient 
+benefits delivered by home health agencies, such as splints or casts, separately from 
+home health PPS as 34x type of bill claims. 
+ 
+78

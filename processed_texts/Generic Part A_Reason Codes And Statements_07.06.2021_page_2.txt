@@ -1,0 +1,53 @@
+Generic Part A Reason Codes and Statements 
+Updated July 6, 2021  
+ 
+2 
+ 
+GAI11 The submitted documentation was for the incorrect dates of service. Refer to 
+Medicare Program Integrity Manual IOM 100-08, Chapter 3, Sec 3.6.2.2. 
+GAI12 
+The documentation submitted did not include signed documentation to support 
+the medical necessity of the services provided. Refer to Social Security Act 
+1862(a)(1)(A); Medicare Program Integrity Manual IOM 100-08, Chapter 3, 
+Sec 3.3.2.4. 
+GAI14 The documentation submitted is for a Prior Authorization (PA) program that 
+excludes a Railroad Board (RRB) beneficiary. 
+  
+Reason 
+Code Medical Necessity 
+GAJ01 
+The submitted documentation does not support medical necessity as listed in 
+coverage requirements. Refer to: Social Security Act 1862(a)(1)(A); Medicare 
+Program Integrity Manual IOM 100-08, Chapter 3, Section 3.6.2.1, 3.6.2.2 & 
+Chapter 3, Section 3.4.1.3 
+GAJ02 Service provided is not a covered Medicare benefit. Refer to Social Security 
+Act 1862, 42 CFR 411.15 
+GAJ03 The documentation submitted supports the service rendered was for 
+provider/beneficiary comfort or convenience.  Refer to 42 CFR 411.15 (j) 
+GAJ04 The documentation submitted does not support the need for this many services 
+or items within this period of time.  Refer to Social Security Act 1862(a)(1)(A) 
+GAJ05 
+The documentation submitted does not support the ordered protocol was 
+followed. Refer to Social Security Act 1862 (a)(1)(A) and Medicare Program 
+Integrity Manual Chapter 3, Section 3.6.2.2, Medicare Claims Processing 
+Manual Chapter 30 Section 40 
+GAJ06 
+This claim has been denied because it does not support medical necessity as 
+outlined in the MAC's LCD.  Refer to Social Security Act 1862(a)(1)(A), 
+Internet-Only Manual, Pub 100-08, Medicare Program Integrity Manual, 
+Chapter 3, Section 3.6.2.1, 3.2.2.2. 
+  
+Reason 
+Code Billing/Coding 
+GAK02 
+This claim was recoded to reflect the level of services supported by the 
+documentation submitted.  Refer to Internet-Only Manual, Pub 100-08 
+Medicare Program Integrity Manual, Chapter 3, Section 3.6.2.4, Section 
+3.6.2.5, Pub 100-04, Medicare Claims Processing Manual, Chapter 23, 
+Pub100-08, Medicare Program Integrity Manual, Chapter 6, Section 6.5.3 
+(DRG validation)  
+GAK03 
+The documentation submitted supports this service is an integral part of 
+another service received on the same day and cannot be billed separately.  
+Refer to Internet-Only Manual, Pub 100-04, Medicare Claims Processing 
+Manual, Chapter 23, Section 20.9

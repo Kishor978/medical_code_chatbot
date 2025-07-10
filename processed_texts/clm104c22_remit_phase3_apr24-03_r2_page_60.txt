@@ -1,0 +1,43 @@
+Full Description 
+(In Order Of 
+Appearance) 
+SPR ID SPR Field Size 
+Characteristics 
+835 Location 
+Patient First Name  AN 01 2-030.A-NM104 
+Patient Mid.  Initial  AN 01 2-030.A-NM105 
+ 
+Health insurance claim 
+number 
+HIC# AN 19 2-030.A-NM109 
+ 
+Statement covers 
+period - start 
+FROM DT N MMDDCCYY 2-050.A-DTM02 
+ 
+Statement covers 
+period - end 
+THRU DT N MMDDCCYY  
+ 
+Claim status code CLM STATUS AN02 2-010-CLP02 
+ 
+Patient control # PATIENT CNTRL 
+# 
+AN 20 2-010-CLP01 
+Internal control # ICN AN 23 2-010-CLP07 
+ 
+Patient name change NACHG AN 02 2-030.A-NM101 if '74' 
+ 
+HIC change HICHG AN 01 2-030.A-NM108 if 'C' 
+ 
+Type of bill TO AN 03 2-010-CLP08 
+ 
+Cost report days COST N S9(3) 2-033-MIA15 
+ 
+Covered days/visits COVDY N S9(3) 2-064-QTY02 when 'CA' in prior 
+data element  
+ 
+Noncovered days NCOVDY N S9(3) 2-064-QTY02 when 'NA' in prior 
+data element
+ 
+60

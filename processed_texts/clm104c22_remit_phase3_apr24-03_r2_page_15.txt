@@ -1,0 +1,31 @@
+REF (120.A)  Situational.  Required for Medicare prior to the effective date of the 
+PlanID.  After that date, a Medicare payer may use at its option in addition 
+to the PlanID in the 060 REF. 
+REF01  Required.  Enter 2U; EO, HI, and NF do not apply to Medicare.  Mapped 
+to ff record 10, field 22. 
+REF02  Required.  Mapped to ff record 10, field 23. 
+REF03-04  Not used. 
+PER (130)  Situational, but will not be used by Medicare. 
+N1 (080.B)  Required to identify the payee. 
+N101  Required.  Mapped to ff record 15, field 13. 
+N102  Situational, but reporting of the payee’s name is required for Medicare 
+prior to the effective date of the NPI.  Mapped to ff record 15, field 14. 
+N103  Required.  Always enter “FI” until the NPI is effective.  After that date, 
+always enter “XX.” Mapped to ff record 15, field 15. 
+N104  Required.  Payee’s TIN for qualifier FI mapped to ff record 15, field 24.  
+NPI, when effective, mapped to ff record 15, field 16. 
+N105-106  Not used. 
+N3 (100.B)  Situational, but required for Medicare if data reported in the N1 segment 
+for this loop. 
+N301  Required.  Mapped to ff record 15, field 17. 
+N302  Situational, but required if this segment is used and there is a second payee 
+address line.  Mapped to ff record 15, field 18. 
+N4 (110.B)  Situational, but required for Medicare if data reported in the N1 segment 
+of this loop. 
+N401  Required.  Mapped to ff record 15, field 19. 
+N402  Required.  Mapped to ff record 15, field 20. 
+N403  Required.  Mapped to ff record 15, field 21. 
+N404  Situational.  Only required if the address is other than the U.  S.  Mapped 
+to ff record 15, field 22. 
+N405-406  Not used. 
+ 15

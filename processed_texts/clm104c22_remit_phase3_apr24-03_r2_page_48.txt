@@ -1,0 +1,19 @@
+NOTE:  Previously, CMS only required corrections to the "pay to" address.  However, 
+with the implementation of this new initiative, CMS requires corrections to all addresses 
+before the contractor can remove the DNF flag and begin paying the provider or supplier 
+again.  Therefore, do not release any payments to DNF providers until the provider 
+enrollment area or the NSC has verified and updated all addresses for that provider's 
+location. 
+Contractors must initially publish the requirement that providers must notify the 
+intermediary and carrier or NSC of any changes of address, both on their Web sites and 
+in their next regularly scheduled bulletins.  Contractors must continue to remind suppliers 
+and providers of this requirement in their bulletins at least yearly thereafter. 
+See Chapter 1, §80.5, for additional information pertaining to the DNF initiative. 
+50.2 - SPR Formats 
+A3-3754 
+(Rev.) 
+The following sections contain the separate carrier/DMERC and intermediary SPR 
+formats.  These are the general formats.  The actual SPRs may contain additional (or 
+fewer) lines, i.e., the contractor may need to add a line for additional reason code(s) after 
+first reason code line. 
+ 48

@@ -1,0 +1,50 @@
+Ambulance Transport Reason Codes and Statements  
+Updated on May 19, 2023 
+ 
+4 
+ 
+AMB3C 
+The documentation supports the beneficiary was pronounced dead after dispatch and 
+before being loaded onboard the ambulance, therefore mileage is denied. Refer to 
+Internet Only Manual (IOM), Publication 100-02, Medicare Benefit Policy, Manual, 
+Chapter 10, Section 10.2.6, 10.4.9.  
+   
+Reason 
+Code HOSPICE 
+AMB2M 
+The documentation supports the reason for transport was related to the diagnosis for 
+which the beneficiary is receiving hospice services.  The ambulance service may be 
+covered by the Hospice provider.  Please submit to the Hospice provider. Refer to 
+SSA 1861 Part E (dd)(1), Internet Only Manual (IOM), Publication 100-02, Chapter 
+9, Section 40.1.9.  
+   
+Reason 
+Code INCORRECT CODING 
+AMB8A Ambulance claim(s) submitted without valid modifier(s). Refer to Medicare Claims 
+Processing Manual Ch 15, Section 30A.  
+AMB8B Billing provider does not match the rendering provider documented in the medical 
+records. 
+AMB8C Ambulance claim(s) submitted with invalid modifier(s) combination.  Refer to 
+Medicare Claims Processing Manual Ch 15, Section 30A.  
+AMB8Z Incorrect coding (explain identified problem)  
+  
+Reason 
+Code INSUFFICIENT DOCUMENTATION  
+AMB1A 
+The documentation did not contain the ambulance run sheet/trip record.  Refer to 42 
+CFR §410.40 (e), Internet Only Manual (IOM), Publication 100-02, Medicare Benefit 
+Policy Manual, Chapter 10, Section 10.2.4, 10.4.7, Internet Only Manual (IOM), 
+Publication 100-04, Medicare Claims Processing Manual, Chapter 15, Section 20.5.  
+AMB1B Patient record submitted does not match patient billed on ambulance claim. 
+AMB1C 
+The origin and destination modifiers billed on the claim do not match the origin and 
+destination modifiers documented on the ambulance run sheet/trip record. Refer to 42 
+CFR §410.40 (e), Internet Only Manual (IOM), Publication 100-0 4, Chapter 15, 
+Section 30. 
+AMB1D The service billed was not documented in the patient medical record for this 
+ambulance transport. 
+AMB1E Dispatch status to support service billed was not documented in patient medical record 
+for this service. 
+AMB1H The service is denied as the beneficiary refused to sign for the transport or consent.  
+AMB1Z Insufficient Documentation (explain identified problem)  
+AMB1X No documentation received
